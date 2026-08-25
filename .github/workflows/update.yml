@@ -1,0 +1,63 @@
+name: Deploy Product Radar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      # 数据里的时间戳都是北京时间，runner 默认 UTC，差 8 小时。
+      # 现在这个 workflow 只拷产物、不生成，所以还影响不到页面内容；
+      # 等产物生成挪进 CI（PROPOSAL-artifacts-out-of-git.md）就会影响 ——
+      # 提前设好，免得迁移时漏掉，那会让「数据新鲜度」卡永远显示「刚刚」。
+      TZ: Asia/Shanghai
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      # 补货页由仓库外的项目生成，会带毛利率/销量等敏感字段。
+      # 在拷进 deploy/ 之前拦一道：有人直接提交了未脱敏的文件，
+      # 这里会红，而不是静默上线。修法是本地跑
+      # `python3 desensitize_analysis.py` 后重新提交。
+      - name: Check restock pages are desensitized
+        run: python3 desensitize_analysis.py --check
+
+      - name: Prepare deployment
+        run: |
+          # Create deploy directory
+          mkdir -p deploy/data/channels
+
+          # Copy output files
+          cp -r output/* deploy/
+          
+          # Copy shared design system
+          if [ -d shared ]; then
+            cp -r shared deploy/shared
+          fi
+
+          # Copy portal assets (JS/CSS extracted out of the generators).
+          # Source of truth is assets/ at repo root; output/assets/ is only a
+          # local mirror for the github_api_push.py path and is gitignored.
+          if [ -d assets ]; then
+            mkdir -p deploy/assets
+            cp -r assets/* deploy/assets/
+          fi
+          
+          # Copy data files for date picker
+          cp data/channels/*.json deploy/data/channels/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: deploy
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
