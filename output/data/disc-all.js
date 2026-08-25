@@ -1,0 +1,1 @@
+window.DISC_ALL = {};
