@@ -53,7 +53,9 @@ jobs:
           fi
           
           # Copy data files for date picker
-          cp data/channels/*.json deploy/data/channels/
+          # AU: data/channels/ 被 .gitignore 排除（扫描数据只走 API 增量推送，
+          # 不入 git）。CI 里没有这个目录，cp 会红。有则拷，无则跳过。
+          cp data/channels/*.json deploy/data/channels/ 2>/dev/null || echo "  ℹ️ data/channels/ 不在 git 中（API增量推送），跳过"
 
       - uses: actions/upload-pages-artifact@v3
         with:
