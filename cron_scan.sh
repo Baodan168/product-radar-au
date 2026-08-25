@@ -97,7 +97,12 @@ pathlib.Path(out).write_text(json.dumps({
 PY
 }
 
-{
+# 主逻辑跑在子 Shell ( ) 里，而不是组 { }：
+# 组内任何裸 `exit 1` 会退出整个脚本，直接绕过末尾的
+# `> "$LOG" 2>&1 || { write_status false; ... }` 错误处理器 ——
+# 2026-08-26 实测：扫描失败后 last_run.json 不落盘、cron 收不到失败摘要，
+# 监控完全失明。子 Shell 里 exit 只退出子 Shell，退出码冒泡给 || 处理器。
+(
 echo "🔍 选品雷达自动扫描 | $(date '+%Y-%m-%d %H:%M')"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
@@ -203,7 +208,7 @@ fi
 echo ""
 echo "✅ 部署完成：https://Baodan168.github.io/product-radar-au/platform.html"
 
-} > "$LOG" 2>&1 || {
+) > "$LOG" 2>&1 || {
     # On failure, output error for cron alert
     write_status false
     echo "❌ 选品雷达扫描失败 | $(date '+%Y-%m-%d %H:%M')"
