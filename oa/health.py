@@ -58,7 +58,10 @@ def _latest_scan_date(subdir: str, pattern: str):
         return None
     newest = None
     for f in sorted(d.glob(pattern)):
-        if '-rejected' in f.name or '-trends' in f.name or '-raw' in f.name:
+        if '-rejected' in f.name or '-trends' in f.name or '-raw' in f.name \
+                or f.name.startswith('bsr'):
+            # bsr_data.json 是 BSR 原始数组(2026-08-26)：不是扫描结果，
+            # 套 dict.get() 会 AttributeError 炸掉整个门户生成。
             continue
         stamp = None
         try:
