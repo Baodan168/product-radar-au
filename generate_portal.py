@@ -103,6 +103,9 @@ def build_html():
         nav_items=build_nav(),
         dashboard_html=build_dashboard_html(),
         portal_config=render.js(portal_config(built_at)),
+        # 主题CSS走绝对URL：AU是嵌套布局（页面在/output/下），相对路径会解析成
+        # /output/shared/… 导致404裸文字。site_base=https://Baodan168.github.io/product-radar-au
+        site_base=render.attr(config.SITE_BASE),
         # 资源版本号用构建时间，改完样式/脚本不用手动 bump 也能穿透 CDN
         asset_version=now.strftime('%Y%m%d%H%M'),
     )

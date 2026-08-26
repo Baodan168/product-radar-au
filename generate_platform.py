@@ -17,6 +17,7 @@ from success_tracker import calculate_metrics
 from platform_search import build_search_index
 from festival_engine import load_festivals, generate_festival_html
 from oa import render
+from oa.config import SITE_BASE as _SITE_BASE
 
 BASE = Path(__file__).parent
 
@@ -349,6 +350,8 @@ def generate_platform_html(radar_all=None, discovery_all=None, output_path=None)
         festival_count=festival_count,
         festival_html=festival_html,
         platform_data=render.js(platform_data),
+        # 主题CSS走绝对URL（同 generate_portal，嵌套布局下相对路径会404）
+        site_base=render.attr(_SITE_BASE),
         asset_version=now.strftime('%Y%m%d%H%M'),
     )
 
