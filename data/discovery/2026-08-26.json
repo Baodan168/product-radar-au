@@ -1,9 +1,9 @@
 {
   "date": "2026-08-26",
-  "updated_at": "2026-08-26T09:05:00+08:00",
+  "updated_at": "2026-08-26T11:31:13+08:00",
   "scan_date": "2026-08-26",
-  "scan_time": "09:05",
-  "summary": "今日2个高质量推荐（AU发现任务首期跑通，宁缺毋滥）：①BBQ特氟龙烤垫3片装——澳洲春季烧烤季9-12月持续走强，AU站头部竞品仅1条评论供给未固化，1688低至¥1.5-2.67/片；②迷你宠物除毛滚筒——ChomChom全球20万+评论验证品类、澳洲9-10月换毛高峰正当时、AU本土AussieFy 1103条评价证明需求。主动淘汰：satin无热卷发器（美发大类红线）、玻璃过夜燕麦罐（易碎+超重不适合空运）、全尺寸除毛滚筒（约300g超出200g限制）、微纤维洗车布（红海价格战）、咖啡因眼贴与凝胶冰帽（护肤红线+凝胶空运风险）。注意：9月6日父亲节空运已赶不上（今天8/26+生产+空运7-12天），BBQ垫按春秋季长线布局，父亲节仅为潜在加分项。",
+  "scan_time": "11:31",
+  "summary": "今日3个高质量推荐（含上午2品+本轮新增1品，宁缺毋滥）：①BBQ特氟龙烤垫3片装——澳洲春季烧烤季9-12月走强、AU站头部仅1条评论供给未固化、1688低至¥1.5-2.67/片；②迷你宠物除毛滚筒——ChomChom全球20万+评论验证品类、澳洲9-10月换毛高峰正当时、AU本土AussieFy 1103条评价证明需求；③瑞典洗碗布6片装——AU春季大扫除季(9月1日始)启动+CleanTok 'closing shift'复用清洁风+AU站生态厨房中端真空(A$17.99/6片，毛利率33.3%)，是今日新增。主动淘汰：satin无热卷发器（美妆红线）、玻璃过夜燕麦罐（易碎超重）、全尺寸除毛滚筒（超200g）、微纤维洗车布与复用果蔬袋（Temu红海价格战）、羊毛烘干球（AU Best Sellers已满屏供给饱和）、Kmart水波纹/大理石/Jellyfish灯与投影仪（全部电子红线）。注意：9月6日父亲节空运已赶不上（今天8/26+生产+空运7-12天），BBQ垫与瑞典洗碗布均按春季长线布局。",
   "insights": [
     {
       "keyword": "bbq grill mat non-stick reusable teflon barbecue baking mat set for gas charcoal grill",
@@ -58,7 +58,34 @@
         "gap_level": "中竞争中的结构性空档：一次性粘纸款红海避开，全尺寸被高价ChomChom占据，迷你可复用款是无人区；换毛季提供天然流量红利",
         "profit_window": "迷你款售价A$15.99：1688采购¥8≈A$1.75（按ChomChom式滚筒中位估价，需询价锁定），GST≈A$1.45，佣金≈A$2.15（家居类目估算，宠物类目或更低则利润更好），FBA A$4.2，空运头程≈A$1.0，净利≈A$5.44，毛利率≈34%（利润为估算值，以calc_profit.py复核为准）"
       }
+    },
+    {
+      "keyword": "reusable swedish dishcloth eco compostable cellulose cleaning cloths for kitchen bathroom set of 6",
+      "keyword_cn": "瑞典洗碗布 可重复使用 可堆肥 植物纤维素清洁布 6片装 厨房浴室玻璃无痕 替代厨房纸",
+      "amazon_keyword": "swedish dishcloth, reusable cleaning cloths, compostable dishcloth, cellulose sponge cloth, eco kitchen cloth, paper towel alternative, dishcloth australia, reusable sponge cloth set",
+      "search_1688": "瑞典洗碗布 纤维素 木浆棉 洗碗布 可降解 出口 亚马逊 跨境 批发",
+      "demand_signals": [
+        "澳洲春季大扫除季9月1日正式开启——AU春季(9-11月)清洁指南把'换成可复用/环保清洁用品'列为春季整理第一步；CleanTok'closing shift cleaning'晚间复位趋势在澳区持续走红，主打'减少纸巾浪费'的复用布是核心道具（来源：aussieherald.com.au澳洲春季大扫除清单2026 / cleanhq.com.au closing shift趋势 2026-05）",
+        "Amazon AU供给未固化——AU站'swedish dishcloth'头部listing多为个位数评价（Ultimate Eco 5片装A$28.90仅3条评价）；澳洲本土环保品牌（Biome 5片A$24.45/270评、Fayded 2片A$9.95）主要做独立站D2C而非Amazon，留下A$13-20中端真空带（来源：amazon.com.au B0DTPX4WJL / biome.com.au / fayded.com.au 2026-08检索）",
+        "全球品类教育已完成——美国市场瑞典洗碗布已是大品类（Swedish Wholesale 10片装55,117条评价、Skoy 15,000+条4.7星、America's Test Kitchen推荐），'一片布替代17卷厨房纸'的价值主张成熟，澳洲消费者认知成本低（来源：reviewmeta.com / sustainablekitchenexpert.com 2026）",
+        "澳洲零废弃文化接受度高——Biome、Go For Zero、The Bin Chicken等澳洲本土环保零售全部在售瑞典洗碗布，100%可堆肥+无塑料与澳洲减塑文化高度契合，环保卖点可直接打（来源：biome.com.au / goforzero.com.au / thebinchicken.au）",
+        "1688供应链成本极低——70%木浆纤维+30%棉的瑞典洗碗布约¥0.8-1.5/片，6片装约¥6-9，可定制印花（澳式动物/花卉图案差异化），跨境专供成熟（来源：1688/chinagoods检索 2026-08）"
+      ],
+      "trend_score": 68,
+      "trend_direction": "rising",
+      "reason": "瑞典洗碗布是'澳洲春季大扫除季启动+CleanTok复用清洁风+AU站生态厨房中端真空'的叠加机会。关键时间判断：AU春季9月1日才刚开启，春季大扫除(9-11月)需求跑道长，现在上架2周内即可赶上季中——比赶父亲节更从容。竞争结构清晰：澳洲本土环保品牌（Biome/Fayded/Go For Zero）主攻独立站高价带(A$24-35)，Amazon AU侧供给稀薄且头部仅个位数评论，A$13-20中端多片装是无人区。完全合规：纤维素+棉织物，无电子/电池/液体/膏体，单片仅10-15g，6片装含包装约120g轻松卡进≤200g空运线。",
+      "action": "定位：6片装A$17.99（对比AU站5片A$28.9高价带与Temu廉价单片之间的中端空档），可升级'6布+1竹木刷'零废弃厨房套组A$19.99提升客单。1688搜索'瑞典洗碗布 纤维素 木浆棉 出口'，要求70%纤维素+30%棉配方、吸水20倍、可机洗200次；差异化：澳洲设计印花（考拉/袋鼠/花卉）+可堆肥牛皮纸包装+挂孔设计。首批300-500套空运测款。Listing主打'replace 17 rolls of paper towel / 100% compostable / streak-free on glass'三大卖点，关键词埋伏'closing shift cleaning''zero waste kitchen'。注意：确认无塑料基染料、提供FSC纤维素认证背书（澳区环保消费者在意）。",
+      "competition": "中竞争（生态常青品类：澳洲本地环保D2C品牌在独立站高价带(A$24-35/5片)建立认知但未在Amazon AU铺开，AU站头部listing仅个位数评价无评论护城河；Temu以廉价单片打价格战但缺品质/环保背书）。差评核心concern（参考US Skoy/Swedish Wholesale提炼）：'smells after a few uses'（用几次后发臭——需快速晾干/挂孔设计）、'not absorbent enough'（吸水性不足——需确认纤维素密度）、'pills/tears after washing'（洗涤后起球破损——需棉含量≥30%增韧）。选品寄样做吸水倍率+机洗20次耐久双测试。",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 64,
+        "profit": 80,
+        "final": 70,
+        "recommendation": "BUY",
+        "gap_level": "中竞争中的结构空档：AU本地环保品牌独占独立站高价带、Amazon AU中端多片装供给稀薄；春季大扫除提供季节性流量红利",
+        "profit_window": "6片装A$17.99：1688采购¥7≈A$1.5，GST≈A$1.8，佣金13%（Home/Kitchen）≈A$2.34，FBA A$4.2，广告≈A$1.8，退货≈A$0.36，净利≈A$5.99，毛利率≈33.3%（calc_profit.py实测）。若做6布+1刷套组A$19.99（采购¥11≈A$2.4）毛利率≈33%"
+      }
     }
   ],
-  "trend_forecast": "未来3周（2026年8月26日至9月16日）需求窗口与操作节点：\n\n①【春季换毛高峰 — 宠物除毛工具】澳洲9-10月猫狗褪冬毛，除毛滚筒/梳子进入年度需求峰值区。迷你除毛滚筒空运2周内可上架赶上季中，推荐★★★★。\n\n②【父亲节9月6日 — 本年已错过】今天8/26距父亲节11天，空运（7-12天）+亚马逊入仓时效大概率错过送礼高峰，不建议为该节点紧急补货。BBQ烤垫按春秋季长线布局（9-12月烧烤季+圣诞礼品季），10月前上架即可吃到完整旺季，父亲节流量若赶上算加分。\n\n③【下一节点预埋 — 圣诞=盛夏海滩/BBQ】南半球圣诞是海滩+后院BBQ场景（非冬季室内），BBQ烤垫、户外用品10月起进入备货决策窗口；Back to School（Term 1）2027年1月底文具窗口12月中旬开始铺货。EOFY大促下一个出现于2027年6月。\n\n④【市场预期管理】澳洲容量约为英国1/10，本期只产出2个高置信推荐属正常水平；发现任务后续每个工作日运行，随扫描数据积累会逐步校准品类覆盖。"
+  "trend_forecast": "未来3周（2026年8月26日至9月16日）需求窗口与操作节点：\n\n①【春季换毛高峰 — 宠物除毛工具】澳洲9-10月猫狗褪冬毛，除毛滚筒/梳子进入年度需求峰值区。迷你除毛滚筒空运2周内可上架赶上季中，推荐★★★★。\n\n②【春季大扫除季启动 — 瑞典洗碗布/环保清洁】AU春季大扫除9月1日正式开启，CleanTok'closing shift'复用清洁趋势持续发酵；瑞典洗碗布6片装A$17.99（毛利率33.3%）与烧烤垫同走春秋季长线（9-11月）。空运2-3周内架，推荐★★★★。\n\n③【父亲节9月6日 — 本年已错过】今天8/26距父亲节11天，空运（7-12天）+亚马逊入仓时效大概率错过送礼高峰，不建议为该节点紧急补货。BBQ烤垫与瑞典洗碗布均按春秋季长线布局，父亲节流量若赶上算加分。\n\n④【下一节点预埋 — 圣诞=盛夏海滩/BBQ】南半球圣诞是海滩+后院BBQ场景（非冬季室内），BBQ烤垫、户外用品10月起进入备货决策窗口；Back to School（Term 1）2027年1月底文具窗口12月中旬开始铺货。EOFY大促下一个出现于2027年6月。\n\n⑤【市场预期管理】澳洲容量约为英国1/10，本期3个高置信推荐属正常水平；发现任务后续每个工作日运行，随扫描数据积累会逐步校准品类覆盖。"
 }
