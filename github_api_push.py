@@ -158,6 +158,8 @@ if __name__ == '__main__':
     # 门户壳的 JS 从内联抽到了 output/assets/，漏推的话线上门户会白屏
     for f in ('output/platform.html', 'output/index.html', 'output/assets/portal.js',
               'output/data/radar-all.js', 'output/data/disc-all.js', 'output/data/festivals.js', 'status.json',
+              # 2026-08-26: 根 index.html 短链跳转到 output/platform.html（Pages 根路径 404 问题）
+              'index.html',
               # ⚠️ 2026-08-03: platform.html 模板引用 assets/platform.js（仓库根路径），
               # 但此前只推 output/assets/ → 线上顶层 platform.js 一直是旧版（雷达tab空白根因之一）。
               # 顶层 assets/ 必须同步，模板引用才会命中新版。
