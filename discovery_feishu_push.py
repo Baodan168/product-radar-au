@@ -14,7 +14,8 @@ RADAR_DIR = Path(__file__).parent
 
 def find_latest_discovery():
     discovery_dir = RADAR_DIR / "data" / "discovery"
-    files = sorted(discovery_dir.glob("*.json"))
+    # 排除 seasonal_keywords.json（季节提醒任务产物），与 keyword_scanner.py 对齐
+    files = sorted(f for f in discovery_dir.glob("*.json") if "seasonal" not in f.name)
     if not files:
         print("❌ 无发现数据")
         sys.exit(1)
