@@ -61,9 +61,13 @@ def generate_report_md(data, date_str):
 
 def generate_summary_json(data, date_str):
     insights = data.get("insights", [])
-    
+
+    # 综合评分区间（取实际值，避免硬编码过期）
+    finals = [i.get('signal_scores', {}).get('final', 0) for i in insights if i.get('signal_scores')]
+    score_range = f"{min(finals):.0f}-{max(finals):.0f}" if finals else "N/A"
+
     content_blocks = []
-    content_blocks.append([{"tag": "text", "text": f"发现 {len(insights)} 个选品机会 | 综合评分 68-72"}])
+    content_blocks.append([{"tag": "text", "text": f"发现 {len(insights)} 个选品机会 | 综合评分 {score_range}"}])
     content_blocks.append([{"tag": "text", "text": ""}])
     
     for i, insight in enumerate(insights[:3], 1):

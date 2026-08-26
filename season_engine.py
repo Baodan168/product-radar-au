@@ -30,141 +30,83 @@ CONFIG = json.loads((BASE / "config.json").read_text())
 
 
 def _build_event_date(event, reference_year):
-    """Build a datetime for the event in the reference year.
-    
-    For events that have passed this year, rolls to next year.
-    """
-    month = event["month"]
-    day = event["day"]
-
-    # Handle month overflow (e.g., month=13 for events that need next-year wrap)
-    try:
-        dt = datetime(reference_year, month, day)
-    except ValueError:
-        # Invalid day (e.g., Feb 30), fall back to last day of month
-        if month == 2:
-            dt = datetime(reference_year, 2, 28)
-        elif month in (4, 6, 9, 11):
-            dt = datetime(reference_year, month, 30)
-        else:
-            dt = datetime(reference_year, month, 31)
-
-    return dt
+    """[已废弃] 旧内联事件表辅助函数。表已移除，保留空实现仅为兼容历史引用。"""
+    raise NotImplementedError("AU_EVENTS 表已移除，节日数据统一由 festival_engine 提供")
 
 
 def get_upcoming_events(days_ahead=90):
     """Get upcoming AU seasonal events within the specified window.
 
+    数据统一来自 festival_engine（data/au_festivals_data.js），输出 schema 与旧版一致：
+    event_name/date/days_until/recommended_categories/sourcing_deadline_{air,rail,sea}/
+    sourcing_urgency(OK|URGENT|AIR_ONLY|RAIL_OR_AIR|OVERDUE)/notes
+
     Args:
         days_ahead: how many days ahead to look (default 90)
 
     Returns:
-        list of dicts: [{
-            event_name, date, days_until, recommended_categories,
-            sourcing_deadline_air, sourcing_deadline_sea, notes
-        }]
+        list of dicts 按 days_until 升序
     """
     today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     cutoff = today + timedelta(days=days_ahead)
 
-    upcoming = []
-
-    for event in AU_EVENTS:
-        # Try current year, then next year
-        for year_offset in range(2):
-            event_date = _build_event_date(event, today.year + year_offset)
-
-            if event_date < today:
-                continue
-            if event_date > cutoff:
-                break
-
-            days_until = (event_date - today).days
-
-            # Sourcing deadlines (aligned with uk-festival-planner + festival_engine.py)
-            # Air: production(3)+transit(13)=16d, Truck: 3+30=33d, Sea: 3+60=63d
-            # Buffer: +14d (FBA receiving + safety)
-            air_deadline = event_date - timedelta(days=16 + 14)
-            rail_deadline = event_date - timedelta(days=33 + 14)
-            sea_deadline = event_date - timedelta(days=63 + 14)
-
-            # Status — best available option
-            if air_deadline < today:
-                sourcing_urgency = "OVERDUE"  # All options expired
-            elif rail_deadline < today:
-                sourcing_urgency = "AIR_ONLY"  # Only air freight viable
-            elif sea_deadline < today:
-                sourcing_urgency = "RAIL_OR_AIR"  # Sea missed, rail still OK
-            elif (air_deadline - today).days <= 7:
-                sourcing_urgency = "URGENT"  # Air deadline approaching
-            else:
-                sourcing_urgency = "OK"
-
-            upcoming.append({
-                "event_name": event["event_name"],
-                "date": event_date.strftime("%Y-%m-%d"),
-                "days_until": days_until,
-                "recommended_categories": event["recommended_categories"],
-                "sourcing_deadline_air": air_deadline.strftime("%Y-%m-%d"),
-                "sourcing_deadline_rail": rail_deadline.strftime("%Y-%m-%d"),
-                "sourcing_deadline_sea": sea_deadline.strftime("%Y-%m-%d"),
-                "sourcing_urgency": sourcing_urgency,
-                "notes": event.get("notes", ""),
-            })
-            break  # Don't add the same event for next year
-
-    upcoming.sort(key=lambda x: x["days_until"])
-    
-    # Merge Festival Planner events (primary source, more complete)
     try:
         from festival_engine import load_festivals, get_deadlines
         festivals = load_festivals()
-        existing_dates = {(e["date"], e["event_name"]) for e in upcoming}
-        
-        for f in festivals:
-            f_date_str = f.get("date", "")
-            if not f_date_str:
-                continue
-            f_date = datetime.strptime(f_date_str, "%Y-%m-%d")
-            if f_date < today or f_date > cutoff:
-                continue
-            
-            # Skip if already in upcoming (from UK_EVENTS)
-            if (f_date_str, f.get("name", "")) in existing_dates:
-                continue
-            
-            deadlines = get_deadlines(f)
-            days_until = (f_date - today).days
-            
-            # Determine urgency from sea deadline
-            sea_days = deadlines.get("sea", {}).get("days_from_today", 999)
-            if sea_days < 0:
-                sourcing_urgency = "OVERDUE"
-            elif sea_days <= 7:
-                sourcing_urgency = "URGENT"
-            else:
-                sourcing_urgency = "OK"
-            
-            upcoming.append({
-                "event_name": f"{f.get('icon', '📅')} {f.get('name', '')}",
-                "date": f_date_str,
-                "days_until": days_until,
-                "recommended_categories": [p.get("category", "") for p in f.get("products", [])[:3]],
-                "sourcing_deadline_air": deadlines.get("air", {}).get("date", ""),
-                "sourcing_deadline_rail": deadlines.get("truck", {}).get("date", ""),
-                "sourcing_deadline_sea": deadlines.get("sea", {}).get("date", ""),
-                "sourcing_urgency": sourcing_urgency,
-                "notes": f"Importance: {f.get('importance', 'B')} | {len(f.get('products', []))} SKUs",
-                "source": "festival_planner",
-            })
-        
-        upcoming.sort(key=lambda x: x["days_until"])
     except Exception as e:
-        print(f"  ⚠️ Festival Planner merge failed: {e}", file=sys.stderr)
-    
-    # AU_EVENTS 表已移除 — 统一由 `festival_engine` 管理的 `data/au_festivals_data.js` 提供完整节日数据。
-    # 如需查看事件列表，运行 `python3 -c "from festival_engine import load_festivals; import json; print(json.dumps(load_festivals(), indent=2, ensure_ascii=False))"`
-    return []  # get_upcoming_events() now delegated to festival_engine; this block is kept for compatibility but unused
+        print(f"  ⚠️ festival_engine load failed: {e}", file=sys.stderr)
+        return []
+
+    if not festivals:
+        # load_festivals 返回空列表 = 所有数据源都读不到（见其 docstring），不能当作「没有节日」
+        print("  ⚠️ 无可用节日数据源", file=sys.stderr)
+        return []
+
+    upcoming = []
+    for f in festivals:
+        f_date_str = f.get("date", "")
+        if not f_date_str:
+            continue
+        try:
+            f_date = datetime.strptime(f_date_str, "%Y-%m-%d")
+        except ValueError:
+            continue
+        if f_date < today or f_date > cutoff:
+            continue
+
+        deadlines = get_deadlines(f)
+        days_until = (f_date - today).days
+
+        air_days = deadlines.get("air", {}).get("days_from_today", 999)
+        rail_days = deadlines.get("truck", {}).get("days_from_today", 999)
+        sea_days = deadlines.get("sea", {}).get("days_from_today", 999)
+
+        # Status — best available option（与旧版内联表逻辑一致）
+        if air_days < 0:
+            sourcing_urgency = "OVERDUE"      # 全部方式过期
+        elif rail_days < 0:
+            sourcing_urgency = "AIR_ONLY"     # 仅剩空运
+        elif sea_days < 0:
+            sourcing_urgency = "RAIL_OR_AIR"  # 海运过期
+        elif air_days <= 7:
+            sourcing_urgency = "URGENT"       # 空运截止临近
+        else:
+            sourcing_urgency = "OK"
+
+        upcoming.append({
+            "event_name": f"{f.get('icon', '📅')} {f.get('name', '')}".strip(),
+            "date": f_date_str,
+            "days_until": days_until,
+            "recommended_categories": [p.get("category", "") for p in f.get("products", [])[:4]],
+            "sourcing_deadline_air": deadlines.get("air", {}).get("date", ""),
+            "sourcing_deadline_rail": deadlines.get("truck", {}).get("date", ""),
+            "sourcing_deadline_sea": deadlines.get("sea", {}).get("date", ""),
+            "sourcing_urgency": sourcing_urgency,
+            "notes": f"Importance: {f.get('importance', 'B')} | {len(f.get('products', []))} SKUs",
+        })
+
+    upcoming.sort(key=lambda x: x["days_until"])
+    return upcoming
 
 
 def get_seasonal_keywords():
@@ -176,35 +118,34 @@ def get_seasonal_keywords():
     today = datetime.now()
     month = today.month
 
-    # Seasonal keyword map
+    # Seasonal keyword map — 南半球季节 ⭐️ 澳洲：12-2月夏 / 3-5月秋 / 6-8月冬 / 9-11月春
+    # 父亲节9月(第一个周日)、母亲节5月、Back to School 1月底(Term 1)、圣诞=盛夏海滩BBQ、EOFY 6月30
+    # 关键词提前量对齐空运截止（节日前~45天开始扫描相关品类）
     seasonal = {
-        1: ["storage organiser", "desk accessories", "meal prep containers",
-            "cleaning tools", "kitchen gadgets new year"],
-        2: ["valentine gift ideas", "romantic gift", "travel accessories",
-            "decorative items", "gift packaging"],
-        3: ["spring cleaning tools", "garden tools", "kitchen gadgets",
-            "home decor", "storage solutions", "mothers day gift"],
-        4: ["garden accessories", "easter decoration", "outdoor tools",
-            "kitchen gadgets", "party supplies", "cleaning supplies"],
-        5: ["garden tools", "BBQ accessories", "garden decor",
-            "plant pots", "picnic items", "outdoor cushions"],
-        6: ["travel accessories", "car cleaning", "outdoor gadgets",
-            "water bottle", "picnic set", "camping accessories",
-            "fathers day gift"],
-        7: ["outdoor accessories", "BBQ tools", "travel gadgets",
-            "car accessories", "camping gear", "beach accessories",
-            "prime day deals"],
-        8: ["travel accessories", "back to school stationery", "lunch box",
-            "desk organiser", "storage", "outdoor cooling"],
-        9: ["kitchen gadgets", "autumn decor", "desk accessories",
-            "storage organiser", "candles", "university essentials"],
-        10: ["halloween decoration", "autumn garden tools", "party supplies",
-             "candles", "bird feeder", "bird accessories"],
-        11: ["christmas decoration", "gift ideas", "tinsel garlands",
-             "party supplies", "kitchen gadgets", "blanket throw",
-             "black friday deals"],
-        12: ["christmas gifts", "party supplies", "storage organiser",
-             "kitchen gadgets", "travel accessories", "home decor"],
+        1: ["back to school stationery", "lunch box", "desk organiser",
+            "beach accessories", "summer toys"],
+        2: ["valentine gift ideas", "romantic gift", "beach accessories",
+            "outdoor water play", "summer picnic"],
+        3: ["easter decoration", "autumn garden tools", "party supplies",
+            "home decor", "kitchen gadgets"],
+        4: ["autumn decor", "garden accessories", "easter decoration",
+            "warm home textiles", "cleaning supplies"],
+        5: ["mothers day gift", "autumn garden tools", "winter warmers",
+            "candles", "home comfort"],
+        6: ["winter warmers", "blanket throw", "indoor games",
+            "hot water bottle cover", "eofy storage solutions"],
+        7: ["fathers day gift", "winter indoor activities",
+            "school holiday toys", "puzzle board game", "car care winter"],
+        8: ["fathers day gift", "spring cleaning tools", "garden tools",
+            "bbq accessories prep", "pet grooming shedding"],
+        9: ["fathers day gift", "spring garden", "pet hair remover",
+            "outdoor dining", "bbq grill mat"],
+        10: ["spring garden", "outdoor living", "halloween decoration",
+             "bbq accessories", "picnic items"],
+        11: ["christmas gifts", "stocking fillers", "summer outdoor toys",
+             "black friday deals", "beach accessories"],
+        12: ["christmas gifts", "stocking fillers", "beach accessories",
+             "bbq tools", "post-christmas storage organiser"],
     }
 
     keywords = seasonal.get(month, ["kitchen accessories", "home gadgets"])
