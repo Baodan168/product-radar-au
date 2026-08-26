@@ -12,6 +12,11 @@ ANYSEARCH = str(Path.home() / ".hermes/skills/search/anysearch/scripts/anysearch
 
 
 def _run_anysearch(query, domain="general", max_results=8, freshness="week"):
+    # ⚠️ 2026-08-26 发现：anysearch CLI 没有 "general" 域名（合法值见
+    # anysearch_cli.py AVAILABLE_DOMAINS），"general" 会让 CLI 秒退 usage error，
+    # 之前 11/24 个查询一直静默失败。这里映射到语义最近的合法域名。
+    if domain == "general":
+        domain = "home"  # 泛化查询 → home 域（覆盖家居/日用场景）
     try:
         cmd = ["python3", ANYSEARCH, "search", query,
                "--domain", domain, "--max_results", str(max_results)]

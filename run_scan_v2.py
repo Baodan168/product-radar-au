@@ -516,17 +516,23 @@ def main():
     print(f"  TikTok → {len(tiktok_matched)} products", file=sys.stderr)
 
     # ── Checkpoint save: save raw products even if later steps crash ──
-    checkpoint = {
-        "scan_date": scan_date, "scan_time": scan_time, "scan_ts": scan_ts,
-        "stats": {"total_scanned": len(amazon_products), "passed": len(tiktok_matched), "sources": ["amazon","keyword","tiktok"]},
-        "products": amazon_products,
-    }
-    try:
-        (BASE / "data" / "channels" / f"{scan_ts}-raw.json").write_text(
-            json.dumps(checkpoint, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"  💾 Checkpoint saved ({len(amazon_products)} products)", file=sys.stderr)
-    except Exception as e:
-        print(f"  ⚠️  Checkpoint save failed: {e}", file=sys.stderr)
+    # ⚠️ 2026-08-26 事故：20:00 扫描已抓到136个产品，但卡死在[2/7] AnySearch，
+    # 外层600s硬杀时 checkpoint 还没写到 → 全部成果丢失。修复：Amazon 抓完立即存。
+    def _save_checkpoint(tag):
+        cp = {
+            "scan_date": scan_date, "scan_time": scan_time, "scan_ts": scan_ts,
+            "stats": {"total_scanned": len(amazon_products), "passed": len(tiktok_matched) if tag != "amazon" else len(amazon_products), "sources": [tag]},
+            "products": amazon_products,
+        }
+        try:
+            (BASE / "data" / "channels" / f"{scan_ts}-raw.json").write_text(
+                json.dumps(cp, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"  💾 Checkpoint[{tag}] saved ({len(amazon_products)} products)", file=sys.stderr)
+        except Exception as e:
+            print(f"  ⚠️  Checkpoint save failed: {e}", file=sys.stderr)
+
+    _save_checkpoint("amazon")
+    _save_checkpoint("tiktok")  # TikTok 匹配后再存一次（含 matched 标记）
 
     # 4. Google Trends (with error protection)
     # ⚠️ 2026-08-04 加固：14:00 cron 卡死在此步 600s 超时（subprocess timeout=30
