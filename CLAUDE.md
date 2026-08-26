@@ -29,7 +29,7 @@ python3 -m http.server 8081    # 访问 http://localhost:8081/output/
 | Back to School | 8-9月 | **1月底**（Term 1，最大文具节点） |
 | 圣诞场景 | 冬季室内 | **盛夏海滩/BBQ主题** |
 | EOFY | 无 | **6月30日财年末** B2B采购潮 |
-| 节日库 | uk-festival-planner(65事件) | `data/au_festivals_data.js`（37事件130 SKU，自建） |
+| 节日库 | uk-festival-planner(65事件) | `data/au_festivals_data.js`（40事件136 SKU，自建，含Afterpay Day/Click Frenzy Mayhem） |
 | 抓取源文件 | sources/amazon_uk.py | `sources/amazon_au.py`（已改名） |
 | 部署 | Baodan168/product-radar | `Baodan168/product-radar-au` |
 

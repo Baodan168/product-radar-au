@@ -2047,5 +2047,115 @@ const FESTIVALS = [
         "sourcing": "1688: 超轻折叠椅"
       }
     ]
+  },
+  {
+    "id": "afterpay-day-mar-2027",
+    "name": "Afterpay Day(3月场)",
+    "nameEn": "Afterpay Day March",
+    "icon": "💳",
+    "date": "2027-03-19",
+    "month": 3,
+    "importance": "B",
+    "category": "festival",
+    "themeColor": "#b8b8ff",
+    "products": [
+      {
+        "sku": "折叠桌面收纳盒",
+        "category": "home",
+        "margin": "约52-62%",
+        "matchScore": 4,
+        "riskNote": "",
+        "keywords": [
+          "desk organiser foldable",
+          "storage box office"
+        ],
+        "sourcing": "1688: 折叠桌面收纳盒"
+      },
+      {
+        "sku": "行李箱收纳七件套(轻量)",
+        "category": "home",
+        "margin": "约50-60%",
+        "matchScore": 3,
+        "riskNote": "⚠️待复核 套装件数与包装尺寸",
+        "keywords": [
+          "packing cubes luggage organiser"
+        ],
+        "sourcing": "1688: 行李箱收纳套装"
+      }
+    ]
+  },
+  {
+    "id": "click-frenzy-mayhem-2027",
+    "name": "Click Frenzy Mayhem(5月)",
+    "nameEn": "Click Frenzy Mayhem May",
+    "icon": "⚡",
+    "date": "2027-05-14",
+    "month": 5,
+    "importance": "B",
+    "category": "festival",
+    "themeColor": "#7c3aed",
+    "products": [
+      {
+        "sku": "桌面线缆收纳夹条",
+        "category": "home",
+        "margin": "约55-65%",
+        "matchScore": 4,
+        "riskNote": "",
+        "keywords": [
+          "cable organiser desk clip",
+          "cord management"
+        ],
+        "sourcing": "1688: 硅胶理线器"
+      },
+      {
+        "sku": "野餐保温袋(小号)",
+        "category": "gift",
+        "margin": "约48-58%",
+        "matchScore": 3,
+        "riskNote": "",
+        "keywords": [
+          "lunch bag insulated small",
+          "picnic cooler bag"
+        ],
+        "sourcing": "1688: 保温午餐包"
+      }
+    ]
+  },
+  {
+    "id": "afterpay-day-aug-2027",
+    "name": "Afterpay Day(8月场)",
+    "nameEn": "Afterpay Day August",
+    "icon": "💳",
+    "date": "2027-08-20",
+    "month": 8,
+    "importance": "B",
+    "category": "festival",
+    "themeColor": "#b8b8ff",
+    "products": [
+      {
+        "sku": "冰箱侧挂收纳袋",
+        "category": "home",
+        "margin": "约50-60%",
+        "matchScore": 4,
+        "riskNote": "",
+        "keywords": [
+          "fridge side organizer",
+          "magnetic fridge storage"
+        ],
+        "sourcing": "1688: 冰箱侧挂收纳"
+      },
+      {
+        "sku": "编织手提购物包",
+        "category": "apparel",
+        "margin": "约55-65%",
+        "matchScore": 3,
+        "riskNote": "",
+        "keywords": [
+          "woven tote bag market",
+          "straw handbag"
+        ],
+        "sourcing": "1688: 编织手提包"
+      }
+    ]
   }
 ];
