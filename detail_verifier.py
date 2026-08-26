@@ -16,6 +16,7 @@ detail_verifier.py — Amazon 详情页重量/尺寸二次验证 (2026-07-31 重
 - ⚠️ 本文件必须 git commit + git push，否则再次丢失尺寸验证会再次静默失效。
 """
 
+import json
 import re
 import sys
 import time
@@ -119,6 +120,35 @@ def _norm_dims(text):
 
 # ---------- 单个产品验证 ----------
 
+# ── 验证结果缓存（2026-08-26）────────────────────────────────
+# 背景：详情页验证冷启动 63s+，重复 ASIN（7天内反复上榜的品）每次扫描都重抓。
+# 规则：只缓存 data_found=True 的结论（重量/尺寸超标或合规），24h TTL。
+# 不缓存 data_found=False/降级页——那可能是反爬瞬态，缓存会固化误判。
+_VERIFY_CACHE_TTL = 86400  # 24h
+_VERIFY_CACHE_DIR = BASE / "data" / "verify_cache"  # 测试中 monkeypatch 此变量隔离
+
+def _verify_cache_path(asin):
+    return _VERIFY_CACHE_DIR / f"{asin}.json"
+
+def _load_verify_cache(asin):
+    try:
+        d = json.loads(_verify_cache_path(asin).read_text(encoding="utf-8"))
+        if time.time() - d.get("ts", 0) < _VERIFY_CACHE_TTL:
+            return d.get("ok"), d.get("reason"), True, True  # ok, reason, data_found, from_cache
+    except Exception:
+        pass
+    return None
+
+def _save_verify_cache(asin, ok, reason):
+    try:
+        cache_dir = _verify_cache_path(asin).parent
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        _verify_cache_path(asin).write_text(
+            json.dumps({"ts": time.time(), "ok": ok, "reason": reason}, ensure_ascii=False),
+            encoding="utf-8")
+    except Exception:
+        pass
+
 def verify_product(p, config):
     """验证单个产品。返回 (passed: bool, reason: str|None, data_found: bool)。
 
@@ -131,6 +161,11 @@ def verify_product(p, config):
     max_w = config.get("max_weight_g", 200)
     md = config.get("max_package_dimensions", {"l_cm": 30, "w_cm": 21, "h_cm": 6})
     max_l, max_wd, max_h = md["l_cm"], md["w_cm"], md["h_cm"]
+
+    # 24h 内已验证过的 ASIN 直接用缓存结论，不再抓详情页（2026-08-26）
+    cached = _load_verify_cache(asin)
+    if cached is not None:
+        return cached[0], cached[1], True
 
     try:
         html = _curl_fetch(f"https://www.amazon.com.au/dp/{asin}")
@@ -175,6 +210,7 @@ def verify_product(p, config):
                 )
 
     if reasons:
+        _save_verify_cache(asin, False, "; ".join(reasons))
         return False, "; ".join(reasons), data_found
 
     # ⚠️ 2026-08-10 修复: Amazon 反爬"静默降级"检测。批量请求详情页时 Amazon
@@ -184,6 +220,9 @@ def verify_product(p, config):
     # 08:50 降级页漏网，重抓完整页即拦截 45×15×15cm）。
     if not data_found and "prodDetTable" not in html and "po-break-word" not in html:
         p["_degraded"] = True
+    if data_found:
+        # 只缓存拿到真实数据的结论（含合规通过）；降级页/无数据不缓存，防固化误判
+        _save_verify_cache(asin, True, None)
     return True, None, data_found
 
 

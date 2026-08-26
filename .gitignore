@@ -11,6 +11,7 @@ data/history/
 
 # Large cached data
 data/amazon_cache.json
+data/verify_cache/
 
 # Output files — explicitly tracked via API, not git
 output/*

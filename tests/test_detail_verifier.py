@@ -104,6 +104,13 @@ def _fake_fetch(html):
     detail_verifier._curl_fetch = lambda url: html
 
 
+@pytest.fixture(autouse=True)
+def _isolated_verify_cache(tmp_path, monkeypatch):
+    """每个测试用独立缓存目录，防缓存串扰（同 ASIN 跨测试复用结论）。"""
+    import detail_verifier
+    monkeypatch.setattr(detail_verifier, "_VERIFY_CACHE_DIR", tmp_path / "vcache")
+
+
 def _make_prod(asin="B0TEST123"):
     return {"asin": asin, "name": "Test Product"}
 

@@ -24,14 +24,12 @@ def calc_profit(price_aud, category="general", sourcing_aud=None):
     elif "pet" in cat_lower:
         comm_rate = c["commission_pets"]
 
-    gst = price_aud * c["gst_rate"]
+    # 2026-08-26 Lee调整：不计广告、退货、GST（运营端消化，雷达只看硬成本）
     commission = price_aud * comm_rate
     fba = c["fba_small_standard"]
-    ads = price_aud * c["ad_rate"]
-    returns = price_aud * c["return_rate"]
     sourcing = sourcing_aud if sourcing_aud is not None else c.get("sourcing_cost", 1.30)
 
-    total_cost = gst + commission + fba + ads + returns + sourcing
+    total_cost = commission + fba + sourcing
     net_profit = price_aud - total_cost
     margin = net_profit / price_aud if price_aud > 0 else 0
 
@@ -40,11 +38,8 @@ def calc_profit(price_aud, category="general", sourcing_aud=None):
         "margin": round(margin, 3),
         "margin_pct": f"{margin*100:.1f}%",
         "breakdown": {
-            "gst": round(gst, 2),
             "commission": round(commission, 2),
             "fba": fba,
-            "ads": round(ads, 2),
-            "returns": round(returns, 2),
             "sourcing": round(sourcing, 2),
             "total_cost": round(total_cost, 2),
         }

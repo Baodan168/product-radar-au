@@ -46,6 +46,20 @@ def is_forbidden(name, category=""):
     PARTY_KEYWORDS = {'party', 'decoration', 'costume', 'pirate', 'halloween', 'christmas', 'birthday', 'fancy dress', 'bachelorette', 'wedding'}
     PARTY_EXEMPT_KW = {'kids', 'dress', 'shirt', 'children', 'trousers'}  # clothing keywords exempted when party context
 
+    # 2026-08-26 语境豁免：某些禁选词在特定容器/配件语境下是安全的
+    # 数据驱动：rejected 数据命中 'cat'(2次)、'plug'(2次)、'light'(13次)
+    # 其中 cat bowls/harness buckles 是容器/配件，不应被 'cat'/'buckle' 拦截
+    # 注意：豁免表 key 必须与 CONFIG["forbidden_keywords"] 中的实际条目匹配
+    CONTEXT_EXEMPTIONS = {
+        # (禁选词, 豁免语境词) → 含豁免语境时跳过该禁选词
+        'cat food': ('bowl', 'feeder', 'litter', 'tree', 'nip', 'collar', 'harness'),  # 猫用品≠猫粮
+        'plug in': ('night', 'sensor', 'hook', 'adapter'),  # 墙面插件夜灯≠电源线
+        'lighting': ('bulb', 'projector', 'switch', 'strand', 'night', 'outdoor'),  # LED灯泡/串灯/夜灯/户外灯≠灯具整机
+        'light': ('bulb', 'projector', 'switch', 'strand', 'night', 'outdoor'),  # 同上
+        'sensor': ('night', 'light', 'motion'),  # 感应夜灯≠安防设备
+        'usb powered': ('hub', 'adapter', 'cable'),  # USB集线器≠电子产品
+    }
+
     has_party = any(kw in text for kw in PARTY_KEYWORDS)
 
     # --- Special handling: "toy" ---
@@ -71,6 +85,15 @@ def is_forbidden(name, category=""):
             continue
         # Party exemption: skip clothing keywords for party/costume items
         if kw in PARTY_EXEMPT_KW and has_party:
+            continue
+        # Context exemption (2026-08-26): 检查是否在安全语境中
+        exempt = False
+        if kw in CONTEXT_EXEMPTIONS:
+            for ctx in CONTEXT_EXEMPTIONS[kw]:
+                if ctx in text:
+                    exempt = True
+                    break
+        if exempt:
             continue
         # Oversize bathroom filter
         if kw == "electric" and is_oversize_bathroom:
@@ -156,25 +179,21 @@ def calc_profit(price_aud, category="general"):
     elif "pet" in category.lower():
         comm_rate = c["commission_pets"]
 
-    vat = price_aud * c["gst_rate"]
+    # 2026-08-26 Lee调整：不计广告、退货、GST三项费用
+    # （Lee口径：这三项由运营端自行消化，雷达只看硬成本=佣金+FBA+采购）
     commission = price_aud * comm_rate
     fba = c["fba_small_standard"]
-    ads = price_aud * c["ad_rate"]
-    returns = price_aud * c["return_rate"]
     sourcing = c.get("sourcing_cost", 1.30)
 
-    total_cost = vat + commission + fba + ads + returns + sourcing
+    total_cost = commission + fba + sourcing
     net_profit = price_aud - total_cost
     margin = net_profit / price_aud if price_aud > 0 else 0
     return {
         "net_profit": round(net_profit, 2),
         "margin": round(margin, 3),
         "breakdown": {
-            "vat": round(vat, 2),
             "commission": round(commission, 2),
             "fba": fba,
-            "ads": round(ads, 2),
-            "returns": round(returns, 2),
             "sourcing": sourcing,
             "total_cost": round(total_cost, 2)
         }

@@ -21,7 +21,7 @@
     "fba_small_standard": 4.2,
     "fba_large_standard": 6.5,
     "sourcing_cost": 1.3,
-    "_comment": "GST 10%单一税; 佣金Home&Kitchen 13%/宠物10%/通用15%(AU官方); FBA小标准件A$4.2(250-500g中位); 采购成本约¥6=A$1.30(与UK £0.8/£7.5同比例)"
+    "_comment": "2026-08-26 Lee调整：利润模型只算佣金+FBA+采购三项硬成本；gst/ad/return费率字段保留但已停用(不计入)。佣金Home&Kitchen 13%/宠物10%/通用15%(AU官方)；FBA小标准件A$4.2；采购约£6=A$1.30"
   },
   "forbidden_keywords": [
     "toy",

@@ -6,6 +6,7 @@ Sources: Amazon (New/BSR/Wished/Gifts), TikTok, HotUKDeals, Temu, Etsy, YouTube,
 import json, sys, os
 import concurrent.futures
 import threading
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -422,6 +423,17 @@ def assign_channel_tags(p):
 
 
 def main():
+    # ── 全局时间预算（2026-08-26 软着陆）────────────────────────
+    # 背景：cron 外层 900s 硬超时（timeout 600 杀 run_scan_v2），超时被杀 =
+    # 已抓的产品全丢、连 checkpoint 都没写。软着陆规则：
+    #   - SCAN_BUDGET=480s：deadline 前正常跑全部 8 步
+    #   - deadline 后：跳过「锦上添花」步（GoogleTrends/Reddit/enrich/7b/7c），
+    #     保底执行 过滤→验证(预算内)→评分→保存。宁可少 enrichment，不可丢数据。
+    SCAN_START = time.monotonic()
+    SCAN_BUDGET = 480  # 秒；外层 timeout 600 留 120s 给保存+后续 shell 步骤
+    def _time_left():
+        return SCAN_BUDGET - (time.monotonic() - SCAN_START)
+
     now = datetime.now()
     scan_date = now.strftime("%Y-%m-%d")
     scan_time = now.strftime("%H:%M")
@@ -524,25 +536,30 @@ def main():
     #    shutdown(wait=True) 仍会等待卡死的 fetch 线程，120s 超时形同虚设
     #    （08-04 14:00 cron 就死在这里）。改 daemon 线程 + join(timeout)，
     #    线程随进程退出，超时真正生效。
-    print("\n[4/7] Google Trends AU...", file=sys.stderr)
-    GT_TIMEOUT = 120
-    _gt_box = {}
-    def _run_gtrends_bg():
-        try:
-            _gt_box["text"] = fetch_demand_signals()
-        except Exception as e:
-            _gt_box["error"] = e
-    _gt_thread = threading.Thread(target=_run_gtrends_bg, daemon=True, name='gtrends')
-    _gt_thread.start()
-    _gt_thread.join(timeout=GT_TIMEOUT)
-    if "error" in _gt_box:
-        print(f"  ⚠️ Google Trends error (non-fatal): {_gt_box['error']}", file=sys.stderr)
-        gtrends_text = ""
-    elif _gt_thread.is_alive():
-        print(f"  ⏰ Google Trends 超时（>{GT_TIMEOUT}s），跳过", file=sys.stderr)
-        gtrends_text = ""
+    GT_MIN_RESERVE = 180  # deadline 前至少留 180s 给过滤/验证/评分/保存链
+    gtrends_text = ""
+    if _time_left() > GT_MIN_RESERVE:
+        print("\n[4/7] Google Trends AU...", file=sys.stderr)
+        GT_TIMEOUT = 120
+        _gt_box = {}
+        def _run_gtrends_bg():
+            try:
+                _gt_box["text"] = fetch_demand_signals()
+            except Exception as e:
+                _gt_box["error"] = e
+        _gt_thread = threading.Thread(target=_run_gtrends_bg, daemon=True, name='gtrends')
+        _gt_thread.start()
+        _gt_thread.join(timeout=GT_TIMEOUT)
+        if "error" in _gt_box:
+            print(f"  ⚠️ Google Trends error (non-fatal): {_gt_box['error']}", file=sys.stderr)
+            gtrends_text = ""
+        elif _gt_thread.is_alive():
+            print(f"  ⏰ Google Trends 超时（>{GT_TIMEOUT}s），跳过", file=sys.stderr)
+            gtrends_text = ""
+        else:
+            gtrends_text = _gt_box.get("text", "")
     else:
-        gtrends_text = _gt_box.get("text", "")
+        print(f"  ⏭️ 时间预算不足(剩{_time_left():.0f}s)，跳过 Google Trends（软着陆）", file=sys.stderr)
     try:
         amazon_products = enrich_google_trends(amazon_products, gtrends_text)
         gt_count = sum(1 for p in amazon_products if p.get("google_trend") == "rising")
@@ -551,12 +568,15 @@ def main():
         print(f"  ⚠️ Google Trends enrich error (non-fatal): {e}", file=sys.stderr)
 
     # 5. Reddit
-    print("\\n[5/7] Reddit demand...", file=sys.stderr)
-    try:
-        reddit_text = fetch_reddit()
-        amazon_products = enrich_reddit(amazon_products, reddit_text)
-    except Exception as e:
-        print(f"  ⚠️ Reddit error (non-fatal): {e}", file=sys.stderr)
+    if _time_left() > GT_MIN_RESERVE:
+        print("\n[5/7] Reddit demand...", file=sys.stderr)
+        try:
+            reddit_text = fetch_reddit()
+            amazon_products = enrich_reddit(amazon_products, reddit_text)
+        except Exception as e:
+            print(f"  ⚠️ Reddit error (non-fatal): {e}", file=sys.stderr)
+    else:
+        print(f"  ⏭️ 时间预算不足(剩{_time_left():.0f}s)，跳过 Reddit（软着陆）", file=sys.stderr)
 
     # 6. Enrich with AnySearch source signals
     print("\n[6/7] Enriching with trend signals...", file=sys.stderr)
@@ -592,9 +612,9 @@ def main():
         print(f"  ⚠️ [7a] 详情页验证失败 (non-fatal): {e}", file=sys.stderr)
     history = load_history(days=7)
 
-    # 7b. Market Intelligence (supply-demand + trend divergence)
+    # 7b. Market Intelligence (supply-demand + trend divergence) — 软着陆可跳
     print("\n[7b] Market Intelligence...", file=sys.stderr)
-    market = analyze_market(products, trend_data, history_days=3)
+    market = analyze_market(products, trend_data, history_days=3) if _time_left() > 60 else {"sd_ratios": {}, "divergences": []}
     sd_ratios = market["sd_ratios"]
     divergences = market["divergences"]
     if sd_ratios:
