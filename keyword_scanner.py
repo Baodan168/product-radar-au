@@ -256,22 +256,30 @@ def search_amazon_by_keyword(keyword, max_products=5):
     """Search Amazon AU for a keyword and return parsed products.
 
     Fallback chain:
-    1. _curl_fetch → curl_cffi → ScraperAPI → CloakBrowser
+    1. _curl_fetch → curl_cffi → CloakBrowser
     2. _keyword_playwright_fetch (dedicated browser, separate from singleton)
     3. BrowserAct (slow, different fingerprint)
     """
     search_url = f"https://www.amazon.com.au/s?k={urllib.parse.quote(keyword)}"
 
-    # Try 1: _curl_fetch (CloakBrowser with greenlet fallback now)
-    html = _curl_fetch(search_url)
-    if not html:
-        # Try 2: dedicated Playwright (separate from the shared singleton)
-        html = _keyword_playwright_fetch(search_url)
+    # 熔断感知（2026-08-26）：直连层(curl_cffi/CloakBrowser)已熔断时，
+    # 跳过 Try1/Try2 直接走 BrowserAct。事故背景：降级网络下每个词先在
+    # 慢层烧掉 60s+ 才轮到 BrowserAct，120s 预算只够 1-2 个词，整段空转。
+    from sources import amazon_au as _au
+    direct_dead = (_au._CURL_CFFI_CONSEC_FAIL >= _au._SLOW_LAYER_THRESHOLD
+                   and _au._CLOAK_CONSEC_FAIL >= _au._SLOW_LAYER_THRESHOLD)
 
-    if html:
-        products = _parse_amazon_page(html, "Search", "keyword_search")
-        if products:
-            return products[:max_products]
+    if not direct_dead:
+        # Try 1: _curl_fetch (CloakBrowser with greenlet fallback now)
+        html = _curl_fetch(search_url)
+        if not html:
+            # Try 2: dedicated Playwright (separate from the shared singleton)
+            html = _keyword_playwright_fetch(search_url)
+
+        if html:
+            products = _parse_amazon_page(html, "Search", "keyword_search")
+            if products:
+                return products[:max_products]
 
     # Try 3: BrowserAct (different fingerprint, slow)
     try:

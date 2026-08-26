@@ -22,7 +22,7 @@ python3 -m http.server 8081    # 访问 http://localhost:8081/output/
 | 维度 | UK版 | AU版 |
 |------|------|------|
 | 站点 | amazon.co.uk | amazon.com.au |
-| 货币 | £ (GBP) | A$ (AUD)，价格带 12.99-25.99 |
+| 货币 | £ (GBP) | A$ (AUD)，价格带 8.99-19.99 |
 | 成本模型 | VAT 16.7% + FBA £1.46 | **GST 10%** + FBA A$4.2（见 config.json cost_structure） |
 | 季节 | 北半球 | **南半球反转**：12-2月夏，6-8月冬（run_scan_v2/scoring_engine 已改） |
 | 母亲节 | 3月 | **5月**；父亲节 6月 → **9月** |

@@ -1,8 +1,8 @@
 {
   "platform": "Amazon AU",
   "price_range": {
-    "min": 12.99,
-    "max": 25.99
+    "min": 8.99,
+    "max": 19.99
   },
   "min_profit_margin": 0.2,
   "max_weight_g": 200,

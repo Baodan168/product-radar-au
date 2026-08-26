@@ -101,13 +101,8 @@ CATEGORY_VALIDATORS = {
 
 
 def _load_scraperapi_key():
-    """Load ScraperAPI key: env var first, then ~/.hermes/scraperapi_key.txt"""
-    key = os.environ.get("SCRAPER_API_KEY", "")
-    if key:
-        return key
-    key_file = Path.home() / ".hermes" / "scraperapi_key.txt"
-    if key_file.exists():
-        return key_file.read_text().strip()
+    """[已废弃 2026-08-26] ScraperAPI 层已删除：免费套餐不支持 amazon.com.au（付费墙）。
+    保留函数壳避免旧引用报错，永远返回空。"""
     return ""
 
 SCRAPER_API_KEY = _load_scraperapi_key()
@@ -271,8 +266,20 @@ def _cloakbrowser_fetch(url):
 
 CLOUDFLARE_WORKER_URL = "https://amazon-uk-proxy.liyuhong66.workers.dev/"
 
+# ── 慢层熔断（2026-08-26）────────────────────────────────────────
+# 事故背景：GFW 时间窗内 curl_cffi 每次固定烧 15s 超时、CloakBrowser 每次
+# ERR_TIMED_OUT，明知通道死了还在每个产品上重试，20 个频道直接吃穿 cron
+# 的 600s 预算（当日两次扫描失败）。BrowserAct 早有熔断，慢层反而没有。
+# 规则：连续 3 次失败 → 本批次跳过该层；任何一次成功即复位。
+_CURL_CFFI_CONSEC_FAIL = 0
+_CLOAK_CONSEC_FAIL = 0
+_SLOW_LAYER_THRESHOLD = 3
+_cloak_skip_warned = False  # 熔断跳过只告警一次，避免日志刷屏
+
 def _curl_fetch(url):
-    """Fetch a page with curl, forcing GBP. Falls back to curl_cffi → CloakBrowser → BrowserAct."""
+    """Fetch a page with curl. Falls back to curl_cffi → CloakBrowser → BrowserAct."""
+    global _CURL_CFFI_CONSEC_FAIL, _CLOAK_CONSEC_FAIL, _cloak_skip_warned
+
     # Try direct request first (fast, but usually blocked)
     try:
         result = subprocess.run(
@@ -289,50 +296,44 @@ def _curl_fetch(url):
     except Exception as e:
         pass
 
-    # Try curl_cffi with TLS fingerprint impersonation
-    try:
-        from curl_cffi import requests as cffi_req
-        cffi_headers = {
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "en-GB,en;q=0.9",
-        }
-        resp = cffi_req.get(url, impersonate="chrome", headers=cffi_headers, timeout=15)
-        if resp.status_code == 200 and _is_valid_response(resp.text):
-            print(f"  curl_cffi OK (len={len(resp.text)})", file=sys.stderr)
-            return resp.text
-    except ImportError:
-        pass  # curl_cffi not installed
-    except Exception as e:
-        print(f"  curl_cffi error: {e}", file=sys.stderr)
-
-    # Try ScraperAPI (if quota available — resets monthly on 1st)
-    scraper_key = os.environ.get("SCRAPER_APIKEY", "") or os.environ.get("SCRAPER_API_KEY", "")
-    if scraper_key:
+    # Try curl_cffi with TLS fingerprint impersonation (带熔断)
+    if _CURL_CFFI_CONSEC_FAIL < _SLOW_LAYER_THRESHOLD:
         try:
-            quoted = urllib.parse.quote(url)
-            scraper_url = f"http://api.scraperapi.com?api_key={scraper_key}&url={quoted}&country_code=gb"
-            result = subprocess.run(
-                ["curl", "-s", "-L", "--max-time", "20",
-                 "-H", f"User-Agent: {USER_AGENT}",
-                 "-H", "Accept-Language: en-GB,en;q=0.9",
-                 scraper_url],
-                capture_output=True, text=True, timeout=30
-            )
-            if _is_valid_response(result.stdout):
-                print(f"  ScraperAPI OK (len={len(result.stdout)})", file=sys.stderr)
-                return result.stdout
+            from curl_cffi import requests as cffi_req
+            cffi_headers = {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-GB,en;q=0.9",
+            }
+            resp = cffi_req.get(url, impersonate="chrome", headers=cffi_headers, timeout=15)
+            if resp.status_code == 200 and _is_valid_response(resp.text):
+                print(f"  curl_cffi OK (len={len(resp.text)})", file=sys.stderr)
+                _CURL_CFFI_CONSEC_FAIL = 0
+                return resp.text
+            _CURL_CFFI_CONSEC_FAIL += 1
+        except ImportError:
+            pass  # curl_cffi not installed
         except Exception as e:
-            print(f"  ScraperAPI error: {e}", file=sys.stderr)
+            _CURL_CFFI_CONSEC_FAIL += 1
+            print(f"  curl_cffi error: {e}", file=sys.stderr)
 
-    # Primary: CloakBrowser (Playwright with stealth Chrome) — reliable
-    # Skip dead layers: ScraperAPI (quota exhausted), CF Worker (network unreachable), BrowserAct (broken)
-    try:
-        html = _cloakbrowser_fetch(url)
-        if html and _is_valid_response(html):
-            print(f"  CloakBrowser OK (len={len(html)})", file=sys.stderr)
-            return html
-    except Exception as e:
-        print(f"  CloakBrowser fallback error: {e}", file=sys.stderr)
+    # ScraperAPI 层已移除（2026-08-26）：免费套餐不支持 amazon.com.au 域名
+    # （返回付费墙提示），这层永远出不了活，只白耗 20s 超时。
+
+    # Primary: CloakBrowser (Playwright with stealth Chrome) — 带熔断
+    if _CLOAK_CONSEC_FAIL < _SLOW_LAYER_THRESHOLD:
+        try:
+            html = _cloakbrowser_fetch(url)
+            if html and _is_valid_response(html):
+                print(f"  CloakBrowser OK (len={len(html)})", file=sys.stderr)
+                _CLOAK_CONSEC_FAIL = 0
+                return html
+            _CLOAK_CONSEC_FAIL += 1
+        except Exception as e:
+            _CLOAK_CONSEC_FAIL += 1
+            print(f"  CloakBrowser fallback error: {e}", file=sys.stderr)
+    elif not _cloak_skip_warned:
+        print(f"  ⏭️ CloakBrowser 熔断中(连续{_CLOAK_CONSEC_FAIL}次失败)，本批次跳过", file=sys.stderr)
+        _cloak_skip_warned = True
 
     # Last resort: search fallback via BrowserAct (slow but different fingerprint)
     try:
@@ -503,9 +504,19 @@ def fetch(max_per_channel_type=5):
     }
 
     # Fetch URLs with rate limiting — serialized via lock + cache
+
+    # 品类级禁区（2026-08-26）：整条品类都在禁选词库里，抓回来也 100% 被过滤器
+    # 杀掉，纯属浪费抓取时长（当日 Lighting 单品类贡献 11 个淘汰 = 全部淘汰的
+    # 8%）。命中直接跳过抓取。新增禁选品类时在这里同步。
+    FORBIDDEN_CATEGORIES = {"lighting"}
+
     def _fetch_one(item):
         global _browseract_circuit_open, _browseract_consec_fail
         category, channel_type, url = item
+
+        if category.lower() in FORBIDDEN_CATEGORIES:
+            print(f"  ⏭️ {category} 是禁选品类(整类必被过滤)，跳过抓取", file=sys.stderr)
+            return (category, channel_type, [])
 
         # Serialize: only one Amazon request at a time (true sequential delay)
         with _amazon_fetch_lock:
