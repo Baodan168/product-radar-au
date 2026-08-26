@@ -307,10 +307,15 @@ def generate_festival_html(festivals):
     <div class="festival-list">
     '''
     
-    # 按月份分组
+    # 按月份分组 — month 从 date 派生，不信任数据文件里的 month 字段
+    # （2026-08-26: au_festivals_data.js 的 month 全是 0，导致整列表掉进
+    #   month=0 的桶被跳过 → 节日选品 Tab 空白。date 是唯一可信来源）
     by_month = {}
     for f in festivals:
-        month = f.get('month', 0)
+        try:
+            month = int(f['date'][5:7]) if f.get('date') else f.get('month', 0)
+        except (ValueError, TypeError, IndexError):
+            month = f.get('month', 0)
         if month not in by_month:
             by_month[month] = []
         by_month[month].append(f)
