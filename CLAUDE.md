@@ -63,5 +63,5 @@ python3 -m http.server 8081    # 访问 http://localhost:8081/output/
 ## 当前状态
 
 - P1-P5 全量建设完成（2026-08-25），待Lee审核后启用cron
-- cron计划：06:30/19:30扫描、07:40发现、周六18:00周报/18:15反馈学习（错开UK槽位+澳洲凌晨风控窗口）
+- cron计划：06:30/19:30扫描、**07:10 AU发现生成（LLM agent任务fdd33551ccc3，写入data/discovery/{date}.json）**、07:40发现推送、周六18:00周报/18:15反馈学习（错开UK槽位+澳洲凌晨风控窗口）
 - 待办：看板同步Cloudflare Worker（可选二期）
