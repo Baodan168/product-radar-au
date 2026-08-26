@@ -1,0 +1,89 @@
+{
+  "scan_date": "2026-08-26",
+  "scan_time": "13:09",
+  "scan_ts": "2026-08-26_1309",
+  "stats": {
+    "total_scanned": 141,
+    "passed_filter": 1,
+    "rejected": 140,
+    "channels": {
+      "gifts": 1
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {},
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 0
+  },
+  "products": [
+    {
+      "asin": "B0BZR6CXDG",
+      "name": "Marshall Key Holder, Guitar Fingerboard Hook Holder, Home Gadgets, Cool Gifts, Gadgets Home, Pack of 4",
+      "price": 24.08,
+      "reviews": 160,
+      "rating": 4.8,
+      "rank": 3,
+      "category": "Home",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "160 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BZR6CXDG",
+      "image_url": "https://m.media-amazon.com/images/I/71MY+vb7snL._AC_UL320_.jpg",
+      "profit_margin": 0.422,
+      "net_profit": 10.15,
+      "cost_breakdown": {
+        "vat": 2.41,
+        "commission": 3.13,
+        "fba": 4.2,
+        "ads": 2.41,
+        "returns": 0.48,
+        "sourcing": 1.3,
+        "total_cost": 13.93
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 仅Amazon",
+      "external_sources": [],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 32,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "⚪ 仅Amazon": -10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "📉 无需求信号": -15
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-08-26",
+      "is_event": false,
+      "channel_tags": [
+        "gifts"
+      ],
+      "bsr_rank": 58846,
+      "bsr_category": "Home",
+      "bsr_sub_rank": 591,
+      "bsr_sub_category": "Home Storage Hooks",
+      "estimated_daily_sales": 2,
+      "monthly_revenue_est": 1444.8
+    }
+  ],
+  "gaps": [],
+  "trend_summary": {
+    "top_categories": [],
+    "cross_validated": [],
+    "demand_keywords": [],
+    "season": "",
+    "sources_scanned": []
+  }
+}
