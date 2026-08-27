@@ -136,7 +136,7 @@ function esc(s){const d=document.createElement('div');d.textContent=s||'';return
 function escAttr(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];})}
 // 外链统一过白名单，挡住 javascript: / data: 和任意第三方域
-var URL_HOSTS=[/^([a-z0-9-]+\.)*amazon\.co\.uk$/,/^([a-z0-9-]+\.)*media-amazon\.com$/,
+var URL_HOSTS=[/^([a-z0-9-]+\.)*amazon\.co\.uk$/,/^([a-z0-9-]+\.)*amazon\.com\.au$/,/^([a-z0-9-]+\.)*media-amazon\.com$/,
   /^([a-z0-9-]+\.)*ssl-images-amazon\.com$/,/^([a-z0-9-]+\.)*1688\.com$/,
   /^trends\.google\.(com|com\.au)$/,/^Baodan168\.github\.io$/];
 function safeUrl(u){
