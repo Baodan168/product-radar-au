@@ -182,7 +182,7 @@ for i, p in enumerate(d.get('products',[])[:3], 1):
     sub = p.get('bsr_sub_category', '')
     daily = p.get('estimated_daily_sales', 'N/A')
     print(f'  {i}. {p[\"name\"][:50]}')
-    print(f'     A${p[\"price\"]} | 利润{p[\"profit_margin\"]*100:.0f}% | BSR#{bsr} ({sub}) | 日销≈{daily}')
+    print(f'     A\${p[\\\"price\\\"]} | 利润{p[\\\"profit_margin\\\"]*100:.0f}% | BSR#{bsr} ({sub}) | 日销≈{daily}')
     print(f'     {sig} {sd}')
 "
 
