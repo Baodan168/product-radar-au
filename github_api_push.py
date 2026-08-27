@@ -40,15 +40,22 @@ def _save_state(state):
         print(f'  ⚠️ 状态文件写入失败（不影响推送）: {e}')
 
 def get_token():
-    """Read GitHub token from environment (set in .env, sourced by cron)"""
-    token = os.environ.get("GITHUB_TOKEN", "")
-    if token:
-        return token
-    # Fallback: read from file (not from git-tracked credentials)
+    """优先读文件 token（classic PAT，写权限齐全），env 里的 fine-grained PAT 作 fallback。
+
+    2026-08-28 修复：.env 的 GITHUB_TOKEN 被换成 fine-grained PAT，只授权了
+    product-radar(UK) 仓库，未授权 product-radar-au → 部署 POST /git/blobs 返回
+    403 "Resource not accessible"。文件 token (~/.hermes/github_token.txt) 为
+    40 字符 classic PAT，对两仓库均有写权限，故优先使用。
+    """
     token_file = os.path.expanduser("~/.hermes/github_token.txt")
     if os.path.exists(token_file):
         with open(token_file) as f:
-            return f.read().strip()
+            tok = f.read().strip()
+        if tok:
+            return tok
+    token = os.environ.get("GITHUB_TOKEN", "")
+    if token:
+        return token
     raise RuntimeError("GITHUB_TOKEN not set in environment or ~/.hermes/github_token.txt")
 
 def api(method, path, data=None, _retries=2):
