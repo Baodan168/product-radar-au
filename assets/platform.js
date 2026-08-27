@@ -503,7 +503,7 @@ function renderKanban() {
         score: p.score || 0,
         profit: p.profit_margin ? (p.profit_margin * 100).toFixed(0) + '%' : '',
         amazonKw: '',
-        amazonUrl: p.amazon_url || 'https://www.amazon.co.uk/dp/' + p.asin,
+        amazonUrl: p.amazon_url || 'https://www.amazon.com.au/dp/' + p.asin,
         aliKw: '',
         aliUrl: '',
         date: date,
