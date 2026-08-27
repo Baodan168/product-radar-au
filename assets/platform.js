@@ -244,7 +244,7 @@ function renderDiscovery() {
 
     // Amazon search URL
     const amzKw = ins.amazon_keyword || ins.keyword || '';
-    const amzUrl = ins.amazon_search_url || `https://www.amazon.co.uk/s?k=${encodeURIComponent(amzKw)}&i=kitchen`;
+    const amzUrl = ins.amazon_search_url || `https://www.amazon.com.au/s?k=${encodeURIComponent(amzKw)}`;
     // 1688 search
     const aliKw = ins.search_1688 || ins.keyword_cn || ins.keyword || '';
     const aliUrl = ins.search_1688_url || `https://s.1688.com/selloffer/offer_search.htm?keywords=${encodeURIComponent(aliKw)}`;
@@ -361,7 +361,7 @@ function renderRadar() {
     const scCls=sc>=120?'hot':sc>=80?'high':sc>=40?'mid':'low';
     const badge=p.is_new?'<span class="badge-new">NEW</span>':(p.is_new===false?'<span class="badge-repeat">重复</span>':'')+(p.verify_status==='unverified'?'<span class="badge-warn">⚠️未验证</span>':'');
     const img=p.image_url?`<div class="pc-img"><img src="${safeUrl(p.image_url)}" alt="${esc(p.name)}" loading="lazy"/></div>`:'<div class="pc-img"><div class="ph">📦</div></div>';
-    const url=p.amazon_url||(p.asin?`https://www.amazon.co.uk/dp/${p.asin}`:'#');
+    const url=p.amazon_url||(p.asin?`https://www.amazon.com.au/dp/${p.asin}`:'#');
     const cb=p.cost_breakdown||{};
     const costH=cb.vat?`<button class="cost-tog" data-act="toggle-cost">💰 成本明细</button><div class="cost-det">VAT: A$${cb.vat?.toFixed(2)||'-'} · 佣金: A$${cb.commission?.toFixed(2)||'-'} · FBA: A$${cb.fba?.toFixed(2)||'-'}<br>广告: A$${cb.ads?.toFixed(2)||'-'} · 退货: A$${cb.returns?.toFixed(2)||'-'} · 采购: A$${cb.sourcing?.toFixed(2)||'-'}<br><b>总成本: A$${cb.total_cost?.toFixed(2)||'-'} · 净利润: A$${(p.net_profit||0).toFixed(2)}</b></div>`:'';
     const sigs=(p.sources||[]).filter(s=>typeof s==='string').map(s=>{let c='';if(s.includes('TikTok'))c='tiktok';if(s.includes('多源'))c='multi';return`<span class="sig ${escAttr(c)}">${s}</span>`}).join('');
@@ -558,7 +558,7 @@ function renderKanban() {
     if (item.gapLevel) metricsHtml += `<span class="kc-tag gap">${item.gapLevel}</span>`;
 
     // URLs
-    const amazonUrl = item.amazonUrl || (item.amazonKw ? 'https://www.amazon.co.uk/s?k=' + encodeURIComponent(item.amazonKw) : '');
+    const amazonUrl = item.amazonUrl || (item.amazonKw ? 'https://www.amazon.com.au/s?k=' + encodeURIComponent(item.amazonKw) : '');
     const aliUrl = item.aliUrl || '';
 
     // Action buttons (different per column)
