@@ -248,6 +248,18 @@ def generate_season_panel(festivals):
 
     cur = _current_season_key()
 
+    # 季节备货倒计时（47天空运截止）
+    from season_engine import get_seasonal_sourcing_alert, SEASON_REGION_TAGS
+    alert = get_seasonal_sourcing_alert()
+    urgency_icon = {"OK": "✅", "PLAN": "📋", "AIR_ONLY": "🟡", "URGENT": "⚠️", "OVERDUE": "🔴"}.get(alert["urgency"], "")
+    next_season_label = SEASONS.get(alert["next_season"], {}).get("label", alert["next_season"])
+    next_season_icon = SEASONS.get(alert["next_season"], {}).get("icon", "")
+    deadline_text = ""
+    if alert["days_to_deadline"] < 0:
+        deadline_text = f'{next_season_icon} {next_season_label}空运截止已过（{alert["air_deadline"]}），仅限现货/快铁'
+    else:
+        deadline_text = f'{next_season_icon} {next_season_label}空运截止: {alert["air_deadline"]}（还剩 {alert["days_to_deadline"]} 天）{urgency_icon}'
+
     # 季节按钮行（默认高亮当前季节）
     btns = []
     for key, info in SEASONS.items():
@@ -257,7 +269,7 @@ def generate_season_panel(festivals):
             f'onclick="setSeason(this, \'{key}\')">'
             f'{info["icon"]} {info["label"]}({info["months"][0]}-{info["months"][-1]}月)</button>'
         )
-    season_nav = f'<div class="season-nav">{"".join(btns)}</div>'
+    season_nav = f'<div class="season-nav">{" ".join(btns)}</div>'
 
     # 推荐面板（默认显示当前季节）
     panels = []
@@ -266,6 +278,9 @@ def generate_season_panel(festivals):
         d = season_data[key]
         kws_html = "".join(f'<span class="season-kw">{htmlmod.escape(k)}</span>' for k in d["kws"])
         cur_mark = ' <span class="season-cur-tag">当前</span>' if key == cur else ''
+        region = SEASON_REGION_TAGS.get(key, {})
+        region_n = region.get("north", "")
+        region_s = region.get("south", "")
         panels.append(f'''
       <div class="season-panel" id="seasonPanel-{key}" data-season="{key}" style="display:{"block" if key == cur else "none"}">
         <div class="season-panel-head">
@@ -273,6 +288,8 @@ def generate_season_panel(festivals):
           <span class="season-panel-meta">覆盖 {d["events"]} 个节日事件 · {len(d["kws"])} 个推荐方向</span>
         </div>
         <div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节日</div>
+        {"<div class=\"season-deadline-bar\">" + deadline_text + "</div>" if key == cur else ""}
+        <div class="season-region-tags"><span class="region-tag">🌅 北方(QLD/NT): {region_n}</span><span class="region-tag">❄️ 南方(VIC/TAS): {region_s}</span></div>
         <div class="season-kw-list">{kws_html}</div>
       </div>''')
         panel_js.append(

@@ -1,0 +1,87 @@
+{
+  "_comment": "Kmart/Target/Big W viral 热点追踪 — 手动维护轻量清单。每次更新加新条目，标注发现日期和状态。用于补充雷达扫描的 AU 本土平价电商信号。",
+  "_update_rule": "每周扫描 news.com.au/7news/bhg.com.au 的 Kmart/Target 热点报道，发现断货/病毒传播产品即加入",
+  "_last_updated": "2026-08-28",
+  "items": [
+    {
+      "product": "Water Ripple Light",
+      "retailer": "Kmart",
+      "price": "$20",
+      "category": "home decor lighting",
+      "viral_date": "2026-08",
+      "status": "sold_out",
+      "source": "news.com.au",
+      "search_keywords": ["water ripple light", "ambient projector lamp", "wave light lamp"],
+      "seasonal_fit": "winter indoor / gift",
+      "notes": "TikTok病毒传播，睡眠辅助卖点，16色+触控+遥控"
+    },
+    {
+      "product": "Cherry Lamp",
+      "retailer": "Kmart",
+      "price": "$20",
+      "category": "home decor lighting",
+      "viral_date": "2026-08",
+      "status": "sold_out_restock_sep",
+      "source": "bhg.com.au",
+      "search_keywords": ["cherry lamp", "fruit decor lamp", "glass novelty light"],
+      "seasonal_fit": "spring decor / gift",
+      "notes": "9月中补货，配套有chilli light同系列"
+    },
+    {
+      "product": "Chilli Light",
+      "retailer": "Kmart",
+      "price": "$20",
+      "category": "home decor lighting",
+      "viral_date": "2026-08",
+      "status": "in_stock",
+      "source": "bhg.com.au",
+      "search_keywords": ["chilli lamp", "pepper decor light", "novelty glass lamp"],
+      "seasonal_fit": "spring decor / gift",
+      "notes": "Cherry Lamp 断货替代品，同系列同价位"
+    },
+    {
+      "product": "Camera Glasses (Anko)",
+      "retailer": "Kmart/Target",
+      "price": "$89",
+      "category": "wearable tech",
+      "viral_date": "2026-08",
+      "status": "sold_out",
+      "source": "news.com.au",
+      "search_keywords": ["camera glasses", "smart sunglasses", "wearable camera"],
+      "seasonal_fit": "evergreen tech / summer outdoor",
+      "notes": "Meta平替，隐私争议带流量，但带电产品需评估红线"
+    },
+    {
+      "product": "Ninja CREAMi Swirl",
+      "retailer": "Amazon AU",
+      "price": "$274 (was $549)",
+      "category": "kitchen gadget",
+      "viral_date": "2026-08",
+      "status": "deal_sold_fast",
+      "source": "7news",
+      "search_keywords": ["ice cream maker", "frozen treat maker", "soft serve machine"],
+      "seasonal_fit": "summer",
+      "notes": "55%折扣秒空，夏季厨房热点信号。大件不做但关键词可借势"
+    },
+    {
+      "product": "Pet Cooling Mat",
+      "retailer": "Amazon AU / Kmart",
+      "price": "$27-65",
+      "category": "pet supplies",
+      "viral_date": "2026-08",
+      "status": "trending",
+      "source": "nestpath.com.au / mindiampets.com.au",
+      "search_keywords": ["pet cooling mat", "dog cooling pad", "pet gel mat", "cooling pet bed"],
+      "seasonal_fit": "spring_summer (9-2月peak)",
+      "notes": "AU家庭67%养宠，夏季刚需。凝胶款~200g可做空运测品"
+    }
+  ],
+  "watching": [
+    "jellyfish ambient light (Kmart 水母灯, cherry lamp 同系列扩展)",
+    "portable neck fan (Amazon AU 夏季常驻bestseller, A$15-30区间)",
+    "smash burger press (Amazon AU BBQ类目前十, A$12-25, ~300g)",
+    "bbq grill brush electric (Amazon AU BBQ配件bestseller, A$15-30)",
+    "marshmallow roasting sticks (Amazon AU 常驻bestseller, A$10-20, ~150g)",
+    "pool cleaning tools (AU泳池保有量全球前列, 10-12月夏季前准备)"
+  ]
+}
