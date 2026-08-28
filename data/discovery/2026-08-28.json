@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28T07:20:00+08:00",
+  "scan_date": "2026-08-28",
+  "scan_time": "07:20",
+  "summary": "今日3个高质量推荐（宁缺毋滥，全部is_new=True无重复品类）：①拱形大理石纹切菜/摆盘板——Kmart $20平替$129 Sansi的澳区原生爆款，6月首发→8月Living目录仍在主推+Aldi同款售罄（需求非一次性）、Amazon AU拱形款完全真空，A$16.99毛利率52%；②三合一削皮器（削皮+小葱切丝+开瓶器）2支装——Amazon AU Kitchen Best Sellers第1+Movers单日+595%（排名417→60）、8卖家在售但头部仅3.1星=品质空档，A$12.99毛利率44.7%；③旅行首饰收纳卷——AU站价格带畸形（A$30-56高价带、中端真空），9月底学校假期+春夏季旅行/婚礼季启动+圣诞送礼预埋，A$17.99毛利率52.5%。主动淘汰：Lifewit水杯收纳架（Movers+730%但2件装明显超200g红线）、Kmart $6拉绳切菜器（Kmart $6价格锚点太低无利可图）、Kmart智能眼镜/投影仪/水波纹灯/蓝牙眼罩/暖手宝（全部电子线）、Dr Diamond首饰清洁笔（液体+超价格带）、陶瓷泡芙餐具/意大利文字碗（易碎超重）、玻璃咖啡壶（超重易碎）、电盐胡椒磨（电子线）。注意：Google Trends直连今日被网络阻断（代理端口不可达），trend_score以Amazon实时榜单动能（Movers百分比/Best Sellers位次）+Kmart目录档期+售罄记录为量化代理，未编造趋势曲线。",
+  "insights": [
+    {
+      "keyword": "arch shaped marble effect chopping board lightweight UPE serving board",
+      "keyword_cn": "拱形大理石纹切菜板 轻量UPE材质 可兼作摆盘板/砧板 家居装饰 澳区quiet luxury审美",
+      "amazon_keyword": "arch chopping board, marble chopping board, marble effect serving board, cheese board australia, decorative cutting board, lightweight chopping board, hanging cutting board, charcuterie board, kitchen decor",
+      "search_1688": "仿大理石菜板 PP 跨境 出口 / 拱形砧板 定制 / 大理石纹切菜板 轻量",
+      "demand_signals": [
+        "Kmart $20 Arch Chopping Board是澳区6-8月连续爆款：news.com.au(6/24)报道'flying off the shelves'+线上已售罄，买家'You guys need to run to Kmart'；nine.com.au(6/29)称'stylish chopping boards become a must-have item'（来源：news.com.au / nine.com.au 2026-06）",
+        "爆款生命周期延续至8月目录：Kmart 'Low Prices For Life - August Living Catalogue'（7/23-8/12档期）仍在主推该板（白黑/粉橙/浆果色多色款），Yahoo Lifestyle证实属August Living Range且Kmart官网标注全部'bestsellers'、悉尼/布里斯班顾客'obsessed'一人购入3块（来源：salefinder.com.au Kmart八月目录 / au.lifestyle.yahoo.com 2026-07~08）",
+        "Aldi/Crofton同款$24.99此前Special Buys售罄、官方回复'可能回归'——同一拱形形态两次售罄，证明需求是持续趋势而非一次性事件（来源：nine.com.au 2026-06-29 Aldi官方回复）",
+        "Amazon AU供给侧无拱形/大理石纹切菜板：搜索'arch chopping board'头部全部为传统矩形木/竹/玻璃砧板（Ziruma相思木$40+、Avanti玻璃$20+、Boos Block核桃木高端线），拱形审美形态在亚马逊完全空白，Kmart线下有货=线上可平移验证（来源：amazon.com.au搜索 2026-08-28）",
+        "1688供应链成熟：义乌嘉莉厨具外贸出口仿大理石PP菜板¥6起（小号30×20×0.5cm）、金华武义雨琛等工厂多款跨境专供大理石纹菜板，拱形需定制开模或寻现货拱形UPE板（来源：chinagoods.com / yiwugo.com 2026-08）"
+      ],
+      "trend_score": 76,
+      "trend_direction": "rising",
+      "reason": "现在是布局时间点：①Kmart/Aldi双渠道售罄+8月目录仍在主推，证明这是延续3个月以上的中期审美趋势（澳区quiet luxury/巧克力棕/marble风），不是一闪单品；②9-12月澳州春夏季聚会季（圣诞BBQ、野餐、酒会、cheese board场景）是摆盘板类需求峰值，10月前上架可吃满整季+圣诞送礼；③Amazon AU供给空白+Kmart $20价格锚点，A$15.99-17.99单板+差异化色系（Kmart没有的水磨石/confetti/焦糖棕）有明确切入位。完全合规：UPE/PP塑料无电子/电池/液体，但重量是红线——必须锁≤28×18×0.3cm薄板（约140-165g含包装），0.5cm厚板（约270g）直接超标。",
+      "action": "定位：拱形大理石纹UPE/PP切菜板单板（兼摆盘/装饰），锁规格28×18×0.3cm内、重140-165g含包装（死活守住≤200g空运线）。定价A$16.99（低于Kmart $20锚点，高于Temu廉价板建立品质感）。1688搜索'仿大理石菜板 PP 出口'选现货，拱形款需向义乌/金华工厂询'拱形砧板定制'（开模费约¥300-800），或先推矩形大理石纹板+拱形作为二期。差异化：Kmart没有的色系（水磨石terrazzo/confetti金色花纹/焦糖棕）+挂孔设计+附防滑硅胶垫。Lisiting埋伏'arch board''marble serving board''charcuterie board''quiet luxury kitchen'。注意：寄样实测重量（每批抽3块称重），大理石纹印刷用转印工艺防掉色（Kmart版差评点为图案脱落）。",
+      "competition": "低-中竞争（Amazon AU无拱形款：传统木砧板占据$30-60高价带且超重，玻璃砧板$20+重1kg+；线下参照系Kmart $20（现货售罄中）、Aldi $24.99已售罄；Temu有低价塑料板但无拱形审美款）。风险点：①尺寸/重量控制（0.5cm厚即超200g红线，必须0.3cm）②Kmart线下补货后价格锚点压力③拱形开模前期成本（可用矩形款先验证需求，拱形二期上）。差评concern（参考Kmart同款社媒反馈）：'pattern wears off'（图案脱落）、'too thin'（太薄变形）、'scratches from knives'（刀痕）——选PP+转印工艺、厚度≥3mm验证。",
+      "signal_scores": {
+        "trend": 76,
+        "gap": 74,
+        "profit": 78,
+        "final": 76,
+        "recommendation": "BUY",
+        "gap_level": "低竞争中零供给：澳区双渠道（Kmart/Aldi）售罄验证需求+Kmart八月目录仍在主推，Amazon AU完全空白；线下已验证=线上可平移",
+        "profit_window": "A$16.99：1688采购¥8≈A$1.75，佣金13%≈A$2.21，FBA A$4.2，空运头程≈A$0.6，净利≈A$8.2，毛利率≈52%（calc_profit.py实测margin 52.0%）。若加配件（防滑硅胶垫+食谱卡）升级A$18.99毛利率≈53%"
+      }
+    },
+    {
+      "keyword": "multifunctional vegetable peeler 3 in 1 with scallion slicer and bottle opener 2 pack wooden handle",
+      "keyword_cn": "三合一削皮器 削皮+小葱切丝+开瓶器 木柄304不锈钢 2支装 厨房备菜神器",
+      "amazon_keyword": "vegetable peeler 3 in 1, multifunctional peeler with scallion slicer, green onion slicer peeler, peeler with bottle opener, wooden handle peeler, scallion shredder, 2 pack vegetable peeler, kitchen gadget australia",
+      "search_1688": "三合一削皮器 小葱切丝 外贸 跨境 / 多功能削皮刀 木柄 切丝",
+      "demand_signals": [
+        "Amazon AU当下最强动能单品：'2026 New Multifunctional Vegetable Peeler 3 in 1'占据Kitchen & Dining Best Sellers第1位（B0GTVMLGHF），同时进Movers & Shakers单日排位+595%（417→60），8个卖家报价$9.30起——多卖家同频上架=品类级需求爆发而非单店操作（来源：amazon.com.au Best Sellers/Movers 2026-08-28）",
+        "Kmart $6拉绳切菜器TikTok走红佐证澳洲厨房小工具社媒热度：@remotely_interesting视频2.4万+观看，买家'joy of never having to cry over chopping onions again'——切葱/备菜是澳区TikTok厨房内容高频场景，同为切葱痛点的切丝削皮器共享该趋势红利（来源：news.com.au Kmart pull chopper viral 2026）",
+        "全球品类教育完成：scallion slicer/green onion cutter是TikTok亚洲料理内容（拉面/寿司/越南粉配菜）全球爆款工具，epicurious等主流美食媒体专门评测推荐；澳洲亚洲餐饮文化渗透率高，消费者认知成本极低（来源：epicurious.com scallion shredder评测）",
+        "头部质量差评=品质空档：AU站在售3合1削皮器（Lokinanas B0GTVMLGHF）仅3.1星，'blade dulls quickly''clogs'等质量问题集中，8个卖家均为白牌无品牌护城河——高品质2支装+木柄是明确差异化切口（来源：amazon.com.au顾客评论 2026-08）",
+        "1688供应链极致成本：义乌外贸专供三合一削皮器（清洁刷+刨丝器）¥3/个、组合削皮刀¥1.5-3.6/支、多配件切片套装¥3-4.23——2支装成本可压到¥6以内，重量86g/支完全合规（来源：chinagoods.com / wiki.1688.com 2026-08）"
+      ],
+      "trend_score": 72,
+      "trend_direction": "rising",
+      "reason": "正在爆发的动能窗口：Movers单日+595%+Best Sellers榜首意味着需求曲线当前最陡，跟车比追末期更划算；Kmart同痛点品类走红证明澳区需求真实；而3.1星头部评价=首批买家已用脚投票表达不满，品质升级版是标准的'差评红利'入场。时间上无季节依赖（厨房常青工具），现在上架2周内即可吃到本轮动能中段。完全合规：86g/支，2支装约172g+包装≤200g，20×6×3.5cm尺寸卡进包装红线。",
+      "action": "定位：三合一削皮器2支装（削皮+小葱切丝+开瓶器），木柄+304不锈钢刀片+可拆洗设计。定价A$12.99（对比在售8家单支$9.30，2支装单位成本更低+客单更高）。1688搜索'三合一削皮器 小葱切丝 外贸'或'多功能削皮刀 木柄 切丝'，要求304钢刀片+木柄锁固（防松脱差评点）+圆孔挂钩，首批300-500套空运测款。差异化：双色木柄（原木+胡桃色）+附赠迷你磨刀棒+牛皮纸环保包装（澳区环保偏好）。Listing主打'scallion slicer''no more crying onions''3 in 1 space saving'，关键词埋伏'kitchen gadget''meal prep''asian cooking'。注意：寄样实测切丝均匀度+刀片保持性（3.1星差评核心问题）。",
+      "competition": "中竞争但有结构空档（8个卖家价格战$9.30起，但头部仅3.1星无品牌、无2支装组合、无木柄高品质款；传统OXO/Kuhn Rikon等大牌削皮器$12-25高价带）。风险点：①单支价格战底线（不做单支，用2支装+品质差异化避开）②刀片质量承诺（差评集中区，需实测）③US站同款已多——AU窗口依赖本地listing质量。差评concern（AU站3.1星提炼）：'blades dull fast'（刀片易钝）、'clogs with peel'（卡皮）、'loose handle'（手柄松动）——选品需304钢+一体注塑手柄+可拆洗结构验证。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 62,
+        "profit": 80,
+        "final": 71,
+        "recommendation": "BUY",
+        "gap_level": "中竞争中的品质空档：价格已卷到$9.30但质量评分3.1星；2支装+木柄+品质背书可跳出白牌价格泥潭，吃Best Sellers榜首的自然流量",
+        "profit_window": "2支装A$12.99：1688采购¥6≈A$1.30，佣金13%≈A$1.69，FBA A$4.2，空运头程≈A$0.4，净利≈A$5.4，毛利率≈44.7%（calc_profit.py实测）。若做3支装家庭装A$15.99（采购¥9≈A$1.95）毛利率≈46%"
+      }
+    },
+    {
+      "keyword": "travel jewellery organizer roll lightweight foldable case women",
+      "keyword_cn": "旅行首饰收纳卷 便携折叠 首饰收纳盒 织物/PU材质 防缠绕 出行收纳",
+      "amazon_keyword": "travel jewellery organizer, jewellery roll, jewellery travel case, foldable jewellery bag, jewellery organiser roll women, travel jewelry pouch, necklace organizer travel, jewellery storage case lightweight",
+      "search_1688": "首饰收纳卷 旅行 便携 跨境 出口 / 首饰收纳盒 PU 折叠 旅行",
+      "demand_signals": [
+        "AU站价格带畸形=结构性留白：AfitLulu迷你首饰卷（仅12g）A$30.75、mookaitedcor刺绣款A$56、BAGSMART Peri折叠款A$50（悉尼发货）——中端A$15-25带完全真空，且这些listing评论稀少无护城河（来源：amazon.com.au / bagsmart.com.au 2026-08-28检索）",
+        "澳洲旅行季启动：9月底学校假期（Spring Break）+春夏季出行高峰+11-3月澳洲婚礼季，旅行收纳需求进入年度上行窗口；疫情后澳洲国际旅行恢复，出行配件是复苏受益品类（来源：澳洲学校假期日历/旅行季节规律 2026）",
+        "圣诞送礼季预埋：首饰收纳是高频礼物品类（独立站BAGSMART澳洲站主推、产品页明示gift定位'wedding/birthday/Mother's Day/Christmas'），现在备货10-11月即可吃到圣诞送礼流量（来源：bagsmart.com.au产品页 2026-08）",
+        "全球品类教育成熟：travel jewellery organizer是Amazon全球常青品类，US站供给充足且评论充分，澳洲站滞后约2-3年=时间差套利窗口，无需教育成本（来源：amazon.com全球品类格局 2026）",
+        "1688供应链充裕：义乌跨境款首饰卷¥4.5起（19.5×14.5cm织物卷、跨境专供）、PU折叠首饰盒¥8.13-12.5（京漫JM-586主打亚马逊）、迷你PU折叠卷（四口袋设计，重量<50g，Winnerpak）——¥5-9/个即可拿到优质货（来源：yiwugo.com / giftboxmfg.com 2026-08）"
+      ],
+      "trend_score": 58,
+      "trend_direction": "rising",
+      "reason": "本品不是社媒爆款逻辑，而是结构性的'价格带套利+季节窗口'：AU站全品类被BAGSMART/海外品牌钉死在A$30-56，中端A$15-20真空且供给稀薄；9月起学校假期+春夏季旅行+圣诞送礼三重窗口叠加，有3-4个月销售跑道；1688成本¥5-9完全支撑A$17.99定价（对比在售$30+砍半仍有52%毛利）。诚实标注：trend_score 58更多来自季节窗口与供给真空而非趋势爆发，属稳健型gap play，适合与两个动能型选品组合对冲。完全合规：织物/PU无电子/液体，100-120g轻松卡进空运线。",
+      "action": "定位：旅行首饰收纳卷（5分区：戒指条+耳钉页+项链扣带+拉链袋+防刮内衬），织物/PU防水面料，重约100-120g。定价A$17.99（对比A$30-56在售砍半，建立中端性价比心智）。1688搜索'首饰收纳卷 跨境 便携'（¥4.5-9），选PU外层+绒面内衬+五金拉链款，首批200-300个空运测款（027店小批量策略）。差异化：澳式审美色系（焦糖棕/鼠尾草绿/燕麦色——对齐Kmart quiet luxury趋势，避免粉黑白老三样）+内页分隔改进（在售款差评为项链难固定）+附收纳袋。Listing主打'no more tangled necklaces''compact travel essential''gift for her'，关键词埋伏'travel essentials''wedding season''christmas gift'。注意：确认五金件（拉链/按扣）防锈测试，首饰直接接触面料做染色测试。",
+      "competition": "低竞争（AU站供给稀薄且高价化：amazon.com.au在售首饰卷仅个位数listing、评论稀少无护城河；BAGSMART等走独立站A$50高价带不碰Amazon；US站已验证品类成熟度但AU尚未内卷）。风险点：①品类需求天花板低于前两品（gap play属性）②海外品牌若跟进降价无壁垒③首饰类目需注意材质安全表述合规（避免'纯银保险'等过度承诺）。差评concern（参考US同类）：'necklaces still tangle'（项链仍缠绕——需分区设计验证）、'zipper broke'（拉链坏）、'smells chemical'（PU异味——需通风散味处理）。",
+      "signal_scores": {
+        "trend": 58,
+        "gap": 72,
+        "profit": 76,
+        "final": 66,
+        "recommendation": "BUY",
+        "gap_level": "低竞争中的价格带真空：AU站锚定A$30-56高价带且供给稀薄，A$15-20中端无人；9月起旅行+婚礼+圣诞三重季节窗口提供确定性需求",
+        "profit_window": "A$17.99：1688采购¥9≈A$2.0，佣金13%≈A$2.34，FBA A$4.2，空运头程≈A$0.5，净利≈A$8.95，毛利率≈52.5%（calc_profit.py实测margin 52.5%）。若做'首饰卷+洗漱包'旅行套组A$19.99（采购¥14≈A$3.05）毛利率≈46%"
+      }
+    }
+  ],
+  "trend_forecast": "未来3周（2026年8月28日至9月18日）需求窗口与操作节点：\n\n①【拱形大理石纹菜板 — 澳区quiet luxury审美趋势中段】Kmart/Aldi双渠道售罄+八月Living目录持续主推（7/23-8/12档期仍延续），爆款生命周期已3个月且未衰减；9-12月春夏季BBQ/野餐/酒会摆盘场景+圣诞送礼=4个月需求跑道，10月前上架吃满整季，推荐★★★★。\n\n②【三合一削皮器 — 动能正在峰值】Amazon AU Best Sellers榜首+Movers单日+595%，多卖家同频上架证明品类级爆发；Kmart $6拉绳切菜器走红同频佐证。无季节依赖，2周内上架吃到动能中段，推荐★★★★。\n\n③【旅行首饰收纳卷 — 三重季节窗口开启】9月底学校假期+春夏季旅行+圣诞送礼预埋，10-11月进入圣诞采购期；旅行类产品从9月起持续走强至12月，推荐★★★。\n\n④【父亲节9月6日 — 已确认错过】距父亲节9天，空运+入仓时效无法赶上送礼高峰，本期无父亲节押注（BBQ烤垫等按春秋季长线布局不受影响）。\n\n⑤【下一节点预埋】Back to School（Term 1）2027年1月底文具窗口12月中旬铺货；圣诞=盛夏海滩/BBQ场景，户外/派对类10月进入备货决策窗口；EOFY大促下一波2027年6月。冬季已近尾声（8月末），保暖类需求退潮不入。\n\n⑥【市场预期管理】澳洲容量约为英国1/10，本期3个推荐（2动能型+1稳健gap型）属正常水平；发现任务每个工作日运行，随扫描数据积累逐步校准品类覆盖。"
+}
