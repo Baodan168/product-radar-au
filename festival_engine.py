@@ -192,6 +192,100 @@ def get_urgency_icon(urgency):
     }.get(urgency, "")
 
 
+# ── 四季选品面板（2026-08-28）──
+# 南半球季节：春9-11月 / 夏12-2月 / 秋3-5月 / 冬6-8月
+SEASONS = {
+    "spring": {"label": "春季", "en": "Spring", "icon": "🌸", "months": (9, 10, 11),
+               "color": "var(--oa-green)"},
+    "summer": {"label": "夏季", "en": "Summer", "icon": "🏖️", "months": (12, 1, 2),
+               "color": "var(--oa-orange)"},
+    "autumn": {"label": "秋季", "en": "Autumn", "icon": "🍂", "months": (3, 4, 5),
+               "color": "#b45309"},
+    "winter": {"label": "冬季", "en": "Winter", "icon": "❄️", "months": (6, 7, 8),
+               "color": "var(--oa-blue)"},
+}
+
+
+def _season_of(month: int) -> str:
+    """月份 → 季节key（南半球）。非法月份返回空串。"""
+    for key, info in SEASONS.items():
+        if month in info["months"]:
+            return key
+    return ""
+
+
+def _current_season_key() -> str:
+    return _season_of(datetime.now().month)
+
+
+def generate_season_panel(festivals):
+    """生成季节按钮行 + 四季选品推荐面板（含数据与交互JS）。
+
+    季节推荐词来自 season_engine.MONTHLY_SEASONAL_KEYWORDS（同一词表喂雷达
+    扫描的发现关键词，季节面板与扫描行为保持一致）。面板事件计数按
+    data-month 属性匹配 season-filtering，与现有月份/紧急度过滤互不干扰。
+    """
+    from season_engine import MONTHLY_SEASONAL_KEYWORDS
+
+    # 每季节聚合：月份×3的推荐词（去重保序）+ 季节内事件统计
+    season_data = {}
+    event_month = {}
+    for f in festivals:
+        try:
+            event_month[f.get('id', '')] = int(f['date'][5:7])
+        except (ValueError, TypeError, IndexError):
+            continue
+    for key, info in SEASONS.items():
+        kws, seen = [], set()
+        for m in info["months"]:
+            for kw in MONTHLY_SEASONAL_KEYWORDS.get(m, []):
+                k = kw.lower().strip()
+                if k not in seen:
+                    seen.add(k)
+                    kws.append(kw)
+        cnt = sum(1 for mid, m in event_month.items() if m in info["months"])
+        season_data[key] = {"kws": kws, "events": cnt}
+
+    cur = _current_season_key()
+
+    # 季节按钮行（默认高亮当前季节）
+    btns = []
+    for key, info in SEASONS.items():
+        active = ' season-btn-active' if key == cur else ''
+        btns.append(
+            f'<button class="season-btn{active}" data-season="{key}" '
+            f'onclick="setSeason(this, \'{key}\')">'
+            f'{info["icon"]} {info["label"]}({info["months"][0]}-{info["months"][-1]}月)</button>'
+        )
+    season_nav = f'<div class="season-nav">{"".join(btns)}</div>'
+
+    # 推荐面板（默认显示当前季节）
+    panels = []
+    panel_js = []
+    for key, info in SEASONS.items():
+        d = season_data[key]
+        kws_html = "".join(f'<span class="season-kw">{htmlmod.escape(k)}</span>' for k in d["kws"])
+        cur_mark = ' <span class="season-cur-tag">当前</span>' if key == cur else ''
+        panels.append(f'''
+      <div class="season-panel" id="seasonPanel-{key}" data-season="{key}" style="display:{"block" if key == cur else "none"}">
+        <div class="season-panel-head">
+          <span class="season-panel-title">{info["icon"]} {info["label"]}选品推荐（{info["months"][0]}-{info["months"][-1]}月）{cur_mark}</span>
+          <span class="season-panel-meta">覆盖 {d["events"]} 个节日事件 · {len(d["kws"])} 个推荐方向</span>
+        </div>
+        <div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节日</div>
+        <div class="season-kw-list">{kws_html}</div>
+      </div>''')
+        panel_js.append(
+            f'seasonPanelData["{key}"]={json.dumps(d["kws"], ensure_ascii=False)};'
+        )
+
+    panel_html = ('<div id="seasonPanelWrap">' + "".join(panels) + '</div>')
+    panel_data_js = ("const seasonPanelData={};\n" + "\n".join(panel_js)
+                     + f'\nconst currentSeasonKey="{cur}";')
+
+    return season_nav + panel_html, panel_data_js
+
+
 def generate_festival_html(festivals):
     """生成 Festival Planner 的 HTML"""
     if not festivals:
@@ -206,6 +300,9 @@ def generate_festival_html(festivals):
         stats[urgency] += 1
 
     total_skus = sum(len(f.get('products', [])) for f in festivals)
+
+    # 四季选品面板（按钮行+推荐面板+交互JS数据）
+    season_panel, season_panel_js = generate_season_panel(festivals)
     
     # 找到最近的备货节点（用海运，周期最长）
     upcoming = None
@@ -235,9 +332,12 @@ def generate_festival_html(festivals):
         countdown_html = ''
 
     # 生成 HTML
+    # 标题年份范围从数据派生（date是唯一可信时间来源，见 festival-rendering-pitfalls）
+    dates_sorted = sorted(f.get('date', '') for f in festivals if f.get('date'))
+    range_label = f"{dates_sorted[0][:4]} {dates_sorted[0][5:7]}月 - {dates_sorted[-1][:4]} {dates_sorted[-1][5:7]}月" if dates_sorted else ''
     html = f'''
     <div class="festival-header">
-      <h2>📅 Festival Planner 2026 Jul - 2027 Jun | {len(festivals)} Events | {total_skus} SKUs</h2>
+      <h2>📅 Festival Planner {range_label} | {len(festivals)} Events | {total_skus} SKUs</h2>
       <div class="countdown">
         今日 <strong>{today}</strong>
         {countdown_html}
@@ -266,7 +366,9 @@ def generate_festival_html(festivals):
     <div class="month-nav">
       {"".join(f'<a href="#month-{m}" onclick="scrollToMonth({m})">{m}月</a>' for m in range(1, 13))}
     </div>
-    
+
+    {season_panel}
+
     <div class="filter-bar festival-filter-bar">
       <div class="filter-group">
         <label>品类</label>
@@ -513,6 +615,21 @@ def generate_festival_html(festivals):
     <button id="backToTop" class="back-to-top" onclick="scrollToTop()" title="回到顶部">↑</button>
     
     <script>
+    ''' + season_panel_js + '''
+    // 季节按钮：切面板 + 过滤月份（南半球：春9-11/夏12-2/秋3-5/冬6-8）
+    function setSeason(btn, key) {
+      document.querySelectorAll('.season-btn').forEach(b => b.classList.remove('season-btn-active'));
+      btn.classList.add('season-btn-active');
+      document.querySelectorAll('.season-panel').forEach(p => {
+        p.style.display = (p.dataset.season === key) ? 'block' : 'none';
+      });
+      const monthMap = {spring:[9,10,11], summer:[12,1,2], autumn:[3,4,5], winter:[6,7,8]};
+      window._seasonMonths = monthMap[key] || [];
+      // 季节是主动筛选：清掉月份下拉避免两者打架
+      document.getElementById('filterMonth').value = '';
+      filterFestivals();
+    }
+
     // 筛选功能
     function filterFestivals() {
       const category = document.getElementById('filterCategory').value;
@@ -520,6 +637,7 @@ def generate_festival_html(festivals):
       const urgency = document.getElementById('filterUrgency').value;
       const search = document.getElementById('filterSearch').value.toLowerCase();
       const hidePast = document.getElementById('filterHidePast').checked;
+      const seasonMonths = window._seasonMonths || null;
 
       document.querySelectorAll('.festival-card').forEach(card => {
         const cardMonth = card.dataset.month;
@@ -530,6 +648,7 @@ def generate_festival_html(festivals):
         let show = true;
         // 已过节日默认收起，除非用户主动在紧急度里选"已过"查看
         if (hidePast && cardUrgency === 'past' && urgency !== 'past') show = false;
+        if (seasonMonths && !seasonMonths.includes(parseInt(cardMonth, 10))) show = false;
         if (category && cardCategory !== category) show = false;
         if (month && cardMonth !== month) show = false;
         if (urgency && cardUrgency !== urgency) show = false;
@@ -565,6 +684,8 @@ def generate_festival_html(festivals):
       document.getElementById('filterUrgency').value = '';
       document.getElementById('filterSearch').value = '';
       document.getElementById('filterHidePast').checked = true;
+      window._seasonMonths = null;
+      document.querySelectorAll('.season-btn').forEach(b => b.classList.remove('season-btn-active'));
       filterFestivals();
     }
     

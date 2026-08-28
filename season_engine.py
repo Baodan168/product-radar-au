@@ -109,19 +109,11 @@ def get_upcoming_events(days_ahead=90):
     return upcoming
 
 
-def get_seasonal_keywords():
-    """Return search keywords relevant to the current season.
-
-    Based on the current month and upcoming events in the next 30 days.
-    Returns list of keyword strings suitable for Amazon AU / AnySearch.
-    """
-    today = datetime.now()
-    month = today.month
-
-    # Seasonal keyword map — 南半球季节 ⭐️ 澳洲：12-2月夏 / 3-5月秋 / 6-8月冬 / 9-11月春
-    # 父亲节9月(第一个周日)、母亲节5月、Back to School 1月底(Term 1)、圣诞=盛夏海滩BBQ、EOFY 6月30
-    # 关键词提前量对齐空运截止（节日前~45天开始扫描相关品类）
-    seasonal = {
+# Seasonal keyword map — 南半球季节 ⭐️ 澳洲：12-2月夏 / 3-5月秋 / 6-8月冬 / 9-11月春
+# 父亲节9月(第一个周日)、母亲节5月、Back to School 1月底(Term 1)、圣诞=盛夏海滩BBQ、EOFY 6月30
+# 关键词提前量对齐空运截止（节日前~45天开始扫描相关品类）
+# 2026-08-28 提升为模块常量：festival_engine 的季节面板复用同一份月度词表，避免双份维护
+MONTHLY_SEASONAL_KEYWORDS = {
         1: ["back to school stationery", "lunch box", "desk organiser",
             "beach accessories", "summer toys"],
         2: ["valentine gift ideas", "romantic gift", "beach accessories",
@@ -148,7 +140,17 @@ def get_seasonal_keywords():
              "bbq tools", "post-christmas storage organiser"],
     }
 
-    keywords = seasonal.get(month, ["kitchen accessories", "home gadgets"])
+
+def get_seasonal_keywords():
+    """Return search keywords relevant to the current season.
+
+    Based on the current month and upcoming events in the next 30 days.
+    Returns list of keyword strings suitable for Amazon AU / AnySearch.
+    """
+    today = datetime.now()
+    month = today.month
+
+    keywords = list(MONTHLY_SEASONAL_KEYWORDS.get(month, ["kitchen accessories", "home gadgets"]))
 
     # Add upcoming event keywords
     upcoming = get_upcoming_events(days_ahead=30)
