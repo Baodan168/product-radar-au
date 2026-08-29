@@ -593,7 +593,7 @@ def main():
 
     # 7b. Market Intelligence (supply-demand + trend divergence) — 软着陆可跳
     print("\n[7b] Market Intelligence...", file=sys.stderr)
-    market = analyze_market(products, trend_data, history_days=3) if _time_left() > 60 else {"sd_ratios": {}, "divergences": []}
+    market = analyze_market(products, trend_data, history_days=3) if _time_left() > 60 else {"sd_ratios": {}, "divergences": {}}
     sd_ratios = market["sd_ratios"]
     divergences = market["divergences"]
     if sd_ratios:
