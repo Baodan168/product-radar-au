@@ -250,7 +250,7 @@ def analyze_gaps(trend_data, sd_ratios, amazon_products):
         }
         
         gap["url_amazon"] = f"https://www.amazon.com.au/s?k={first_suggest.replace(' ', '+')}"
-        gap["url_google"] = f"https://trends.google.com/trends/explore?q={first_suggest.replace(' ', '+')}&geo=GB"
+        gap["url_google"] = f"https://trends.google.com/trends/explore?q={first_suggest.replace(' ', '+')}&geo=AU"
         
         gaps.append(gap)
     

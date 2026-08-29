@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """
 AnySearch trend fetcher v2 - expanded multi-source trend analysis
-Searches: TikTok, HotUKDeals, Temu, Etsy, YouTube, Google Trends, Reddit
+Searches: TikTok, Ozbargain, Temu, Etsy, YouTube, Google Trends, Reddit
+（AU 折扣社区 = ozbargain.com.au，替代 UK 版折扣站）  # site-check: allow
 """
 import json, subprocess, re, sys
 from pathlib import Path
 from datetime import datetime
 
 BASE = Path(__file__).parent.parent
+sys.path.insert(0, str(BASE))
+
+from constants import get_au_season
+
 ANYSEARCH = str(Path.home() / ".hermes/skills/search/anysearch/scripts/anysearch_cli.py")
 
 
@@ -32,10 +37,9 @@ def _run_anysearch(query, domain="general", max_results=8, freshness="week"):
 
 
 def _get_season(month):
-    if month in (3, 4, 5): return "spring"
-    if month in (6, 7, 8): return "summer"
-    if month in (9, 10, 11): return "autumn"
-    return "winter"
+    # 2026-08-29 修复：原实现是北半球（6-8月=summer），导致澳洲冬天的
+    # 趋势查询全在搜 "summer products"。统一走 constants 的南半球逻辑。
+    return get_au_season(month)
 
 
 def fetch_trend_signals():
@@ -58,10 +62,10 @@ def fetch_trend_signals():
             (f"TikTok viral products Australia under $20 useful {year}", "ecommerce"),
             ("TikTok made me buy it Australia 2026 best products", "ecommerce"),
         ],
-        "hotukdeals": [
+        "ozbargain": [
             ("site:ozbargain.com.au Amazon AU best deals trending", "general"),
-            (f"hotukdeals popular deals {season} {year} small items", "general"),
             ("ozbargain most voted Amazon AU accessories gadgets", "general"),
+            ("Australia bargain deals popular small items trending", "general"),
         ],
         "temu": [
             (f"Temu Australia best sellers trending products {season}", "ecommerce"),
@@ -136,15 +140,22 @@ def _analyze_trends(results, source_names):
         "seasonal": ["christmas", "halloween", "easter", "valentine", "birthday", "gift"],
     }
 
-    # Seasonal boost
+    # Seasonal boost（2026-08-29 修复：原为北半球月份映射，澳洲 6-8 月是冬天
+    # 却在 boost garden/bbq 夏季品类。现按南半球季节；圣诞是日历驱动，
+    # 全球 10-12 月备货，与半球无关，单独处理）
     season_month = datetime.now().month
     seasonal_kw = set()
-    if season_month in (6, 7, 8):
-        seasonal_kw = {"garden", "outdoor", "bbq", "travel", "sports", "solar", "water bottle"}
-    elif season_month in (11, 12, 1):
-        seasonal_kw = {"christmas", "gift", "candle", "decor", "lighting", "blanket", "throw"}
-    elif season_month in (3, 4, 5):
-        seasonal_kw = {"garden", "cleaning", "storage", "organiser", "easter", "plant"}
+    if season_month in (10, 11, 12):
+        seasonal_kw |= {"christmas", "gift", "candle", "decor"}
+    season = get_au_season(season_month)
+    if season == "summer":       # 12-2月：海滩/户外/防暑
+        seasonal_kw |= {"garden", "outdoor", "bbq", "travel", "sports", "solar", "water bottle", "beach"}
+    elif season == "autumn":     # 3-5月：复活节+收纳+换季
+        seasonal_kw |= {"garden", "cleaning", "storage", "organiser", "easter", "plant"}
+    elif season == "winter":     # 6-8月：室内+保暖+EOFY(6月财年末)
+        seasonal_kw |= {"blanket", "throw", "puzzle", "indoor", "storage", "organiser", "gift"}
+    else:                        # spring 9-11月： spring planting + 父亲节(9月) + 户外回暖
+        seasonal_kw |= {"garden", "outdoor", "plant", "camping", "sports"}
 
     # Count category mentions across all results
     category_scores = {}

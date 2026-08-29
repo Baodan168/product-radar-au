@@ -1,0 +1,32 @@
+name: Tests
+
+# 2026-08-29 全面审查后新增：核心管线此前零 CI 覆盖。
+# 跑两样东西：AU 本地化守卫（site_check）+ 全量 pytest（含南半球季节、
+# 三项硬成本利润口径、节日倒计时回归）。
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install test deps
+        run: pip install pytest
+
+      - name: AU localization guard
+        run: python3 tools/site_check.py
+
+      - name: Run tests
+        run: python3 -m pytest tests/ -q

@@ -135,8 +135,8 @@ function esc(s){const d=document.createElement('div');d.textContent=s||'';return
 // 这是 audit P0 说的「esc() 只适合 HTML 文本转义」的具体补丁。
 function escAttr(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];})}
-// 外链统一过白名单，挡住 javascript: / data: 和任意第三方域
-var URL_HOSTS=[/^([a-z0-9-]+\.)*amazon\.co\.uk$/,/^([a-z0-9-]+\.)*amazon\.com\.au$/,/^([a-z0-9-]+\.)*media-amazon\.com$/,
+// 外链统一过白名单，挡住 javascript: / data: 和任意第三方域（AU 站点）
+var URL_HOSTS=[/^([a-z0-9-]+\.)*amazon\.com\.au$/,/^([a-z0-9-]+\.)*media-amazon\.com$/,
   /^([a-z0-9-]+\.)*ssl-images-amazon\.com$/,/^([a-z0-9-]+\.)*1688\.com$/,
   /^trends\.google\.(com|com\.au)$/,/^Baodan168\.github\.io$/];
 function safeUrl(u){
@@ -302,7 +302,7 @@ function renderDiscovery() {
         ${compHtml}
         ${radarHtml}
         <div class="search-btns">
-          <a class="btn-search amazon" href="${safeUrl(amzUrl)}" target="_blank" rel="noopener noreferrer">🛒 Amazon UK 搜索「${esc(amzKw)}」</a>
+          <a class="btn-search amazon" href="${safeUrl(amzUrl)}" target="_blank" rel="noopener noreferrer">🛒 Amazon AU 搜索「${esc(amzKw)}」</a>
           <a class="btn-search alibaba" href="${safeUrl(aliUrl)}" target="_blank" rel="noopener noreferrer">🏭 1688 搜索「${esc(aliKw)}」</a>
           <a class="btn-search google" href="${safeUrl(gtUrl)}" target="_blank" rel="noopener noreferrer">📊 Google Trends</a>
         </div>
@@ -363,7 +363,8 @@ function renderRadar() {
     const img=p.image_url?`<div class="pc-img"><img src="${safeUrl(p.image_url)}" alt="${esc(p.name)}" loading="lazy"/></div>`:'<div class="pc-img"><div class="ph">📦</div></div>';
     const url=p.amazon_url||(p.asin?`https://www.amazon.com.au/dp/${p.asin}`:'#');
     const cb=p.cost_breakdown||{};
-    const costH=cb.vat?`<button class="cost-tog" data-act="toggle-cost">💰 成本明细</button><div class="cost-det">VAT: A$${cb.vat?.toFixed(2)||'-'} · 佣金: A$${cb.commission?.toFixed(2)||'-'} · FBA: A$${cb.fba?.toFixed(2)||'-'}<br>广告: A$${cb.ads?.toFixed(2)||'-'} · 退货: A$${cb.returns?.toFixed(2)||'-'} · 采购: A$${cb.sourcing?.toFixed(2)||'-'}<br><b>总成本: A$${cb.total_cost?.toFixed(2)||'-'} · 净利润: A$${(p.net_profit||0).toFixed(2)}</b></div>`:'';
+    // AU 利润模型 = 佣金+FBA+采购 三项硬成本（2026-08-26 Lee 口径，GST/广告/退货运营端消化）
+    const costH=cb.total_cost?`<button class="cost-tog" data-act="toggle-cost">💰 成本明细</button><div class="cost-det">佣金: A$${cb.commission?.toFixed(2)||'-'} · FBA: A$${cb.fba?.toFixed(2)||'-'} · 采购: A$${cb.sourcing?.toFixed(2)||'-'}<br>（GST/广告/退货由运营端消化，不计入利润模型）<br><b>总成本: A$${cb.total_cost?.toFixed(2)||'-'} · 净利润: A$${(p.net_profit||0).toFixed(2)}</b></div>`:'';
     const sigs=(p.sources||[]).filter(s=>typeof s==='string').map(s=>{let c='';if(s.includes('TikTok'))c='tiktok';if(s.includes('多源'))c='multi';return`<span class="sig ${escAttr(c)}">${s}</span>`}).join('');
     const sd=p.sd_label?`<span class="sig sd">${p.sd_label}</span>`:'';
     return `<div class="pc" data-status="${escAttr(st)}" data-asin="${escAttr(p.asin||'')}">

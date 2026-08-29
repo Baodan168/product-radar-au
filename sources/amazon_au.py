@@ -399,12 +399,13 @@ def _parse_amazon_page(html, category, channel_type):
             frac = re.search(r'class="a-price-fraction"[^>]*>([\d]+)', block)
             if whole and frac:
                 price = float(f"{whole.group(1)}.{frac.group(1)}")
-                # If the price symbol indicates non-GBP, convert roughly
+                # 价格符号不是 A$ 时按汇率粗略折算成 AUD
+                # （CNY→AUD 唯一来源 config.json exchange_rate_cny_aud，Lee 2026-08-29 定 4.8）
                 sym_match = re.search(r'class="a-price-symbol"[^>]*>(\w+)', block)
                 if sym_match and sym_match.group(1) not in ('$', 'A$', 'AUD'):
-                    # Rough GBP conversion: 1 GBP ≈ 9 CNY ≈ 1.3 USD ≈ 1.2 EUR ≈ 0.85 CHF
-                    rates = {'CNY': 4.6, 'USD': 1.5, 'EUR': 1.65, 'GBP': 1.95, 'NZD': 0.92}
-                    rate = rates.get(sym_match.group(1), 4.6)
+                    cny_aud = CONFIG.get('exchange_rate_cny_aud', 4.8)
+                    rates = {'CNY': cny_aud, 'USD': 1.5, 'EUR': 1.65, 'GBP': 1.95, 'NZD': 0.92}
+                    rate = rates.get(sym_match.group(1), cny_aud)
                     price = round(price / rate, 2)
         if price_match:
             price_str = price_match.group(1).replace('$', '').replace(',', '').strip()

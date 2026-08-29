@@ -12,6 +12,8 @@ Key changes from v2:
 import json, sys, re
 from pathlib import Path
 
+from constants import EVENT_TAG_KEYWORDS, get_au_season
+
 BASE = Path(__file__).parent
 CONFIG = json.loads((BASE / "config.json").read_text())
 
@@ -89,7 +91,7 @@ def _classify_signal_sources(product):
     Returns (internal_sources, external_sources, external_count).
 
     Internal = Amazon platform data (new_releases, bsr, wished, gifts, movers_shakers)
-    External = Independent demand signals (TikTok, Google Trends, HotUKDeals, Temu, Etsy, YouTube, Reddit)
+    External = Independent demand signals (TikTok, Google Trends, Ozbargain, Temu, Etsy, YouTube, Reddit)
     """
     sources = [x.lower() for x in product.get("sources", [])]
     sources_str = " ".join(sources)
@@ -108,7 +110,7 @@ def _classify_signal_sources(product):
     # External: independent demand signals (each counts as 1)
     if "tiktok" in sources_str: external.append("TikTok")
     if product.get("google_trend") == "rising": external.append("Google")
-    if "hotukdeals" in sources_str: external.append("HotUKDeals")
+    if "hotukdeals" in sources_str or "ozbargain" in sources_str: external.append("Ozbargain")
     if "temu" in sources_str: external.append("Temu")
     if "etsy" in sources_str: external.append("Etsy")
     if "youtube" in sources_str: external.append("YouTube")
@@ -156,7 +158,7 @@ WEIGHTS = {
     "tiktok": 20,
     "google_rising": 15,
     "reddit": 5,
-    "hotukdeals": 12,
+    "ozbargain": 12,
     "temu": 8,
     "etsy": 6,
     "youtube": 10,
@@ -243,9 +245,9 @@ def score_product(product, trend_data=None, history=None):
         pts = WEIGHTS["reddit"]
         total += pts; breakdown["💬 Reddit"] = pts
 
-    if any("hotukdeals" in s for s in sources):
-        pts = WEIGHTS["hotukdeals"]
-        total += pts; breakdown["🔥 HotUKDeals"] = pts
+    if any("hotukdeals" in s or "ozbargain" in s for s in sources):
+        pts = WEIGHTS["ozbargain"]
+        total += pts; breakdown["🔥 Ozbargain"] = pts
 
     if any("temu" in s for s in sources):
         pts = WEIGHTS["temu"]
@@ -349,9 +351,7 @@ def score_product(product, trend_data=None, history=None):
         total += pts; breakdown["📉 无需求信号"] = pts
 
     # === Seasonal ===
-    from datetime import datetime
-    month = datetime.now().month
-    season = "summer" if month in (12,1,2) else "winter" if month in (6,7,8) else "spring" if month in (9,10,11) else "autumn"  # 南半球（澳洲）反季
+    season = get_au_season()  # 南半球（澳洲）反季，逻辑统一在 constants
     seasonal_cfg = CONFIG.get("seasonal_categories", {})
     hot_kw = set(kw.lower() for kw in seasonal_cfg.get(f"{season}_hot", []))
 
@@ -409,12 +409,6 @@ def score_all_products(products, trend_data=None, history=None):
     # Count products per category for diversity scoring
     cat_counts = Counter(p.get("category", "unknown") for p in products)
 
-    # Track event products for overflow penalty
-    EVENT_KEYWORDS = {
-        'world cup', 'euro', 'olympic', 'olympics', 'jubilee', 'coronation',
-        'christmas', 'halloween', 'easter', 'valentine'
-    }
-
     for p in products:
         score, breakdown = score_product(p, trend_data, history)
 
@@ -444,12 +438,12 @@ def score_all_products(products, trend_data=None, history=None):
 
         # Event overflow penalty: if product is event-related
         name_lower = p.get("name", "").lower()
-        is_event = any(kw in name_lower for kw in EVENT_KEYWORDS)
+        is_event = any(kw in name_lower for kw in EVENT_TAG_KEYWORDS)
         if is_event:
             # Count how many event products exist in same category
             event_in_cat = sum(1 for pp in products
                               if pp.get("category") == category
-                              and any(kw in pp.get("name", "").lower() for kw in EVENT_KEYWORDS))
+                              and any(kw in pp.get("name", "").lower() for kw in EVENT_TAG_KEYWORDS))
             if event_in_cat >= 4:
                 pts = WEIGHTS["event_overflow"]
                 score += pts

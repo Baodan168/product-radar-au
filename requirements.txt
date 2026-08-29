@@ -18,3 +18,5 @@ playwright-stealth>=2.0.0
 
 # Note: playwright requires browser install:
 #   playwright install chromium
+# Tests
+pytest>=8.0.0

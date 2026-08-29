@@ -77,7 +77,18 @@ def _extract_js_array(content, marker):
 
 
 def _parse_js_array(js_array):
-    """用 node 把 JS 对象字面量转成 JSON（键没引号，json 模块吃不下）。"""
+    """解析 JS 对象字面量数组 → Python list。
+
+    快路径：AU 数据文件（au_festivals_data.js）键名全带引号，本身就是合法
+    JSON，直接 json.loads——不依赖 node，Windows/精简环境也能跑。
+    兜底：UK 版旧格式键名无引号，json 吃不下，交给 node 转 JSON。
+    """
+    # 1) 纯 Python 快路径
+    try:
+        return json.loads(js_array)
+    except (ValueError, TypeError):
+        pass
+    # 2) node 兜底（无引号键名的旧格式）
     temp_file = None
     try:
         with tempfile.NamedTemporaryFile(mode='w', suffix='.js', delete=False,

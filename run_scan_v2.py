@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Product Radar v2 - Multi-source Channel Aggregation
-Sources: Amazon (New/BSR/Wished/Gifts), TikTok, HotUKDeals, Temu, Etsy, YouTube, Google Trends, Reddit
+Product Radar v2 (AU) - Multi-source Channel Aggregation
+Sources: Amazon AU (New/BSR/Wished/Gifts), TikTok, Ozbargain, Temu, Etsy, YouTube, Google Trends, Reddit
 """
 import json, sys, os
 import concurrent.futures
@@ -14,6 +14,7 @@ BASE = Path(__file__).parent
 sys.path.insert(0, str(BASE))
 
 from scanner import is_forbidden, calc_profit
+from constants import EVENT_KEYWORDS_MAP, EVENT_TAG_KEYWORDS, get_au_season
 from sources.amazon_au import fetch as fetch_amazon
 from sources.tiktok_shop import fetch as fetch_tiktok
 from sources.google_trends import fetch_demand_signals, extract_trending_keywords
@@ -72,7 +73,7 @@ def enrich_from_trend_data(products, trend_data):
     cat_scores = trend_data.get("category_scores", {})
     
     source_map = {
-        "hotukdeals": "HotUKDeals热帖",
+        "ozbargain": "Ozbargain折扣",
         "temu": "Temu热销",
         "etsy": "Etsy趋势",
         "youtube": "YouTube种草",
@@ -165,22 +166,14 @@ def enrich_reddit(products, reddit_text):
 
 def filter_products(products, config):
     passed, rejected = [], []
-    from datetime import datetime
     month = datetime.now().month
-    season = "summer" if month in (12,1,2) else "winter" if month in (6,7,8) else "spring" if month in (9,10,11) else "autumn"  # 南半球（澳洲）反季
+    season = get_au_season(month)  # 南半球（澳洲）反季，逻辑统一在 constants
 
     seasonal = config.get("seasonal_categories", {})
     off_season_key = f"{season}_cold"
     off_season_kw = set(kw.lower() for kw in seasonal.get(off_season_key, []))
     forbidden_brands = set(b.lower() for b in config.get("forbidden_brands", []))
-    max_reviews = config.get("max_reviews", 300)
-
-    # Event keywords for limiting event-based products
-    EVENT_KEYWORDS = {
-        'world cup', 'euro 2024', 'euro 2025', 'euro 2026', 'olympic', 'olympics',
-        'jubilee', 'coronation', 'christmas', 'halloween', 'easter', 'valentine',
-        'mother\'s day', 'father\'s day', 'black friday', 'prime day'
-    }
+    max_reviews_cfg = config.get("max_reviews", 300)
 
     # Load user-rejected ASINs
     import pathlib
@@ -201,12 +194,8 @@ def filter_products(products, config):
         if asin and asin in user_rejected:
             rejected.append({"name": name[:60], "reason": "用户标记不考虑", "asin": asin}); continue
 
-        # 1. 禁选品类/关键词
-        result = is_forbidden(name, category)
-        if isinstance(result, tuple):
-            forbidden, reason = result
-        else:
-            forbidden, reason = result, ""
+        # 1. 禁选品类/关键词（is_forbidden 统一返回元组）
+        forbidden, reason = is_forbidden(name, category)
         if forbidden:
             rejected.append({"name": name[:60], "reason": f"禁选: {reason}", "asin": p.get("asin")}); continue
 
@@ -228,10 +217,9 @@ def filter_products(products, config):
             rejected.append({"name": name[:60], "reason": f"大牌: {brand_hit}", "asin": p.get("asin")}); continue
 
         # 3. 评论数范围（排除红海+排除无验证产品）
-        max_reviews = config.get("max_reviews", 100)
         min_reviews = 3  # 最低3条评论，捕捉上升期产品
-        if reviews > max_reviews:
-            rejected.append({"name": name[:60], "reason": f"评论{reviews}>{max_reviews}(红海)", "asin": p.get("asin")}); continue
+        if reviews > max_reviews_cfg:
+            rejected.append({"name": name[:60], "reason": f"评论{reviews}>{max_reviews_cfg}(红海)", "asin": p.get("asin")}); continue
         # 新品榜和Movers & Shakers允许0评论
         if reviews < min_reviews and p.get("channel", "") not in ("new_releases", "movers_shakers"):
             rejected.append({"name": name[:60], "reason": f"评论{reviews}<{min_reviews}(无验证)", "asin": p.get("asin")}); continue
@@ -269,24 +257,13 @@ def filter_products(products, config):
 def limit_event_products(products, max_per_event=2):
     """Limit products from the same event to avoid domination.
     Returns filtered list with max N products per event type."""
-    EVENT_KEYWORDS = {
-        'world cup': 'world_cup',
-        'euro 2024': 'euro', 'euro 2025': 'euro', 'euro 2026': 'euro',
-        'olympic': 'olympics', 'olympics': 'olympics',
-        'jubilee': 'royal', 'coronation': 'royal',
-        'christmas': 'christmas', 'halloween': 'halloween',
-        'easter': 'easter', 'valentine': 'valentine',
-        'mother\'s day': 'mothers_day', 'father\'s day': 'fathers_day',
-        'black friday': 'black_friday', 'prime day': 'prime_day'
-    }
-
     event_groups = {}
     non_event = []
 
     for p in products:
         name_lower = p.get('name', '').lower()
         matched_event = None
-        for keyword, event_type in EVENT_KEYWORDS.items():
+        for keyword, event_type in EVENT_KEYWORDS_MAP.items():
             if keyword in name_lower:
                 matched_event = event_type
                 break
@@ -397,7 +374,7 @@ def assign_channel_tags(p):
     tags = [channel]
 
     if any("tiktok" in s for s in sources): tags.append("tiktok_verified")
-    if any("hotukdeals" in s for s in sources): tags.append("hotukdeals")
+    if any("hotukdeals" in s or "ozbargain" in s for s in sources): tags.append("ozbargain")
     if any("temu" in s for s in sources): tags.append("temu_trending")
     if any("etsy" in s for s in sources): tags.append("etsy_trending")
     if any("youtube" in s for s in sources): tags.append("youtube_review")
@@ -407,12 +384,8 @@ def assign_channel_tags(p):
         tags.append("multi_source")
 
     # Event product tagging
-    EVENT_KEYWORDS = {
-        'world cup', 'euro', 'olympic', 'olympics', 'jubilee', 'coronation',
-        'christmas', 'halloween', 'easter', 'valentine'
-    }
     name_lower = p.get("name", "").lower()
-    if any(kw in name_lower for kw in EVENT_KEYWORDS):
+    if any(kw in name_lower for kw in EVENT_TAG_KEYWORDS):
         tags.append("event_product")
         p["is_event"] = True
     else:
@@ -442,7 +415,7 @@ def main():
 
     print(f"\n{'='*60}", file=sys.stderr)
     print(f"  Product Radar v2 | {scan_date} {scan_time}", file=sys.stderr)
-    print(f"  Sources: Amazon+TikTok+HotUKDeals+Temu+Etsy+YouTube+Google+Reddit", file=sys.stderr)
+    print(f"  Sources: Amazon AU+TikTok+Ozbargain+Temu+Etsy+YouTube+Google+Reddit", file=sys.stderr)
     print(f"{'='*60}\n", file=sys.stderr)
 
     # 1. Amazon (New/BSR/Wished/Gifts)
@@ -478,7 +451,7 @@ def main():
         except Exception as e:
             print(f"  ⚠️ 关键词扫描失败，跳过: {e}", file=sys.stderr)
 
-    # 2. AnySearch trends (TikTok+HotUKDeals+Temu+Etsy+YouTube+Google+Reddit)
+    # 2. AnySearch trends (TikTok+Ozbargain+Temu+Etsy+YouTube+Google+Reddit)
     # ⚠️ 2026-08-07 加固：21 个查询同步跑，_run_anysearch 的 subprocess timeout=30
     # 会被网络黑洞穿透，整步卡满 600s 拖垮扫描（14:00 cron 连续两天失败于此步）。
     # 用 daemon 线程整体兜底（同 [4/7] Google Trends 模式）：超时丢弃结果不阻塞管道，
@@ -587,7 +560,7 @@ def main():
     # 6. Enrich with AnySearch source signals
     print("\n[6/7] Enriching with trend signals...", file=sys.stderr)
     amazon_products = enrich_from_trend_data(amazon_products, trend_data)
-    for src_tag in ["HotUKDeals热帖", "Temu热销", "Etsy趋势", "YouTube种草"]:
+    for src_tag in ["Ozbargain折扣", "Temu热销", "Etsy趋势", "YouTube种草"]:
         cnt = sum(1 for p in amazon_products if src_tag in p.get("sources", []))
         if cnt: print(f"  {src_tag}: {cnt} products", file=sys.stderr)
 

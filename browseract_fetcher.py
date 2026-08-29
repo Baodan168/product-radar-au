@@ -18,6 +18,10 @@ import time
 import threading
 from pathlib import Path
 
+# CNY→AUD 汇率唯一来源 config.json（Lee 2026-08-29 定 4.8），注入到 EXTRACT_JS
+_CONFIG = json.loads((Path(__file__).parent / "config.json").read_text(encoding="utf-8"))
+_CNY_AUD = _CONFIG.get("exchange_rate_cny_aud", 4.8)
+
 BROWSER_ID = "chrome_local_103642719185797272"
 SESSION_PREFIX = "radar"
 TIMEOUT_NAV = 10
@@ -81,17 +85,17 @@ EXTRACT_JS = r"""(() => {
     if (img) imgUrl = img.src;
     
     if (title && price > 0) {
-      // Auto-detect CNY and convert to GBP (Amazon shows CNY for Chinese IP)
+      // Auto-detect CNY and convert to AUD (Amazon shows CNY for Chinese IP)
       // ¥ symbol or prices > 100 on Amazon AU usually means CNY
-      let gbpPrice = price;
+      let audPrice = price;
       const priceText = priceEl ? priceEl.textContent : '';
       if (priceText.includes('¥') || priceText.includes('￥') || (price > 50 && !priceText.includes('A$'))) {
-        gbpPrice = Math.round(price / 9.2 * 100) / 100;  // CNY → GBP rate 9.2 (fixed)
+        audPrice = Math.round(price / __CNY_AUD__ * 100) / 100;  // CNY → AUD（config 注入）
       }
       items.push({
         asin: asin,
         name: title.substring(0, 120),
-        price: gbpPrice,
+        price: audPrice,
         reviews: reviews,
         rating: rating,
         image_url: imgUrl
@@ -100,6 +104,9 @@ EXTRACT_JS = r"""(() => {
   });
   return JSON.stringify(items);
 })()"""
+
+# 注入 config 里的 CNY→AUD 汇率（JS 是静态字符串，只能字符串替换）
+EXTRACT_JS = EXTRACT_JS.replace("__CNY_AUD__", str(_CNY_AUD))
 
 
 def _run_browseract(args, timeout=15, stdin_data=None):

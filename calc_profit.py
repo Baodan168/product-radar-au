@@ -5,8 +5,9 @@
 成本结构来自 config.json cost_structure（GST 10% / 佣金13-15% / FBA A$4.2起）
 """
 import json, sys
+from pathlib import Path
 
-CONFIG = json.load(open('config.json'))
+CONFIG = json.loads((Path(__file__).parent / 'config.json').read_text(encoding='utf-8'))
 
 def calc_profit(price_aud, category="general", sourcing_aud=None):
     """Calculate profit for a given AUD price.

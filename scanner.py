@@ -1,40 +1,15 @@
 #!/usr/bin/env python3
-"""Product Radar - Core utilities
-Provides: is_forbidden (keyword/category filter), calc_profit (margin calculator).
+"""Product Radar AU - Core utilities
+Provides: is_forbidden (keyword/category filter), calc_profit (re-export from calc_profit.py).
 Scoring is handled by scoring_engine.py.
 """
 import json, os, sys, re
-from datetime import datetime, timedelta
 from pathlib import Path
+
+from calc_profit import calc_profit as _calc_profit  # 单一利润实现，禁止在本文件重写
 
 BASE = Path(__file__).parent
 CONFIG = json.loads((BASE / "config.json").read_text())
-
-
-def load_history(days=7):
-    """Load recent snapshots for trend detection."""
-    hist_dir = BASE / CONFIG["output"]["history_dir"]
-    history = {}
-    cutoff = datetime.now() - timedelta(days=days)
-    for f in sorted(hist_dir.glob("*.json")):
-        try:
-            d = datetime.strptime(f.stem, "%Y-%m-%d")
-            if d >= cutoff:
-                data = json.loads(f.read_text())
-                for item in data:
-                    key = item.get("asin") or item.get("name", "").lower().strip()
-                    if key not in history:
-                        history[key] = []
-                    history[key].append({
-                        "date": f.stem,
-                        "rank": item.get("rank"),
-                        "price": item.get("price"),
-                        "reviews": item.get("reviews"),
-                        "score": item.get("score", 0)
-                    })
-        except (ValueError, json.JSONDecodeError):
-            continue
-    return history
 
 
 def is_forbidden(name, category=""):
@@ -106,7 +81,8 @@ def is_forbidden(name, category=""):
     # --- Volume/weight detection ---
     max_ml = 0
     max_l = 0
-    max_kg = CONFIG.get("max_weight_g", 200) / 1000
+    max_weight_g = CONFIG.get("max_weight_g", 200)
+    max_kg = max_weight_g / 1000
     CONTAINER_KEYWORDS = {'bottle', 'flask', 'tumbler', 'jug', 'carafe', 'pitcher', 'thermos', 'canteen', 'watering can'}
     is_container = any(kw in text for kw in CONTAINER_KEYWORDS)
 
@@ -165,36 +141,13 @@ def is_forbidden(name, category=""):
     if kg_match and float(kg_match.group(1)) > max_kg:
         return True, f"重量 {kg_match.group(0)} (>{max_kg*1000:.0f}g)"
     g_match = re.search(r'(\d+)\s*(?:g\b|grams?)', text)
-    if g_match and int(g_match.group(1)) > CONFIG.get("max_weight_g", 300):
-        return True, f"重量 {g_match.group(0)} (>{CONFIG.get('max_weight_g', 300)}g)"
+    if g_match and int(g_match.group(1)) > max_weight_g:
+        return True, f"重量 {g_match.group(0)} (>{max_weight_g}g)"
 
-    return False
+    # 统一返回元组 (forbidden, reason)，调用方无需再做 isinstance 判断
+    return False, ""
 
 
 def calc_profit(price_aud, category="general"):
-    c = CONFIG["cost_structure"]
-    comm_rate = c["commission_rate"]
-    if "home" in category.lower() or "kitchen" in category.lower():
-        comm_rate = c["commission_home"]
-    elif "pet" in category.lower():
-        comm_rate = c["commission_pets"]
-
-    # 2026-08-26 Lee调整：不计广告、退货、GST三项费用
-    # （Lee口径：这三项由运营端自行消化，雷达只看硬成本=佣金+FBA+采购）
-    commission = price_aud * comm_rate
-    fba = c["fba_small_standard"]
-    sourcing = c.get("sourcing_cost", 1.30)
-
-    total_cost = commission + fba + sourcing
-    net_profit = price_aud - total_cost
-    margin = net_profit / price_aud if price_aud > 0 else 0
-    return {
-        "net_profit": round(net_profit, 2),
-        "margin": round(margin, 3),
-        "breakdown": {
-            "commission": round(commission, 2),
-            "fba": fba,
-            "sourcing": sourcing,
-            "total_cost": round(total_cost, 2)
-        }
-    }
+    # 2026-08-29 统一利润口径：实现收敛到 calc_profit.py，这里仅保留兼容转发
+    return _calc_profit(price_aud, category)

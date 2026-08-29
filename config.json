@@ -2,7 +2,7 @@
   "platform": "Amazon AU",
   "price_range": {
     "min": 8.99,
-    "max": 19.99
+    "max": 16.99
   },
   "min_profit_margin": 0.2,
   "max_weight_g": 200,
@@ -199,65 +199,28 @@
     "beauty"
   ],
   "sources": {
-    "amazon_uk": {
+    "_comment": "实际抓取源由 sources/ 目录的模块硬编码实现（amazon_au.py 五榜、keyword_scanner.py 关键词搜索、anysearch_trends.py 趋势组）。本段仅作文档记录，代码不读取。AU 站对应：Amazon五榜=amazon.com.au、折扣社区=ozbargain.com.au（UK站HotUKDeals的对应物）、Reddit=AskAnAustralian/AusFrugal、TikTok/Temu/Etsy/YouTube查询词均带 Australia。改抓取行为请改 sources/ 模块，别改这里。",
+    "amazon_au": {
       "enabled": true,
       "priority": "new_releases",
-      "categories": [
-        "kitchen",
-        "diy-tools",
-        "garden",
-        "automotive",
-        "sports",
-        "office-products",
-        "kitchen-dining",
-        "bathroom",
-        "storage-organisation",
-        "cleaning",
-        "crafts",
-        "stationery",
-        "home",
-        "bedding",
-        "pet-supplies",
-        "diy-craft-tools",
-        "home-improvement",
-        "pet-toys",
-        "car-accessories",
-        "travel-accessories",
-        "party-supplies",
-        "bathroom-accessories",
-        "home-storage",
-        "kitchen-accessories",
-        "phone-accessories",
-        "tech-accessories"
-      ],
-      "urls": {
-        "new_releases": "https://www.amazon.co.uk/gp/new-releases/{cat}",
-        "bestsellers": "https://www.amazon.co.uk/gp/bestsellers/{cat}",
-        "movers_shakers": "https://www.amazon.co.uk/gp/movers-and-shakers/{cat}"
-      }
+      "url_template": "https://www.amazon.com.au/gp/{channel}/{cat}"
     },
-    "tiktok_shop_uk": {
+    "ozbargain_au": {
       "enabled": true,
       "priority": "high",
-      "platforms": [
-        "https://fastmoss.com/uk/ranking/product",
-        "https://www.kalodata.com/ranking/uk",
-        "https://shoplus.net/ranking/product/uk"
-      ]
+      "domain": "ozbargain.com.au"
     },
-    "google_trends_uk": {
+    "google_trends_au": {
       "enabled": true,
       "priority": "high",
-      "geo": "GB"
+      "geo": "AU"
     },
-    "reddit_demand": {
+    "reddit_demand_au": {
       "enabled": true,
       "subreddits": [
-        "r/CasualUK",
-        "r/AskUK",
-        "r/FrugalUK",
-        "r/AmazonUK",
-        "r/UKFrugal"
+        "r/AskAnAustralian",
+        "r/AusFrugal",
+        "r/australia"
       ]
     }
   },
@@ -339,5 +302,6 @@
     "_comment": "看板状态同步。endpoint 留空则只存本地浏览器，不做远端同步。部署方法见 cloudflare-worker.js 顶部注释。",
     "endpoint": ""
   },
-  "exchange_rate_cny_aud": 7.3
+  "exchange_rate_cny_aud": 4.8,
+  "_exchange_rate_note": "2026-08-29 Lee 定价：1 AUD ≈ 4.8 CNY。全仓库唯一汇率来源；sources/amazon_au.py 的币种转换与 signal 计算都从这里取。改动需同步跑 calc_profit.py 校准利润率≥20%。"
 }

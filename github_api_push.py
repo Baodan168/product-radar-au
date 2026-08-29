@@ -9,6 +9,18 @@ import http.client
 REPO = 'Baodan168/product-radar-au'
 BRANCH = 'main'
 
+# ── 仓库瘦身（2026-08-29）─────────────────────────────────────────
+# 原实现把 data/channels、data/history、data/discovery 各推最近 12 个文件，
+# 其中 raw JSON 单文件最大 355KB，每天多次扫描 → 远程仓库每年膨胀 ~100MB，
+# 且 blob 永久留在 git 历史。本机是唯一开发环境、Pages 只读 output/，
+# 原始扫描数据远程副本无人消费。故：
+#   1) 只推 data/discovery（小体积，且是发现链路的上游产物）+ output/ 产物；
+#   2) 对远程 main 树里已存在的 data/channels|data/history 文件做一次性删除
+#      （本地文件不受影响；git 历史里的旧 blob 需 BFG/filter-repo 才能清除，
+#       是否重写历史交由 Lee 决定，此处不做）。
+PUSH_SUBDIRS = ('data/discovery', 'output', 'output/data', 'output/assets')
+CLEANUP_PREFIXES = ('data/channels/', 'data/history/')
+
 # 部署只推「内容变化」的文件：用 sha1 状态文件记录上次推送的文件指纹，
 # 未变化的文件跳过（output/analysis 85 个 html 每次全量重传是 900s 预算下
 # 最大的浪费——138 文件全推 ~150s，变更集通常只有 ~40 个文件 ~50s）。
@@ -110,6 +122,12 @@ def push_files(files, message):
     if batch:
         tree_items.extend(_upload_batch(batch))
 
+    # 一次性清理远程树里的原始扫描数据（sha=None = 删除该项）
+    deletes = _cleanup_tree_items(base_tree)
+    if deletes:
+        print(f'  🧹 清理远程历史数据文件 {len(deletes)} 个（{", ".join(CLEANUP_PREFIXES)}）')
+    tree_items.extend(deletes)
+
     if not tree_items:
         print('  无变更')
         return
@@ -128,6 +146,20 @@ def push_files(files, message):
         state[rel_path] = sha
     _save_state(state)
 
+def _cleanup_tree_items(base_tree):
+    """列出远程树中位于 CLEANUP_PREFIXES 下的文件，返回删除型 tree item。"""
+    try:
+        tree = api('GET', f'/repos/{REPO}/git/trees/{base_tree}?recursive=1')
+    except Exception as e:
+        print(f'  ⚠️ 清理扫描跳过（树读取失败）: {e}')
+        return []
+    items = []
+    for entry in tree.get('tree', []):
+        path = entry.get('path', '')
+        if entry.get('type') == 'blob' and path.startswith(CLEANUP_PREFIXES):
+            items.append({'path': path, 'mode': '100644', 'type': 'blob', 'sha': None})
+    return items
+
 def _upload_batch(batch):
     items = []
     for rel_path, abs_path in batch:
@@ -143,7 +175,7 @@ if __name__ == '__main__':
     files = []
 
     import glob
-    for subdir in ('data/channels', 'data/history', 'data/discovery', 'output', 'output/data', 'output/assets'):
+    for subdir in PUSH_SUBDIRS:
         full = os.path.join(base, subdir)
         if not os.path.isdir(full):
             continue
