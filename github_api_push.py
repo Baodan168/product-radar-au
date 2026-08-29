@@ -9,17 +9,14 @@ import http.client
 REPO = 'Baodan168/product-radar-au'
 BRANCH = 'main'
 
-# ── 仓库瘦身（2026-08-29）─────────────────────────────────────────
-# 原实现把 data/channels、data/history、data/discovery 各推最近 12 个文件，
-# 其中 raw JSON 单文件最大 355KB，每天多次扫描 → 远程仓库每年膨胀 ~100MB，
-# 且 blob 永久留在 git 历史。本机是唯一开发环境、Pages 只读 output/，
-# 原始扫描数据远程副本无人消费。故：
-#   1) 只推 data/discovery（小体积，且是发现链路的上游产物）+ output/ 产物；
-#   2) 对远程 main 树里已存在的 data/channels|data/history 文件做一次性删除
-#      （本地文件不受影响；git 历史里的旧 blob 需 BFG/filter-repo 才能清除，
-#       是否重写历史交由 Lee 决定，此处不做）。
-PUSH_SUBDIRS = ('data/discovery', 'output', 'output/data', 'output/assets')
-CLEANUP_PREFIXES = ('data/channels/', 'data/history/')
+# ── 推送范围（2026-08-29 产物出库后）─────────────────────────────
+# 当日瘦身说明：data/channels|history 的远程副本曾因「无人消费」被一次性删除
+# （raw JSON 单文件最大 355KB，远程仓库每年膨胀 ~100MB）。
+# 同日起产物出库落地（update.yml 由 CI 现场生成 output/），CI 成为
+# data/channels 的真实消费者 → channels 重新纳入推送（滚动最近 12 个）；
+# data/history 仍无消费者，继续留在清理名单。
+PUSH_SUBDIRS = ('data/channels', 'data/discovery')
+CLEANUP_PREFIXES = ('data/history/',)
 
 # 部署只推「内容变化」的文件：用 sha1 状态文件记录上次推送的文件指纹，
 # 未变化的文件跳过（output/analysis 85 个 html 每次全量重传是 900s 预算下
@@ -193,15 +190,12 @@ if __name__ == '__main__':
             if f.endswith('.html'):
                 files.append((f'output/analysis/{f}', os.path.join(ana_dir, f)))
 
-    # Always-push files
-    # 门户壳的 JS 从内联抽到了 output/assets/，漏推的话线上门户会白屏
-    for f in ('output/platform.html', 'output/index.html', 'output/assets/portal.js',
-              'output/data/radar-all.js', 'output/data/disc-all.js', 'output/data/festivals.js', 'status.json',
-              # 2026-08-26: 根 index.html 短链跳转到 output/platform.html（Pages 根路径 404 问题）
+    # Always-push files（2026-08-29 起不再含 output/*：门户 HTML/数据 JS 由 CI 生成）
+    for f in ('status.json',
+              # 2026-08-26: 根 index.html 短链跳转（legacy Pages 遗留，workflow 部署下不进 artifact，无害）
               'index.html',
-              # ⚠️ 2026-08-03: platform.html 模板引用 assets/platform.js（仓库根路径），
-              # 但此前只推 output/assets/ → 线上顶层 platform.js 一直是旧版（雷达tab空白根因之一）。
-              # 顶层 assets/ 必须同步，模板引用才会命中新版。
+              # 顶层 assets/ 是生成器的源文件（模板从仓库根路径引用），
+              # 本机改动未 git 提交时由这里兜底同步到远程，漏了会白屏。
               'assets/platform.js', 'assets/portal.js'):
         fp = os.path.join(base, f)
         if os.path.exists(fp):

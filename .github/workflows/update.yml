@@ -5,8 +5,14 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# 同一时刻只允许一个部署：连续两次 push 时排队而不是互踩
+# （上一个部署未结束时，deploy-pages 会直接报 deployment in progress）。
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -17,13 +23,25 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     env:
-      # 数据里的时间戳都是北京时间，runner 默认 UTC，差 8 小时。
-      # 现在这个 workflow 只拷产物、不生成，所以还影响不到页面内容；
-      # 等产物生成挪进 CI（PROPOSAL-artifacts-out-of-git.md）就会影响 ——
-      # 提前设好，免得迁移时漏掉，那会让「数据新鲜度」卡永远显示「刚刚」。
+      # 数据里的时间戳（scan_date、扫描时间）都是北京时间，runner 默认 UTC，
+      # 差 8 小时。「数据新鲜度」卡拿 now 减这些时间戳，不设时区会永远显示「刚刚」，
+      # 而那张卡的用处恰恰是「扫描断了要一眼看出来」。
       TZ: Asia/Shanghai
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'   # festival_engine 用了 PEP 701 的嵌套 f-string
+
+      # 产物出库（对齐 UK 的 PROPOSAL-artifacts-out-of-git.md，2026-08-29 落地）：
+      # index.html / platform.html / output/data/*.js 由 CI 从 data/ 里的扫描数据
+      # 现场生成，main 只存代码和数据，本机 cron 只推 data/。
+      # 生成链路全程标准库（与 UK 同源的生成器），无需装依赖。
+      - name: Generate artifacts in CI
+        run: |
+          python3 generate_platform.py
+          python3 generate_portal.py
 
       - uses: actions/configure-pages@v5
 
@@ -39,9 +57,10 @@ jobs:
           # Create deploy directory
           mkdir -p deploy/data/channels
 
-          # Copy output files
+          # Copy output files（index/platform/data/assets 为上一步 CI 现场生成，
+          # analysis/ 为补货管道入库的静态页）
           cp -r output/* deploy/
-          
+
           # Copy shared design system
           if [ -d shared ]; then
             cp -r shared deploy/shared
@@ -49,16 +68,16 @@ jobs:
 
           # Copy portal assets (JS/CSS extracted out of the generators).
           # Source of truth is assets/ at repo root; output/assets/ is only a
-          # local mirror for the github_api_push.py path and is gitignored.
+          # local build mirror produced by generate_portal.sync_assets().
           if [ -d assets ]; then
             mkdir -p deploy/assets
             cp -r assets/* deploy/assets/
           fi
-          
+
           # Copy data files for date picker
-          # AU: data/channels/ 被 .gitignore 排除（扫描数据只走 API 增量推送，
-          # 不入 git）。CI 里没有这个目录，cp 会红。有则拷，无则跳过。
-          cp data/channels/*.json deploy/data/channels/ 2>/dev/null || echo "  ℹ️ data/channels/ 不在 git 中（API增量推送），跳过"
+          # data/channels/ 在 .gitignore 里（扫描数据只走 API 增量推送，不入 git），
+          # 但仓库树里存在（API 推送绕过 gitignore）。有则拷，无则跳过。
+          cp data/channels/*.json deploy/data/channels/ 2>/dev/null || echo "  ℹ️ data/channels/ 不在树中，跳过"
 
       - uses: actions/upload-pages-artifact@v3
         with:
