@@ -292,6 +292,9 @@ def generate_season_panel(festivals):
         region = SEASON_REGION_TAGS.get(key, {})
         region_n = region.get("north", "")
         region_s = region.get("south", "")
+        # deadline bar 含转义引号，预计算——f-string 表达式里的反斜杠
+        # 在 Python ≤3.11 直接 SyntaxError（PEP 701 之后才放开）
+        deadline_bar = f'<div class="season-deadline-bar">{deadline_text}</div>' if key == cur else ''
         panels.append(f'''
       <div class="season-panel" id="seasonPanel-{key}" data-season="{key}" style="display:{"block" if key == cur else "none"}">
         <div class="season-panel-head">
@@ -299,7 +302,7 @@ def generate_season_panel(festivals):
           <span class="season-panel-meta">覆盖 {d["events"]} 个节日事件 · {len(d["kws"])} 个推荐方向</span>
         </div>
         <div class="season-panel-note">🔎 以下关键词已自动注入每日雷达扫描（与季节同步轮换），点击月份按钮查看该季节日</div>
-        {"<div class=\"season-deadline-bar\">" + deadline_text + "</div>" if key == cur else ""}
+        {deadline_bar}
         <div class="season-region-tags"><span class="region-tag">🌅 北方(QLD/NT): {region_n}</span><span class="region-tag">❄️ 南方(VIC/TAS): {region_s}</span></div>
         <div class="season-kw-list">{kws_html}</div>
       </div>''')
