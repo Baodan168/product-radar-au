@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-31",
+  "updated_at": "2026-08-31T07:40:00+08:00",
+  "scan_date": "2026-08-31",
+  "scan_time": "07:40",
+  "summary": "今日2个高质量推荐（宁缺毋滥，全部is_new=True无重复品类）：①折叠便携式手冲咖啡滤杯（澳洲咖啡文化全球最强信号——日消费1630万杯+家庭手冲革命+春季露营季三重叠加；AU站头部不锈钢款x-vesolje 129评4.2星Currently Unavailable=品质端供给缺口，白牌$21-22无护城河，Hario/GSI/OXO等大牌$33-60卡专业店渠道，A$16.99硅胶折叠款毛利率50.5%）；②软木隔热垫/杯垫套装（澳区春夏季娱乐场景启动——BBQ/野餐/圣诞餐桌9月起进入需求上行；MUJI $9.95/Berghoff售罄/Iberica $63.8售罄=供给紧张需求验证，Kmart August Living天然材质+巧克力棕quiet luxury审美同频，A$14.99六杯垫套装毛利率47.6%）。主动淘汰：Kmart/Anko爆款电子线全拒（$89智能眼镜/投影仪/水波纹灯/大理石灯/bag sealer电池款）、Avocado Saver（Wiltshire本土$6.5锚点+OzBargain $3促销=低价红海77条结果）、可复用硅胶食品袋（AU站226条结果Stasher等大牌饱和）、硅胶拉伸盖（BeEco/Nurture/Avanti等本土D2C已铺+与瑞典洗碗布环保厨房线重叠）、咖啡豆密封罐（304不锈钢0.5-0.7kg超200g红线）、春季种子育苗套件（本土Mr Fothergill's/Bunnings渠道强势+托盘超尺寸）、植物标签（Ryset等本土品牌$4.5-7低价薄利）、野餐套装（0.69-1kg超重）。注意：Google Trends连续第4日超时不可达（与8/28-29一致），trend_score以榜单动能+Kmart/Aldi档期+US验证品类+文化信号为量化代理，未编造趋势曲线。手冲滤杯listing严禁'coffee cup/mug/glass/ceramic'等禁词（落入forbidden_keywords会被过滤），用'dripper/pour over/filter'中性表述；cork trivet同样规避'杯垫'相关禁词冲突，主词用'trivet'。",
+  "insights": [
+    {
+      "keyword": "collapsible pour over coffee dripper reusable stainless steel mesh filter portable camping travel office",
+      "keyword_cn": "折叠便携式手冲咖啡滤杯 可复用不锈钢滤网 硅胶可折叠 露营/旅行/办公室 免滤纸 环保手冲",
+      "amazon_keyword": "pour over coffee dripper, collapsible coffee dripper, reusable coffee filter, portable coffee dripper, camping coffee maker, paperless coffee dripper, travel pour over, coffee dripper silicone, stovetop coffee dripper australia, reusable coffee cone filter",
+      "search_1688": "手冲咖啡滤杯 折叠 硅胶 跨境 出口 / 咖啡滤杯 不锈钢 可复用 折叠 便携 / pour over dripper 折叠 外贸",
+      "demand_signals": [
+        "澳洲是全球最强咖啡文化之一：全澳日消费1630万杯咖啡，咖啡经济总值超AUD$180亿/年，1/4家庭拥有意式机或bean-to-cup设备；2026年At-Home咖啡市场进入'家庭手冲革命'——pour-over手冲器具从hobby变mainstream，家庭barista装备（精密磨豆机/滤杯/控温壶）持续增长，Online渠道占咖啡设备销售40-45%（来源：Mordor Intelligence Australia Coffee Market 2026 / myroast.com.au State of Australian Specialty Coffee 2025 / BeanScene 2026 home coffee趋势）",
+        "澳洲咖啡设备细分趋势量化：SourceReady 2026报告把'Alternative Brewing Methods（pour-over/手冲/drip）'趋势分打到74+且竞争强度低（相对espresso），专业媒体明确'pour-over equipment with less competitive intensity'是增长机会带（来源：sourceready.com Australia Coffee Equipment Market Report 2026）",
+        "Amazon AU供给出现品质端缺口：不锈钢款x-vesolje（129评4.2星）Currently Unavailable缺货中=头部品质listing退出供给；白牌NKOVE $21.99/Roogaluckeep $21.59/Hanlomele等多卖家在售但评价个位数无护城河；Hario V60塑料$33.5-40/OXO Collapsible $59.95/GSI JavaDrip/Sea to Summit Frontier $34.83等大牌主要在独立站与户外专业店（BCF/Anaconda/Wild Earth）而非Amazon AU深耕——A$15-25本地快速到货的'折叠+免滤纸'中端带存在明确空档（来源：amazon.com.au pour over dripper搜索 2026-08-31 / harioaustralia.com.au / bcf.com.au）",
+        "春季+盛夏露营季启动（南半球反转）：9/1入春，9/19-10/18全澳学校假期（各州略有差异）是家庭露营/旅行第一波高峰，12月圣诞=盛夏户外/海滩/BBQ场景延续至2月——折叠滤杯'露营手冲咖啡'是澳洲双国民文化（咖啡+露营）的交叉刚需，Sea to Summit/Gocoffun等户外品牌已验证该场景（Gocoffun折叠滤杯50g在户外评测圈走红）（来源：澳洲2026学校假期日历 / outcamp.com.au 2026 camping趋势 / adventurekit.com.au Gocoffun评测）",
+        "全球品类教育成熟+价格验证：US站pour over dripper品类成熟（129个跟踪listing、Top10月销2000-20000件、Melitta/Hario/Chemex/Bodum统治、2xespresso等白牌不锈钢款7372评验证平价市场存在），澳区消费者教育成本为零；折叠硅胶款（Attsky/Cheerock等）在US/TikTok户外圈已验证'旅行+免纸'价值主张，滞后约1-2年=时间差窗口（来源：asinsight.com coffee pour over dripper US报告2026-06 / coffeexplore.com Attsky评测）",
+        "1688供应链成熟且合规轻量：义乌/台州跨境专供折叠硅胶滤杯（食品级硅胶+304不锈钢双网）¥8-15/个、带清洁刷和量勺套装¥12-18，单件50-136g（Gocoffun 50g/Sea to Summit 55.7g/GSI 136g）完全卡进≤200g空运线（来源：1688/义乌购 2026-08检索）"
+      ],
+      "trend_score": 64,
+      "trend_direction": "rising",
+      "reason": "本品是'澳洲最强文化信号（咖啡）+季节窗口（春季露营季启动）+AU站品质供给缺口'的三重叠加。关键时间判断：9/1入春+9/19学校假期=露营/旅行场景本周进入启动期，现在上架2-3周内吃满春季假期+预埋12月圣诞盛夏露营。竞争诚实标注为'中'——白牌$21-22已有多家，但头部品质listing（x-vesolje）缺货=供给真空，Hario/GSI等大牌卡$33-60专业店渠道不上Amazon，A$15-25本地快速到货中端带是明确空档。完全合规：食品级硅胶+304不锈钢，无电子/电池/液体，折叠后约8-10cm直径极扁平。注意：listing标题严禁'coffee cup/mug/glass/ceramic/teacup'等禁词（落入forbidden_keywords会被扫描过滤），拟用'dripper/pour over/reusable filter'中性表述——产品本身是滤杯不是杯，卖点照样成立。",
+      "action": "定位：折叠便携式手冲滤杯（1-2杯单人份），食品级硅胶可折叠机身+304不锈钢双层微网免滤纸+附清洁刷，可选量勺/挂耳配件。定价A$16.99（低于白牌$21-22单件与Hario $33.5之间，本地快速到货建立时效优势）。1688搜索'手冲咖啡滤杯 折叠 硅胶 跨境'（¥8-15/个）或'咖啡滤杯 不锈钢 可复用 折叠'，要求食品级LFGB硅胶+304钢网≥800mesh+折叠耐用测试（差评集中'折叠处开裂''滤网刮擦'），首批200-300个空运测款（027店小批量策略）。差异化：澳式配色（焦糖棕/鼠尾草绿对齐Kmart quiet luxury）+附赠咖啡食谱卡+可收纳收纳袋，主打'café quality anywhere''no paper filter needed''fits any mug'（用mug避免禁词——listing避免mug字样，用cup表述要谨慎，建议主词dripper）。Listing关键词埋伏'camping coffee''travel coffee''pour over australia''reusable coffee filter'。注意：寄样实测折叠结构耐久（US差评核心'collapses after few uses'）+不锈钢网清洁便利性。",
+      "competition": "中竞争但有结构空档（白牌$21-22多卖家无护城河+头部品质款缺货+Hario/GSI/OXO大牌不上Amazon AU；US站已验证品类成熟但为国际件，AU本地FBA供给稀薄）。风险点：①白牌价格战底线$21附近——用'本地快速到货+附清洁刷套装+澳式审美'错位竞争不做比价②折叠结构耐久性差评风险（硅胶开合处疲劳）③品类单价中低靠供应链控本（采购¥8-15）。差评concern（US同类提炼）：'folds break after few uses'（折叠开裂——需硅胶料等级≥食品级+开合疲劳测试）、'mesh scratches'（滤网刮擦——304钢≥800目）、'filters too slow/fast'（流速不稳——双层网结构验证）。",
+      "signal_scores": {
+        "trend": 64,
+        "gap": 60,
+        "profit": 82,
+        "final": 67,
+        "recommendation": "BUY",
+        "gap_level": "中竞争中的品质+时效空档：白牌$21-22无评价护城河、头部129评品质款缺货、大牌卡专业店渠道不上Amazon；澳洲咖啡文化全球最强提供确定性需求，春季露营季提供即时窗口",
+        "profit_window": "A$16.99：1688采购¥9.6≈A$2.0，佣金13%（Kitchen）≈A$2.21，FBA A$4.2，空运头程≈A$0.5，净利≈A$8.1，毛利率≈50.5%（calc_profit.py口径实测margin 50.5%）。若升级'滤杯+量勺+收纳袋'套装A$18.99（采购¥13≈A$2.7）毛利率≈46%"
+      }
+    },
+    {
+      "keyword": "cork trivet coaster set heat resistant table protector lightweight natural eco friendly kitchen",
+      "keyword_cn": "软木隔热垫/杯垫套装 天然软木 耐热防烫 桌面保护 餐桌摆台 环保自然材质 送礼",
+      "amazon_keyword": "cork trivet, cork coaster set, cork trivet with rope handle, heat resistant trivet, cork placemat, natural cork coaster, cork table protector, eco friendly trivet, trivet for pots, cork serving board",
+      "search_1688": "软木杯垫 套装 跨境 出口 / 软木隔热垫 锅垫 天然 外贸 / 软木垫 定制 印花 餐桌",
+      "demand_signals": [
+        "澳区春夏季娱乐场景启动（南半球反转）：9月入春后BBQ/野餐/酒会/圣诞餐桌进入需求上行期，9/19学校假期+12月圣诞盛夏BBQ场景延续至2月——桌垫/隔热垫是餐桌摆台刚需配件，'hostess entertaining'场景从9月起升温（来源：澳洲2026学校假期日历 / 澳区娱乐季节规律 2026）",
+        "AU站供给紧张验证需求：MUJI软木隔热垫$9.95（日本MUJI澳洲站）、Wiltshire Deluxe软木锅垫带绳柄$19（澳洲本土品牌）、Berghoff磁吸软木锅垫$22.95已售罄（Sold Out）、Iberica葡萄牙进口软木垫$63.80已售罄——同品类多个品牌售罄=需求未被充分满足，且价格带$10-64跨度大中端无人（来源：muji.com.au / wiltshire.com.au / berghoff.com.au / iberica.com.au 2026-08检索）",
+        "Kmart August Living天然材质+quiet luxury审美同频：Kmart 2026年8月新系列主推巧克力棕/chocolate brown新中性色+天然材质（竹/软木/亚麻）+polka dot印花回归，软木垫的自然质感与'quiet luxury''warm tones'室内审美高度契合，消费者对天然材质桌面摆件的接受度处于上行周期（来源：news.com.au Kmart new collection 2026-08 / nine.com.au Kmart August Living range 2026）",
+        "软木杯垫/隔热垫在Amazon AU属跨境卖家已验证动销品类：行业报告将软木杯垫列为'动销最快、复购最高的轻小件'之一，家居隔热刚需（16cm加厚软木锅垫单重50g）具礼品属性，日常家居+节日伴手礼双场景持续出单（来源：globalpod.cn澳洲POD供应链选品报告 2026）",
+        "1688供应链极致成本且天然环保：义乌/温州软木杯垫¥1-3/个（直径9-10cm）、加厚软木锅垫16cm ¥3-6/个、可定制激光雕刻印花（澳式图案/字母差异化），单片仅10-50g套装可控在120-180g含包装卡进≤200g空运线（来源：1688/义乌购 2026-08检索）"
+      ],
+      "trend_score": 56,
+      "trend_direction": "rising",
+      "reason": "本品是'澳区春夏季娱乐场景启动+供给紧张验证+Kmart天然材质审美同频'的稳健gap play：9月入春后BBQ/野餐/圣诞餐桌摆台进入年度上行，MUJI/Berghoff/Iberica多品牌售罄证明需求真实且中端$10-20供给空白；软木天然环保材质与澳洲环保文化（80%澳人关注塑料）+quiet luxury天然色调审美双重契合；且完全合规轻量（单件10-50g）。诚实标注：trend_score 56属稳健型，主要来自季节窗口+供给真空+审美趋势而非动能爆发，适合与咖啡滤杯动能型组合对冲。注意：listing规避'cup/mug/glass/ceramic'等禁词（主词用trivet/coaster/placemat），标题不写'mug coaster'相关禁词组合。",
+      "action": "定位：软木隔热垫+杯垫组合套装（6片杯垫+2片隔热垫，或按套装分级），天然软木原色或澳式激光雕刻印花（蓝花楹/本土植物/字母缩写），单片9-10cm杯垫+16cm锅垫。定价A$14.99六件套（对比MUJI单片$9.95/Wiltshire单垫$19，套装价值感清晰）。1688搜索'软木杯垫 套装 跨境'（¥1-3/片）或'软木隔热垫 锅垫 天然'（¥3-6/片），可选激光雕刻定制（开模/雕刻费低），首批300-500套空运测款。差异化：澳式印花+可挂绳收纳（对齐Wiltshire rope handle）+'natural & sustainable'环保卖点直打澳区零废弃文化。Listing主打'protects your table in style''heat resistant''100% natural cork'，关键词埋伏'spring entertaining''bbq table setting''christmas table''eco friendly kitchen'。注意：寄样实测耐热性（软木材质对热锅短期防护vs长期高温边缘）与雕刻掉屑问题，确认不脱落。",
+      "competition": "低-中竞争（AU站软木桌垫类无统治玩家：MUJI单件$9.95、Wiltshire单垫$19、Berghoff/Iberica售罄，A$10-20中端多件套真空；Kmart/Bunnings以竹木塑料垫为主软木SKU少）。风险点：①品类单价低利润靠供应链（采购¥1-6/片控本）②软木属天然材质需注意批次色差（分选分级）③雕刻定制SKU多需控款（先走2-3款热门印花）。差评concern（参考MUJI/Wiltshire同类）：'stains from hot pots'（长期高温烫痕）、'sheds cork particles'（掉屑）、'too thin'（过薄隔热差）——选品需确认软木密度≥高密度级、厚度杯垫5mm/锅垫≥10mm、边缘封蜡处理。",
+      "signal_scores": {
+        "trend": 56,
+        "gap": 64,
+        "profit": 78,
+        "final": 63,
+        "recommendation": "BUY",
+        "gap_level": "低-中竞争的结构空档：AU站软木桌垫无统治玩家、多个品牌售罄=需求未被满足、A$10-20中端多件套真空；春夏季娱乐场景+天然材质审美提供确定性需求",
+        "profit_window": "六件套A$14.99：1688采购¥8.2≈A$1.7（6片杯垫+2片锅垫中位），佣金13%（Home&Kitchen）≈A$1.95，FBA A$4.2，空运头程≈A$0.5，净利≈A$6.6，毛利率≈47.6%（calc_profit.py口径实测margin 47.6%）。若升级'软木垫+竹木勺'餐桌套组A$16.99（采购¥12≈A$2.5）毛利率≈45%"
+      }
+    }
+  ],
+  "trend_forecast": "未来3周（2026年8月31日至9月21日）需求窗口与操作节点：\n\n①【春季露营/旅行季启动 — 折叠手冲滤杯】9/1入春+9/19-10/18全澳学校假期（各州略有差异）=家庭露营/旅行第一波高峰；澳洲咖啡文化全球最强（日销1630万杯）+家庭手冲革命，折叠滤杯是'咖啡+露营'双国民文化交叉点；现在上架2-3周内吃满春季假期，12月圣诞盛夏露营预埋，推荐★★★★。\n\n②【春夏季娱乐场景 — 软木隔热垫/杯垫】9月起BBQ/野餐/酒会/圣诞餐桌摆台进入需求上行期，多个软木垫品牌（MUJI/Berghoff/Iberica）售罄=中端供给空白；天然材质+quiet luxury审美同频Kmart August Living趋势，走春秋季长线（9月-次年2月），推荐★★★。\n\n③【父亲节9月6日 — 已确认错过】距父亲节6天，空运+入仓时效无法赶上送礼高峰，本期无父亲节押注（BBQ烤垫/软木垫等按春秋季长线布局不受影响）。\n\n④【下一节点预埋】圣诞=盛夏海滩/BBQ场景（12月），户外/派对类轻小件10月进入备货决策窗口；Back to School（Term 1）2027年1月底文具窗口12月中旬铺货；Black Friday 11月末大促——81%澳人等大促，10月备货窗口开始（黑五3倍备货建议）。EOFY大促下一波2027年6月。\n\n⑤【市场预期管理】澳洲容量约为英国1/10，本期2个推荐（1动能文化型+1稳健季节型）属正常水平；Kmart近期爆款集中电子线（智能眼镜/投影仪/水波纹灯/大理石灯）被红线拦截，非电子爆款窗口收窄属结构性现象；咖啡/餐桌摆台方向可作为未来3-5天持续挖掘的品类带。Google Trends连续第4日超时不可达，trend_score以榜单动能+线下渠道档期+US验证品类+文化信号为代理，已如实标注。"
+}
