@@ -22,8 +22,8 @@ OUTPUT_DIR = BASE / 'output'
 TEMPLATE_DIR = BASE / 'templates'
 ASSET_DIR = BASE / 'assets'
 
-SYSTEM_NAME = 'Amazon AU 选品运营OA'
-SYSTEM_SUB = ''
+SYSTEM_NAME = 'Amazon-AU项目'
+SYSTEM_SUB = '选品•运营•新闻'
 PORTAL_VERSION = 'v4.0'
 
 # GitHub Pages 站点根，postMessage 校验和探针都用它
