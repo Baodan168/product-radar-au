@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-01",
+  "updated_at": "2026-09-01T07:40:00+08:00",
+  "scan_date": "2026-09-01",
+  "scan_time": "07:40",
+  "summary": "今日2个高质量推荐（宁缺毋滥，全部is_new=True无重复品类）：①面包割包刀bread lame（home-baking/酸面包结构级趋势——2026年烘焙第一趋势sourdough持续走强，AU站'bread scoring lame'仅19条结果且头部listing'No featured offers'=AU本地FBA供给真空；本地专业酸面包店You Knead $19.95/Flour&Water $15.00/risenflour $14.95多店售罄Sold Out=需求未被满足，US站已验证成熟（737评4.4星$9.99）；A$14.99木柄款毛利率45.1%）；②不锈钢马芬圈/英式马芬圈crumpet rings 4件套（澳洲国民早餐场景——crumpet是澳式早餐标志性单品+酸面包sourdough discard二次利用潮流，本地厨房零售商Appetito 2只$9.95/You Knead 4只$19.95均有真实评论，AU站6-12只套装价格$25-46区间中端4只装真空；US/UK站已验证（Sopito 6只4.4星/Amazon US 6只110-158g轻量合规）；A$14.99四只装毛利率45.1%）。主动淘汰：Kmart/Target/Big W SS26电子线与美妆线全拒（数字日历$229、水波纹灯、投影仪、lactation massager震动器、EcoVacs扫地机、slushie maker）；Kmart$4浴室手套/微纤维（价格锚点过低薄利）；Big W $12黄油碟=陶瓷禁词（ceramic被forbidden_keywords过滤，且易碎超重）；电磁刀架magnetic knife strip（Movers上榜但304钢+磁铁超200g红线）；手动拉绳切菜器（Hot New Releases但拉绳组件+塑料碗普遍250g+超红线）；电盐胡椒磨（USB充电电子线）；Souper Cubes硅胶冷冻格（上次已评估AU站红海+原版907g）；crumpet/bread lame直接对标品US国际件发货无AU Prime=本地快速到货空档。注意：Google Trends连续第5日超时不可达（与8/28-31一致），trend_score以榜单动能+Kmart/Big W/Aldi线下档期+结构级行业报告（Taste Tomorrow 2026 sourdough#1 + IndexBox AU home-baking market A$1.1-1.3B→A$1.7-2.0B by 2035）+US验证品类为量化代理，未编造趋势曲线。面包割包刀listing严禁'knife'可能触发禁词评估（knife本身不在forbidden但避免与cutting/cutter混淆），主词用'lame/scoring tool'；crumpet rings规避'kids/children'等禁词（早餐通用场景不需要kids字样）。",
+  "insights": [
+    {
+      "keyword": "bread lame sourdough scoring tool wooden handle stainless steel blade replaceable blades dough scoring artisan bread baking",
+      "keyword_cn": "面包割包刀/酸面包划口工具 木柄不锈钢刀片 可换刀片 面团割口 欧包烘烤必备",
+      "amazon_keyword": "bread lame, sourdough scoring tool, bread scoring lame, dough scoring knife, baker's lame, sourdough bread tools, bread making accessories, artisan bread scoring, lame bread scorer, wood handle bread lame",
+      "search_1688": "面包割包刀 木柄 不锈钢 跨境 / 欧包割刀 割口刀 lame 烘焙 出口 / 酸面包划口工具 木柄 5刀片",
+      "demand_signals": [
+        "结构级烘焙趋势验证：Taste Tomorrow 2026（基于56国23000消费者调研）将sourdough列为烘焙第一趋势（#1 most talked-about trend），'sourdough bread near me'搜索Q2 2025同比+178%，58%消费者认为酸面包更健康、70%认为风味更好，Taylor Swift酸面包社交热度持续放大品类教育——酸面包从疫情期hobby变成结构性家庭烘焙习惯（来源：puratos.com.au Taste Tomorrow 2026 / fooddrinklife.com sourdough trend 2026-08）",
+        "澳区家庭烘焙市场结构性扩张：IndexBox Australia Home Baking Ingredients市场2026年A$1.1-1.3B、2035年增长至A$1.7-2.0B（CAGR 4-5%），家庭烘焙消费占60-65%；装饰与特殊烘焙段年增10-12%由社媒+季节烘焙驱动；澳区Bread Maker品类sourdough模式成编辑真空+搜索量1250/月（sourdough bread maker 720/月），澳区酸面包热潮2020-2026持续未退（来源：indexbox.io AU home baking market / nestpath.com.au best bread maker AU 2026）",
+        "AU本地专业店SOLD OUT=需求未被满足：You Knead Sourdough木柄lame $19.95售罄Sold Out（48评94%五星）、Flour & Water $15.00售罄、risenflour $14.95、The Kitchen Store $22.65、Everything Sourdough $18.95在售——澳区本土酸面包配件商普遍上架即售罄或高价在售，证明A$12-16中端到货空档真实存在（来源：youkneadsourdough.com.au / flourandwaterbaking.com / risenflour.com.au / everythingourdough.com.au 2026-08/09检索）",
+        "Amazon AU供给侧真空：amazon.com.au搜索'bread scoring lame'仅19条结果，且头部listing（$11.49-30.51区间）大量标注'No featured offers available'=无AU Prime现货仅国际件发货；Gosknor $30+磁吸款/US同步listing $25-36均为高价国际件，A$12-16本地快速到货+木柄5刀片=真空带（来源：amazon.com.au bread scoring lame搜索 2026-09-01 / buywisely.com.au价格对比）",
+        "US/UK市场已验证成熟：US站bread lame 737评4.4星$9.99（磁吸可伸缩款）+Sopito/UK站同款成熟，YMBH同款在Amazon AU $12.99最低、历史低点$6.30——品类成熟教育成本为零，AU滞后约1-2年=时间差套利窗口；1688木柄5刀片lame约¥8-15、带收纳盒10刀片升级款¥15-25（来源：amazon.com US lame listing / buywisely.com.au price history / 1688面包割刀类目 2026-08检索）"
+      ],
+      "trend_score": 66,
+      "trend_direction": "rising",
+      "reason": "本品是'结构级烘焙趋势（sourdough#1）+AU本地专业店售罄+Amazon AU FBA真空'的三重叠加，属动能文化型。关键时间判断：南半球9月入春=室内烘烤活动回暖+9/19学校假期宅家场景+10月进入圣诞烘焙备货教育期（圣诞烘焙=澳区家庭烘焙最大季节节点，IndexBox数据季节烘焙消费峰值+30-50%），现在上架2-3周内吃满春季烘烤启动+预埋圣诞烘焙季。竞争诚实标注为'低-中'——Amazon AU仅19条结果且头部无AU Prime，本土专业店走独立站$15-23高价且多售罄，A$12-16本地快速到货中端带是明确空档。完全合规：木柄+不锈钢刀片+5-10替换刀片，单件约40-80g（US同款数据），无电子/电池/液体，长度16cm以内卡进30×21×6cm包装线。注意：listing标题主词用'lame/scoring tool'，规避易触发误判的表述；刀片为锐器需注意亚马逊上架合规（明示警示标签）。",
+      "action": "定位：木柄面包割包刀lame（酸面包/欧包划口，'完美欧包耳朵'卖点），木柄舒适握持+不锈钢弯刀片5片替换+保护皮套/收纳盒，可选磁吸可伸缩升级款。定价A$14.99（对比本土独立站$14.95-23高价+Amazon国际件$25-36，本地快速到货建立时效+价格优势）。1688搜索'面包割包刀 木柄 不锈钢 跨境'（¥8-15/个）或'酸面包划口工具 木柄 5刀片'，要求马氏体不锈钢（56-58HRC保持锋利200+次，420钢30次即钝——1688源头工厂规格验证）刀片≥5片+保护套，首批200-300个空运测款（027店小批量策略）。差异化：澳式包装（quiet luxury焦糖棕/鼠尾草绿）+附赠'面包划口图案参考卡'（ear/leaf/wheat图案引导新手中高级玩法）+磁吸冰箱收纳卖点。Listing关键词埋伏'sourdough''artisan bread''score your loaf''bread making gifts'。注意：寄样实测刀片锋利度与木柄防滑（US差评集中'blade dulls fast'——需马氏体钢认证、'handle slippery'——木柄纹理处理、'blade comes off'——卡槽公差验证）；锐器Listing需加警示图与说明。",
+      "competition": "低-中竞争但有结构空档（Amazon AU仅19条结果、头部无AU Prime国际件、本土专业店$15-23高价且多售罄；US/UK成熟验证品类但为国际件）。风险点：①本土专业店价格锚点$15-23——用'本地快速到货+木柄5刀片+磁吸收纳'错位竞争不做比价②锐器品类的亚马逊合规审核（需警示标签、可能要求18+限制）③品单价低靠供应链控本（采购¥8-15）。差评concern（US同款提炼）：'blades dull quickly'（420钢劣质刀片——马氏体钢验证）、'handle too slippery'（木柄未做纹理处理）、'blade pops out during scoring'（卡槽公差）、'cover doesn't protect'（保护套过薄）。",
+      "signal_scores": {
+        "trend": 66,
+        "gap": 62,
+        "profit": 78,
+        "final": 66,
+        "recommendation": "BUY",
+        "gap_level": "低-中竞争中的本地化+中端空档：AU站19条结果无AU Prime、本土专业店$15-23高价且SOLD OUT、US成熟验证零教育成本；结构级sourdough#1趋势+圣诞烘焙季预埋提供确定性需求",
+        "profit_window": "A$14.99：1688采购¥10≈A$2.08，佣金13%（Home&Kitchen）≈A$1.95，FBA A$4.2，空运头程≈A$0.5，净利≈A$6.76，毛利率≈45.1%（calc_profit.py口径实测margin 45.1%）。若升级'磁吸+10刀片+收纳盒'套装A$16.99（采购¥16≈A$3.33）毛利率≈40.4%"
+      }
+    },
+    {
+      "keyword": "crumpet rings stainless steel set of 4 english muffin rings pancake egg ring nonstick breakfast baking",
+      "keyword_cn": "不锈钢马芬圈/英式马芬圈套装 4只装 双卷边 不粘 煎饼鸡蛋圈 早餐烘焙模具",
+      "amazon_keyword": "crumpet rings, english muffin rings, crumpet rings stainless steel, muffin rings for baking, pancake rings, egg rings stainless steel, tart rings, crumpet mould, sourdough crumpets, breakfast ring mold",
+      "search_1688": "不锈钢马芬圈 英式马芬圈 跨境 / crumpet ring 马芬圈 双卷边 外贸 / 煎饼圈 鸡蛋圈 不锈钢 早餐 出口",
+      "demand_signals": [
+        "澳洲国民早餐场景+酸面团sourdough discard二次利用潮流：crumpet（英式马芬/煎饼）是澳式早餐标志性单品，本地酸面包社区（You Knead/The Sourdough Way）主推'sourdough crumpets用发酵丢弃液'场景——sourdough discard食谱是TikTok澳区持续走红的内容类型，厨房零售商Appetito 2只$9.95、You Knead 4只$19.95、The Sourdough Way 4只$21.95均在售且有真实评论（'made sourdough crumpets with them, perfect'）（来源：youkneadsourdough.com.au / thesourdoughway.com.au / kitchenwarehouse.com.au 2026-09检索）",
+        "AU站中端供给真空：amazon.com.au crumpet rings搜索中头部为12只装$31.99-46高数量套装（BaokiTook 12只/6只、letsparty $25.99），单只/2只/4只中端入门配置稀缺——而US/UK站已验证4只装是主流（Sopito 6只4.4星、Amazon US 6只110-158g），AU消费者被逼买12只装过度购买=4只装需求未被满足（来源：amazon.com.au crumpet rings / letsparty.com.au / Amazon US/UK同类 2026-09检索）",
+        "US/UK市场成熟验证+轻量合规：Amazon US crumpet rings 6只装110-158g、4只装约100-120g完全卡进≤200g空运线；UK站Sopito 6只4.4星+双卷边设计（smooth rolled edge防刮手）是成熟爆款，澳区消费者教育成本为零，滞后约1-2年=时间差套利窗口（来源：amazon.com / amazon.co.uk crumpet rings listing 2026）",
+        "与酸面包配件品类形成烘焙簇协同：与今日bread lame同属home-baking/酸面包趋势簇，crumpet rings是sourdough discard的'早餐落地'场景（lame=做欧包、rings=用剩液做早餐），同一客群可共享关键词流量池（sourdough/bread making/breakfast），且产品形态不重叠；澳区烘焙市场结构性扩张（IndexBox CAGR 4-5%）提供长跑道（来源：内部产品库去重核对 / indexbox.io AU home baking market 2026）",
+        "1688供应链极致成本+双卷边工艺成熟：义乌/广东不锈钢马芬圈跨境专供¥1-3/只（双卷边+食品级304/430不锈钢），4只装约¥8-15、带收纳盒约¥15-20，全金属无电子/液体单件轻量（来源：1688/义乌购马芬圈类目 2026-08检索）"
+      ],
+      "trend_score": 59,
+      "trend_direction": "rising",
+      "reason": "本品是'澳区国民早餐场景+酸面包discard潮流+AU站中端真空'的稳健gap play：crumpet是澳洲早餐文化标志（不像UK马芬偏英式、澳区crumpet广泛出现在咖啡馆早餐菜单），sourdough discard二次利用是澳区TikTok持续内容，9月入春+周末宅家早餐场景回暖；AU站头部只有12只装$25-46过度购买，4只装中端入门配置被忽视=明确缺口。诚实标注：trend_score 59属稳健型，主要来自国民场景+趋势簇协同+中端配置真空而非动能爆发，适合与bread lame动能型组合对冲；且与lame同属home-baking簇，可共享产品线降低选品管理成本。完全合规：食品级不锈钢无电子/液体，4只装约100-120g卡进≤200g，10cm直径+2.5cm高4只叠放或并排卡进30×21×6cm。注意：listing规避'kids/children/toy'禁词（早餐工具通用场景，不需要kids字样），主词用'crumpet rings/english muffin rings'中性表述。",
+      "action": "定位：不锈钢马芬圈/英式马芬圈4只装（10cm直径+2.5cm高），双卷边设计（smooth rolled edge防刮手是US差评核心痛点）+食品级304/430不锈钢，可用于crumpet/英式马芬/煎饼/鸡蛋/塔皮多场景。定价A$14.99四只装（对比本地Appetito 2只$9.95/You Knead 4只$19.95、Amazon国际件12只$25-46，4只装价值感+本地到货优势清晰）。1688搜索'不锈钢马芬圈 英式马芬圈 跨境'（¥8-15/4只）或'crumpet ring 双卷边 外贸'，要求304/430不锈钢≥0.3mm+双卷边一体成型（防刮手防变形），首批300-500套空运测款。差异化：澳式早餐场景营销（'café-style crumpets at home''weekend brekkie'）+附赠'酸面包crumpet食谱卡'（sourdough discard二次利用卖点）+可选木质底座收纳。Listing主打'perfect crumpets every time''multi-use: crumpets/muffins/eggs/pancakes'，关键词埋伏'sourdough discard''weekend breakfast''café breakfast at home'。注意：寄样实测卷边光滑度（US差评集中'rough edges scratch'——双卷边工艺验证）+不锈钢不锈性（430 vs 304确认）+堆叠稳定性。",
+      "competition": "低-中竞争（AU站中端4只装真空、头部12只装$25-46过度购买；本地零售商Appetito/You Knead走独立店渠道$9.95-19.95；US/UK成熟但为国际件）。风险点：①品单价低靠供应链控本（采购¥8-15/4只）②US国际件价格锚点A$10-16——用4只装本地到货+澳式早餐场景错位③与egg ring/muffin ring品类关键词重叠需精准定位crumpet核心词。差评concern（US/UK同款提炼）：'rough edges scratch fingers'（卷边工艺——双卷边一体成型）、'rusts after washing'（430钢劣质——食品级304或加厚430+防锈处理）、'rings bend out of shape'（厚度不足——≥0.3mm验证）、'batter leaks underneath'（底部不密封——卷边平整度）。",
+      "signal_scores": {
+        "trend": 59,
+        "gap": 60,
+        "profit": 78,
+        "final": 63,
+        "recommendation": "BUY",
+        "gap_level": "低-中竞争中的中端配置空档：AU站只有12只装$25-46过度购买、4只装入门配置真空，本地专业店走独立站高价；国民早餐场景+酸面团discard潮流提供确定性需求，与lame形成烘焙簇协同",
+        "profit_window": "4只装A$14.99：1688采购¥12≈A$2.5，佣金13%（Home&Kitchen）≈A$1.95，FBA A$4.2，空运头程≈A$0.5，净利≈A$6.34，毛利率≈42.3%（calc_profit.py口径实测margin 42.3%）。若升级'4只+食谱卡+收纳盒'A$16.99（采购¥15≈A$3.1）毛利率≈41.3%"
+      }
+    }
+  ],
+  "trend_forecast": "未来3周（2026年9月1日至9月22日）需求窗口与操作节点：\n\n①【home-baking/酸面包结构级趋势 — 面包割包刀lame】Taste Tomorrow 2026将sourdough列为烘焙第一趋势、'sourdough bread near me'搜索+178%，AU home-baking市场CAGR 4-5%结构性扩张；9月入春室内烘烤回暖+9/19-10/18学校假期宅家场景+10月起进入圣诞烘焙备货教育期（圣诞烘焙=澳区季节烘焙峰值+30-50%）；现在上架2-3周吃满春季烘烤启动+预埋圣诞烘焙季，推荐★★★★。\n\n②【澳区国民早餐+酸面团discard — crumpet rings】crumpet是澳式早餐标志单品，sourdough discard二次利用是澳区TikTok持续内容，9-12月周末宅家早餐场景+圣诞早餐/brunch聚会预埋；AU站4只装中端真空+本地专业店高价，走稳健长线（9月-次年2月），推荐★★★。\n\n③【已确认放弃节点】Kmart/Target/Big W SS26电子线全拒（数字日历/水波纹灯/投影仪/扫地机/slushie maker），美妆线全拒（Bangn Body等），Big W $12黄油碟为陶瓷禁词不可做；父亲节9月6日已确认错过（空运时效无法赶上），本期无父亲节押注；万圣节10/31一次性桌布餐巾Temu红海不入场（上期已评估）。\n\n④【下一节点预埋】圣诞=盛夏海滩/BBQ场景（12月），烘焙/派对类轻小件10月进入备货决策窗口（lame/crumpet rings预埋圣诞烘焙）；Black Friday 11月末大促——10月备货窗口开始；Back to School（Term 1）2027年1月底文具窗口12月中旬铺货；EOFY 2027年6月。\n\n⑤【市场预期管理】澳洲容量约为英国1/10，本期2个推荐（1动能文化型+1国民场景稳健型，同属home-baking趋势簇可共享客群）属正常水平；Kmart/Big W SS26爆款集中电子线与美妆线被红线拦截，非电子爆款窗口收窄属结构性现象；home-baking/酸面包工具（lame/crumpet rings/danish whisk/bread sling）是未来3-5天可持续挖掘的品类带（已验证sourdough#1结构性趋势）。Google Trends连续第5日超时不可达，trend_score以行业报告+榜单动能+线下渠道档期+US验证品类为量化代理，已如实标注。"
+}
