@@ -1,0 +1,1516 @@
+{
+  "scan_date": "2026-09-01",
+  "scan_time": "06:30",
+  "scan_ts": "2026-09-01_0630",
+  "stats": {
+    "total_scanned": 298,
+    "passed_filter": 16,
+    "rejected": 280,
+    "channels": {
+      "etsy_trending": 5,
+      "tiktok_verified": 14,
+      "temu_trending": 8,
+      "multi_source": 14,
+      "ozbargain": 8,
+      "new_releases": 9,
+      "youtube_review": 5,
+      "keyword_search": 6,
+      "wished": 1
+    },
+    "detail_reject": {
+      "重量超标": 2
+    },
+    "theme_trimmed": [
+      {
+        "asin": "B0GGB7G66H",
+        "name": "Garden Tool Set, 7 Pieces, Ergonomic Garden Tools with Non-Slip Handle, Rustproof, Aluminium, with Bag for Garden Tools "
+      },
+      {
+        "asin": "B0FP16XM8C",
+        "name": "Maltesers Milk Chocolate Party Share Bag 11 Pieces 132g (Pack of 2)"
+      }
+    ],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "kitchen": 76,
+      "phone": 76,
+      "garden": 72,
+      "eco": 63
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B0H4RLP3WW",
+      "name": "URHANZ 2-in-1 Olive Oil Dispenser Spray Bottle 470ml, Dark Glass Oil Sprayer for Cooking, Air Fryer & BBQ with Stickers,",
+      "price": 14.99,
+      "reviews": 12,
+      "rating": 5.0,
+      "rank": 2,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H4RLP3WW",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71G8Hs0jAzL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Temu热销",
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.503,
+      "net_profit": 7.54,
+      "cost_breakdown": {
+        "commission": 1.95,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.45
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 168,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "ozbargain",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0H6FYJ5M6",
+      "name": "DTDNZKN 37 * 25 cm Cooling Racks for Cooking & Baking, 2PCS Wire Rack | Heavy Duty Tight-Wire Design, Oven & Dishwasher ",
+      "price": 12.69,
+      "reviews": 12,
+      "rating": 4.9,
+      "rank": 9,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "12 reviews, 4.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H6FYJ5M6",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71eRceGrsfL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.437,
+      "net_profit": 5.54,
+      "cost_breakdown": {
+        "commission": 1.65,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.15
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 160,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "youtube_review",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0H4PM7YQX",
+      "name": "DTDNZKN Heavy Duty Kitchen Scissors, Stainless Steel | All-Purpose Food Shears - Sharp Cooking Scissors for Poultry, Dis",
+      "price": 11.99,
+      "reviews": 18,
+      "rating": 4.8,
+      "rank": 15,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "18 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H4PM7YQX",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51H2Fn9twVL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.411,
+      "net_profit": 4.93,
+      "cost_breakdown": {
+        "commission": 1.56,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.06
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 160,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "youtube_review",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0H86RT9B7",
+      "name": "Stainless Steel 6-in-1 Mandoline Slicer with Interchangeable Blades | Vegetable Cutter and Grater, Julienne, Shredding a",
+      "price": 11.99,
+      "reviews": 7,
+      "rating": 4.6,
+      "rank": 14,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H86RT9B7",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61DuCWKpUyL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.411,
+      "net_profit": 4.93,
+      "cost_breakdown": {
+        "commission": 1.56,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.06
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 160,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "youtube_review",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0CN6XDZVQ",
+      "name": "Clear Acrylic Bathroom Accessories Set - Rust-Free, Transparent Design - Includes Soap Dispenser, Toothbrush Holder, Cup",
+      "price": 11.86,
+      "reviews": 82,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Bathroom",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "82 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CN6XDZVQ",
+      "image_url": "https://m.media-amazon.com/images/I/71RRGY2k7IL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.386,
+      "net_profit": 4.58,
+      "cost_breakdown": {
+        "commission": 1.78,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.28
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 134,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(kitchen)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "ozbargain",
+        "tiktok_verified",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0H1Q4NJNB",
+      "name": "Aulumu G09 Ghost Infinite 360° Magnetic Ring Grip | MagSafe Compatible | Frosted Transparent PC | Stable Dual-Sided Magn",
+      "price": 14.23,
+      "reviews": 136,
+      "rating": 3.9,
+      "rank": 4,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "136 reviews, 3.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H1Q4NJNB",
+      "image_url": "https://m.media-amazon.com/images/I/71kaZlyO-AL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.463,
+      "net_profit": 6.6,
+      "cost_breakdown": {
+        "commission": 2.13,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.63
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 129,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(phone)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-31",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "ozbargain",
+        "tiktok_verified",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0HG1K1C8V",
+      "name": "Microwave Egg Poacher With Lid & Handle, 2 Cavity Silicone Poached Egg Cups | Nonstick Poached Egg Maker, Quick-Heat Mic",
+      "price": 12.99,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 11,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HG1K1C8V",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51nKcyzlXNL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.447,
+      "net_profit": 5.8,
+      "cost_breakdown": {
+        "commission": 1.69,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.19
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 132,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "youtube_review",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0CS34MTVM",
+      "name": "Dinosaur tote bag decoration，Kraft Paper Party Favor Bags with Handles, Birthday, Party Supplies and Gift Bags New Year ",
+      "price": 13.59,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CS34MTVM",
+      "image_url": "https://m.media-amazon.com/images/I/71AtJg8x4gL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Temu热销",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.445,
+      "net_profit": 6.05,
+      "cost_breakdown": {
+        "commission": 2.04,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.54
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 128,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "keyword_search",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0DRG5Z694",
+      "name": "Kraft Paper Gift Bags with Handles, Pack of 10 Gift Bags, Kraft Paper Bags with Handle, Multiple Colours, Party Bag Set,",
+      "price": 14.99,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DRG5Z694",
+      "image_url": "https://m.media-amazon.com/images/I/81l7nKHlwQL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 120,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "keyword_search",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0BGBNS8WF",
+      "name": "Gift Bag Kraft Paper Party Gift Bag with Handle Rainbow Gift Bag for Wedding, Birthday, Party Supplies and Gifts, bag, N",
+      "price": 12.73,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BGBNS8WF",
+      "image_url": "https://m.media-amazon.com/images/I/61hAZehIdqL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.418,
+      "net_profit": 5.32,
+      "cost_breakdown": {
+        "commission": 1.91,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.41
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 120,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "keyword_search",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0HF3FB5Y8",
+      "name": "Dual Cavity Microwave Egg Poacher, Microwave Omelet Pan and Egg Poacher | Egg Maker Easy to Use and Non-stick Breakfast ",
+      "price": 16.99,
+      "reviews": 2,
+      "rating": 5.0,
+      "rank": 3,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "2 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HF3FB5Y8",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51c7XIWG1LL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.546,
+      "net_profit": 9.28,
+      "cost_breakdown": {
+        "commission": 2.21,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.71
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 127,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "youtube_review",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0C36HM2G7",
+      "name": "EXAPRO EXP-LH-01 Smartphone Accessories Filter Clip + Lens Hood Reflection, Filter Diameter 1.9 inches (49 mm), Clip Typ",
+      "price": 14.78,
+      "reviews": 150,
+      "rating": 3.8,
+      "rank": 5,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "150 reviews, 3.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0C36HM2G7",
+      "image_url": "https://m.media-amazon.com/images/I/71MH7EQOH3L._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.478,
+      "net_profit": 7.06,
+      "cost_breakdown": {
+        "commission": 2.22,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.72
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 119,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "ozbargain",
+        "tiktok_verified",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B09X47KVGB",
+      "name": "Cheerock Collapsible Silicone Pour Over Coffee Dripper Reusable Green | portable compact pour over coffee filter, lightw",
+      "price": 13.65,
+      "reviews": 146,
+      "rating": 4.2,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "146 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B09X47KVGB",
+      "image_url": "https://m.media-amazon.com/images/I/51WuQWvMnfL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "pour over coffee dripper, collapsible coffee dripper, reusable coffee filter, portable coffee dripper, camping coffee maker, paperless coffee dripper, travel pour over, coffee dripper silicone, stovetop coffee dripper australia, reusable coffee cone filter",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势",
+        "Temu热销",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.447,
+      "net_profit": 6.1,
+      "cost_breakdown": {
+        "commission": 2.05,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.55
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu"
+      ],
+      "internal_sources": [],
+      "score": 107,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🔴 强信号": 20,
+        "📈 趋势(lighting)": 8,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B09X48952C",
+      "name": "Cheerock Collapsible Coffee Filter Silicone Coffee Maker Reusable Coffee Dripper For Hiking, Camping, Home, Office (Blue",
+      "price": 15.02,
+      "reviews": 146,
+      "rating": 4.2,
+      "rank": 9,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "146 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B09X48952C",
+      "image_url": "https://m.media-amazon.com/images/I/51tC-5ClomL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "pour over coffee dripper, collapsible coffee dripper, reusable coffee filter, portable coffee dripper, camping coffee maker, paperless coffee dripper, travel pour over, coffee dripper silicone, stovetop coffee dripper australia, reusable coffee cone filter",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.484,
+      "net_profit": 7.27,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "TikTok"
+      ],
+      "internal_sources": [],
+      "score": 59,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 2,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "tiktok_verified",
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B07B7JVJ8V",
+      "name": "Artevasi Cilindro Pot, Anthracite, 20 cm",
+      "price": 10.13,
+      "reviews": 75,
+      "rating": 4.3,
+      "rank": 4,
+      "category": "Garden",
+      "channel": "wished",
+      "channel_name": "Amazon心愿榜",
+      "review_info": "75 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07B7JVJ8V",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71j5ZwqbJ2L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.307,
+      "net_profit": 3.11,
+      "cost_breakdown": {
+        "commission": 1.52,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.02
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "Etsy"
+      ],
+      "internal_sources": [
+        "心愿榜"
+      ],
+      "score": 89,
+      "score_breakdown": {
+        "💝 心愿榜": 15,
+        "🎨 Etsy": 6,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 4,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_event": false,
+      "channel_tags": [
+        "wished",
+        "etsy_trending"
+      ]
+    },
+    {
+      "asin": "B0BKSM7FVG",
+      "name": "(2 Pack) Pet Doorbells, Proxima Direct Metal Bell Dog Training Bell | Puppy Door Bell for Potty Training & Communication",
+      "price": 14.99,
+      "reviews": 129,
+      "rating": 4.3,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "129 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BKSM7FVG",
+      "image_url": "https://m.media-amazon.com/images/I/610zsjBTx-L._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 22,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(pets)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "pets",
+      "category": "pets",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "dog",
+        "toy",
+        "collar",
+        "cat",
+        "bed"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "dog chew toy",
+        "cat interactive toy",
+        "pet ball",
+        "dog collar",
+        "cat collar",
+        "pet collar",
+        "cat toy",
+        "cat bed"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=dog+chew+toy",
+      "url_google": "https://trends.google.com/trends/explore?q=dog+chew+toy&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 63,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 58,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "lamp",
+        "strip",
+        "led"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED strip",
+        "LED strip light"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 54,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 50,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 45,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "skincare",
+        "makeup",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "face roller",
+        "gua sha",
+        "face mask",
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "hair clip",
+        "hair accessories"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=face+roller",
+      "url_google": "https://trends.google.com/trends/explore?q=face+roller&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 41,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "bedding",
+        "pillow",
+        "throw",
+        "duvet",
+        "blanket"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "bedding",
+        "pillow",
+        "throw",
+        "duvet",
+        "blanket"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bedding",
+      "url_google": "https://trends.google.com/trends/explore?q=bedding&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 5229,
+      "evidence": [
+        "craft",
+        "art",
+        "stickers"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "stickers"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 76,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 10422,
+      "evidence": [
+        "charger",
+        "stand",
+        "case",
+        "phone",
+        "holder"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "stand",
+        "case",
+        "phone case",
+        "phone holder",
+        "phone stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+charger",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+charger&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 45,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 30122,
+      "evidence": [
+        "desk",
+        "pen",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "laptop stand",
+        "laptop sleeve"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+organizer",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+organizer&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "kitchen",
+        76
+      ],
+      [
+        "phone",
+        76
+      ],
+      [
+        "garden",
+        72
+      ],
+      [
+        "eco",
+        63
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "bathroom",
+      "car",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "lighting",
+      "seasonal",
+      "eco",
+      "office",
+      "pets",
+      "bedding",
+      "home decor",
+      "baby",
+      "garden",
+      "storage"
+    ],
+    "demand_keywords": [
+      "all the things",
+      "amazon sales in",
+      "and most export brands are",
+      "baggy trousers",
+      "best deals from all around",
+      "best new movies and",
+      "cool stuff to buy",
+      "cotton bedding set",
+      "crazy low prices",
+      "cross-border"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
