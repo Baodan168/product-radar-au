@@ -1,54 +1,54 @@
 [
   {
-    "asin": "B0H1Q4NJNB",
-    "bsr_rank": 3213,
+    "asin": "B0BZVQZLM6",
+    "bsr_rank": 17352,
+    "bsr_category": "Clothing, Shoes & Accessories",
+    "bsr_sub_rank": 284,
+    "bsr_sub_category": "Travel Packing Organisers",
+    "reviews": 63,
+    "rating": 3.7,
+    "image_url": "https://m.media-amazon.com/images/I/11QbCdps+qL._AC_US40_.jpg",
+    "title": "Muji Suitcase Hanger Grey",
+    "price": 2.0,
+    "scraped_at": "2026-08-31T17:49:58.451523"
+  },
+  {
+    "asin": "B0C36HM2G7",
+    "bsr_rank": 71158,
     "bsr_category": "Electronics",
-    "bsr_sub_rank": 2618,
+    "bsr_sub_rank": 53671,
     "bsr_sub_category": "Mobile Phones & Communication",
-    "reviews": 99,
+    "reviews": 40,
+    "rating": 3.8,
+    "image_url": "https://m.media-amazon.com/images/I/7109SI-ACpL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "EXAPRO EXP-LH-01 Smartphone Accessories Filter Clip + Lens Hood Reflection, Filter Diameter 1.9 inches (49 mm), Clip Type, Compatible with iPhone/Android",
+    "price": 2.0,
+    "scraped_at": "2026-08-31T17:49:58.452610"
+  },
+  {
+    "asin": "B0H1Q4NJNB",
+    "bsr_rank": 3791,
+    "bsr_category": "Electronics",
+    "bsr_sub_rank": 3061,
+    "bsr_sub_category": "Mobile Phones & Communication",
+    "reviews": 100,
     "rating": 3.9,
     "image_url": "https://m.media-amazon.com/images/I/612Csi8WwgL._AC_QL10_SX980_SY55_FMwebp_.jpg",
     "title": "Aulumu G09 Ghost Infinite 360° Magnetic Ring Grip | MagSafe Compatible | Frosted Transparent PC | Stable Dual-Sided Magnetic Attachment | Includes Handle Ring Phone Holder - Midnight Gray",
     "price": 2.0,
-    "scraped_at": "2026-08-31T06:37:46.615241"
+    "scraped_at": "2026-08-31T17:49:58.453072"
   },
   {
-    "asin": "B0FD8MB33B",
-    "bsr_rank": 274593,
+    "asin": "B0FC2NGWNX",
+    "bsr_rank": 25999,
     "bsr_category": "Home",
-    "bsr_sub_rank": 3980,
-    "bsr_sub_category": "Decorative Signs & Plaques",
-    "reviews": 177,
-    "rating": 4.6,
-    "image_url": "https://m.media-amazon.com/images/I/61lJOiHwfFL._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Halloween Decorations Wooden Pumpkin Ghost Door Wreath for Front Door Sign, Cute Happy Halloween Door Hanging Sign Outdoor Indoor Wall Home Decor",
-    "price": 2.0,
-    "scraped_at": "2026-08-31T06:37:46.615988"
-  },
-  {
-    "asin": "B0C36HM2G7",
-    "bsr_rank": 69044,
-    "bsr_category": "Electronics",
-    "bsr_sub_rank": 52084,
-    "bsr_sub_category": "Mobile Phones & Communication",
-    "reviews": 40,
-    "rating": 3.8,
-    "image_url": "https://m.media-amazon.com/images/I/616H-c4lCpL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
-    "title": "EXAPRO EXP-LH-01 Smartphone Accessories Filter Clip + Lens Hood Reflection, Filter Diameter 1.9 inches (49 mm), Clip Type, Compatible with iPhone/Android",
-    "price": 2.0,
-    "scraped_at": "2026-08-31T06:37:46.616356"
-  },
-  {
-    "asin": "B0FZWCV6R9",
-    "bsr_rank": 255422,
-    "bsr_category": "Home",
-    "bsr_sub_rank": 566,
-    "bsr_sub_category": "Towel Racks 56,347 in Home Storage & Organisation",
-    "reviews": 49,
+    "bsr_sub_rank": 135,
+    "bsr_sub_category": "Bedding Duvet Cover Sets",
+    "reviews": 77,
     "rating": 4.4,
-    "image_url": "https://m.media-amazon.com/images/I/619iubG1G5L._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Home Hook Towel Rail Without Drilling and Gluing (Pack of 4) - for the Whole Household, the Hook is Your New Bathroom and Kitchen Organiser, Top Housewarming Gift, Holds 10 kg, 4 x Coat Hooks, Black",
+    "image_url": "https://m.media-amazon.com/images/I/513Z1js8icL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Pokemon Official Double Duvet Cover Set, Retro Design | Blue Reversible Pikachu Squirtle Charmander 2 Sided Bedding Cover Official Merchandise Including Matching Pillow Cases",
     "price": 2.0,
-    "scraped_at": "2026-08-31T06:37:55.290932"
+    "scraped_at": "2026-08-31T17:50:04.674056"
   }
 ]

@@ -1,0 +1,646 @@
+{
+  "scan_date": "2026-08-31",
+  "scan_time": "17:40",
+  "scan_ts": "2026-08-31_1740",
+  "stats": {
+    "total_scanned": 133,
+    "passed_filter": 4,
+    "rejected": 129,
+    "channels": {
+      "temu_trending": 1,
+      "multi_source": 3,
+      "new_releases": 2,
+      "tiktok_verified": 3,
+      "ozbargain": 3,
+      "bsr": 2,
+      "etsy_trending": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 1,
+      "重量超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "eco": 79,
+      "kitchen": 74,
+      "phone": 70,
+      "home decor": 70,
+      "pets": 65
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 9
+  },
+  "products": [
+    {
+      "asin": "B0BZVQZLM6",
+      "name": "MUJI",
+      "price": 10.79,
+      "reviews": 35,
+      "rating": 3.7,
+      "rank": 4,
+      "category": "Travel",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "35 reviews, 3.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BZVQZLM6",
+      "image_url": "https://m.media-amazon.com/images/I/31L5tfa9KdL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.34,
+      "net_profit": 3.67,
+      "cost_breakdown": {
+        "commission": 1.62,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.12
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 133,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🔴 强信号": 20,
+        "🟢 低竞争": 10,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-08-31",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "multi_source",
+        "new_releases",
+        "tiktok_verified",
+        "ozbargain"
+      ],
+      "bsr_rank": 17352,
+      "bsr_category": "Clothing, Shoes & Accessories",
+      "bsr_sub_rank": 284,
+      "bsr_sub_category": "Travel Packing Organisers",
+      "estimated_daily_sales": 8,
+      "monthly_revenue_est": 2589.6
+    },
+    {
+      "asin": "B0C36HM2G7",
+      "name": "EXAPRO EXP-LH-01 Smartphone Accessories Filter Clip + Lens Hood Reflection, Filter Diameter 1.9 inches (49 mm), Clip Typ",
+      "price": 14.78,
+      "reviews": 150,
+      "rating": 3.8,
+      "rank": 5,
+      "category": "Phone",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "150 reviews, 3.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0C36HM2G7",
+      "image_url": "https://m.media-amazon.com/images/I/71MH7EQOH3L._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.478,
+      "net_profit": 7.06,
+      "cost_breakdown": {
+        "commission": 2.22,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.72
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 115,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📊 持续上升": 8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "ozbargain",
+        "bsr",
+        "multi_source"
+      ],
+      "bsr_rank": 71158,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 53671,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 2,
+      "monthly_revenue_est": 886.8
+    },
+    {
+      "asin": "B0H1Q4NJNB",
+      "name": "Aulumu G09 Ghost Infinite 360° Magnetic Ring Grip | MagSafe Compatible | Frosted Transparent PC | Stable Dual-Sided Magn",
+      "price": 14.23,
+      "reviews": 136,
+      "rating": 3.9,
+      "rank": 3,
+      "category": "Phone",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "136 reviews, 3.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H1Q4NJNB",
+      "image_url": "https://m.media-amazon.com/images/I/71kaZlyO-AL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.463,
+      "net_profit": 6.6,
+      "cost_breakdown": {
+        "commission": 2.13,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.63
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 105,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(phone)": 21,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-31",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "ozbargain",
+        "bsr",
+        "multi_source"
+      ],
+      "bsr_rank": 3791,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 3061,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 39,
+      "monthly_revenue_est": 16649.1
+    },
+    {
+      "asin": "B0FC2NGWNX",
+      "name": "Pokemon Official Double Duvet Cover Set, Retro Design | Blue Reversible Pikachu Squirtle Charmander 2 Sided Bedding Cove",
+      "price": 10.79,
+      "reviews": 81,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Bedding",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "81 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FC2NGWNX",
+      "image_url": "https://m.media-amazon.com/images/I/9148G0SLHOL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.34,
+      "net_profit": 3.67,
+      "cost_breakdown": {
+        "commission": 1.62,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.12
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 79,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎨 Etsy": 6,
+        "📈 趋势(pets)": 8,
+        "🟡 中等竞争": 5,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 3,
+      "is_new": true,
+      "first_seen": "2026-08-31",
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "new_releases"
+      ],
+      "bsr_rank": 25999,
+      "bsr_category": "Home",
+      "bsr_sub_rank": 135,
+      "bsr_sub_category": "Bedding Duvet Cover Sets",
+      "estimated_daily_sales": 5,
+      "monthly_revenue_est": 1618.5
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "bamboo"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "bamboo cutlery",
+        "bamboo toothbrush",
+        "bamboo organizer"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "halloween",
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "halloween decoration",
+        "halloween costume",
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=halloween+decoration",
+      "url_google": "https://trends.google.com/trends/explore?q=halloween+decoration&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "lamp",
+        "led"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED bulb",
+        "LED panel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 5231,
+      "evidence": [
+        "stickers",
+        "craft",
+        "art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "stickers",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 70,
+      "score": 38,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 10422,
+      "evidence": [
+        "charger",
+        "phone",
+        "case",
+        "cable",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "case",
+        "charging cable"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+charger",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+charger&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 70,
+      "score": 38,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 47730,
+      "evidence": [
+        "mirror",
+        "decor",
+        "wall art",
+        "candle",
+        "clock"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "makeup mirror",
+        "vanity mirror",
+        "LED mirror",
+        "home decor",
+        "room decor",
+        "table decor",
+        "wall art print",
+        "wall hanging"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=makeup+mirror",
+      "url_google": "https://trends.google.com/trends/explore?q=makeup+mirror&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 60,
+      "score": 35,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 267,
+      "evidence": [
+        "bird",
+        "plant",
+        "outdoor",
+        "garden",
+        "flower"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "bird feeder",
+        "bird bath",
+        "bird house",
+        "plant pot",
+        "plant stand",
+        "plant hanger",
+        "outdoor",
+        "garden tool set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bird+feeder",
+      "url_google": "https://trends.google.com/trends/explore?q=bird+feeder&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 51,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 26339,
+      "evidence": [
+        "desk",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "pen holder",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+organizer",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+organizer&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "eco",
+        79
+      ],
+      [
+        "kitchen",
+        74
+      ],
+      [
+        "phone",
+        70
+      ],
+      [
+        "home decor",
+        70
+      ],
+      [
+        "pets",
+        65
+      ]
+    ],
+    "cross_validated": [
+      "bathroom",
+      "car",
+      "lighting",
+      "pets",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "home decor",
+      "eco",
+      "kitchen",
+      "cleaning",
+      "seasonal",
+      "office",
+      "garden"
+    ],
+    "demand_keywords": [
+      "accessories trends sold on",
+      "and plenty more",
+      "australian online spend reached",
+      "best deals from all around",
+      "commerce and",
+      "cool stuff to buy",
+      "crazy low prices",
+      "ecommerce in",
+      "everyday",
+      "explore trending products"
+    ],
+    "season": "winter",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
