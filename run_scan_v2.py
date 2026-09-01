@@ -197,7 +197,7 @@ def filter_products(products, config):
         # 1. 禁选品类/关键词（is_forbidden 统一返回元组）
         forbidden, reason = is_forbidden(name, category)
         if forbidden:
-            rejected.append({"name": name[:60], "reason": f"禁选: {reason}", "asin": p.get("asin")}); continue
+            rejected.append({"name": name[:160], "reason": f"禁选: {reason}", "asin": p.get("asin")}); continue
 
         # 2. 大品牌排除（配件豁免：如果同时出现配件关键词，说明是兼容配件不是品牌自营）
         ACCESSORY_KEYWORDS = {
