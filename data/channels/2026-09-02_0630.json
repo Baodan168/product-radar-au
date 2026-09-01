@@ -1,0 +1,1589 @@
+{
+  "scan_date": "2026-09-02",
+  "scan_time": "06:30",
+  "scan_ts": "2026-09-02_0630",
+  "stats": {
+    "total_scanned": 342,
+    "passed_filter": 11,
+    "rejected": 329,
+    "channels": {
+      "etsy_trending": 7,
+      "multi_source": 9,
+      "temu_trending": 4,
+      "new_releases": 6,
+      "ozbargain": 8,
+      "tiktok_verified": 6,
+      "gifts": 1,
+      "keyword_search": 4
+    },
+    "detail_reject": {
+      "重量超标": 4,
+      "尺寸超标": 3
+    },
+    "theme_trimmed": [
+      {
+        "asin": "B0FP16XM8C",
+        "name": "Maltesers Milk Chocolate Party Share Bag 11 Pieces 132g (Pack of 2)"
+      },
+      {
+        "asin": "B0DLHX2694",
+        "name": "YUEBAOWAN Halloween Decorations Outdoor, Halloween Metal Sign Vintage-Outdoor Patio Garden Party or Indoor Decor - No Tr"
+      }
+    ],
+    "trend_categories": {
+      "kitchen": 100,
+      "crafts": 100,
+      "pets": 100,
+      "phone": 98,
+      "eco": 87,
+      "office": 76
+    },
+    "supply_demand": {
+      "pets": {
+        "ratio": 13.7,
+        "demand": 100,
+        "supply": 1459,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "crafts": {
+        "ratio": 10.6,
+        "demand": 100,
+        "supply": 12690,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "phone": {
+        "ratio": 10.6,
+        "demand": 98,
+        "supply": 10425,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "office": {
+        "ratio": 7.5,
+        "demand": 76,
+        "supply": 26327,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "cleaning": {
+        "ratio": 5.2,
+        "demand": 54,
+        "supply": 34443,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "garden": {
+        "ratio": 4.9,
+        "demand": 56,
+        "supply": 102649,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "bathroom": {
+        "ratio": 4.4,
+        "demand": 32,
+        "supply": 1438,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "home decor": {
+        "ratio": 2.6,
+        "demand": 28,
+        "supply": 49426,
+        "label": "⚖️ 平衡",
+        "level": "balanced"
+      }
+    },
+    "divergences": {
+      "bathroom": {
+        "current_heat": 12,
+        "previous_heat": 32,
+        "heat_change_pct": -62.5,
+        "direction": "falling",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "car": {
+        "current_heat": 71,
+        "previous_heat": 50,
+        "heat_change_pct": 42.0,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "crafts": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "travel": {
+        "current_heat": 53,
+        "previous_heat": 37,
+        "heat_change_pct": 43.2,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "phone": {
+        "current_heat": 100,
+        "previous_heat": 76,
+        "heat_change_pct": 31.6,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "beauty": {
+        "current_heat": 59,
+        "previous_heat": 45,
+        "heat_change_pct": 31.1,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "kitchen": {
+        "current_heat": 90,
+        "previous_heat": 76,
+        "heat_change_pct": 18.4,
+        "direction": "stable",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "lighting": {
+        "current_heat": 77,
+        "previous_heat": 58,
+        "heat_change_pct": 32.8,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 71,
+        "previous_heat": 54,
+        "heat_change_pct": 31.5,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "office": {
+        "current_heat": 71,
+        "previous_heat": 45,
+        "heat_change_pct": 57.8,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "eco": {
+        "current_heat": 84,
+        "previous_heat": 63,
+        "heat_change_pct": 33.3,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "pets": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "sports": {
+        "current_heat": 12,
+        "previous_heat": 13,
+        "heat_change_pct": -7.7,
+        "direction": "stable",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "home decor": {
+        "current_heat": 53,
+        "previous_heat": 50,
+        "heat_change_pct": 6.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "kitchen_gadgets": {
+        "current_heat": 12,
+        "previous_heat": 9,
+        "heat_change_pct": 33.3,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "storage": {
+        "current_heat": 12,
+        "previous_heat": 28,
+        "heat_change_pct": -57.1,
+        "direction": "falling",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "baby": {
+        "current_heat": 12,
+        "previous_heat": 32,
+        "heat_change_pct": -62.5,
+        "direction": "falling",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "garden": {
+        "current_heat": 96,
+        "previous_heat": 72,
+        "heat_change_pct": 33.3,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "bedding": {
+        "current_heat": 19,
+        "previous_heat": 41,
+        "heat_change_pct": -53.7,
+        "direction": "falling",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 6,
+        "previous_heat": 13,
+        "heat_change_pct": -53.8,
+        "direction": "falling",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      }
+    },
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B0H7QZ3KSV",
+      "name": "Double Sided Pet Grooming Brush with Stainless Steel Pins & Boar Bristles | 2-in-1 Design, Dogs & Cats, Reduces Shedding",
+      "price": 16.5,
+      "reviews": 6,
+      "rating": 4.8,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "6 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H7QZ3KSV",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61fXbbViYlL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.567,
+      "net_profit": 9.35,
+      "cost_breakdown": {
+        "commission": 1.65,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.15
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 13.7,
+        "demand": 100,
+        "supply": 1459,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 171,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-28",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "multi_source",
+        "temu_trending",
+        "new_releases",
+        "ozbargain"
+      ],
+      "bsr_rank": 1210,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 8,
+      "bsr_sub_category": "Grooming Brushes for Dogs",
+      "estimated_daily_sales": 123,
+      "monthly_revenue_est": 60885.0
+    },
+    {
+      "asin": "B0H6JVRRVB",
+      "name": "3 Pack Pet Blankets Soft Fleece Throws for Dogs and Cats | Washable Paw Print Covers 60 x 40 cm for Crates, Sofa, Car Se",
+      "price": 10.19,
+      "reviews": 58991,
+      "rating": 4.4,
+      "rank": 27,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H6JVRRVB",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71-pb3WRfPL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.36,
+      "net_profit": 3.67,
+      "cost_breakdown": {
+        "commission": 1.02,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.52
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 13.7,
+        "demand": 100,
+        "supply": 1459,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 130,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(car)": 8,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-02",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "multi_source",
+        "temu_trending",
+        "new_releases",
+        "ozbargain"
+      ],
+      "bsr_rank": 1399,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 8,
+      "bsr_sub_category": "Dog Bed Blankets",
+      "estimated_daily_sales": 107,
+      "monthly_revenue_est": 32709.9
+    },
+    {
+      "asin": "B0H1Q4NJNB",
+      "name": "Aulumu G09 Ghost Infinite 360° Magnetic Ring Grip | MagSafe Compatible | Frosted Transparent PC | Stable Dual-Sided Magn",
+      "price": 14.23,
+      "reviews": 139,
+      "rating": 3.9,
+      "rank": 3,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "139 reviews, 3.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H1Q4NJNB",
+      "image_url": "https://m.media-amazon.com/images/I/71kaZlyO-AL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.463,
+      "net_profit": 6.6,
+      "cost_breakdown": {
+        "commission": 2.13,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.63
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 10.6,
+        "demand": 98,
+        "supply": 10425,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 15,
+      "div_label": "📈 品类升温(+32%)",
+      "div_info": {
+        "current_heat": 100,
+        "previous_heat": 76,
+        "heat_change_pct": 31.6,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 162,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(phone)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "🌊 深蓝海": 20,
+        "📈 品类升温(+32%)": 15
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-31",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ],
+      "bsr_rank": 5120,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 4119,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 29,
+      "monthly_revenue_est": 12380.1
+    },
+    {
+      "asin": "B0C36HM2G7",
+      "name": "EXAPRO EXP-LH-01 Smartphone Accessories Filter Clip + Lens Hood Reflection, Filter Diameter 1.9 inches (49 mm), Clip Typ",
+      "price": 14.78,
+      "reviews": 150,
+      "rating": 3.8,
+      "rank": 5,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "150 reviews, 3.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0C36HM2G7",
+      "image_url": "https://m.media-amazon.com/images/I/71MH7EQOH3L._AC_UL320_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.478,
+      "net_profit": 7.06,
+      "cost_breakdown": {
+        "commission": 2.22,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.72
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 10.6,
+        "demand": 98,
+        "supply": 10425,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 15,
+      "div_label": "📈 品类升温(+32%)",
+      "div_info": {
+        "current_heat": 100,
+        "previous_heat": 76,
+        "heat_change_pct": 31.6,
+        "direction": "rising",
+        "dates": [
+          "2026-09-01_0630",
+          "2026-09-01_1740"
+        ]
+      },
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 162,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "🌊 深蓝海": 20,
+        "📈 品类升温(+32%)": 15
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ],
+      "bsr_rank": 73319,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 55315,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 2,
+      "monthly_revenue_est": 886.8
+    },
+    {
+      "asin": "B0FZWCV6R9",
+      "name": "Home Hook Towel Rail Without Drilling and Gluing (Pack of 4) - for the Whole Household, the Hook is Your New Bathroom an",
+      "price": 10.64,
+      "reviews": 23,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Home",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "23 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FZWCV6R9",
+      "image_url": "https://m.media-amazon.com/images/I/717eAsdIU2L._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.353,
+      "net_profit": 3.76,
+      "cost_breakdown": {
+        "commission": 1.38,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.88
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 10,
+      "sd_label": "💧 浅蓝海",
+      "sd_info": {
+        "ratio": 4.4,
+        "demand": 32,
+        "supply": 1438,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 96,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "💧 浅蓝海": 10
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-08-31",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "gifts",
+        "etsy_trending",
+        "temu_trending",
+        "multi_source"
+      ],
+      "bsr_rank": 263575,
+      "bsr_category": "Home",
+      "bsr_sub_rank": 592,
+      "bsr_sub_category": "Towel Racks 58,188 in Home Storage & Organisation",
+      "estimated_daily_sales": 1,
+      "monthly_revenue_est": 319.2
+    },
+    {
+      "asin": "B0H3TYLDD6",
+      "name": "Soft Dog Cone Collar - Comfortable Adjustable Elizabethan Collar Alternative to Prevent Licking, for Pets Post-Surgery W",
+      "price": 16.49,
+      "reviews": 1,
+      "rating": 4.0,
+      "rank": 14,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 reviews, 4.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H3TYLDD6",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/81LGmeRDNxL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.566,
+      "net_profit": 9.34,
+      "cost_breakdown": {
+        "commission": 1.65,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.15
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 13.7,
+        "demand": 100,
+        "supply": 1459,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 145,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 评论偏少": -8,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-02",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "multi_source",
+        "temu_trending",
+        "new_releases",
+        "ozbargain"
+      ],
+      "bsr_rank": 1021,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 59,
+      "bsr_sub_category": "Health Supplies for Dogs",
+      "estimated_daily_sales": 146,
+      "monthly_revenue_est": 72226.2
+    },
+    {
+      "asin": "B0H8NDDV2V",
+      "name": "2 in 1 Portable Dog Water Bottle, 10 Oz Stainless Steel, Leak Proof(Pink) | Foldable Silicone Bowl, Walking, Hiking, Cam",
+      "price": 14.99,
+      "reviews": 1,
+      "rating": 4.2,
+      "rank": 10,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H8NDDV2V",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61Qwk7wU+KL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.533,
+      "net_profit": 7.99,
+      "cost_breakdown": {
+        "commission": 1.5,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.0
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 13.7,
+        "demand": 100,
+        "supply": 1459,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "TikTok"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 119,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-02",
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 692,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 3,
+      "bsr_sub_category": "Water Bottles for Dogs",
+      "estimated_daily_sales": 216,
+      "monthly_revenue_est": 97135.2
+    },
+    {
+      "asin": "B0BKSM7FVG",
+      "name": "(2 Pack) Pet Doorbells, Proxima Direct Metal Bell Dog Training Bell | Puppy Door Bell for Potty Training & Communication",
+      "price": 14.99,
+      "reviews": 129,
+      "rating": 4.3,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "129 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BKSM7FVG",
+      "image_url": "https://m.media-amazon.com/images/I/610zsjBTx-L._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 30,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(pets)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "channel_tags": [
+        "keyword_search"
+      ],
+      "bsr_rank": 1675,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 35,
+      "bsr_sub_category": "Interactive Toys for Dogs",
+      "estimated_daily_sales": 89,
+      "monthly_revenue_est": 40023.3
+    },
+    {
+      "asin": "B0CS34MTVM",
+      "name": "Dinosaur tote bag decoration，Kraft Paper Party Favor Bags with Handles, Birthday, Party Supplies and Gift Bags New Year ",
+      "price": 13.59,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CS34MTVM",
+      "image_url": "https://m.media-amazon.com/images/I/71AtJg8x4gL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.445,
+      "net_profit": 6.05,
+      "cost_breakdown": {
+        "commission": 2.04,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.54
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 110,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "etsy_trending",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ],
+      "bsr_rank": 484,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 21,
+      "bsr_sub_category": "Gift Bags",
+      "estimated_daily_sales": 309,
+      "monthly_revenue_est": 125979.3
+    },
+    {
+      "asin": "B0DRG5Z694",
+      "name": "Kraft Paper Gift Bags with Handles, Pack of 10 Gift Bags, Kraft Paper Bags with Handle, Multiple Colours, Party Bag Set,",
+      "price": 14.99,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DRG5Z694",
+      "image_url": "https://m.media-amazon.com/images/I/81l7nKHlwQL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 110,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "etsy_trending",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ],
+      "bsr_rank": 484,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 21,
+      "bsr_sub_category": "Gift Bags",
+      "estimated_daily_sales": 309,
+      "monthly_revenue_est": 138957.3
+    },
+    {
+      "asin": "B0BGBNS8WF",
+      "name": "Gift Bag Kraft Paper Party Gift Bag with Handle Rainbow Gift Bag for Wedding, Birthday, Party Supplies and Gifts, bag, N",
+      "price": 12.73,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BGBNS8WF",
+      "image_url": "https://m.media-amazon.com/images/I/61hAZehIdqL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.418,
+      "net_profit": 5.32,
+      "cost_breakdown": {
+        "commission": 1.91,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.41
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 110,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "etsy_trending",
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain"
+      ],
+      "bsr_rank": 484,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 21,
+      "bsr_sub_category": "Gift Bags",
+      "estimated_daily_sales": 309,
+      "monthly_revenue_est": 118007.1
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "kitchen",
+        "utensil",
+        "gadget",
+        "mug"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "kitchen",
+        "utensil",
+        "gadget"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=kitchen",
+      "url_google": "https://trends.google.com/trends/explore?q=kitchen&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 87,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "bamboo",
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "bamboo cutlery",
+        "bamboo toothbrush",
+        "bamboo organizer",
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 87,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bamboo+cutlery",
+      "url_google": "https://trends.google.com/trends/explore?q=bamboo+cutlery&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 59,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "lamp",
+        "led",
+        "strip",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "LED strip",
+        "LED strip light"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 59,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+lamp",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+lamp&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 59,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 59,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 48,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 48,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 43,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "hair",
+        "skincare",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "makeup brush set"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 43,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=hair+clip",
+      "url_google": "https://trends.google.com/trends/explore?q=hair+clip&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 55,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 12690,
+      "evidence": [
+        "stickers",
+        "art",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit"
+      ],
+      "sd_info": {
+        "ratio": 10.6,
+        "demand": 100,
+        "supply": 12690,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 98,
+      "score": 55,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 10425,
+      "evidence": [
+        "cable",
+        "charger",
+        "stand",
+        "phone",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "stand",
+        "phone case"
+      ],
+      "sd_info": {
+        "ratio": 10.6,
+        "demand": 98,
+        "supply": 10425,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=charging+cable",
+      "url_google": "https://trends.google.com/trends/explore?q=charging+cable&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 76,
+      "score": 50,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 26327,
+      "evidence": [
+        "stationery",
+        "pen",
+        "laptop",
+        "desk",
+        "office"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "stationery set",
+        "notebook",
+        "pen set",
+        "pen holder",
+        "fountain pen",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler"
+      ],
+      "sd_info": {
+        "ratio": 7.5,
+        "demand": 76,
+        "supply": 26327,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stationery+set",
+      "url_google": "https://trends.google.com/trends/explore?q=stationery+set&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 54,
+      "score": 43,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 34443,
+      "evidence": [
+        "vacuum",
+        "cleaner",
+        "cleaning"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "vacuum",
+        "cleaner",
+        "cleaning"
+      ],
+      "sd_info": {
+        "ratio": 5.2,
+        "demand": 54,
+        "supply": 34443,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vacuum",
+      "url_google": "https://trends.google.com/trends/explore?q=vacuum&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "kitchen",
+        100
+      ],
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "phone",
+        98
+      ],
+      [
+        "eco",
+        87
+      ],
+      [
+        "office",
+        76
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "eco",
+      "lighting",
+      "seasonal",
+      "office",
+      "cleaning",
+      "storage",
+      "pets",
+      "travel",
+      "bathroom"
+    ],
+    "demand_keywords": [
+      "all the things",
+      "amazon sales in",
+      "and most export brands are",
+      "baggy trousers",
+      "cool gadgets sold on",
+      "cotton bedding set",
+      "crazy low prices",
+      "cross-border",
+      "everyday",
+      "explore trending products"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
