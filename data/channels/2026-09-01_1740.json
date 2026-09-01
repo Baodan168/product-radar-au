@@ -1,0 +1,602 @@
+{
+  "scan_date": "2026-09-01",
+  "scan_time": "17:40",
+  "scan_ts": "2026-09-01_1740",
+  "stats": {
+    "total_scanned": 246,
+    "passed_filter": 3,
+    "rejected": 243,
+    "channels": {
+      "tiktok_verified": 1,
+      "multi_source": 2,
+      "keyword_search": 3,
+      "event_product": 1,
+      "etsy_trending": 1,
+      "temu_trending": 1
+    },
+    "detail_reject": {
+      "重量超标": 2
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "phone": 100,
+      "pets": 100,
+      "garden": 96,
+      "kitchen": 90,
+      "eco": 84
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 11
+  },
+  "products": [
+    {
+      "asin": "B0GZDVV37K",
+      "name": "2 Pack Natural Jute Hessian Burlap Linen Hemp Canvas Shopping Bags Reusable Eco Grocery Tote",
+      "price": 15.0,
+      "reviews": 26,
+      "rating": 5.0,
+      "rank": 49,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "26 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GZDVV37K",
+      "image_url": "https://m.media-amazon.com/images/I/71-byVe7c+L._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "halloween tote",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.25,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "TikTok"
+      ],
+      "internal_sources": [],
+      "score": 97,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 多源热门(eco)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 4,
+      "is_new": true,
+      "first_seen": "2026-09-01",
+      "is_multi": true,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0DLHX2694",
+      "name": "YUEBAOWAN Halloween Decorations Outdoor, Halloween Metal Sign Vintage-Outdoor Patio Garden Party or Indoor Decor - No Tr",
+      "price": 14.19,
+      "reviews": 53,
+      "rating": 4.4,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "53 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DLHX2694",
+      "image_url": "https://m.media-amazon.com/images/I/815RcYNybCL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "halloween decorations indoor",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": true,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.462,
+      "net_profit": 6.56,
+      "cost_breakdown": {
+        "commission": 2.13,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.63
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 91,
+      "score_breakdown": {
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "is_multi": true,
+      "channel_tags": [
+        "event_product",
+        "etsy_trending",
+        "keyword_search",
+        "temu_trending",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FP16XM8C",
+      "name": "Maltesers Milk Chocolate Party Share Bag 11 Pieces 132g (Pack of 2)",
+      "price": 9.0,
+      "reviews": 183,
+      "rating": 4.7,
+      "rank": 6,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "183 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FP16XM8C",
+      "image_url": "https://m.media-amazon.com/images/I/71uTrTi2vRL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.239,
+      "net_profit": 2.15,
+      "cost_breakdown": {
+        "commission": 1.35,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.85
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 25,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "⭐ 高评分": 5,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-08-27",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "craft",
+        "art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "charger",
+        "phone",
+        "stand",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "stand",
+        "case"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+charger",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+charger&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 96,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "bbq",
+        "bird",
+        "plant",
+        "grill",
+        "garden"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "bird feeder",
+        "bird bath",
+        "bird house",
+        "plant pot",
+        "plant stand",
+        "plant hanger",
+        "grill",
+        "garden tool set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bird+feeder",
+      "url_google": "https://trends.google.com/trends/explore?q=bird+feeder&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 84,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 77,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "light",
+        "strip",
+        "lamp"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "fairy lights",
+        "string lights",
+        "LED strip",
+        "LED strip light",
+        "RGB strip"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 71,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 71,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 71,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "laptop",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "pen holder",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=laptop+stand",
+      "url_google": "https://trends.google.com/trends/explore?q=laptop+stand&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 59,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "hair",
+        "skincare",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "makeup brush set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=hair+clip",
+      "url_google": "https://trends.google.com/trends/explore?q=hair+clip&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "toiletry",
+        "travel",
+        "packing"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "toiletry",
+        "travel",
+        "packing"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=toiletry",
+      "url_google": "https://trends.google.com/trends/explore?q=toiletry&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 53,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 8,
+      "amazon_reviews": 2034,
+      "evidence": [
+        "decor",
+        "candle",
+        "wall art",
+        "clock"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "home decor",
+        "room decor",
+        "table decor",
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "wall art print",
+        "wall hanging"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=home+decor",
+      "url_google": "https://trends.google.com/trends/explore?q=home+decor&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "phone",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "garden",
+        96
+      ],
+      [
+        "kitchen",
+        90
+      ],
+      [
+        "eco",
+        84
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "kitchen",
+      "lighting",
+      "seasonal",
+      "office",
+      "eco",
+      "pets",
+      "home decor",
+      "garden"
+    ],
+    "demand_keywords": [
+      "all the things",
+      "amazon sales in",
+      "and most export brands are",
+      "as cooked on tiktok",
+      "baggy trousers",
+      "best deals from all around",
+      "cool gadgets sold on",
+      "cotton bedding set",
+      "crazy low prices",
+      "cross-border"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
