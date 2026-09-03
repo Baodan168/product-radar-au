@@ -1,0 +1,1038 @@
+{
+  "scan_date": "2026-09-04",
+  "scan_time": "06:30",
+  "scan_ts": "2026-09-04_0630",
+  "stats": {
+    "total_scanned": 353,
+    "passed_filter": 6,
+    "rejected": 347,
+    "channels": {
+      "new_releases": 3,
+      "ozbargain": 3,
+      "multi_source": 3,
+      "tiktok_verified": 3,
+      "temu_trending": 3,
+      "keyword_search": 3
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 92,
+      "kitchen": 88,
+      "eco": 88,
+      "car": 83,
+      "garden": 83
+    },
+    "supply_demand": {
+      "garden": {
+        "ratio": 18.7,
+        "demand": 83,
+        "supply": 83,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "pets": {
+        "ratio": 7.0,
+        "demand": 92,
+        "supply": 465970,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "kitchen": {
+        "ratio": 6.8,
+        "demand": 88,
+        "supply": 421018,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "kitchen_gadgets": {
+        "ratio": 0.7,
+        "demand": 9,
+        "supply": 421018,
+        "label": "🔴 红海",
+        "level": "red_ocean"
+      },
+      "car": {
+        "ratio": 0,
+        "demand": 83,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "crafts": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "phone": {
+        "ratio": 0,
+        "demand": 79,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "beauty": {
+        "ratio": 0,
+        "demand": 33,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      }
+    },
+    "divergences": {
+      "bathroom": {
+        "current_heat": 40,
+        "previous_heat": 9,
+        "heat_change_pct": 344.4,
+        "direction": "rising",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "car": {
+        "current_heat": 73,
+        "previous_heat": 72,
+        "heat_change_pct": 1.4,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "storage": {
+        "current_heat": 40,
+        "previous_heat": 45,
+        "heat_change_pct": -11.1,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "crafts": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "travel": {
+        "current_heat": 8,
+        "previous_heat": 32,
+        "heat_change_pct": -75.0,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "phone": {
+        "current_heat": 86,
+        "previous_heat": 89,
+        "heat_change_pct": -3.4,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "beauty": {
+        "current_heat": 53,
+        "previous_heat": 54,
+        "heat_change_pct": -1.9,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "kitchen": {
+        "current_heat": 69,
+        "previous_heat": 63,
+        "heat_change_pct": 9.5,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 36,
+        "previous_heat": 37,
+        "heat_change_pct": -2.7,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "pets": {
+        "current_heat": 90,
+        "previous_heat": 93,
+        "heat_change_pct": -3.2,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 61,
+        "previous_heat": 50,
+        "heat_change_pct": 22.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "office": {
+        "current_heat": 48,
+        "previous_heat": 63,
+        "heat_change_pct": -23.8,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "sports": {
+        "current_heat": 36,
+        "previous_heat": 4,
+        "heat_change_pct": 800.0,
+        "direction": "rising",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "eco": {
+        "current_heat": 77,
+        "previous_heat": 85,
+        "heat_change_pct": -9.4,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "lighting": {
+        "current_heat": 69,
+        "previous_heat": 63,
+        "heat_change_pct": 9.5,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "baby": {
+        "current_heat": 8,
+        "previous_heat": 41,
+        "heat_change_pct": -80.5,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "bedding": {
+        "current_heat": 40,
+        "previous_heat": 17,
+        "heat_change_pct": 135.3,
+        "direction": "rising",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "home decor": {
+        "current_heat": 53,
+        "previous_heat": 50,
+        "heat_change_pct": 6.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "garden": {
+        "current_heat": 38,
+        "previous_heat": 48,
+        "heat_change_pct": -20.8,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      }
+    },
+    "gap_opportunities": 7
+  },
+  "products": [
+    {
+      "asin": "B0H5CVQWBL",
+      "name": "Watering Can for Indoor or Outdoor Plants 1L,Plant Modern Small Watering Cans with Long Spout and Removable Nozzle,Indoo",
+      "price": 12.99,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 11,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H5CVQWBL",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/512pAUPL4DL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.427,
+      "net_profit": 5.54,
+      "cost_breakdown": {
+        "commission": 1.95,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.45
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 18.7,
+        "demand": 83,
+        "supply": 83,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": -10,
+      "div_label": "📉 品类降温(-21%)",
+      "div_info": {
+        "current_heat": 38,
+        "previous_heat": 48,
+        "heat_change_pct": -20.8,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 154,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "📉 品类降温(-21%)": -10,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "ozbargain",
+        "multi_source",
+        "tiktok_verified",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0H4H81F62",
+      "name": "25-Pack Palestine Handheld Flags With Sticks，14x21cm Palestinian Hand Held Flag Banner For Parade Classroom Outdoor Deco",
+      "price": 14.65,
+      "reviews": 4,
+      "rating": 4.4,
+      "rank": 14,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H4H81F62",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61NTiJFa6UL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.475,
+      "net_profit": 6.95,
+      "cost_breakdown": {
+        "commission": 2.2,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.7
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 18.7,
+        "demand": 83,
+        "supply": 83,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": -10,
+      "div_label": "📉 品类降温(-21%)",
+      "div_info": {
+        "current_heat": 38,
+        "previous_heat": 48,
+        "heat_change_pct": -20.8,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 149,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "⏳ 评论偏少": -8,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "📉 品类降温(-21%)": -10,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "ozbargain",
+        "multi_source",
+        "tiktok_verified",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0H5VKT3WS",
+      "name": "Fungus Gnat Sticky Traps - 30 Pack Yellow Dual Sided Gnat Sticky Trap, Indoor Plant Protection, Non Toxic Safe for Famil",
+      "price": 9.99,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 7,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H5VKT3WS",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71UDFlVK9sL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.299,
+      "net_profit": 2.99,
+      "cost_breakdown": {
+        "commission": 1.5,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.0
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 18.7,
+        "demand": 83,
+        "supply": 83,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": -10,
+      "div_label": "📉 品类降温(-21%)",
+      "div_info": {
+        "current_heat": 38,
+        "previous_heat": 48,
+        "heat_change_pct": -20.8,
+        "direction": "falling",
+        "dates": [
+          "2026-09-03_0630",
+          "2026-09-03_1740"
+        ]
+      },
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 141,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "⏳ 待验证": -8,
+        "💰 较好利润": 4,
+        "🌊 深蓝海": 20,
+        "📉 品类降温(-21%)": -10,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "ozbargain",
+        "multi_source",
+        "tiktok_verified",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0FP128RZY",
+      "name": "Milky Way Chocolate Party Share Bag 15 Pieces 180g (Pack of 2)",
+      "price": 10.0,
+      "reviews": 22,
+      "rating": 4.7,
+      "rank": 31,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "22 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FP128RZY",
+      "image_url": "https://m.media-amazon.com/images/I/612twaVFO-L._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.3,
+      "net_profit": 3.0,
+      "cost_breakdown": {
+        "commission": 1.5,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.0
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 43,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 2,
+      "is_new": true,
+      "first_seen": "2026-09-04",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0FHV4J6ZX",
+      "name": "Twix Milk Chocolate Party Share Bag 159 g (11 Pieces) (Pack of 2)",
+      "price": 15.0,
+      "reviews": 96,
+      "rating": 4.7,
+      "rank": 14,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "96 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FHV4J6ZX",
+      "image_url": "https://m.media-amazon.com/images/I/619gxAftNtL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.25,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 32,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-09-02",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0FP16XM8C",
+      "name": "Maltesers Milk Chocolate Party Share Bag 11 Pieces 132g (Pack of 2)",
+      "price": 15.0,
+      "reviews": 183,
+      "rating": 4.7,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "183 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FP16XM8C",
+      "image_url": "https://m.media-amazon.com/images/I/71uTrTi2vRL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.25,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 27,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-09-01",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "stickers",
+        "craft",
+        "art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "stickers",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 88,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "sustainable",
+        "eco",
+        "reusable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "sustainable products",
+        "eco friendly",
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 88,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sustainable+products",
+      "url_google": "https://trends.google.com/trends/explore?q=sustainable+products&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 83,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "vehicle",
+        "car",
+        "motor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "vehicle",
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "motorcycle accessories",
+        "motorcycle cover"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 83,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vehicle",
+      "url_google": "https://trends.google.com/trends/explore?q=vehicle&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "stand",
+        "charger",
+        "phone",
+        "cable",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "stand",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "charging cable"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 79,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stand",
+      "url_google": "https://trends.google.com/trends/explore?q=stand&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 74,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "desk",
+        "pen",
+        "laptop",
+        "notebook",
+        "office"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "laptop stand",
+        "laptop sleeve"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 74,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+organizer",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+organizer&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 65,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 47,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "easter"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "easter egg",
+        "easter decoration"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 47,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        92
+      ],
+      [
+        "kitchen",
+        88
+      ],
+      [
+        "eco",
+        88
+      ],
+      [
+        "car",
+        83
+      ],
+      [
+        "garden",
+        83
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "garden",
+      "office",
+      "eco",
+      "seasonal",
+      "pets",
+      "sports",
+      "cleaning",
+      "lighting",
+      "storage",
+      "home decor"
+    ],
+    "demand_keywords": [
+      "after my second baby",
+      "amazon sales in",
+      "and most export brands are",
+      "bloomington man arrested after hitting",
+      "cool stuff gadgets",
+      "cross-border",
+      "do you know the cost",
+      "everyday",
+      "explore profitable niches and high",
+      "explore trending consumer electronics"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
