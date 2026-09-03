@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-04",
+  "updated_at": "2026-09-04T07:10:00+08:00",
+  "scan_date": "2026-09-04",
+  "scan_time": "07:10",
+  "summary": "今日3个推荐（2个高质量BUY+1个条件性小量测款，全部is_new=True无重复品类；厨房烘焙簇已连续8天上榜今日主动转向春季园艺/家居簇）：①黄粘虫板/小黑飞果蝇贴板yellow sticky traps 20张双面装（Amazon AU Garden Best Sellers+Gardening Supplies Best Sellers双榜多点位在榜——Super Ninja Fungus Gnat Killer 10-Pack、Aieve 60 Pack、Stingmon 12 Pack=品类需求已被多个中国卖家共同验证且未垄断；南半球9月入春转暖=室内植物真菌蚊爆发季+室外菜床果蝇季=非化学家居友好粘虫板是最佳物理防治方案，澳区有娃有宠家庭对化学杀虫剂抵触强；1688双面黄板20×15cm仅¥0.16/张、20张装成本¥4-6屠龙级成本结构；平卡包装完全卡进30×21×6cm/200g红线；A$12.99毛利率44.6%）；②防水植物标签/花园标牌plant labels 150支装（Amazon AU Plant Container Accessories BSR双listing在榜——'4 Inch 100 Pcs'与'Outdoor 150pcs'=需求已验证且无强势品牌垄断；9-11月春季播种季育苗盘一盆一签=刚需节点；TikTok澳区seed organization种子库内容病毒传播（Kmart photo box/Bunnings $1收纳盒装种子百万播放）带动种子收发配件需求；1688 PVC防水标签¥0.02-0.05/张成本极低；A$12.99批发毛利率33.4%）；③编织吊篮挂绳macrame plant hangers 4件套（AU BSR Hanging Planters板块macrame品类霸榜——Nook Theory 6-Pack榜首+15条在榜=结构性需求而非单品运气；Kmart Anko/K-Home加热boho平价家居审美+澳区约1/3租房人口免打孔挂绿植=租赁友好装饰刚需；1688惠民县绳网产业带工厂成熟¥3-8/个；诚实标注为高竞争——Nook Theory强势+Suning $9.99低价杂牌，机会在设计差异化（木珠/编织纹样）+4件套价值感，故signal_scores final=52定为CONDITIONAL BUY小量测款；A$14.99毛利率29.2%）。主动淘汰：Father's Day礼品（9/6本周日=备货窗口已关闭，Roy Morgan口径家庭预算$70/35%家庭BBQ——转为验证春季户外长效品类不追当周）；seed starting kit/育苗盘（AU站红海+托盘普遍超30cm，与09-03淘汰一致）；moss pole/攀爬柱（90cm超30cm红线）；macrame同类低价公版（服务的是'设计款'而非$9.99价格战争）。注意：粘虫板listing规避'poison/chemical/pesticide'类联想（非化学物理防治是卖点）；macrame listing规避'kids/baby'禁词（绳子窒息风险联想）。Google Trends连续第8日超时不可达（与8/28-9/3一致），trend_score以Amazon AU榜单动能（BSR多点位/movers）+季节日历（入春/真菌蚊季/播种季）+TikTok/Kmart内容热度+1688供应链价格为量化代理，未编造趋势曲线。",
+  "insights": [
+    {
+      "keyword": "yellow sticky traps fungus gnat killer fruit fly traps for indoor plants non-toxic 20 pack double sided",
+      "keyword_cn": "黄粘虫板/小黑飞果蝇贴板 20张双面装 非化学物理诱虫贴 室内绿植+阳台+菜地 家庭宠物友好",
+      "amazon_keyword": "fungus gnat traps, yellow sticky traps, fruit fly traps indoor plant, gnat killer non toxic, sticky insect traps for plants, fungus gnat sticky cards, yellow sticky fly paper, plant pest traps, gnat traps for houseplants, fruit fly trap yellow sticky",
+      "search_1688": "黄板 双面粘虫板 跨境 / 粘虫板 果蝇贴 家用 小片装 家居 出口 / 诱虫板 20x15 双面特粘 外贸 / 迷你这 黄板 室内绿植 防虫贴 定制",
+      "demand_signals": [
+        "Amazon AU Garden Best Sellers+Gardening Supplies Best Sellers双榜单多点位在榜：Super Ninja Fungus Gnat Killer 10-Pack、Aieve 60 Pack Sticky Traps、Stingmon 12 Pack Fruit Fly Traps——黄粘虫板品类在澳区BSR由多个卖家共同占有=需求已被验证且未形成品牌垄断（来源：amazon.com.au bestsellers garden / gardening-supplies 2026-09-04检索）",
+        "南半球9月入春=室内植物真菌蚊爆发季：转暖+植物进入生长期浇水加量=fungus gnats（小黑飞）在澳区houseplant社区是常年头号害虫问题，澳区园艺社群/reddit r/houseplants_au高频求助；TikTok澳区'gnat infestation'类短视频即看即买驱动（来源：澳洲园艺社群/reddit r/houseplants_au、TikTok AU 2026-09检索）",
+        "品类结构=非化学家居友好诉求：BSR在榜listing标题密集出现'non-toxic & nature-friendly, safe for kids & pets'——澳区家庭有娃有宠对化学杀虫剂抵触强，物理粘虫板是刚需平替，且春季同时覆盖室外菜床果蝇场景（来源：amazon.com.au BSR listing标题结构分析 2026-09-04）",
+        "1688成本屠龙级且完全合规：双面黄板20×15cm约¥0.16/张（100张起批≈¥16）、零售装20张成本¥4-8/30张¥6-9（含独立离型纸防粘连），厚度<1cm平卡包装卡进30×21×6cm红线，20张+卡纸约60-90g卡进200g，无液体无电子（来源：1688/惠农网黄板诱虫板报价2026-07-09检索、acbnlink.com批发价目表）",
+        "春季园艺季全链条启动：AU BSR同期soil blocker/seed类目热销=澳区播种行为活跃，粘虫板是'播了种/养了绿植就需要的防虫件'，室内室外双场景需求叠加（来源：amazon.com.au garden bestsellers 2026-09-04）"
+      ],
+      "trend_score": 72,
+      "trend_direction": "rising",
+      "reason": "本品是'AU BSR双榜多点位验证+南半球入春真菌蚊季节启动+非化学家居友好卖点+1688成本屠龙级'的四重叠加。关键时间判断：澳洲9-11月是植物生长期+真菌蚊最活跃窗口（转暖+浇水多+新苗嫩叶），现在上架（空运2-3周）9月底入市吃满整个生长期；且真菌蚊/果蝇问题在室内植物场景全年存在（冬季暖气房同样爆发）=生命周期不止一季。竞争诚实标注为'中'——品类未被垄断（Super Ninja/Aieve/Stingmon多家共存）但US/UK同款$6-14价格锚点存在，用'20张大容量+双面计算透明（40个粘面）+非化学家庭安全+本地Prime'错位。合规性确认：粘虫板=纸/PVC基材+胶性涂层，非液体非膏体管装；listing规避'poison/chemical/pesticide/insecticide'表述（非化学物理防治是卖点不是短板）。",
+      "action": "定位：非化学黄粘虫板20张双面装（20×15cm每张=双面共40个粘面），独立离型纸防粘连，附'小黑飞/果蝇防治科普卡'（TikTok干货引流+教场景用法）。差异化：多张数+粘面面积透明计算（vs 竞品'10 pack'不标尺寸的模糊卖法）、无毒胶面认证标注（pet-safe标签）、清新家居风包装（不LOW不农资感）、附小挂钩（直接挂盆沿）。定价A$12.99（20张双面）对标Super Ninja 10-Pack等价量双倍价。1688搜索'黄板 双面粘虫板 跨境'或'粘虫板 果蝇贴 家用 小片装'（目标20张装¥5-7、30张装¥7-10），要求：20×15cm双面特粘覆膜（防水耐晒不卷边）、胶面无毒（家有宠物安全——索要胶水MSDS）、独立离型纸（差评核心'stick together in pack'）、UV防褪色。首批200-300套空运测款（027店小批量策略）。Listing关键词埋伏'fungus gnat''fruit fly''sticky traps''non toxic''houseplant''garden pest'。注意：寄样实测①胶面粘性持久度（户外日晒7天不干胶）②平卡包装厚度③离型纸易撕不粘连。",
+      "competition": "中竞争无怪兽品牌（AU BSR由Super Ninja/Aieve/Stingmon等多个中国卖家共同占有=品类未垄断；US/UK同款$6-14价格锚点+某杂牌$9.99低价干扰）。机会点：①多张数+尺寸透明（竞品'10 pack'不标每张尺寸是常见模糊卖法）②非化学+pet-safe差异化（澳区有娃有宠家庭诉求得直击）③本地Prime到货（国际件3-6周 vs 本地1-2天）。风险点：①胶面品质是唯一生命线——劣质胶'没粘性/晒干'差评是品类重灾区，寄样实测②电商品类价格战——用$12.99/20张价值感不做$6撕杀③季节性强（春夏主窗口）——但室内全年有小飞虫需求托底。差评concern（US/UK同款提炼）：'cards stick together'（离型纸）、'glue dries out fast'（覆膜特粘款）、'too small'（尺寸写清20×15cm）、'not strong enough for big flies'（说明适合小黑飞/果蝇，非大苍蝇）。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 60,
+        "profit": 80,
+        "final": 68,
+        "recommendation": "BUY",
+        "gap_level": "中竞争中的容量+差异化空档：BSR双榜多点位需求验证但无品牌垄断，US/UK$6-14锚点+杂牌$9.99低价=价格战风险，用20张大容量+尺寸透明+非化学pet-safe+本地Prime错位；春季真菌蚊季+全年室内小飞虫需求托底",
+        "profit_window": "20张装A$12.99：1688采购¥6≈A$1.25，佣金15%（Patio/Garden）≈A$1.95，FBA A$4.2，空运头程≈A$0.5，净利≈A$5.09（不含头程A$5.59），毛利率≈39.2%（calc_profit.py口径）。若升级30张装A$14.99（采购¥8≈A$1.67）毛利率≈36.6%"
+      }
+    },
+    {
+      "keyword": "plant labels garden markers waterproof plastic tags for vegetables seedlings 150 pcs with marker reusable",
+      "keyword_cn": "植物标签/花园标牌 防水PVC 150支装含记号笔 蔬菜育苗花卉命名 可擦写复用 春季播种必备",
+      "amazon_keyword": "plant labels, garden markers, waterproof plant tags, seedling labels for seed starting, vegetable garden labels, plant stakes labels, plant name tags, garden labels with marker, plant markers, vegetable plant labels, seed labels waterproof",
+      "search_1688": "植物标签 PVC 防水 跨境 / 园艺插牌 育苗标签 150支 外贸 / 花园标牌 植物名牌 塑料 带记号笔 套装 / 植物标签 加厚 可擦写 出口",
+      "demand_signals": [
+        "Amazon AU BSR Plant Container Accessories双listing在榜：'Garden Stake Tags Plant Labels 4 Inch 100 Pcs White'与'Plant Labels Garden Signs Outdoor 150pcs Waterproof'——标签品类已有2个listing同时打进BSR=需求真实且无强势品牌垄断（来源：amazon.com.au bestsellers garden/plant-container-accessories 2026-09-04检索）",
+        "春季播种季=标签刚需节点：澳洲9-11月是蔬菜/花卉/香草播种高峰（seed raising季），育苗盘一盆一种必须标签区分；AU站BSR同期soil blocker土壤压块器（4-cell）等seed starting工具热销=播种行为活跃验证（来源：amazon.com.au garden bestsellers 2026-09-04检索）",
+        "TikTok澳区seed organization内容病毒式传播：Bunnings $1收纳盒装种子hack数十万播放、Kmart photo & craft storage box做种子库（@culinary.gardener百万级播放'12个收纳格按月分类全年播种计划'）——种子库文化带动种子收发配件（标签+记号笔）连带需求（来源：nine.com.au 2026-04-23 Bunnings/Kmart seed storage黑客报道、TikTok @culinary.gardener）",
+        "2026澳区园艺趋势=新手浪潮+本地种植：Plant Trends AU 2026视频指出TikTok催生的'instant gratification'新手园艺群体（种死一盆就不再来=需要低成本成功工具），新手越多标签这类基础件需求越大（来源：YouTube Plant Trends Australia 2026、澳洲本地苗圃趋势内容）",
+        "1688成本极低且合规：PVC防水植物标签¥150-200/万张（单张¥0.02，4-5cm规格）、零售装150支+记号笔¥10-15，单支1-2g全包约150g卡进200g红线，长度10cm插地桩款包装15×10×2cm完全合规（来源：1688/惠农网园艺标签报价2026-09-04检索、cnhnb.com 5171号供应）"
+      ],
+      "trend_score": 60,
+      "trend_direction": "rising",
+      "reason": "本品是'春季播种季刚需节点+BSR双listing需求验证+1688成本屠龙+新手园艺浪潮'的组合：标签不是动能爆品（trend_score 60诚实标注），但9-11月播种高峰是全年最刚需窗口，且品类结构健康（BSR在榜listing都是杂牌无强势品牌=新卖家可正面进入），$12.99/150支大容量+含记号笔套装+本地Prime有明显价值带。时间判断：现在上架9月底吃满10月播种次高峰+11月收成季标签升级需求；全年室内育苗（香草/多肉）持续=无季节崩塌。竞争诚实标注为'中'——2个BSR在榜listing+一堆杂牌，差评集中在'太软/字迹褪色'，品质改良是切入口。合规性确认：PVC塑料+油性笔，无液体无电子，全重约150g卡线（150支+笔+卡纸实测确认）。",
+      "action": "定位：防水植物标签150支装（4寸≈10cm插地款，PVC厚料0.6mm+），含1支防水油性记号笔，可擦写复用（酒精擦拭），附'播种计划卡'（呼应TikTok种子库趋势：按月/按植物分类写法）。差异化：厚料不软（竞品差评核心'flimsy'）、预印空白格（植物名+播种日期分区书写）、种子库主题包装（贴纸+分类色系）、双色可选（白色/米色campaign感）。定价A$12.99（150支+笔），对标BSR在榜100支款$9.99上下——多50支+含笔+厚料做价值感。1688搜索'植物标签 PVC 防水 跨境'或'园艺插牌 育苗标签 150支'（目标150支带笔¥10-14），要求：PVC厚度≥0.5mm不软塌（差评核心）、防水耐晒不褪色（AB面书写测试）、插地桩一体成型耐弯折、油性笔黑色速干防水（可换细头）。首批200-300套空运测款。Listing关键词埋伏'plant labels''garden markers''seed starting''vegetable garden''waterproof''gift for gardeners'。注意：寄样实测①料厚手感（0.5mm vs 0.3mm差异明显）②马克笔附着力（放户外2周字迹是否褪）③运输中标签是否压弯变形（插地桩端加纸板衬）。",
+      "competition": "中竞争结构健康（BSR 2个在榜listing均为杂牌、无品牌垄断；US/UK同款$8-14；差评集中在'too flimsy/lettering fades/washes off'=品质改良是一切）。机会点：①厚料+油性笔套装（竞品多数不配笔或用易褪色白板笔）②大容量价值感（150支 vs 100支同价位）③播种季主题内容（种子库趋势联动）。风险点：①客单价低（A$12.99）——靠套装+数量拉客单②低价杂牌干扰（$7-9区间）——不做价格战做品质认知③同质化严重——包装/内容差异化必须到位否则无记忆点。差评concern（US/UK同款提炼）：'breaks when pushed into soil'（插地桩加厚）、'marker fades within weeks'（配防水油性笔）、'too flimsy bends'（0.5mm+厚料）、'not enough writing space'（4寸长度+双面可写）。",
+      "signal_scores": {
+        "trend": 60,
+        "gap": 58,
+        "profit": 78,
+        "final": 60,
+        "recommendation": "BUY",
+        "gap_level": "中竞争中的容量+套装差异化空档：BSR双listing验证需求但无品牌垄断，用150支大容量+防水油性笔+厚料品质+播种季/种子库主题内容错位；春季播种季（9-11月）刚需窗口+全年室内育苗托底",
+        "profit_window": "150支套装A$12.99：1688采购¥12≈A$2.50，佣金15%（Patio/Garden）≈A$1.95，FBA A$4.2，空运头程≈A$0.5，净利≈A$3.84（不含头程A$4.34），毛利率≈29.6%（calc_profit.py口径）。若100支简化款A$9.99（采购¥8≈A$1.67）毛利率≈27.2%（利润率偏低，主推150支套装）"
+      }
+    },
+    {
+      "keyword": "macrame plant hangers 4 pack cotton rope hanging planter holders for indoor plants boho home decor",
+      "keyword_cn": "编织吊篮挂绳/植物吊挂器 4只装 棉绳手工编织 波西米亚家居装饰 室内绿植上墙 免打孔",
+      "amazon_keyword": "macrame plant hanger, plant hangers for indoor plants, macrame plant holder, hanging planter holder cotton rope, boho plant hanger, macrame planter, plant hangers 4 pack, hanging planter kit, macrame hanging basket, planter hanger cotton",
+      "search_1688": "编织吊篮 花盆挂绳 手工 跨境 / macrame 挂绳 植物吊挂 4件套 外贸 / 编织花盆网兜 棉绳 出口 / 波西米亚 吊篮绳 家居装饰 带木珠 定制",
+      "demand_signals": [
+        "Amazon AU BSR Hanging Planters板块macrame品类霸榜：Nook Theory 6-Pack Macrame Plant Hangers位列榜首，Augshy 2-Pack/T4U等跟随，TOP50内至少15条macrame listing——品类在澳区是结构性需求而非单品运气（来源：amazon.com.au bestsellers hanging-planters 2026-09-04检索）",
+        "Kmart Anko主宰澳区平价家居审美：Anko占Kmart总销售85%+、年销超10亿件，2026-06墨尔本Box Hill首个K-Home独立家居店开业（3,800sqm），并有报道称财富阶层也在买Anko——boho平价家居风是澳区主流且持续加热（来源：mumcentral.com.au K-Home开业报道、thewest.com.au、afr.com.au Wesfarmers年报2026检索）",
+        "澳区约1/3人口租房+免打孔诉求：吊篮挂绳挂晾杆/窗帘杆/阳台栏杆无需打孔=租赁友好装饰方案，室内植物上墙（vertical garden aesthetic）是TikTok/Pinterest澳区高频家居内容（来源：澳洲统计局租赁比例、TikTok/Pinterest AU home decor内容 2026-09检索）",
+        "1688产业带工厂成熟：惠民县李庄镇盛隆创意绳网厂（花盆网兜/编织挂毯/棉麻绳专业产线）+台州瑞普园艺（园艺用品设计生产）等源头工厂，编织吊篮网兜¥3-8/个、4件套¥15-30，棉绳可压缩包装（真空压缩袋）卡进30×21×6cm/200g红线（来源：1688找工厂花盆容器报价2026-07-07、1688类目在产工厂 2026-09-04检索）",
+        "春季家居焕新节点：9月入春=Aussie家庭换季家居更新（spring refresh），吊篮换新/绿植上墙是低成本焕新方案；houseplant 2026趋势（本土化+新手浪潮）支撑挂载工具长期需求（来源：homestolove.com.au春季家居内容、YouTube Plant Trends Australia 2026）"
+      ],
+      "trend_score": 64,
+      "trend_direction": "rising",
+      "reason": "本品需求侧证据充分但竞争侧诚实标注为'高'：BSR 15+条在榜+榜首Nook Theory 6-Pack（$19.99+）强势=需求真实但公版同质化严重，低价杂牌（Suning等$9.99）已存在——单纯跟卖无意义。机会在'设计差异化+套装价值感+本地Prime'：木珠/编织纹样设计款避开公版、4件套长短组合对准不同盆高需求、品质（编织密度/棉绳手感）直接打竞品差评（frayed/loose weaving/short length）。故signal_scores.final=52定为CONDITIONAL BUY——小批量（100-200套）测款验证设计款溢价能力，不做低价跟卖。时间判断：春季家居焕新+绿植上墙是全年性需求，无强季节窗，随时可入但需设计先行。合规性确认：棉绳+木珠纯物理材质，无液体无电子；4件套压缩后150-200g卡线（寄样实测重量）；listing规避'kids/baby'禁词（绳子窒息风险联想）。",
+      "action": "定位：macrame植物吊挂4件套设计款（2长2短组合，85-110cm），棉绳编织+可选木珠款，附免打孔顶勾/墙勾2个（悬挂套装完整）。差异化：①木珠+编织纹样（避开$9.99公版纯绳款）②长短组合适配不同盆高（宝塔式悬挂场景：阳台栏杆/晾杆/窗帘杆）③木珠配色可选（奶油白/原木/黑色——呼应澳区boho家居色系）④承重标≥3kg+编织密度实拍特写（打'frayed'差评）。定价A$14.99（4件套含勾），对标Nook Theory 6-Pack $19.99以下价值带+高于公版$9.99的品质定位。1688搜索'编织吊篮 花盆挂绳 手工 跨境'或'macrame 挂绳 植物吊挂 4件套'（目标4件套¥15-25含木珠款），要求：纯棉绳（非腈纶混纺——手感差异核心）、编织紧密结扣整齐（差评核心'loose knots'）、木珠打磨光滑无毛刺、长度误差±2cm内、承重实测≥3kg。首批100-200套空运测款（竞争高小量验证设计溢价）。Listing关键词埋伏'macrame''plant hanger''boho''hanging planter''home decor''cotton rope'；规避'kids/baby crib'类关联表述。注意：寄样实测①单套重量（4件+勾+压缩袋≤200g）②压缩包装回弹后编织是否变形③棉绳掉毛/色牢度（深色款水洗测试）。",
+      "competition": "高竞争（BSR 15+条在榜、Nook Theory 6-Pack $19.99霸榜、Suning等$9.99低价杂牌、US/UK红海$8-16；差评集中在'fraying/loose knots/too short/wrong size'）。机会点：①设计差异化（木珠/纹样/长短组合）避开公版红海②4件套+勾的完整套装价值感③品质实拍打差评痛点。风险点：①价格战无底（$9.99公版随处可见）——不做低价做设计溢价②棉绳品质差评——寄样实测编织密度③设计可被快速抄袭——首批小量快速测款，验证ROI后再放大④无品牌护城河——包装/内容（挂法教程卡）是仅有的记忆点。差评concern（US/UK同款提炼）：'frayed within weeks'（纯棉+编织密度验证）、'knots come loose under weight'（承重测试）、'only fits small pots'（标注适用盆径8-20cm）、'wood beads rough'（打磨光滑验证）。",
+      "signal_scores": {
+        "trend": 64,
+        "gap": 45,
+        "profit": 74,
+        "final": 52,
+        "recommendation": "CONDITIONAL BUY",
+        "gap_level": "高竞争中的设计差异化空档：BSR霸榜=需求确定但公版饱和+低价杂牌挤压，纯跟卖无意义；仅在'木珠设计款+4件套含勾完整套装+品质实拍'可打的前提下小批量测款，验证设计溢价能力后再放大；春季家居焕新+全年boho趋势托底",
+        "profit_window": "4件套A$14.99：1688采购¥20≈A$4.17，佣金15%（Home）≈A$2.25，FBA A$4.2，空运头程≈A$0.6，净利≈A$3.71（不含头程A$4.37），毛利率≈24.8%（calc_profit.py口径）。若含木珠设计款A$16.99（采购¥25≈A$5.21）毛利率≈24.1%——利润合格但无强护城河，故仅小量测款"
+      }
+    }
+  ],
+  "trend_forecast": "未来3-4周（2026年9月4日至10月2日）AU需求窗口与操作节点：\n\n①【春季园艺配件主窗口 — 粘虫板+植物标签】9月入春=南半球生长期启动，室内植物真菌蚊爆发（转暖+浇水加量）+室外菜床播种/果蝇季=非化学粘虫板进入全年最刚需期，植物标签随播种高峰（育苗盘一盆一签）同步放量；BSR已多点位验证需求，1688成本屠龙级（黄板¥0.16/张、PVC标签¥0.02/张）。现在下单（空运2-3周）9月底上架吃满10月播种次高峰+11月收成季，推荐★★★★★；真菌蚊/小飞虫在室内全年存在=生命周期不止一季，但9-10月是动能最强窗口，上架要快。\n\n②【父亲节9/6周日=春季开场信号，不再追】Roy Morgan口径澳区家庭父亲节预算约$70、35%家庭BBQ庆祝，2026年父亲节9/6=本周日——备货窗口已关闭，今天起不再评估父亲节礼品；但节日验证了'春季户外/BBQ/花园场景'是本季主线，转为推进露营/园艺/家居焕新长效品类。\n\n③【10月节点预埋】9/28-10/17全澳学校春假（NSW 9/28-10/9等州错峰）+10/5劳动节长周末=家庭露营/花园聚会延续（烤叉/粘虫板同场景互补）；10/31万圣节=澳区持续升温的party节点，糖果/装饰/派对小件10月初评估（注意全部卡200g/30cm红线+糖果类有食安风险建议先看装饰件）；10月中评估圣诞前最后一轮备货。\n\n④【11月末黑五 = 10月决策窗口】Black Friday（11月底）是澳区最大促销节点（81%澳人等大促），适合10月中按'圣诞盛夏BBQ/海滩主题轻小件'方向备货；12月圣诞=海滩/BBQ/野餐场景（烤叉/野餐配件生命周期延续至12-1月），Back to School 2027年1月底=Term 1文具窗口12月中旬铺货。\n\n⑤【品类带规划与纪律】厨房烘焙簇已连续8个工作日在榜（08-28至09-03共8款），今日主动转向春季园艺/家居簇——园艺簇可持续挖掘到11月（粘虫板/标签/吊篮已占位，后续可看：植物固定夹/攀爬架附件、花盆接水盘、播种配件——注意全部卡200g/30cm红线）；macrame属'需求确定但竞争高'品类，按CONDITIONAL BUY小量测款执行，严格验证设计溢价后再放大；Google Trends连续第8日超时不可达，trend_score以Amazon AU榜单动能（BSR多点位+movers）+季节日历+内容热度（TikTok/Kmart）+1688供应链为量化代理，已如实标注不编造趋势曲线。"
+}
