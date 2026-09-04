@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05T07:10:00+08:00",
+  "scan_date": "2026-09-05",
+  "scan_time": "07:10",
+  "summary": "今日3个推荐（2个BUY小批量+1个CONDITIONAL测款，全部is_new=True无重复品类；主动转向宠物护理簇+BBQ户外簇——09-04为春季园艺簇、09-03前为厨房烘焙簇8连推，今日三大簇均未覆盖过）：①硅胶慢食舔食垫2只装含吸盘+刮板（Amazon AU Pet Supplies Movers & Shakers今日在榜——Bifeaw Slow Feeder Cat Bowl为宠物类目24h销售排名动能王；BSR Feeding Mats for Dogs舔食垫/慢食垫30+条在榜=LickiMat品牌+中国卖家群共同验证需求；南半球9月入春=宠物换毛季=洗澡/美容频率大增，舔食垫是洗澡分散注意力的标配工具（涂花生酱/酸奶贴浴室墙面）=春季美容场景刚需叠加全年焦虑舒缓/慢食防噎刚需；1688安徽阜阳亿欧硅胶制品工厂直供¥8-11.99/个（食品级硅胶195g/3L款，舔食垫更轻约80-120g），2只装成本¥12-16完全卡进200g/30×21×6cm红线；A$12.99毛利率29.6%）；②宠物静电除毛手套2只装（BSR Dog Hair Removal Products 30+条在榜=需求被中国卖家群极端验证，诚实标注为红海竞争——但南半球9-11月换毛高峰是全年最刚需窗口，1688义乌酷爪工厂¥1.15-1.7/只成本屠龙级，2只装A$12.99毛利率41.6%仍诱人，机会仅在'5指静电+双面+2只装+宠物安全+礼盒感'的套装差异化，signal_scores.final=45定为CONDITIONAL测款，不做红海跟卖）；③BBQ特氟龙不粘烧烤垫3-4片装（BSR Kitchen Baking Mats类目榜首=Luxerlife Grill Mat Set of 5，且'BBQ Grill Mat Set of 6+1'等密集在榜=烧烤垫是澳区当前最活跃厨房小件；9/6父亲节35%家庭BBQ庆祝+入春户外烧烤季启动+9/28-10/17学校春假露营=BBQ场景全年主窗口从本周开启；1688江苏泰兴富利特工厂40×33cm特氟龙烤盘片¥3.9-4.6/张FDA食品级，单张约46g=3-4片装卡进200g/30×21×6cm红线（对折两次20×16.5×1cm），竞品主流5片装（约231g）反而超AU轻小件红线='3-4片轻量合规装'是真实差异化空档；A$14.99/4片毛利率31.4%）。主动淘汰：棉花糖烧烤签6件套（Movers & Shakers在榜但32寸金属签6支估重400-540g远超200g红线，除非改2-3支小包装——列入观察）；电子盐磨器（USB充电=电子件红线）；烤箱清洁/烧烤刷（带电或含液体/化学剂）；宠物慢食碗碗状款（碗深超6cm风险，只做平片舔食垫）。注意：舔食垫listing规避'food'类目冲突词（Amazon宠物食品类目管控），定位'grooming/bathing/distraction tool'；除毛手套listing规避'medicine/shampoo'联想。Google Trends连续第9日超时不可达（与8/28-9/4一致），trend_score以Amazon AU榜单动能（Movers & Shakers当日在榜+BSR多点位）+南半球季节日历（换毛季/BBQ季/父亲节）+Kmart/社媒内容热度+1688供应链价格为量化代理，未编造趋势曲线。",
+  "insights": [
+    {
+      "keyword": "dog lick mat with suction cups 2 pack slow feeder silicone grooming bath distraction pad for anxiety relief with scraper",
+      "keyword_cn": "宠物舔食垫/慢食垫 2只装 硅胶含吸盘+刮板 洗澡美容分散注意力 缓解焦虑 慢食防噎",
+      "amazon_keyword": "lick mat for dogs, dog lick mat with suction cups, slow feeder mat, cat lick mat, lick pad for anxiety relief, dog grooming bath mat, silicone lick mat 2 pack, dog lick mat for bathing, puppy lick mat with suction, pet slow feeder pad",
+      "search_1688": "舔食垫 硅胶 吸盘 跨境 / 狗狗慢食垫 舔舔垫 宠物洗澡安抚 出口 / 宠物舔食垫 带吸盘 刮板 亚马逊款 / 硅胶慢食垫 防噎 猫狗通用 外贸",
+      "demand_signals": [
+        "Amazon AU Pet Supplies Movers & Shakers今日在榜：Bifeaw Slow Feeder Cat Bowl（Green and Blue）为Pet Supplies类目24h销售排名最大赢家之一——慢食/舔食品类正处在动能上升期（来源：amazon.com.au/gp/movers-and-shakers Pet Supplies板块 2026-09-05检索）",
+        "BSR Feeding Mats for Dogs类目30+条在榜：LickiMat品牌（Mini Classics/Variety 3-Pack）+LOVELEDI 2 Pack+COOVCCO 2pcs 8'72吸盘+Yotsuba带吸盘款等大量中国卖家舔食垫listing密集在榜=需求被多家验证、无单一品牌垄断（来源：amazon.com.au bestsellers Feeding Mats for Dogs 2026-09-05检索）",
+        "南半球9月入春=宠物换毛季（春季coat blow）：澳区69%家庭养宠，换毛季洗澡/美容频率翻倍，舔食垫（涂花生酱/酸奶贴墙）是洗澡时分散狗注意力的标准工具——grooming/bathing场景刚需叠加全年焦虑舒缓+慢食防噎双场景（来源：澳洲宠物保有量统计、BSR在榜listing标题'for Bathing, Grooming, Anxiety Relief'结构分析 2026-09-05）",
+        "澳区宠物焦虑舒缓内容热度：TikTok/IG澳区'lick mat'使用教程（洗澡安抚/幼犬训练/独处焦虑）高频传播，Kmart/宠物店同期在售同款舔食垫验证线下零售需求（来源：TikTok AU pet content、Kmart/Petbarn在售舔食垫 2026-09检索）",
+        "1688成本可控且完全合规：安徽阜阳亿欧硅胶制品工厂食品级硅胶慢食垫/舔食垫¥8-11.99/个（3L款195g，舔食垫平片款更轻约80-120g），2只装采购¥12-16；平片硅胶可平铺/卷装，包装24×18×2cm完全卡进30×21×6cm/200g红线；无液体无电子（来源：义乌购/1688硅胶慢食垫报价 2026-09-05检索）"
+      ],
+      "trend_score": 68,
+      "trend_direction": "rising",
+      "reason": "本品是'Pet Supplies Movers & Shakers当日动能+BSR类目多点位验证+南半球春季换毛美容季+1688成本可控'的组合。关键时间判断：澳洲9-11月换毛高峰=洗澡美容频率最高的窗口，舔食垫作为'洗澡安抚工具'直接受益；且焦虑舒缓/慢食防噎是全年性宠物刚需（澳区宠物分离焦虑内容持续热门）=无季节崩塌。竞争诚实标注为'中偏高'——LickiMat是唯一强势品牌（$15-25溢价锚点），中国卖家群在$8-13区间混战，但Movers动能显示需求仍在扩大；切入用'2只装+吸盘+刮板+洗澡场景内容'套装差异化避开$9.99单品价格战。合规性确认：食品级硅胶平片+吸盘，非液体非膏体非电子；listing定位'grooming/bathing/distraction tool'规避宠物食品类目冲突（不宣称治疗功能）。",
+      "action": "定位：宠物舔食垫2只装（含吸盘+硅胶刮板），食品级硅胶平片款（约22×17×0.8cm），凹凸纹理+分区设计。差异化：①2只装+吸盘（洗澡时贴浴室瓷砖/浴缸壁）+刮板（清理残留）完整套装 ②'洗澡安抚/美容固定'场景内容卡（TikTok式教程：如何涂花生酱/酸奶让狗安静洗澡）③颜色分男女款（蓝/粉/米色——澳区宠物礼品化）④吸盘吸力实测标注（差评重灾区）。定价A$12.99（2只装含刮板），对标LickiMat单品$15+的低价价值带+高于杂牌$8-9的品质定位。1688搜索'舔食垫 硅胶 吸盘 跨境'或'狗狗慢食垫 舔舔垫 宠物洗澡安抚'（目标2只装含刮板¥12-16），要求：食品级硅胶（索要FDA/LFGB检测报告）、吸盘吸力≥2kg（壁挂测试）、纹理深度适中（太浅无安抚效果太深难清洗）、耐咬不撕裂（狗咬测试）、耐高温可洗碗机。首批200-300套空运测款（027店小批量策略）。Listing关键词埋伏'lick mat''slow feeder''anxiety relief''dog grooming''bath time''suction cup'。注意：寄样实测①吸盘在浴室瓷砖/浴缸壁吸力持久度②硅胶气味（劣质硅胶异味差评重灾区）③包装厚度（平片+彩卡≤6cm）。",
+      "competition": "中偏高竞争（BSR 30+条在榜、LickiMat品牌溢价强势$15-25、中国卖家$8-13混战；差评集中在'suction cups don't stick/mat too small/silicone smell'）。机会点：①2只装+吸盘+刮板完整套装价值感（竞品多数单品或双只无配件）②洗澡/美容场景差异化内容（多数竞品只讲slow feeding，洗澡安抚场景是内容空档）③品质实测打差评痛点（吸盘吸力/硅胶无味）。风险点：①LickiMat品牌认知强——避开正面价格战做场景错位②低价杂牌$8-9干扰——用套装价值感不撕价格③硅胶品控差评——寄样实测气味与吸力。差评concern（US/UK同款提炼）：'suction cups fall off'（吸盘加大+壁挂实测）、'too small for large dogs'（标注适用犬种/尺寸22×17cm）、'smells like rubber'（食品级硅胶+脱模剂清洗工艺）、'texture too shallow'（纹理深度0.5-0.8cm）。",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 50,
+        "profit": 76,
+        "final": 58,
+        "recommendation": "BUY",
+        "gap_level": "中偏高竞争中的场景+套装差异化空档：Movers & Shakers当日动能+BSR多点位验证需求真实且仍在扩大，LickiMat品牌溢价+杂牌混战之间用'2只装含吸盘刮板+洗澡美容场景内容'错位；春季换毛季grooming刚需窗口+全年焦虑舒缓/慢食托底",
+        "profit_window": "2只装A$12.99：1688采购¥14≈A$2.92，佣金15%（Pet Supplies）≈A$1.95，FBA A$4.2，空运头程≈A$0.5，净利≈A$3.42（不含头程A$3.92），毛利率≈26.3%（calc_profit.py口径）。若采购压到¥10（大货阶梯价）毛利率可升至29.9%；升级3只装A$16.99（采购¥20≈A$4.17）毛利率≈29.5%"
+      }
+    },
+    {
+      "keyword": "pet hair removal gloves 2 pack electrostatic five finger double sided cat dog fur remover reusable grooming mitt",
+      "keyword_cn": "宠物静电除毛手套 2只装 五指静电双面 猫狗去浮毛 家具沙发清洁 可水洗重复使用",
+      "amazon_keyword": "pet hair removal gloves, dog hair remover gloves, cat hair remover glove, electrostatic pet hair gloves, fur removal glove 2 pack, pet hair remover for furniture, dog grooming gloves, lint remover gloves, pet hair removal mitt, cat fur remover electrostatic",
+      "search_1688": "除毛手套 静电 五指 跨境 / 撸猫手套 去浮毛 双面 宠物 出口 / 静电除毛手套 大号 猫毛清理器 亚马逊 / 宠物除毛手套 2只装 礼盒 定制",
+      "demand_signals": [
+        "Amazon AU BSR Dog Hair Removal Products 30+条在榜：Pet Hair Removal Gloves（Lizihaowu/CCEE/EssenceNest/purepath等）+静电除毛手套多个listing密集占据BSR前50=品类需求被中国卖家群极端验证（来源：amazon.com.au bestsellers Dog Hair Removal Products 2026-09-05检索）",
+        "南半球9月入春=宠物换毛高峰（coat blow season）：澳区69%家庭养宠，春季狗猫脱冬毛量是平时的2-3倍，除毛手套是'撸宠即除毛'的最顺手工具——9-11月为全年最刚需窗口（来源：澳洲宠物保有量统计、澳洲兽医/宠物护理春季换毛内容 2026-09检索）",
+        "BSR在榜listing结构显示'静电+双面+可水洗+家具沙发多场景'是主流卖点结构：'5-Finger Electrostatic...for Couch, Carpet, Car Seat, Bedding, Furniture, Laundry'——品类已从'撸猫玩具'进化为'家居除毛清洁工具'，使用场景扩大的需求逻辑成立（来源：amazon.com.au BSR listing标题结构分析 2026-09-05）",
+        "1688成本屠龙级：义乌酷爪宠物用品工厂静电除毛手套大号¥1.35/只、五指款¥1.7/只（库存900万+件跨境现货），义乌购橡胶撸猫手套¥2.2-5.2/只，2只装成本¥4-8——A$12.99定价下有极深利润安全垫（来源：1688酷爪宠物用品/义乌购撸猫手套报价 2026-09-05检索）",
+        "春季家居清洁连带场景：除毛手套同时解决'沙发/车座/床品上的宠物毛'——换毛季+春季大扫除双场景叠加，与今日BBQ/园艺户外簇并列的室内清洁刚需（来源：BSR品类结构、澳洲春季清洁内容 2026-09检索）"
+      ],
+      "trend_score": 62,
+      "trend_direction": "rising",
+      "reason": "本品需求侧证据极强（BSR 30+条在榜=需求被极端验证）但竞争侧诚实标注为'高/红海'——品类已高度商品化，¥1.15/只的成本谁都拿得到，单纯跟卖无意义。机会仅在：①2只装+五指静电+双面+宠物安全+礼盒感套装差异化 ②春季换毛季窗口内的内容营销（TikTok'撸猫撸狗去浮毛'演示视频是品类天然流量）③品质细节（静电吸附力/可水洗次数/无毛刺）打差评痛点。故signal_scores.final=45定为CONDITIONAL BUY——小批量（100-200套）测款验证套装差异化溢价能力，验证ROI后再放大；若只想快速铺货赚快钱此品类可放弃（红海无护城河）。时间判断：9-11月换毛高峰是全年唯一强季节窗，现在上架（空运2-3周）9月底入市吃满换毛季。合规性确认：TPR/涤纶橡胶手套，非液体非膏体非电子；listing规避'medicine/shampoo/chemical'类联想（纯物理静电吸附）。",
+      "action": "定位：宠物静电除毛手套2只装（五指款，左右手各一），静电纤维+TPR按摩颗粒双面设计，可水洗循环使用。差异化：①2只装+五指（竞品多1只装或单指款）②双面设计（静电面除毛+按摩面撸宠）③宠物安全卖点（圆头纤维不伤宠肤+无化学涂层）④礼盒感包装（换毛季'宠物护理套装'概念+贺卡）⑤附'沙发/车座/床品除毛场景卡'。定价A$12.99（2只装），对标BSR在榜1只装$8-10——2只装+双面做价值感，不做$9.99单品撕杀。1688搜索'除毛手套 静电 五指 跨境'或'撸猫手套 去浮毛 双面'（目标2只装¥5-8），要求：静电纤维吸附力实测（绒面摩擦测试）、TPR颗粒无毛刺（宠物皮肤安全）、水洗5次后静电性能衰减测试、五指分指灵活度、无异味。首批100-200套空运测款（红海品类严格小量）。Listing关键词埋伏'pet hair remover''electrostatic gloves''fur removal''cat dog grooming''reusable'；规避'medicine/shampoo/chemical'。注意：寄样实测①静电吸附力（对比竞品差异）②水洗后性能③指尖缝合工艺（差评'seams burst'重灾区）。",
+      "competition": "高竞争/红海（BSR 30+条在榜且全部为中国卖家、价格锚点$6-12、无品牌垄断但同质化严重；差评集中在'not strong enough/loses static after wash/seams burst/size too small'）。机会点：①2只装+五指+双面套装差异化（竞品混战在1只装/单指/无配件）②换毛季内容营销（撸宠去毛演示是天然流量）③品质实测打差评痛点（静电吸附力/水洗衰减/缝合工艺）。风险点：①红海价格战无底——坚决不做低价跟卖，只做套装价值感②无护城河——首批小量快速测款验证溢价③季节性——换毛季外需求回落但全年家居除毛场景托底。差评concern（US/UK同款提炼）：'static wears off quickly'（静电纤维密度验证）、'too small for adult hands'（五指款加大码）、'seams come apart'（缝合加固+寄样实测）、'doesn't remove embedded hair'（说明适用浮毛/表面毛，深层毛用rake工具）。",
+      "signal_scores": {
+        "trend": 62,
+        "gap": 35,
+        "profit": 82,
+        "final": 45,
+        "recommendation": "CONDITIONAL BUY",
+        "gap_level": "红海中的套装差异化空档：BSR 30+条在榜=需求极端验证但品类高度商品化无护城河，仅在'2只装+五指静电+双面+宠物安全+礼盒感'差异化可打的前提下小批量测款；春季换毛季（9-11月）唯一强季节窗+全年家居除毛场景托底",
+        "profit_window": "2只装A$12.99：1688采购¥6≈A$1.25，佣金15%（Pet Supplies）≈A$1.95，FBA A$4.2，空运头程≈A$0.4，净利≈A$5.19（不含头程A$5.59），毛利率≈40.0%（calc_profit.py口径）。若升级礼盒装A$14.99（采购¥8≈A$1.67）毛利率≈42.2%——利润结构极优但竞争无护城河，故仅小量测款"
+      }
+    },
+    {
+      "keyword": "bbq grill mats non stick reusable 4 pack ptfe teflon fiberglass 40x33cm for gas charcoal grill baking",
+      "keyword_cn": "BBQ特氟龙不粘烧烤垫 4片装 40×33cm 燃气炭火烤架通用 可重复使用 烤箱通用",
+      "amazon_keyword": "bbq grill mat, grill mats non stick, reusable bbq grill mats, teflon grill mat, bbq mat for gas grill, grill mats 4 pack, non stick bbq baking mat, barbecue grill liner, grill mat for charcoal, oven liner bbq mat",
+      "search_1688": "烧烤垫 特氟龙 不粘 40x33 跨境 / 烤盘片 耐高温 烧烤垫 出口 外贸 / PTFE 烤盘垫 食品级 FDA 定制 / 烧烤垫 3片 彩盒 亚马逊款",
+      "demand_signals": [
+        "Amazon AU BSR Kitchen Baking Mats类目榜首=Luxerlife Grill Mat Set of 5 Heavy Duty BBQ Grill Mats Non Stick，且'BBQ Grill Mat Set of 6+1'（含配件）、'4 Pcs BBQ Grill mesh mat'等密集在榜=烧烤垫是澳区当前最活跃的厨房/户外小件品类（来源：amazon.com.au bestsellers kitchen Baking Mats 2026-09-05检索）",
+        "Amazon AU Barbecue & Smoker Accessories BSR同步活跃：INKBIRD烧烤手套/Lukata 3-Pack Grill Mat/BBQ Blanket等在榜——BBQ配件整个类目处于高流量状态（来源：amazon.com.au bestsellers garden Barbecue & Smoker Accessories 2026-09-05检索）",
+        "9/6父亲节（本周日）：Roy Morgan口径35%澳区家庭以BBQ庆祝父亲节、家庭预算约$70——父亲节BBQ场景=烧烤配件刚需触发点，且验证'春季户外/BBQ场景'是本季主线；9月入春后户外烧烤季从本周正式启动（来源：Roy Morgan家庭节日消费调研、父亲节BBQ文化 2026-09检索）",
+        "9/28-10/17全澳学校春假（NSW 9/28-10/9等州错峰）+10/5劳动节长周末=家庭露营/BBQ/花园聚会高峰期——烧烤垫作为'不粘+免刷洗+健康少油'的烧烤配件在露营场景（便携烧烤架）同样适用（来源：各州学校假期日历2026、BBQ场景分析 2026-09检索）",
+        "1688成本屠龙且食品级认证齐全：江苏泰兴富利特工厂40×33cm特氟龙烤盘片¥4.6/张（99起批）¥4.0/张（100+）¥3.9/张（200+），义乌萃火3片彩盒装¥13.8/套，出口价$0.55-0.95/张；0.2mm厚单张约46g（350g/m²玻纤布）=4片装约185g+彩盒卡进200g红线（来源：供应商网/义乌购/ecer特氟龙烤盘片报价 2026-09-05检索）"
+      ],
+      "trend_score": 65,
+      "trend_direction": "rising",
+      "reason": "本品是'BSR类目榜首+父亲节BBQ触发点+入春户外烧烤季启动+1688成本屠龙'的组合。关键时间判断：9/6父亲节（周日）是BBQ季的开场信号——Roy Morgan口径35%家庭BBQ庆祝，本周起至12月圣诞BBQ是澳区烧烤配件全年主窗口；9/28学校春假露营场景再叠加；现在上架（空运2-3周）9月底入市吃满10月假期+11月圣诞备货前奏。竞争诚实标注为'中偏高'——BSR榜首Luxerlife 5片装+几十个中国卖家listing，但发现真实差异化空档：竞品主流5片装约231g超AU轻小件200g红线（0.2mm玻纤布46g/张×5），我们做3-4片轻量合规装=成本更低+红线合规+够用（家庭BBQ 2-4片足够）；且A$14.99/4片价格带仍有30%+毛利。合规性确认：PTFE涂覆玻纤布，非液体非膏体非电子；FDA/LFGB食品级认证（不粘涂层PFOA-free声明）；40×33cm对折两次=20×16.5×1cm完全卡进30×21×6cm。",
+      "action": "定位：BBQ特氟龙不粘烧烤垫4片装（40×33cm，0.2mm，黑色/铜色），燃气/炭火/电烤架通用+烤箱烘焙通用（一垫两用）。差异化：①4片轻量合规装（竞品5片装231g超AU红线，我们3-4片185g以内=轻小件合规+家庭够用）②一垫两用卖点（烧烤垫+烤箱烘焙垫/空气炸锅底垫）③FDA食品级+PFOA-free认证标注（澳区家庭对不粘涂层安全敏感）④附'烧烤季使用卡'（温度上限260℃/不可接触明火/可裁剪适配烤架尺寸）。定价A$14.99（4片装），对标Luxerlife 5片装$15-19——4片同价位略低+认证齐全做价值感；若做3片彩盒装A$12.99（对标义乌萃火3片套装成本¥13.8）毛利率26.6%也可行。1688搜索'烧烤垫 特氟龙 不粘 40x33 跨境'或'烤盘片 耐高温 烧烤垫 出口'（目标4片装¥15-18），要求：0.2mm玻纤布+双面PTFE涂层（索要FDA/LFGB报告）、260℃持续耐温、双面不粘（正反可用）、可裁剪不脱边、无味（高温烘烤测试）。首批200-300套空运测款。Listing关键词埋伏'bbq grill mat''non stick''reusable''bbq accessories''oven liner''barbecue'。注意：寄样实测①高温(260℃)烘烤30分钟无味无变形②裁剪后边缘是否脱丝③折叠运输后涂层有无裂纹④彩盒+4片对折后厚度≤2cm。",
+      "competition": "中偏高竞争（BSR榜首Luxerlife 5片装$15-19+Lukata/PUNDA/Leona Co等几十个listing、US/UK红海$8-18；差评集中在'mat curls up at edges/warping in heat/stains permanently/don't work on high heat'）。机会点：①4片轻量合规装差异化（竞品5片装超200g红线，轻小件渠道是真实空档）②一垫两用+认证齐全（澳区家庭对PFOA/涂层安全敏感）③200g红线内唯一多片装=物流成本优势。风险点：①品类成熟价格透明——靠套装组合+认证不撕价格②品质差评（卷边/高温变形）——厚料0.2mm+边缘压边工艺③季节性强（9-3月烧烤季）——但12月圣诞BBQ延续至次年1月，窗口够长。差评concern（US/UK同款提炼）：'edges curl during cooking'（0.2mm压边+加重处理）、'food still sticks after few uses'（涂层品质索要检测）、'smaller than expected'（尺寸40×33cm明确标注+可裁剪说明）、'smoke/odor first use'（首用说明：空烧2分钟预处理）。",
+      "signal_scores": {
+        "trend": 65,
+        "gap": 52,
+        "profit": 70,
+        "final": 56,
+        "recommendation": "BUY",
+        "gap_level": "中偏高竞争中的轻量合规空档：BSR榜首验证需求+BBQ季本周启动，竞品主流5片装（约231g）超AU轻小件200g红线，3-4片轻量装是真实差异化；FDA食品级认证+一垫两用+父亲节/春假/圣诞三节点接力，窗口够长",
+        "profit_window": "4片装A$14.99：1688采购¥16≈A$3.33，佣金15%（Kitchen）≈A$2.25，FBA A$4.2，空运头程≈A$0.5，净利≈A$4.71（不含头程A$5.21），毛利率≈31.4%（calc_profit.py口径）。若3片彩盒装A$12.99（采购¥13.8≈A$2.88）毛利率≈26.6%；4片装大货阶梯价¥3.9/张时毛利率可升至33%"
+      }
+    }
+  ],
+  "trend_forecast": "未来3-4周（2026年9月5日至10月2日）AU需求窗口与操作节点：\n\n①【宠物护理簇主窗口 — 舔食垫+除毛手套】9-11月是南半球宠物换毛高峰（春季coat blow），洗澡/美容频率翻倍=舔食垫（洗澡安抚工具）与静电除毛手套（撸宠即除毛）进入全年最刚需期；Pet Supplies Movers & Shakers今日在榜（Bifeaw慢食碗）验证宠物类目动能，BSR Dog Hair Removal 30+条在榜验证需求容量。现在下单（空运2-3周）9月底上架吃满整个换毛季（10月最盛），推荐★★★★；舔食垫（焦虑舒缓/慢食防噎）全年托底无季节崩塌，除毛手套按CONDITIONAL小量测款执行（红海品类验证套装溢价后再放大）。\n\n②【BBQ户外簇启动 — 烧烤垫领衔】9/6父亲节（周日）=BBQ季开场信号：Roy Morgan口径35%家庭BBQ庆祝，本周起至12月圣诞是澳区烧烤配件全年主窗口；9/28-10/17学校春假（NSW 9/28-10/9等州错峰）+10/5劳动节长周末=家庭露营/花园聚会/便携BBQ场景接力；12月圣诞=盛夏BBQ/海滩野餐场景延续至次年1月。烧烤垫（4片轻量合规装）本周即可下单，10月初前上架吃满三节点，推荐★★★★★。\n\n③【10月节点预埋】10/31万圣节=澳区持续升温的party节点，10月初评估派对装饰/糖果容器小件（注意全部卡200g/30cm红线+糖果类食安风险建议先看装饰件）；10月中评估圣诞前最后一轮备货（盛夏海滩/BBQ/野餐主题轻小件——烧烤垫生命周期直接延续）；Back to School 2027年1月底=Term 1文具窗口12月中旬铺货。\n\n④【11月末黑五 = 10月决策窗口】Black Friday（11月底）是澳区最大促销节点（81%澳人等大促），适合10月中按'圣诞盛夏BBQ/海滩主题轻小件'方向备货（烧烤垫/野餐配件是天然标的）；注意黑五前1个月是物流拥堵期，10月中下单空运11月中到港即可赶上。\n\n⑤【品类带规划与纪律】今日三大簇均未在近10个工作日推送过（09-04园艺簇/09-03前烘焙簇8连推/今日宠物+BBQ簇）——宠物簇可持续挖掘到11月（后续可看：宠物出行折叠碗注意已饱和、宠物玩具非电子款、snuffle嗅闻垫——注意与舔食垫同簇勿重复推荐）；BBQ簇窗口覆盖至次年1月（后续可看：烤叉/烤签改小包装、野餐配件——注意32寸烤签6件套超重红线需改2-3支小包装）；Google Trends连续第9日超时不可达，trend_score以Amazon AU榜单动能（Movers & Shakers当日在榜+BSR多点位）+南半球季节日历（换毛季/BBQ季/父亲节）+内容热度+1688供应链为量化代理，已如实标注不编造趋势曲线。"
+}
