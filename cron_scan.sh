@@ -209,7 +209,7 @@ else
 fi
 
 echo ""
-echo "✅ 部署完成：https://Baodan168.github.io/product-radar-au/output/platform.html"
+echo "✅ 部署完成：https://Baodan168.github.io/product-radar-au/platform.html"
 
 ) > "$LOG" 2>&1 || {
     # On failure, output error for cron alert
