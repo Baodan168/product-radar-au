@@ -64,14 +64,14 @@ def calculate_metrics():
     # Radar metrics
     if channels_dir.exists():
         for f in sorted(channels_dir.glob("*.json")):
-            if "rejected" in f.name or "trends" in f.name:
+            if "rejected" in f.name or "trends" in f.name or "bsr_data" in f.name:
                 continue
             try:
                 data = json.loads(f.read_text(encoding="utf-8"))
                 stats = data.get("stats", {})
                 metrics["radar_total_scanned"] += stats.get("total_scanned", 0)
                 metrics["radar_total_passed"] += stats.get("passed_filter", 0)
-            except (json.JSONDecodeError, KeyError):
+            except (json.JSONDecodeError, KeyError, AttributeError):
                 continue
 
     # Competitor/listed metrics
