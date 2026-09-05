@@ -44,7 +44,7 @@ def build_search_index():
     if channels_dir.exists():
         seen_dates = set()
         for f in sorted(channels_dir.glob("*.json"), reverse=True):
-            if "rejected" in f.name or "trends" in f.name:
+            if "rejected" in f.name or "trends" in f.name or "bsr_data" in f.name:
                 continue
             try:
                 data = json.loads(f.read_text(encoding="utf-8"))
