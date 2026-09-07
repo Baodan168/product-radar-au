@@ -1,0 +1,1040 @@
+{
+  "scan_date": "2026-09-08",
+  "scan_time": "06:30",
+  "scan_ts": "2026-09-08_0630",
+  "stats": {
+    "total_scanned": 402,
+    "passed_filter": 5,
+    "rejected": 396,
+    "channels": {
+      "temu_trending": 2,
+      "keyword_search": 5,
+      "tiktok_verified": 2,
+      "multi_source": 2,
+      "event_product": 1,
+      "etsy_trending": 1
+    },
+    "detail_reject": {
+      "重量超标": 2
+    },
+    "theme_trimmed": [
+      {
+        "asin": "B0FP16XM8C",
+        "name": "Maltesers Milk Chocolate Party Share Bag 11 Pieces 132g (Pack of 2)"
+      }
+    ],
+    "trend_categories": {
+      "crafts": 100,
+      "phone": 83,
+      "pets": 83,
+      "lighting": 79,
+      "eco": 67,
+      "garden": 59
+    },
+    "supply_demand": {
+      "pets": {
+        "ratio": 6.4,
+        "demand": 83,
+        "supply": 473028,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "kitchen": {
+        "ratio": 4.1,
+        "demand": 55,
+        "supply": 739334,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "kitchen_gadgets": {
+        "ratio": 0.3,
+        "demand": 4,
+        "supply": 739334,
+        "label": "🔴 红海",
+        "level": "red_ocean"
+      },
+      "crafts": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "phone": {
+        "ratio": 0,
+        "demand": 83,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "beauty": {
+        "ratio": 0,
+        "demand": 39,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "eco": {
+        "ratio": 0,
+        "demand": 67,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "cleaning": {
+        "ratio": 0,
+        "demand": 35,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      }
+    },
+    "divergences": {
+      "bathroom": {
+        "current_heat": 52,
+        "previous_heat": 33,
+        "heat_change_pct": 57.6,
+        "direction": "rising",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "car": {
+        "current_heat": 34,
+        "previous_heat": 60,
+        "heat_change_pct": -43.3,
+        "direction": "falling",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "crafts": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "travel": {
+        "current_heat": 4,
+        "previous_heat": 42,
+        "heat_change_pct": -90.5,
+        "direction": "falling",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "phone": {
+        "current_heat": 96,
+        "previous_heat": 92,
+        "heat_change_pct": 4.3,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "beauty": {
+        "current_heat": 48,
+        "previous_heat": 60,
+        "heat_change_pct": -20.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "eco": {
+        "current_heat": 74,
+        "previous_heat": 70,
+        "heat_change_pct": 5.7,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "kitchen": {
+        "current_heat": 82,
+        "previous_heat": 74,
+        "heat_change_pct": 10.8,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 37,
+        "previous_heat": 38,
+        "heat_change_pct": -2.6,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "lighting": {
+        "current_heat": 89,
+        "previous_heat": 100,
+        "heat_change_pct": -11.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 45,
+        "previous_heat": 42,
+        "heat_change_pct": 7.1,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "office": {
+        "current_heat": 67,
+        "previous_heat": 60,
+        "heat_change_pct": 11.7,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "kitchen_gadgets": {
+        "current_heat": 7,
+        "previous_heat": 9,
+        "heat_change_pct": -22.2,
+        "direction": "falling",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "pets": {
+        "current_heat": 93,
+        "previous_heat": 100,
+        "heat_change_pct": -7.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "sports": {
+        "current_heat": 37,
+        "previous_heat": 9,
+        "heat_change_pct": 311.1,
+        "direction": "rising",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "home decor": {
+        "current_heat": 52,
+        "previous_heat": 51,
+        "heat_change_pct": 2.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "storage": {
+        "current_heat": 34,
+        "previous_heat": 33,
+        "heat_change_pct": 3.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "baby": {
+        "current_heat": 7,
+        "previous_heat": 14,
+        "heat_change_pct": -50.0,
+        "direction": "falling",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "bedding": {
+        "current_heat": 30,
+        "previous_heat": 56,
+        "heat_change_pct": -46.4,
+        "direction": "falling",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      },
+      "garden": {
+        "current_heat": 52,
+        "previous_heat": 65,
+        "heat_change_pct": -20.0,
+        "direction": "stable",
+        "dates": [
+          "2026-09-07_0630",
+          "2026-09-07_1740"
+        ]
+      }
+    },
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B0FXR8WKGB",
+      "name": "Garden Hose Spray Gun, Heavy Duty Garden Hose Nozzle Sprayer with 8 Watering Patterns, Heavy Duty Hose Head for Plants, ",
+      "price": 13.99,
+      "reviews": 11,
+      "rating": 3.7,
+      "rank": 40,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "11 reviews, 3.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FXR8WKGB",
+      "image_url": "https://m.media-amazon.com/images/I/61Ef92+KjSL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "garden hose nozzle high pressure, water sprayer nozzle, car wash water gun",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.457,
+      "net_profit": 6.39,
+      "cost_breakdown": {
+        "commission": 2.1,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.6
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Temu"
+      ],
+      "internal_sources": [],
+      "score": 95,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "🟠 中信号": 10,
+        "📈 趋势(garden)": 8,
+        "🌊 蓝海": 15,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 4,
+      "is_new": true,
+      "first_seen": "2026-09-08",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "keyword_search",
+        "tiktok_verified",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CGL268ZM",
+      "name": "Yuanbigtai Purple Metallic Tinsel Foil Fringe Curtains, 2 Pack 3.3x8.2 Feet Streamer Backdrop Curtains for Birthday Part",
+      "price": 14.99,
+      "reviews": 29,
+      "rating": 4.2,
+      "rank": 13,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "29 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CGL268ZM",
+      "image_url": "https://m.media-amazon.com/images/I/81TwxAX4YvL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "halloween party decor kit",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 35,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-09-05",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0DLHX2694",
+      "name": "YUEBAOWAN Halloween Decorations Outdoor, Halloween Metal Sign Vintage-Outdoor Patio Garden Party or Indoor Decor - No Tr",
+      "price": 16.99,
+      "reviews": 53,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "53 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DLHX2694",
+      "image_url": "https://m.media-amazon.com/images/I/815RcYNybCL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "halloween decorations indoor",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": true,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "TikTok趋势",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.526,
+      "net_profit": 8.94,
+      "cost_breakdown": {
+        "commission": 2.55,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 8.05
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 106,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-03",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "tiktok_verified",
+        "event_product",
+        "etsy_trending",
+        "temu_trending",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CGJC6Z16",
+      "name": "Silver Foil Fringe Tinsel Backdrop Glitter - Party Streamers Backdrop Curtains for Birthday/Prom/Disco Dancing Ball/Chri",
+      "price": 14.99,
+      "reviews": 29,
+      "rating": 4.2,
+      "rank": 12,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "29 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CGJC6Z16",
+      "image_url": "https://m.media-amazon.com/images/I/91mV3CrsusL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "halloween party decor kit",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 35,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-09-05",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0FHV4J6ZX",
+      "name": "Twix Milk Chocolate Party Share Bag 159 g (11 Pieces) (Pack of 2)",
+      "price": 15.0,
+      "reviews": 96,
+      "rating": 4.7,
+      "rank": 23,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "96 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FHV4J6ZX",
+      "image_url": "https://m.media-amazon.com/images/I/619gxAftNtL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.25,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 27,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类较多": -5
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-09-02",
+      "channel_tags": [
+        "keyword_search"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "stickers",
+        "art",
+        "tape",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "washi tape",
+        "decorative tape",
+        "masking tape",
+        "craft knife"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 83,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "cable",
+        "case",
+        "charger",
+        "phone",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "case",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "phone case"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 83,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=charging+cable",
+      "url_google": "https://trends.google.com/trends/explore?q=charging+cable&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "lamp",
+        "strip",
+        "led",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "LED bulb",
+        "LED light"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 79,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+lamp",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+lamp&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 67,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 59,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "flower",
+        "plant",
+        "grill",
+        "outdoor",
+        "garden"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "flower",
+        "plant pot",
+        "plant stand",
+        "plant hanger",
+        "grill",
+        "outdoor",
+        "garden tool set",
+        "garden light"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 59,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=flower",
+      "url_google": "https://trends.google.com/trends/explore?q=flower&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "laptop",
+        "mouse",
+        "pen",
+        "desk"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "mouse",
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "desk organizer"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 55,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=laptop+stand",
+      "url_google": "https://trends.google.com/trends/explore?q=laptop+stand&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "candle",
+        "clock",
+        "frame",
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "wall clock",
+        "desk clock",
+        "digital clock",
+        "photo frame",
+        "picture frame"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 51,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=candle+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=candle+holder&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 47,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "easter",
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "easter egg",
+        "easter decoration",
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 47,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=easter+egg",
+      "url_google": "https://trends.google.com/trends/explore?q=easter+egg&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 47,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "vehicle",
+        "automotive",
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "vehicle",
+        "automotive",
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 47,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vehicle",
+      "url_google": "https://trends.google.com/trends/explore?q=vehicle&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 43,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "packing",
+        "travel"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "packing",
+        "travel"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 43,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=packing",
+      "url_google": "https://trends.google.com/trends/explore?q=packing&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "phone",
+        83
+      ],
+      [
+        "pets",
+        83
+      ],
+      [
+        "lighting",
+        79
+      ],
+      [
+        "eco",
+        67
+      ],
+      [
+        "garden",
+        59
+      ]
+    ],
+    "cross_validated": [
+      "crafts",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "cleaning",
+      "lighting",
+      "seasonal",
+      "car",
+      "office",
+      "pets",
+      "garden",
+      "home decor",
+      "travel"
+    ],
+    "demand_keywords": [
+      "add a touch of colour",
+      "amazon sales in",
+      "and most export brands are",
+      "as cooked on tiktok",
+      "baggy trousers",
+      "being a",
+      "berry and",
+      "cool gadgets sold on",
+      "cool plus",
+      "cotton bedding set"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
