@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-11",
+  "updated_at": "2026-09-11 07:10 CST",
+  "scan_date": "2026-09-11",
+  "scan_time": "07:10",
+  "summary": "今日3个机会（主题：AU咖啡配件——Breville国民机器生态）：①53/54mm咖啡布粉器压粉锤（Breville兼容）——Amazon AU Movers & Shakers厨房榜直接上榜(MATOW 53mm双头)+AU意式机Best Sellers被Breville 54mm机型霸榜(本土品牌生态)+淘宝多店月销100-200单，注意需选ABS/铝轻款控重；②咖啡机清洁片30片装——AU Kitchen Best Sellers双listing验证(Miles Kay 30 Pack+Breville Eco 8 Pack)+1688跨境专供货源2959条库存88.7万(明确标注下游平台亚马逊)+耗材复购刚需，利润率47.8%最高；③咖啡粉碗清洁刷54mm——配套补充型中推(轻<50g、与布粉器/清洁片形成闭环)。避开09-10削皮刀/封口夹/纸垫、09-08冰格、近两周烘焙/宠物/园艺/BBQ已推品类。三款均非液体膏体/非body care/非电子/≤200g(轻款)/≤30×21×6cm/不发海运。",
+  "insights": [
+    {
+      "keyword": "coffee distributor tamper 53mm 54mm breville",
+      "keyword_cn": "咖啡布粉器+压粉锤（53/54mm Breville兼容）",
+      "amazon_keyword": "coffee distributor and tamper 53mm dual head breville 54mm portafilter",
+      "search_1688": "咖啡布粉器 压粉锤 53mm 54mm Breville 铂富 三叶 轻款",
+      "demand_signals": [
+        {"signal": "Amazon AU Movers & Shakers Kitchen & Dining 24h榜直接上榜：MATOW 53mm Coffee Distributor & Tamper（双头布粉+压粉一体，Breville 54mm粉碗兼容），销售排名24h大幅上升", "source": "amazon.com.au Movers & Shakers（web_search抓取 2026-09-11）"},
+        {"signal": "AU意式咖啡机Best Sellers榜单被Breville 54mm机型霸榜（Bambino Plus/Barista Express/Pro/Touch/Infuser等近10款在列），54mm粉碗是澳洲国民配置——Breville是澳洲本土品牌，渗透率全球第一，配件刚需池巨大", "source": "amazon.com.au Best Sellers in Espresso & Cappuccino Machines"},
+        {"signal": "淘宝/1688货源成熟：『Breville铂富450/500/870/876/878咖啡机手柄54mm压粉锤布粉器套装』¥15-68、多店月销100-200单（suiji123聚合页多店168/157/160人付款），三叶布粉器轻款ABS款¥22.8在售", "source": "淘宝/suiji123/1688搜索页 2026-09-11"},
+        {"signal": "AU本地零售验证：breville.com.au官方在售54mm压粉器、baristawarehouse.com.au卖Breville Force Gauge Tamper A$81-88——官方高价=白牌兼容款溢价空间明确", "source": "breville.com.au / baristawarehouse.com.au"},
+        {"signal": "品类全球验证：MATOW同款在Amazon US 4500+评4.7星、NEOUZA 53mm双头US售US$16.99，AU站该类listing review普遍<100，属『已验证品类+低竞争站点』窗口", "source": "Amazon US（coffeexplore.com评测引用）+ besttoolskitchen.com"}
+      ],
+      "trend_score": 82,
+      "trend_direction": "up",
+      "reason": "AU咖啡配件是今天信息源矩阵里信号最强的主题：Movers实时上榜（MATOW）+ 国民机器生态（Breville 54mm霸榜意式机）+ 本地高价零售（官方A$81-88）三层验证，且AU站竞品review普遍<100远未饱和。春季（9-11月）家庭咖啡场景回升+11月黑五咖啡机大促前的配件预热期，现在上架可赶10-11月流量爬坡。唯一注意点：实心不锈钢压粉锤350-490g超200g红线，必须选ABS/铝三叶布粉器轻款（约100-180g）或单头布粉器。",
+      "action": "定价A$16.99（佣金13% A$2.21+FBA A$4.2+采购A$5.2→净利A$5.38，利润率31.7%）。1688采购关键词：『咖啡布粉器 压粉锤 53mm 54mm Breville 铂富 三叶 轻款』，选ABS+不锈钢三叶布粉器轻款（¥22-30）或铝柄款，务必确认单件≤200g（不要实心钢款）。标题主打『Fits Breville Barista Express/Bambino 54mm Portafilter』，listing附兼容机型表（Express/Pro/Touch/Bambino/Infuser）。",
+      "competition": "AU站『coffee tamper distributor 53mm』listing约20-40个，头部review<100，MATOW/Bodum等少数品牌在售但无垄断；主流竞品定价A$20-40，A$16.99+轻款白牌可切入。风险：①实心钢款竞品以『重力压粉』为卖点，轻款需用『平价+便携』定位错位竞争；②53/54mm尺寸需在listing明确标注避免退货。",
+      "signal_scores": {
+        "trend": 82,
+        "gap": 78,
+        "profit": 75,
+        "final": 78,
+        "recommendation": "high",
+        "profit_window": "9月中-次年1月（春季咖啡场景+黑五11月末咖啡机大促配件潮+圣诞送礼），约14周"
+      }
+    },
+    {
+      "keyword": "coffee machine cleaning tablets 30 pack breville compatible",
+      "keyword_cn": "咖啡机清洁片/去残渣泡腾片30片装（Breville/Ninja兼容）",
+      "amazon_keyword": "coffee machine cleaning tablets breville compatible 30 pack espresso cleaner",
+      "search_1688": "咖啡机清洁片 泡腾片 除垢 去残渣 跨境 30片 盒装",
+      "demand_signals": [
+        {"signal": "Amazon AU Kitchen & Dining Best Sellers双listing同时在榜：Miles Kay『30 Pack Breville Compatible Coffee Cleaning Tablets』+ Breville官方『Eco Coffee Residue Cleaner 8 Pack』，说明AU站该品类需求已验证且白牌可切入（Miles Kay即第三方品牌）", "source": "amazon.com.au Best Sellers in Kitchen & Dining 2026-09-11"},
+        {"signal": "1688货源2959条、跨境专供成熟：oradess『咖啡机清洁片2g*10片/5g*8片（跨境爆款）』库存88.7万、明确标注『主要下游平台：亚马逊』，义乌¥5.5-8/盒；JAKEHOE 12片装¥7-8", "source": "1688/tw.1688.com/yiwugo 2026-09-11"},
+        {"signal": "AU咖啡机存量刚性：Breville/Ninja/De'Longhi全自动+半自动渗透率全球前列，厂商建议每月清洗冲煮头→30片装=10个月用量，耗材复购逻辑成立（对标Miles Kay在售即证）", "source": "amazon.com.au Best Sellers + 1688跨境货源页"},
+        {"signal": "物理形态为固体泡腾片（2g/片、30片约60g+瓶装<200g），非液体非膏体，FBA无特殊限制；与『液体除垢剂DLSC500 500ml』形成SKU差异化（液体我们不碰）", "source": "1688产品页（物理形态：固体泡腾片）"}
+      ],
+      "trend_score": 84,
+      "trend_direction": "up",
+      "reason": "耗材复购品类+AU国民机器生态+Best Sellers双listing验证+Miles Kay白牌成功先例，四重信号叠加。清洁片是『机器带配件』逻辑里复购率最高的SKU：AU每个Breville/Ninja用户每月都要洗冲煮头。1688跨境专供货源（明确标注下游平台亚马逊）说明供应链已为跨境备好，采购成本极低（¥8/30片），利润率47.8%为今日最高。现在上架吃10-11月咖啡机大促（黑五）前的配件补位，且一旦入listing坑位可长期复购。",
+      "action": "定价A$14.99（佣金A$1.95+FBA A$4.2+采购A$1.67→净利A$7.17，利润率47.8%）。1688采购关键词：『咖啡机清洁片 泡腾片 除垢 去残渣 跨境 30片 盒装』，选30片盒装（2g/片，对标Miles Kay规格），确保盒装≤10×10×5cm。listing主打『Breville Compatible + Eco-friendly』，附兼容机型表（Barista Express/Bambino/Ninja Luxe/De'Longhi全自动），标题带cleaning tablets + 30 pack。",
+      "competition": "AU站中等：Miles Kay(30片)与Breville官方(8片)为头部，但该品类listing总量不多且第三方白牌成功先例明确（Miles Kay即第三方）；差异化点=30片大容量+兼容表更全+价格低于官方（官方8片≈A$12-15）。风险：化学清洁类需注意listing合规描述（避免『除垢剂』等强化学宣称，用『cleaning tablets/去咖啡残渣』表述）；部分买家对白牌清洁片信任度低，需靠评价积累。",
+      "signal_scores": {
+        "trend": 84,
+        "gap": 72,
+        "profit": 92,
+        "final": 83,
+        "recommendation": "high",
+        "profit_window": "9月-次年3月（黑五11月末+圣诞+EOFY前持续复购），约20周+，耗材长尾"
+      }
+    },
+    {
+      "keyword": "coffee portafilter cleaning brush 54mm",
+      "keyword_cn": "咖啡粉碗/手柄清洁刷54mm（残粉刷）",
+      "amazon_keyword": "coffee portafilter cleaning brush 54mm espresso group head brush",
+      "search_1688": "咖啡清洁毛刷 粉碗刷 手柄刷 54mm 残粉刷",
+      "demand_signals": [
+        {"signal": "淘宝在售：『51/53/54/58mm咖啡清洁毛刷 咖啡机手柄清洗刷 粉碗扫除残粉』¥14.8（天猫店），54mm规格对应Breville粉碗", "source": "淘宝/tao.hvcis.com 2026-09-11"},
+        {"signal": "1688粉碗清洁刷货源多规格（51/53/54/58mm硬刷/软刷），与布粉器、接粉环同店铺组合供货，配套采购链路成熟", "source": "1688搜索页"},
+        {"signal": "使用场景刚性：每次装粉前需刷粉碗残粉（配合布粉器/压粉流程），是咖啡配件使用频率最高的耗材级小件（<50g、¥3-5成本），与今日主推的布粉器/清洁片形成配套闭环", "source": "咖啡配件使用逻辑+淘宝在售验证"},
+        {"signal": "AU咖啡配件整体上行（见同主题1/2信号），配套小件可搭售/关联流量承接搜索溢出", "source": "amazon.com.au Movers & Shakers Kitchen（咖啡配件轮动）"}
+      ],
+      "trend_score": 60,
+      "trend_direction": "up",
+      "reason": "此为配套补充型机会而非独立强信号：无Amazon榜单直接验证，但①淘宝/1688货源明确②与今日两个主推SKU形成『布粉器+清洁片+清洁刷』完整咖啡配件闭环③成本极低（¥3-5）风险小，可作为测品组合里的低风险SKU，或作为主listing的Add-on配件。定位medium，供助理按需选择，不作主力推荐。",
+      "action": "定价A$9.99（佣金A$1.30+FBA A$4.2+采购A$0.83→净利A$3.66，利润率36.6%）。1688采购关键词：『咖啡清洁毛刷 粉碗刷 手柄刷 54mm 残粉刷』，选54mm硬刷款（¥3-5），可与清洁片同listing捆绑（清洁片+刷子组合装提客单）。若做独立listing，标题带54mm + Breville compatible。",
+      "competition": "AU站『portafilter brush』listing约10-20个、review普遍<50，竞争低但需求也相对窄；主要价值是配套与组合销售，独立爆款潜力有限。风险：单一SKU流量小，建议组合装策略。",
+      "signal_scores": {
+        "trend": 60,
+        "gap": 80,
+        "profit": 70,
+        "final": 66,
+        "recommendation": "medium",
+        "profit_window": "随咖啡配件主题（9月-次年1月），配套角色"
+      }
+    }
+  ],
+  "trend_forecast": "① 9月中下旬（当前-9/21）：春季家庭咖啡场景全面恢复，AU咖啡配件类目进入上行期——Amazon AU Movers厨房榜已出现布粉器类目轮动，本周是布粉器/清洁片/清洁刷三件套上架的最佳窗口，赶9月底-10月初流量爬坡。② 10月（10/1-10/31）：AFL/NRL总决赛季（9月底-10月初）带动家庭聚会场景后，10月中进入圣诞备货预热期；咖啡机配件（尤其耗材类清洁片）不受季节波动影响，属全年平滑需求，10月重点是积累review为黑五做准备——建议10月中前完成首轮30-50件小批量空运测品（027店策略：单次≤60件），观察复购后再扩量。③ 11月（11/1-11/30）：黑五（11月末）为全年最大节点，81%澳人等待大促——Breville/Ninja/De'Longhi咖啡机历年黑五大幅折扣（媒体9月已在预热$238/$399机型）→机器销量爆发直接拉动配件/耗材跟单潮，清洁片与布粉器是『机器到手后第一周必买』的配件清单项，11月上旬前必须完成补货备量（空运为主）。④ 12月-次年1月：圣诞送礼季（12月）+夏季冰咖啡场景（12-2月）双驱动，咖啡配件继续走量；1月底Back to School（Term 1）文具潮接棒，届时品类重心切换至文具轻小件；2月情人节（2/14）前咖啡配件仍有最后送礼窗口。⑤ 全年判断：咖啡配件是AU少有的『全年平滑+大促脉冲』双特性品类，清洁片类耗材复购周期10-12个月，值得作为长期listing经营而非短期测品。",
+  "_meta": {
+    "source_budget": "web_search 6次 / web_extract 0次 / terminal+read 4次，共10次调用（上限20）",
+    "note": "三款均通过硬红线：非液体膏体/非body care/非电子/轻款≤200g/≤30×21×6cm/不发海运。布粉器需选ABS/铝轻款（实心钢款350-490g超重已标注）。清洁片为固体泡腾片非液体，listing避免强化学宣称。"
+  }
+}
