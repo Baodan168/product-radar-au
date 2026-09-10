@@ -1,0 +1,765 @@
+{
+  "scan_date": "2026-09-10",
+  "scan_time": "17:46",
+  "scan_ts": "2026-09-10_1746",
+  "stats": {
+    "total_scanned": 349,
+    "passed_filter": 5,
+    "rejected": 343,
+    "channels": {
+      "etsy_trending": 5,
+      "new_releases": 2,
+      "ozbargain": 5,
+      "multi_source": 5,
+      "tiktok_verified": 5,
+      "temu_trending": 1,
+      "keyword_search": 3
+    },
+    "detail_reject": {
+      "重量超标": 2,
+      "尺寸超标": 2
+    },
+    "theme_trimmed": [
+      {
+        "asin": "B0FP16XM8C",
+        "name": "Maltesers Milk Chocolate Party Share Bag 11 Pieces 132g (Pack of 2)"
+      }
+    ],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "garden": 100,
+      "phone": 69,
+      "lighting": 69,
+      "office": 65
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 9
+  },
+  "products": [
+    {
+      "asin": "B0H1Q4NJNB",
+      "name": "Aulumu G09 Ghost Infinite 360° Magnetic Ring Grip | MagSafe Compatible | Frosted Transparent PC | Stable Dual-Sided Magn",
+      "price": 14.08,
+      "reviews": 154,
+      "rating": 3.9,
+      "rank": 5,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "154 reviews, 3.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H1Q4NJNB",
+      "image_url": "https://m.media-amazon.com/images/I/71kaZlyO-AL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Etsy趋势",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.459,
+      "net_profit": 6.47,
+      "cost_breakdown": {
+        "commission": 2.11,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.61
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 133,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(phone)": 8,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📈 排名上升": 10
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "new_releases",
+        "ozbargain",
+        "multi_source",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 8075,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 6394,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 18,
+      "monthly_revenue_est": 7603.2
+    },
+    {
+      "asin": "B0GY84R51R",
+      "name": "NEEWER GA010 Phone Tripod Mount, 65–90mm Adjustable Phone Clamp Holder | 1/4\" Thread, 180° Tilt, 360° Swivel, Cold Shoe ",
+      "price": 11.86,
+      "reviews": 183,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "183 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GY84R51R",
+      "image_url": "https://m.media-amazon.com/images/I/61qxrDz+zvL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.386,
+      "net_profit": 4.58,
+      "cost_breakdown": {
+        "commission": 1.78,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.28
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 128,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(phone)": 8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "new_releases",
+        "ozbargain",
+        "multi_source",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 5494,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 4409,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 27,
+      "monthly_revenue_est": 9606.6
+    },
+    {
+      "asin": "B0CS34MTVM",
+      "name": "Dinosaur tote bag decoration，Kraft Paper Party Favor Bags with Handles, Birthday, Party Supplies and Gift Bags New Year ",
+      "price": 15.99,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CS34MTVM",
+      "image_url": "https://m.media-amazon.com/images/I/71AtJg8x4gL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Etsy趋势",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Temu热销"
+      ],
+      "profit_margin": 0.506,
+      "net_profit": 8.09,
+      "cost_breakdown": {
+        "commission": 2.4,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.9
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 123,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "temu_trending",
+        "ozbargain",
+        "keyword_search",
+        "multi_source",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 709,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 35,
+      "bsr_sub_category": "Gift Bags",
+      "estimated_daily_sales": 211,
+      "monthly_revenue_est": 101216.7
+    },
+    {
+      "asin": "B0DRG5Z694",
+      "name": "Kraft Paper Gift Bags with Handles, Pack of 10 Gift Bags, Kraft Paper Bags with Handle, Multiple Colours, Party Bag Set,",
+      "price": 14.99,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DRG5Z694",
+      "image_url": "https://m.media-amazon.com/images/I/81l7nKHlwQL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Etsy趋势",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 115,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "multi_source",
+        "keyword_search",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 709,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 35,
+      "bsr_sub_category": "Gift Bags",
+      "estimated_daily_sales": 211,
+      "monthly_revenue_est": 94886.7
+    },
+    {
+      "asin": "B0BGBNS8WF",
+      "name": "Gift Bag Kraft Paper Party Gift Bag with Handle Rainbow Gift Bag for Wedding, Birthday, Party Supplies and Gifts, bag, N",
+      "price": 14.98,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BGBNS8WF",
+      "image_url": "https://m.media-amazon.com/images/I/61hAZehIdqL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "trick or treat bag",
+      "festival_event": "万圣节(增长中)",
+      "festival_icon": "🎃",
+      "festival_deadline": "2026-09-14",
+      "is_event": false,
+      "sources": [
+        "📅 万圣节(增长中)",
+        "Etsy趋势",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.23,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 115,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-04",
+      "is_multi": true,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "multi_source",
+        "keyword_search",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 709,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 35,
+      "bsr_sub_category": "Gift Bags",
+      "estimated_daily_sales": 211,
+      "monthly_revenue_est": 94823.4
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 69,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "light",
+        "strip"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "fairy lights",
+        "string lights",
+        "LED strip",
+        "LED strip light",
+        "RGB strip"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "skincare",
+        "makeup",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "face roller",
+        "gua sha",
+        "face mask",
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "hair clip",
+        "hair accessories"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=face+roller",
+      "url_google": "https://trends.google.com/trends/explore?q=face+roller&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 40,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 40,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "pillow",
+        "bedding",
+        "cushion",
+        "duvet",
+        "blanket"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "pillow",
+        "bedding",
+        "cushion",
+        "duvet",
+        "blanket"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pillow",
+      "url_google": "https://trends.google.com/trends/explore?q=pillow&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 6559,
+      "evidence": [
+        "stickers",
+        "art",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 69,
+      "score": 38,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 13337,
+      "evidence": [
+        "cable",
+        "case",
+        "stand",
+        "phone",
+        "charger"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "case",
+        "stand",
+        "phone case",
+        "phone holder",
+        "phone stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=charging+cable",
+      "url_google": "https://trends.google.com/trends/explore?q=charging+cable&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 65,
+      "score": 36,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 47664,
+      "evidence": [
+        "pen",
+        "office",
+        "laptop",
+        "stationery"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "office supplies",
+        "desk organizer",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 53,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 1871,
+      "evidence": [
+        "wall art",
+        "clock",
+        "candle",
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "wall art print",
+        "wall hanging",
+        "wall decal",
+        "wall clock",
+        "desk clock",
+        "digital clock",
+        "candle holder",
+        "scented candle"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=wall+art+print",
+      "url_google": "https://trends.google.com/trends/explore?q=wall+art+print&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "garden",
+        100
+      ],
+      [
+        "phone",
+        69
+      ],
+      [
+        "lighting",
+        69
+      ],
+      [
+        "office",
+        65
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "kitchen",
+      "cleaning",
+      "lighting",
+      "seasonal",
+      "eco",
+      "office",
+      "pets",
+      "sports",
+      "garden",
+      "home decor",
+      "bedding"
+    ],
+    "demand_keywords": [
+      "alb786064",
+      "amazon sales in",
+      "and most export brands are",
+      "as cooked on tiktok",
+      "berry and",
+      "cool gadgets sold on",
+      "crazy low prices",
+      "crisper",
+      "cross-border",
+      "discover new jewellery pieces to"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
