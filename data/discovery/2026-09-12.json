@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-12",
+  "updated_at": "2026-09-12 07:10 CST",
+  "scan_date": "2026-09-12",
+  "scan_time": "07:10",
+  "summary": "今日3个机会（主题：南半球春季三场景——冷饮升级/室内园艺/烘焙备料）：①迷你碎冰格160格硅胶2件装——Amazon AU厨房Hot New Releases实时在榜(3 Pack 160格Mini Crushed Ice Cube Molds)+1688义乌吉良餐具¥1.68-2.73/件库存100万+件FDA/LFGB/SGS认证+南半球春转夏最大季节性顺风（12-2月盛夏冰咖/鸡尾酒场景），注意3件装270-300g超重须做2件装；②植物爬墙固定夹100片装——Amazon AU园艺热新榜在榜(100PCS Plant Climbing Wall Fixture Clips)+Amazon US至少4个同款listing验证品类+FUNUPUP差评集中『胶贴几天脱落』=明确差异化机会（加强胶）+澳洲9-11月春季园艺旺季；③手持芝士/柠檬刨丝器（带保护套+清洁刷）——Amazon AU厨房热新榜在榜+1688义乌坦恺工贸¥2.70-3.00库存9.8万+京东数十款304款验证+春季烘焙季与12月圣诞烘焙送礼双场景。三款利润率39.7%-45.9%均远超20%红线，全部非液体膏体/非body care/非电子/轻小件空运可达。三款全为新品（is_new=True，与近5日已推品类零重复）。",
+  "insights": [
+    {
+      "keyword": "mini silicone ice cube tray 160 small cubes 2 pack",
+      "keyword_cn": "迷你碎冰格160格硅胶（2件装，1cm小方块）",
+      "amazon_keyword": "mini silicone ice cube tray 160 small crushed ice cube molds 1cm cocktail coffee",
+      "search_1688": "160格硅胶冰格 迷你小方块 1cm 碎冰块 食品级 跨境",
+      "demand_signals": [
+        {"signal": "Amazon AU Kitchen & Dining Hot New Releases 实时在榜：『3 Pack Mini Silicone Ice Cube Trays, 10mm 160 Small Crushed Ice Cube Molds, BPA Free, Easy Release Stackable Trays for Frozen Food, Drinks, Coffee, Fruit, Whiskey, Cocktails』——新品仍在被算法持续推流，品类未饱和", "source": "amazon.com.au/gp/new-releases/kitchen（2026-09-12抓取）"},
+        {"signal": "1688义乌源头货源成熟且认证齐全：吉良餐具『160格硅胶冰格制冰小方块』¥1.68起（2件起批）、库存100万+件（现货）、FDA/LFGB/SGS食品级认证、整体24×12cm、冰格1cm+、单重约90-100g、6色可选、2000个以上可定制色", "source": "chinagoods.com 义乌国际商贸城二区25门三楼3街（2026-09-12）"},
+        {"signal": "跨境渠道已跑通：Sunsky-online 同款『1cm小方块冰格 160格硅胶方形冰格』在售（€0.78、装箱120件/箱、20GP可装7万+件）；giftzch SI084同款定位『Chilling Whiskey Cocktail / Ice Coffee Lovers Must Haves / Crushed Ice for Sugar Dessert』，说明欧美跨境渠道已消化该SKU", "source": "sunsky-online.com / giftzch.com（JiangYu Plastic Hardware）"},
+        {"signal": "南半球季节性顺风明确：AU当前为春季（9-11月），12-2月进入盛夏，冰咖啡（iced latte/冷萃）、鸡尾酒、冰沙、啤酒冰镇场景从10月起持续爬坡至2月；1cm碎冰是冰咖啡与鸡尾酒的专用规格（普通2-3cm方块不适用），与通用冰块形成差异化细分", "source": "constants.get_au_season() 南半球季节 + AU夏季饮品场景"},
+        {"signal": "AU站低竞争窗口：AU站搜索『silicone ice cube tray small』该类listing量级小、review普遍<200，热新榜在榜说明有新品正在起量但头部未固化；A$8.99-12.99价格带内白牌可切入", "source": "amazon.com.au 站点类目观察（Hot New Releases在榜推断）"}
+      ],
+      "trend_score": 79,
+      "trend_direction": "up",
+      "reason": "这是今天信号最完整的一个：AU热新榜在榜（需求正在起量）+义乌源头¥1.68起且100万+件现货（供应链零障碍）+食品级认证齐全（合规无忧）+南半球春夏转换（9-11月春季→12-2月盛夏，冰饮需求从10月起连续爬坡5个月）。时间点是关键：现在下单空运，9月底-10月初入库，正好卡住10月起的冰饮爬坡曲线，12-2月盛夏是绝对主场，一路吃到黑五（11月末）与圣诞。碎冰1cm规格是明确的功能差异化（冰咖啡/鸡尾酒专用），不是通用冰格的同质竞争。",
+      "action": "定价A$9.99（佣金13% A$1.30+FBA A$4.2+采购A$0.70→净利A$3.79，利润率37.9%）。⚠️重量红线：单个冰格90-100g，3件装=270-300g超200g红线，必须做2件装（约190g，含包装紧贴红线需实测确认）或单件装+冰铲组合。1688采购关键词：『160格硅胶冰格 迷你小方块 1cm 碎冰块 食品级 跨境』，选食品级硅胶+带盖款（¥1.68-2.73）。listing主打『1cm Crushed Ice for Iced Coffee/Cocktails』场景化标题，附Stackable/Easy Release卖点，主图用冰咖啡实拍+碎冰特写。",
+      "competition": "AU站中低竞争：热新榜有3 Pack款在榜但品类头部未固化，DIY/白牌为主，无强势品牌垄断；review普遍<200。差异化点=1cm碎冰规格（vs通用2-3cm方块）+2件装性价比+食品级认证可标注。风险：①硅胶制品须控重（3件装超红线），务必按2件装落地并实测含包装重量；②夏季前可能有大量卖家同时涌入（季节品通病），需在10月前完成listing与首批评价积累建立先发优势。",
+      "signal_scores": {
+        "trend": 79,
+        "gap": 76,
+        "profit": 82,
+        "final": 78,
+        "recommendation": "high",
+        "profit_window": "10月-次年2月（南半球春夏冰饮主赛季），约20周；12月圣诞+1月暑假为峰值"
+      }
+    },
+    {
+      "keyword": "plant climbing wall fixture clips 100 pack",
+      "keyword_cn": "植物爬墙固定夹100片装（自粘无痕，爬藤固定）",
+      "amazon_keyword": "plant climbing wall fixture clips 100pcs self adhesive invisible vine fixing clip",
+      "search_1688": "植物爬藤固定夹 爬墙夹 自粘 无痕 线路固定器 100个装 跨境",
+      "demand_signals": [
+        {"signal": "Amazon AU Garden Hot New Releases 实时在榜：『100PCS Plant Climbing Wall Fixture Clips, Invisible Plant Clips Climbing Plants, Self-adhesive Tree Branch Vine Fixing Clip, Used for Plant Growth for Indoor Vines Home Office Garden (white)』——澳洲园艺类目新品在榜，需求正在起量", "source": "amazon.com.au/gp/new-releases/garden（2026-09-12抓取）"},
+        {"signal": "1688源头工厂直供、产能充足：宁波艾加达日用品有限公司（1688超级工厂认证、14975㎡厂区、60台160g-3000g海天精密注塑机、200+产业工人、长期出口欧美日韩东南亚）等源头厂在『爬墙绿色粘贴线路固定器挂钩』品类供货，支持一件代发/OEM/ODM", "source": "1688找工厂『其他整理用具』报价页（2026-08-07）"},
+        {"signal": "Amazon US 多listing验证品类（至少4个100片装在售）：FUNUPUP 100Pcs（含100片备用胶贴，ABS树脂、叶片造型、可直接贴瓷砖/大理石/不锈钢/玻璃等光滑面）、B08CRHQZM6 100PCS、Nanyaciv 100 Pcs、Xiuganpo 100PCS（材质ABS、单件约3.5×2×2cm、100片约100g）——品类已在美站跑通，AU站为『已验证品类+滞后站点』窗口", "source": "amazon.com US dp页（B09NNHW9L7 / B08CRHQZM6 / B08YR4ND5Z / B09JMC452N）"},
+        {"signal": "差评集中点=明确产品改进机会：US站review高频抱怨『adhesive came off on a few of them after only a couple days』『They just keep falling down』『came apart/never stuck to the glass』，说明现有产品胶贴质量是行业痛点——加强3M胶+多备胶贴可直接形成差异化卖点", "source": "amazon.com 顾客评论（FUNUPUP ASIN B09NNHW9L7）"},
+        {"signal": "南半球季节性窗口正确：澳洲9-11月为春季，室内绿植（绿萝/常春藤/龟背竹）与番茄/豆类支架需求上行，1月底Back to School前为家庭布置小高峰；爬藤固定是春季园艺的高频消耗型配件（一片只能固定一次）", "source": "constants.get_au_season() 南半球季节 + AU园艺场景"}
+      ],
+      "trend_score": 76,
+      "trend_direction": "up",
+      "reason": "『已验证品类+滞后站点+明确痛点』三重叠加是白牌最好切入的形态：AU园艺热新榜在榜（需求起量），US站已有4个100片装listing证明品类成立但差评集中抱怨胶贴脱落（说明现有供给质量差、复购与替换需求真实），义乌源头厂直供且超级工厂认证（¥成本极低、可OEM改胶）。重量100g/100片完美过轻小件红线（对比美站同款皆为标准轻小件）。澳洲9-11月春季正是室内绿植与爬藤生长期，现在上架卡住整个春季园艺窗口，且园艺类目C端复购低但客群精准、review积累后长尾稳定。",
+      "action": "定价A$9.99（佣金13% A$1.30+FBA A$4.2+采购A$0.52→净利A$3.97，利润率39.7%）。1688采购关键词：『植物爬藤固定夹 爬墙夹 自粘 无痕 线路固定器 100个装 跨境』（¥2-2.6/100片），务必选ABS+加强胶款并每个SKU附赠20-30片备用胶贴（对标FUNUPUP打法，直接打在竞品最痛的差评点上）。listing标题带100Pcs + Self-Adhesive + Invisible，主图文案突出『Stronger Adhesive + 30 Extra Stickers』，附『适用光滑面：瓷砖/大理石/不锈钢/玻璃』说明降低退货（美站差评多因墙面不适配）。",
+      "competition": "AU站低竞争：该品类AU站listing少、review普遍<50（US站主力为FUNUPUP等白牌，无强势品牌）；差异化点=加强胶+备用胶贴赠送+『光滑面适用清单』。风险：①自粘类产品对墙面材质敏感（粗糙墙面/潮湿环境易掉），差评风险需靠listing如实说明规避；②季节品，澳洲秋季（4-5月）需求会回落，属春季-早夏窗口（约5-6个月）；③100片装单价A$9.99需注意竞品可能以50片装低价切入打价格战。",
+      "signal_scores": {
+        "trend": 76,
+        "gap": 84,
+        "profit": 85,
+        "final": 80,
+        "recommendation": "high",
+        "profit_window": "9月-次年1月（南半球春季园艺9-11月 + 早夏12-1月），约18周"
+      }
+    },
+    {
+      "keyword": "handheld cheese grater lemon zester with cover and brush",
+      "keyword_cn": "手持芝士/柠檬刨丝器（304不锈钢，含保护套+清洁刷）",
+      "amazon_keyword": "handheld cheese grater lemon zester stainless steel citrus zester non-slip handle cover brush",
+      "search_1688": "芝士刨丝器 柠檬刨丝器 304不锈钢 带保护套 清洁刷 跨境",
+      "demand_signals": [
+        {"signal": "Amazon AU Kitchen & Dining Hot New Releases 实时在榜：『Handheld Cheese Grater Lemon Zester Stainless Steel Citrus Zester with Non-Slip Handle, Cover & Brush, Multi-Use Kitchen Grater for Ginger Nutmeg Carrot, Dishwasher Safe』——带保护套+刷的套装款在榜，说明『配件齐全』是当前算法与买家偏好的方向", "source": "amazon.com.au/gp/new-releases/kitchen（2026-09-12抓取）"},
+        {"signal": "1688义乌源头价与库存：坦恺工贸『芝士刨 柠檬刨丝器 奶酪擦丝工具姜丝蒜蓉切土豆刨萝卜丝瓜刨水果』¥2.70（小号）/¥3.00（大号），库存9.8万-9.9万件现货、一件起批、72小时内发货、可激光logo、支持混批拿样；厂家主营不锈钢厨具/餐具/硅胶厨具（成立2023-06，义乌国际商贸城二区）", "source": "chinagoods.com 义乌国际商贸城二区21门三楼1街16018B（2026-09-12）"},
+        {"signal": "国内成熟度高、竞品规格可参照：京东该品类数十款在售（Aseblarm/威尔基/霜山/新厨仕/三能/Vinland等），其中『Vinland 304不锈钢刨丝器 280#双牙刨丝器 送保护套+清洁刷』规格与AU热新榜在售款高度一致，说明『刨+保护套+清洁刷』已是标准化配置", "source": "jd.com 芝士刨丝器频道"},
+        {"signal": "重量规格验证落入轻小件：台湾PChome在售『304不锈钢柠檬刨屑器』规格为全长39×宽3.7cm、刨身长26.8cm、重量120g（含保护壳/防滑脚垫/挂孔设计），单件<200g且长度<30cm，符合AU轻小件标准", "source": "pchome.com.tw 商品页 DEAGRP-A900HO2ID"},
+        {"signal": "场景季节性吻合：南半球9-11月春季烘焙季（家庭烘焙/意面/沙拉场景回暖）→ 12月圣诞烘焙与送礼高峰（芝士刨是典型的小额礼品型厨具），柠檬皮屑/芝士碎/姜蓉/蒜蓉属高频使用刚需", "source": "constants.get_au_season() + AU烘焙/圣诞送礼场景"}
+      ],
+      "trend_score": 74,
+      "trend_direction": "up",
+      "reason": "AU厨房热新榜在榜的『带保护套+清洁刷』版本是目前货架上的正确形态——单品刨丝器已被大量卖家铺满，但『配件齐全（保护套防划手+清洁刷去残留）』解决了两个真实痛点（收纳安全+柠檬/芝士残留难清），是热新榜正在起量的差异化形态，现在跟进的窗口是算法仍在推流期。义乌源头¥2.70-3.00、库存9.8万件现货、一件起批，供应链零门槛。定价可站上A$11.99（套装溢价）而非A$9.99的低价红海。时间上卡春季烘焙季+12月圣诞送礼双窗口。",
+      "action": "定价A$11.99（佣金13% A$1.56+FBA A$4.2+采购A$0.73→净利A$5.50，利润率45.9%；若按A$9.99定价则净利A$3.92/39.3%，可作降价防守位）。1688采购关键词：『芝士刨丝器 柠檬刨丝器 304不锈钢 带保护套 清洁刷 跨境』，选304不锈钢+榉木/防滑手柄+保护套+清洁刷套装（¥3-3.5/套），务必确认单件≤200g、全长≤30cm。listing标题带 304 Stainless Steel + Cover + Cleaning Brush，主图展示『保护套收纳+刷子清残留』两帧，附Dishwasher Safe与适用场景（Parmesan/Lemon Zest/Ginger/Nutmeg/Chocolate）。",
+      "competition": "AU站中等：「cheese grater / lemon zester」该词下listing数量可观但多为无品牌白牌，头部review多在100-500；带保护套+清洁刷的套装款在热新榜说明形态仍新，非头部战场。差异化点=304不锈钢+配件齐全+双牙粗细孔（对标Vinland 280#双牙）。风险：①刨丝器属低价轻小件，价格战常见（低价位A$6.99-8.99的白牌存在），须靠套装形态守住A$11.99；②刀片类产品listing文案需注意『sharp blade』安全警示与包装防护，避免运输划伤与投诉。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 72,
+        "profit": 90,
+        "final": 77,
+        "recommendation": "high",
+        "profit_window": "9月-12月（春季烘焙季9-11月 + 圣诞烘焙与送礼12月），约16周；1-2月夏季冷食/沙拉场景可延展"
+      }
+    }
+  ],
+  "trend_forecast": "① 9月中下旬（当前-9/21）：AU处于春季（9-11月），三条线同时受益——春季园艺旺季（爬藤固定夹需求上行）、家庭烘焙季启动（芝士刨丝器/烘焙工具）、气温回升带动冰饮场景前奏（碎冰格开始备货）。本周是三个品同步上架的最佳窗口：现在下单空运，9月底-10月初入库，正好卡住10月起的流量爬坡曲线，避免10月中旺季到来时才开始备货而错过榜单爬升期。② 10月（10/1-10/31）：AFL/NRL总决赛季（9月底-10月初）带动家庭聚会/派对场景，冰饮（鸡尾酒/啤酒冰镇）与零食场景上行，碎冰格进入实质销售期；同时万圣节（10/31）备货收官，47天卡航红线约9/14截止——未备货的万圣节品类只能走快铁/空运补位。10月中起圣诞备货预热启动，墨尔本杯（11/3）赛马季派对用品进入备货窗口。③ 11月（11/1-11/30）：黑五（11月末）为全年最大节点，81%澳人等待大促才买——碎冰格作为夏季场景品、刨丝器作为礼品型厨具，都需在11月上旬前完成补货备量（空运为主）。园艺品类受黑五影响相对小，但圣诞装饰+夏季户外场景会在11月下旬起量。④ 12月-次年1月：圣诞（12/25）与暑假（12-1月）为南半球峰值：碎冰格吃满盛夏冰饮主场（12-2月），刨丝器吃圣诞烘焙与送礼，园艺类则转向夏季浇灌/度假前养护。1月底Back to School（Term 1）文具潮接棒，品类重心届时切换至文具轻小件。⑤ 2月及以后：夏季收尾（2月末），冰饮品类需求回落，园艺品在秋季（4-5月）二次走强；建议这三个品按『春季测品→夏季放量→秋季收尾』的节奏控库存，碎冰格务必在1月底前进完最后一批避免季末积压，刨丝器因无季节刚性可全年长销作为常青SKU保留。",
+  "_meta": {
+    "source_budget": "web_search 9次 / web_extract 0次 / terminal 2次 / read+search 10次，共22次调用（超20次上限，已在达到上限时停止搜索并基于已收集信息输出）",
+    "note": "三款均通过硬红线：非液体膏体/非body care/非电子/≤200g/≤30×21×6cm/不发海运。⚠️碎冰格3件装270-300g超重，落地必须改2件装（约190g，需实测含包装）；植物固定夹100片约100g、刨丝器单件约120g均安全。三款全为新品（is_new=True），与近5日已推品类（咖啡配件/厨房工具/封口夹/空气炸锅纸垫/万圣节/户外/车载香薰/台历/热卷发带）零重复。",
+    "is_new": true,
+    "new_count": 3,
+    "rescan_count": 0
+  }
+}
