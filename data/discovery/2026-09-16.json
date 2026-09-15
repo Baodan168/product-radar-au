@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-16",
+  "updated_at": "2026-09-16T07:30:00+08:00",
+  "scan_date": "2026-09-16",
+  "scan_time": "07:30",
+  "summary": "9/16 AU 选品发现（周三轮换：花园园艺+汽车配件+自由补位）：4 个机会全部为新品（is_new=True，与近14天历史JSON去重：蔬菜削皮器/微波煮蛋器/厨房剪刀/咖啡系/万圣节系/露营系/爬墙固定夹/土壤湿度计/植物标签/粘虫板/宠物舔食垫等已排除），覆盖 4 个不同主品类：①汽车座椅缝隙塞2件装（AU站Car Seat Accessories #1 Best Seller为2026年1月新ASIN仅14评+竞品3.7-3.9星'贴合差/太软'差评=差异化空档+1688批发¥0.57-1.64）；②袜子内衣迷你分格收纳4件组（Simple Houseware 24格款在AU收纳BSR出现2次+春季大扫除换季收纳心智+1688跨境专供货源¥12.6/24格款锚点）；③旅行鞋袋5只装束口防水（CIKKUE同款在AU Shoe Bags类#1 Best Seller 4.7★+Term 3学校假期9/19-10/5自驾旅行潮+1688 PEVA束口袋¥0.5-1/只）；④布艺种子收纳册（澳洲9-11月春播高峰+Bunnings/Gardening Direct本土渠道种子收纳品类在售+Burgon & Ball高端钢制种子盒A$70+级锚点留下A$9.99-14.99空档，AU站竞品稀少=蓝海）。全部非电子、无液体/膏体、≤200g、包装折平≤30×21×6cm（2项需拿样过秤复核，见各insight），空运测品推荐027店≤60件。",
+  "trend_forecast": "① 9月16日–10月15日｜澳洲春季播种高峰期：南半球反转，9-11月是全澳全年最强园艺窗口（Bunnings/Gardening Direct本土渠道育苗盘、种子收纳、播种工具全线在售），Amazon AU园艺品类流量同步抬头。方向：种子收纳册/种子信封套装、育苗配件、播种小工具；注意土壤湿度计/植物标签/黄粘虫板/吊篮挂绳近14天已推过，须换细分品类切入。② 9月19日–10月5日｜Term 3学校假期+春季自驾旅行潮：两州假期触发家庭短途游与回乡探亲，车载用品与行李收纳同步走强——汽车座椅缝隙塞已在AU站跑出#1 Best Seller（2026年1月新ASIN），旅行鞋袋类同款拿Shoe Bags #1。方向：车用收纳小件、旅行收纳袋/鞋袋；假期结束后的10月双周是补货空窗，宜赶在假期前入库。③ 9月25日–10月10日｜万圣节空运补货最后窗口：10/31万圣节AU站热度已起，空运入仓截止约10/10-10/15，错过即等明年；万圣节冰格/饼干模具/窗贴9/8已推过，补位须换细分（门挂/桌布/派对袋），且只剩约2周窗口，只适合有现货渠道的品。④ 10月1日–11月15日｜黑五(11/28)备货卡位：空运下单最晚10月底-11月初入仓才能吃到黑五流量；轻小件FBA A$4.2档位在大促折扣下利润承压，优先选客单A$12.99-16.99、1688采购≤A$2.5的品（车用收纳/旅行套装类利润垫更厚）。⑤ 10月–11月｜春季大扫除+换季收纳延续：AU春季大扫除心智被Amazon AU首页专题持续带动（9月中首页仍在推Spring cleaning essentials），衣柜换季+抽屉整理需求延续至11月，袜子内衣/衣物分格收纳在AU收纳BSR持续在列（Simple Houseware多款上榜）。方向：抽屉分格收纳、衣物收纳小件、防尘袋。⑥ 11月15日–12月20日｜圣诞=盛夏海滩/BBQ场景（南半球反转，勿套北半球冬季逻辑）：圣诞送礼与海滩场景品类需10月底-11月初提前布局，方向：海滩玩具配件、BBQ工具配件、圣诞桌饰；322店Q4只发高利润品，AU站测品继续走027店≤60件小批量空运，观察复购再补第二批。",
+  "insights": [
+    {
+      "keyword": "car seat gap filler universal 2 pack",
+      "keyword_cn": "汽车座椅缝隙塞2件装（EVA软质防漏条）",
+      "amazon_keyword": "car seat gap filler universal 2 pack storage",
+      "search_1688": "汽车座椅缝隙塞 条 防漏 EVA 跨境 亚马逊 座椅缝隙收纳盒",
+      "is_new": true,
+      "demand_signals": [
+        {
+          "signal": "AU站Car Seat Accessories类#1 Best Seller就是EVA软质座椅缝隙塞2件装（B0G4MFH423），2026年1月20日才上架的新ASIN、仅14条评论（3.7★）就登顶类目第一——需求正在起量且头部还没有护城河",
+          "source": "amazon.com.au/dp/B0G4MFH423（2026-09-16抓取，页面标注#1 Best Seller in Car Seat Accessories）"
+        },
+        {
+          "signal": "竞品差评给出明确差异化地图：LAKNUY软泡沫款99评3.9★（差评集中'太软无法收纳手机''会滑出位置'），棕色EVA款14评3.7★（'太软压扁装不了东西'）——现有品普遍'贴合一般+收纳功能名不副实'，做带支撑格+防滑底的高品质款就是空档",
+          "source": "amazon.com.au/dp/B0DM1PRNFK（3.9★/99评）+ /dp/B0G4MFH423评论页（2026-09-16抓取）"
+        },
+        {
+          "signal": "价格锚点清晰：PU皮革收纳盒式竞品A$16.98-25.99、基础软塞A$10-12.99，Onira皮革款独立站卖A$29.36、The Organised Auto卖A$43.99——A$12.99高品质2件装落在品牌溢价与白牌之间",
+          "source": "amazon.com.au多listing报价+onira.com+theorganisedauto.com.au（2026-09-16抓取）"
+        },
+        {
+          "signal": "9-10月学校假期+春季自驾潮：Term 3假期(9/19-10/5)家庭自驾出行集中，车内小件（钥匙/停车卡/硬币）掉缝痛点在旅行场景被放大，澳洲汽车保有量约2000万辆、人均持有率全球前列",
+          "source": "AU学校假期日历+行业常识（交叉验证2026-09-16）"
+        },
+        {
+          "signal": "1688供应链极便宜且跨境专供：汽车座椅缝隙塞/缝隙收纳盒批发价¥0.57-1.64/件（义乌/广州产业带，10万+件销量爆款多个），EVA软条款拿货约¥0.7-0.85/片，2件装采购≈¥1.7≈A$0.35",
+          "source": "1688/wiki.1688.com 汽车座椅缝隙收纳盒报价（2026-09-16抓取）"
+        }
+      ],
+      "trend_score": 75,
+      "trend_direction": "up",
+      "reason": "今天信号最强的一条：AU类目#1 Best Seller是上架不到8个月、仅14评的新ASIN——说明①需求已被验证②头部毫无护城河，新卖家现在进场正当时。竞品3.7-3.9星的'太软/不贴合/装不了东西'差评给了清晰的差异化路径（硬支撑格+防滑底+加厚EVA）。南半球9-10月学校假期自驾潮是天然需求放大器，11月末黑五前空运入库刚好赶上Q4车品旺季。1688批发¥0.57-1.64让成本端几乎无风险，2件装A$12.99利润率50%。风险点是软质品需拿样验证对折包装可行性。",
+      "action": "推荐店铺：027（测品启动期，单次≤60件空运试水）。定价A$12.99/2件装（佣金15% A$1.95 + FBA A$4.20 + 采购A$0.35 → 净利A$6.49，利润率50.0%）。1688采购关键词：『汽车座椅缝隙塞 防漏 EVA 跨境』『汽车座椅缝隙收纳盒 2件装 亚马逊』，选加厚EVA+顶部硬质收纳格+防滑纹理底款式。差异化：①主图对比'普通软塞压扁 vs 我们的支撑格能放手机'；②五点描述强调通用适配1.5-3.2cm缝隙+可水洗；③颜色做黑色主流款+1个撞色款测转化。⚠️必做：拿样后把2片对折装箱测试（软质EVA可对折，包装后约21×8×4cm），过秤确认≤200g、包装≤30×21×6cm，若对折留折痕影响外观则改卷筒装。",
+      "competition": "诚实评估：竞争中等偏低（相对美国站该品类已红海，AU站明显更早期）。头部3条链接14-99评、3.7-3.9星，无品牌集中度，全是中国白牌。风险：①白牌涌入速度快，窗口期估计3-4个月，需快测快补；②车型缝隙宽度差异导致'不完全适配'差评难根除（竞品差评已证明），listing要明确标注适配范围管理预期；③软质品运输易压变形，包装需支撑。",
+      "signal_scores": {
+        "trend": 75,
+        "gap": 82,
+        "profit": 90,
+        "final": 82,
+        "recommendation": "high",
+        "profit_window": "9月底-10月初空运入库卡Term 3假期尾声，10-11月车品平稳期，11月末黑五+12月圣诞自驾返乡潮为最大窗口；品类无强季节性，全年可卖"
+      }
+    },
+    {
+      "keyword": "sock underwear drawer organiser mini set",
+      "keyword_cn": "袜子内衣迷你分格收纳盒4件组（可折叠无纺布）",
+      "amazon_keyword": "sock underwear drawer organiser dividers foldable set",
+      "search_1688": "袜子内衣收纳盒 分格 抽屉 无纺布 跨境 专供亚马逊 迷你4格",
+      "is_new": true,
+      "demand_signals": [
+        {
+          "signal": "Simple Houseware抽屉分格收纳（Underwear/Sock/Bra分格款）在AU收纳BSR『Storage Baskets & Bins』榜出现2条链接（12 Pack款+24 Cell款）——该细分品类在AU已被算法反复验证，但上榜全是12-24件大套装（重、贵），轻量小规格存在空档",
+          "source": "amazon.com.au/gp/bestsellers/home/4975277051（2026-09-16抓取，两页均见Simple Houseware drawer organiser）"
+        },
+        {
+          "signal": "春季大扫除+换季收纳心智在AU持续发酵：Amazon AU首页9月中仍在推Spring cleaning essentials专题；澳媒Nine 9月11日推送春季整理专家清单——衣柜抽屉整理是春季大扫除第一场景",
+          "source": "amazon.com.au首页（2026-09-16）+ nine.com.au（2026-09-11）"
+        },
+        {
+          "signal": "1688跨境专供货源成熟：24格内衣袜子收纳盒『专供亚马逊』可水洗棉布款批发¥12.6/件，无纺布抽屉式分格款¥2-6/件，迷你4格款约¥1.5-3/件——4件组采购≈¥10-14≈A$2.1-2.9",
+          "source": "chinagoods/1688 收纳盒报价（2026-09-16抓取）"
+        },
+        {
+          "signal": "空档逻辑：AU在榜的Simple Houseware 12件装价格高（通常A$30+）且重（>1kg不可空运小件），我们做4件迷你4格组（总重约150g）卡A$14.99价位，覆盖'先试试再买大套装'的入门买家+合租/学生公寓小抽屉人群",
+          "source": "amazon.com.au在榜listing规格分析（2026-09-16）"
+        }
+      ],
+      "trend_score": 70,
+      "trend_direction": "up",
+      "reason": "AU收纳BSR出现同品类2条链接说明需求真实且持续，但全部是12-24件大套装形态——重（不可空运小件）、贵（A$30+）、新手买家决策门槛高。澳洲2600万人口市场里公寓/合租比例高，小抽屉场景天然适合迷你组。9-11月春季大扫除+换季收纳是全年最强收纳需求窗口（Amazon AU首页专题佐证），空运≤60件测试成本极低（采购约A$120/批）。与大套装错位而非正面竞争，是典型的'同品类不同形态'切入。",
+      "action": "推荐店铺：027（测品启动期，单次≤60件空运试水）。定价A$14.99/4件组（佣金13% Home类 A$1.95 + FBA A$4.20 + 采购A$2.90 → 净利A$5.94，利润率39.6%）。1688采购关键词：『袜子内衣收纳盒 分格 无纺布 跨境 亚马逊』『内衣收纳盒 迷你 4格 抽屉式』，选加厚无纺布+PP蜂窝板支撑+可折叠款。差异化：①4件组=袜子格/内衣格/文胸格/杂物品类化组合（大套装没有的'一次配齐'）；②可水洗+折平包装；③主图放抽屉实装场景对比图。⚠️必做：拿样过秤——4件总重必须≤200g（超标则改3件组或选更薄PP板），折平后单件厚度≤1.5cm保证包装≤6cm。",
+      "competition": "诚实评估：竞争中等。Simple Houseware（美国品牌）在AU该细分有品牌认知和多链接占位，但形态集中在大套装；中国白牌在24格款上有布局（1688¥12.6专供款说明已有卖家在跑）。我们避开大套装正面战场，用迷你组+轻小件空运灵活性切入。风险：①收纳品类同质化快，需在组合形态上做出辨识度；②无纺布质感差的差评风险（差评区常见'布料薄'），务必选加厚款；③非刚需品，转化依赖场景图。",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 75,
+        "profit": 82,
+        "final": 75,
+        "recommendation": "medium-high",
+        "profit_window": "9-11月春季大扫除+换季收纳为最强窗口，12月圣诞前家庭整理小高峰，1月底Back to School学生宿舍场景延续；全年长销，无断档风险"
+      }
+    },
+    {
+      "keyword": "travel shoe bags waterproof drawstring 5 pack",
+      "keyword_cn": "旅行鞋袋5只装（防水PE束口袋，半透明可视）",
+      "amazon_keyword": "travel shoe bags waterproof drawstring 5 pack",
+      "search_1688": "旅行鞋袋 束口 防水 PEVA 跨境 亚马逊 鞋子收纳袋 抽绳",
+      "is_new": true,
+      "demand_signals": [
+        {
+          "signal": "CIKKUE同款鞋袋（5只装/10只装PE半透明束口袋）在AU『Shoe Bags』类目拿下#1 Best Seller（4.7★，ASIN B0FQP661DJ/B0FQP8D3NF均为2026年新ASIN），评论确认买家还把它当湿衣袋/沙滩袋用——多场景复用被市场自发验证",
+          "source": "amazon.com.au/dp/B0FQP8D3NF + /dp/B0FQP661DJ（2026-09-16抓取，页面标注#1 Best Seller in Shoe Bags）"
+        },
+        {
+          "signal": "Term 3学校假期(9/19-10/5)+春季旅行季是即时需求窗口：家庭出游/回乡/短途自驾集中，鞋袋是旅行打包高频小件；买家评论原话'Great shoe bags for travel and work…perfect for beach play, wet clothes'——澳式沙滩/水上场景天然契合",
+          "source": "amazon.com.au/dp/B0FQP8D3NF澳洲买家评论（2026-09-16抓取）+ AU学校假期日历"
+        },
+        {
+          "signal": "南半球前瞻：12-2月盛夏海滩季是澳洲鞋袋/湿物袋的年度峰值场景（沙滩鞋+湿泳衣分装），现在入库还能吃到黑五(11/28)+圣诞送礼两个节点",
+          "source": "南半球季节反转逻辑+AU Beach场景常识（2026-09-16）"
+        },
+        {
+          "signal": "1688供应链极便宜：PEVA/PE束口鞋袋跨境专供款¥0.5-1/只（义乌，'价格段5元以内'，主要下游平台标注亚马逊），5只装采购≈¥5≈A$1.04——成本端几乎无风险，可支撑黑五大促降价",
+          "source": "yiwugo.com 鞋袋/束口袋报价（2026-09-16抓取）"
+        }
+      ],
+      "trend_score": 72,
+      "trend_direction": "up",
+      "reason": "AU站Shoe Bags类#1 Best Seller是2026年新ASIN且4.7星——需求正在被算法推着走，头部形成时间还短。9/19学校假期是2周后的即时需求，12月海滩季是南半球独有大场景（美国/欧洲站都没有的窗口）。5只装A$10.99是'低决策门槛+高频复用'的甜蜜定价，1688¥0.5-1/只的成本让促销空间极大。产品无电子件、无液体、90g超轻、折平包装——空运测品全项合规。",
+      "action": "推荐店铺：027（测品启动期，单次≤60件空运试水，单批实际可放200只）。定价A$10.99/5只装（佣金15% A$1.65 + FBA A$4.20 + 采购A$1.04 → 净利A$4.10，利润率37.3%）。1688采购关键词：『旅行鞋袋 束口 防水 PEVA 跨境』『鞋子收纳袋 抽绳 半透明 亚马逊』，选16丝加厚PE+尼龙束口绳+半透明可视款。差异化：①底部提手环设计（竞品没有的晾挂场景）；②尺寸标清晰30×40cm适配AU男鞋大码；③listing叠加'beach bag/wet bag/gym bag'多场景词。⚠️拿样验证：束口绳承重与PE厚度（16丝为佳，薄款易破会有差评），5只折平约90g远低于红线。",
+      "competition": "诚实评估：竞争中等。CIKKUE已占#1且4.7星（但为2026新ASIN，评论量级尚小），类目下packing cubes等邻近品293个结果说明旅行收纳流量池够大，鞋袋细分相对真空。风险：①产品技术门槛极低，跟卖与价格战来得快——需靠多场景listing和组合装（5只/8只）拉开；②PE材质差评敏感点就是'太薄'，品控必须卡16丝；③单价低利润绝对值小（A$4.1/单），适合走量+组合提客单。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 70,
+        "profit": 78,
+        "final": 73,
+        "recommendation": "medium-high",
+        "profit_window": "9/19-10/5学校假期即时窗口+11月末黑五+12月圣诞送礼，12-2月盛夏海滩季为年度峰值；低客单高频复购逻辑成立，全年平滑"
+      }
+    },
+    {
+      "keyword": "seed storage organizer book garden",
+      "keyword_cn": "布艺种子收纳册（多格卡册式，附标签贴纸）",
+      "amazon_keyword": "seed storage organizer book garden packet holder",
+      "search_1688": "种子收纳册 布艺 种子收纳袋 卡册 园艺 跨境 牛皮纸种子信封",
+      "is_new": true,
+      "demand_signals": [
+        {
+          "signal": "9-11月是澳洲全年最强春播窗口（南半球反转）：Bunnings种子育苗套装A$41.90在售、Gardening Direct AU整版'Seed Propagation & Growing Essentials'品类页（含Seed Storage Tin、Soft Plant Tie等）、Farmtek育苗盘$12.90显示97件库存——本土渠道全线铺货证明季节需求真实",
+          "source": "bunnings.com.au + gardeningdirect.com.au + farmtek.com.au（2026-09-16抓取）"
+        },
+        {
+          "signal": "高端锚点已存在且留出巨大价格空档：Burgon & Ball钢制种子收纳盒（含月份索引卡、真皮提手）在澳洲园艺渠道走 collector 高端路线——A$70+级产品验证了'种子收纳'是独立成立的品类，A$9.99-14.99的轻量布艺版无直接竞品",
+          "source": "greenhousepolytunnels.com.au/products/burgon-ball-seed-packet-store（2026-09-16抓取）"
+        },
+        {
+          "signal": "AU Amazon站内种子收纳品类稀少：搜索结果主要被Bunnings/独立园艺站占据，Amazon AU缺乏中价位布艺/卡册式种子收纳SKU——蓝海特征明显，最先上架者吃品类词红利",
+          "source": "web_search 'Amazon Australia seed storage organizer'结果分析（2026-09-16）"
+        },
+        {
+          "signal": "供应链成熟：种子收纳卡册/布艺收纳册在1688属于卡册类成熟工艺（¥8-15/本），ADOOP种子保护信封套装100张淘宝零售¥25.8已验证C端付费意愿；另可选牛皮纸种子信封50张装（约¥15）做双规格",
+          "source": "1688卡册产业带+taobao ADOOP产品页（2026-09-16抓取）"
+        }
+      ],
+      "trend_score": 68,
+      "trend_direction": "up",
+      "reason": "南半球春播窗口（9-11月）是这条insight的硬时间锚：现在空运入库正好吃满整个播种季。品类在本土渠道（Bunnings/Gardening Direct）已验证但Amazon AU站内几乎是空白——高端钢制盒A$70+与'无供给'之间是经典蓝海夹层。产品形态（布艺卡册+标签贴纸）零电子零液体、折平包装、约180g，全项合规且空运成本低。风险在于站内需求需靠广告教育，所以首批≤60件小步验证，搭配'gardener gift'送礼词拓宽场景。",
+      "action": "推荐店铺：027（测品启动期，单次≤60件空运试水）。定价A$14.99（佣金15% A$2.25 + FBA A$4.20 + 采购A$2.30 → 净利A$6.24，利润率41.6%）。1688采购关键词：『种子收纳册 布艺 卡册 跨境』『种子收纳袋 牛皮纸信封 园艺』，选防水布面+30-60格透明内页+附赠24张可写标签贴纸。差异化：①附赠播种月份对照贴纸（南半球月份！9-11月春播/12-2月夏播，直接打AU本地化卖点，Burgon & Ball的索引卡逻辑轻量化）；②主图放'收纳册+种子包实拍'场景；③listing双场景：春播整理+圣诞送礼（gardener gift）。⚠️必做：拿样过秤确认≤200g（若60格版超标则降为30格版或改50张牛皮纸信封套装形态），包装折平≤30×21×6cm。",
+      "competition": "诚实评估：竞争低（AU站内近空白）——但空白是双刃剑，说明需求需自己验证。风险：①站内无同款≠站内需求存在，可能是渠道习惯问题（澳人习惯Bunnings买园艺品），广告测试要控制预算ACOS；②季节性强，11月中后播种需求快速回落，库存必须在窗口内清完，首批绝不超过60件；③卡册工艺差评点在'内页袋易开口'，品控选热压工艺。",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 90,
+        "profit": 84,
+        "final": 78,
+        "recommendation": "high",
+        "profit_window": "9月底-10月初入库即入春播高峰，窗口持续到11月中；若验证跑通，12月圣诞gardener gift送礼场景+明年2月秋播（3-5月）可做第二轮复购储备"
+      }
+    }
+  ],
+  "_meta": {
+    "generated_by": "hermes cron AU discovery agent",
+    "tool_calls_used": "18/20预算",
+    "sources_used": [
+      "amazon.com.au Best Sellers (Home/Automotive/Fashion/Storage/Shoe Bags)",
+      "amazon.com.au product pages B0G4MFH423/B0DM1PRNFK/B0FQP8D3NF/B0FQP661DJ",
+      "1688/wiki.1688.com/chinagoods/yiwugo 供应链报价",
+      "bunnings.com.au/gardeningdirect.com.au/farmtek.com.au 本土园艺渠道",
+      "onira.com/theorganisedauto.com.au 价格锚点"
+    ],
+    "dedup_check": "与 ~/.hermes/cron/output/discovery_last_recommendations.txt + data/discovery/ 近14天(8/31-9/15)JSON全量比对，4条均无主品类重复",
+    "direction_rotation": "周三轮换：花园园艺✓(种子收纳册) + 汽车配件✓(座椅缝隙塞)；候选不足时自由补位：家居收纳✓(袜子收纳盒) + 旅游配件✓(旅行鞋袋)"
+  }
+}
