@@ -1,0 +1,656 @@
+{
+  "scan_date": "2026-09-16",
+  "scan_time": "17:41",
+  "scan_ts": "2026-09-16_1741",
+  "stats": {
+    "total_scanned": 209,
+    "passed_filter": 3,
+    "rejected": 206,
+    "channels": {
+      "new_releases": 2,
+      "youtube_review": 2,
+      "multi_source": 3,
+      "temu_trending": 3,
+      "etsy_trending": 3,
+      "ozbargain": 2,
+      "tiktok_verified": 2,
+      "keyword_search": 1
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "eco": 85,
+      "pets": 85,
+      "phone": 74,
+      "garden": 67,
+      "lighting": 63
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 11
+  },
+  "products": [
+    {
+      "asin": "B0H7R397RP",
+      "name": "Interactive Cat Toy for Indoor Cats, Automatic Hide and Seek Hunting Mat | Hide & Seek Game, 2 Replaceable Wands, 3 Spee",
+      "price": 12.99,
+      "reviews": 7,
+      "rating": 4.1,
+      "rank": 2,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "7 reviews, 4.1★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H7R397RP",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/714F9SxqSmL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.477,
+      "net_profit": 6.19,
+      "cost_breakdown": {
+        "commission": 1.3,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.8
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 148,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "🌊 蓝海": 15,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-15",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "youtube_review",
+        "multi_source",
+        "temu_trending",
+        "etsy_trending",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0HHJKP1Z7",
+      "name": "Dog Grooming Hammock with Adjustable Straps, for Trimming Bathing Brushing | Detachable Stainless Steel Frame, 8 Limb Ho",
+      "price": 15.99,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HHJKP1Z7",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71nT4qjoARL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "YouTube种草",
+        "Etsy趋势",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.556,
+      "net_profit": 8.89,
+      "cost_breakdown": {
+        "commission": 1.6,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.1
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 122,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-15",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "youtube_review",
+        "multi_source",
+        "temu_trending",
+        "tiktok_verified",
+        "etsy_trending",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0B5GZNBWX",
+      "name": "Race Car Birthday Balloons 40 Inch Racetrack Number Balloon 4 Black Boys 4st Birthday Race Car Theme Party Decor Supplie",
+      "price": 16.2,
+      "reviews": 151,
+      "rating": 4.3,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "151 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0B5GZNBWX",
+      "image_url": "https://m.media-amazon.com/images/I/71UZXxzKnAL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "race day party supplies",
+      "festival_event": "墨尔本杯赛马日",
+      "festival_icon": "🥂",
+      "festival_deadline": "2026-09-17",
+      "is_event": false,
+      "sources": [
+        "📅 墨尔本杯赛马日",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.51,
+      "net_profit": 8.27,
+      "cost_breakdown": {
+        "commission": 2.43,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.93
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 101,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(car)": 8,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-16",
+      "is_multi": true,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "keyword_search",
+        "tiktok_verified",
+        "etsy_trending"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "art",
+        "paint",
+        "craft",
+        "stickers",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "acrylic paint set",
+        "paint brush set",
+        "paint by numbers",
+        "craft knife",
+        "craft supplies"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 85,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "zero waste",
+        "reusable",
+        "sustainable",
+        "organic"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "zero waste",
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "sustainable products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 74,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "phone",
+        "earbuds",
+        "holder",
+        "cable",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "earbuds case",
+        "wireless earbuds",
+        "holder",
+        "charging cable",
+        "USB cable"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+case",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+case&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "garden",
+        "outdoor",
+        "plant",
+        "flower",
+        "solar"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "garden tool set",
+        "garden light",
+        "garden decor",
+        "outdoor",
+        "plant pot",
+        "plant stand",
+        "plant hanger",
+        "flower"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=garden+tool+set",
+      "url_google": "https://trends.google.com/trends/explore?q=garden+tool+set&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 63,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "lamp",
+        "led"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED bulb",
+        "LED panel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 59,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "desk",
+        "stationery",
+        "pen",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "stationery set",
+        "notebook",
+        "pen set",
+        "pen holder",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+organizer",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+organizer&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 56,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gadget",
+        "cup",
+        "kitchen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gadget",
+        "kitchen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gadget",
+      "url_google": "https://trends.google.com/trends/explore?q=gadget&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 52,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "makeup",
+        "skincare",
+        "brush",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "brush",
+        "hair clip"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=makeup+brush+set",
+      "url_google": "https://trends.google.com/trends/explore?q=makeup+brush+set&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 48,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 45,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "blanket",
+        "bedding",
+        "throw",
+        "pillow",
+        "cushion"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "blanket",
+        "bedding",
+        "throw",
+        "pillow",
+        "cushion",
+        "sheet"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=blanket",
+      "url_google": "https://trends.google.com/trends/explore?q=blanket&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 56,
+      "score": 33,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 47827,
+      "evidence": [
+        "wall art",
+        "candle",
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "wall art print",
+        "wall hanging",
+        "wall decal",
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "home decor",
+        "room decor"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=wall+art+print",
+      "url_google": "https://trends.google.com/trends/explore?q=wall+art+print&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "eco",
+        85
+      ],
+      [
+        "pets",
+        85
+      ],
+      [
+        "phone",
+        74
+      ],
+      [
+        "garden",
+        67
+      ],
+      [
+        "lighting",
+        63
+      ]
+    ],
+    "cross_validated": [
+      "garden",
+      "cleaning",
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "eco",
+      "office",
+      "lighting",
+      "kitchen",
+      "bedding",
+      "travel",
+      "home decor",
+      "seasonal",
+      "pets",
+      "sports",
+      "storage"
+    ],
+    "demand_keywords": [
+      "alb786064",
+      "all the",
+      "amazon announces",
+      "amazon is teasing its",
+      "amazon reveals dates for",
+      "amazon sales in",
+      "amazon starting at just",
+      "an under",
+      "baggy trousers",
+      "cotton bedding set"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
