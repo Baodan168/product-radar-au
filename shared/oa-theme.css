@@ -1766,3 +1766,11 @@ body{font-family:var(--oa-font);background:var(--oa-bg);color:var(--oa-text);lin
   color: #fff;
   border-color: var(--oa-primary, #5856D6);
 }
+
+
+/* ── 未来趋势预测排版优化（2026-09-17）：编号点卡片 ── */
+.forecast-points{display:flex;flex-direction:column;gap:10px;margin-top:4px}
+.forecast-point{background:rgba(255,255,255,.72);border:1px solid var(--oa-border);border-radius:8px;padding:10px 14px}
+.forecast-point-head{margin-bottom:4px}
+.forecast-point-num{display:inline-block;font-weight:800;font-size:17px;line-height:1.2;color:var(--oa-secondary)}
+.forecast-point-body{font-size:var(--oa-font-size-body);color:var(--oa-text);line-height:1.75;white-space:pre-wrap}
