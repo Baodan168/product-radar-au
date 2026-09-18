@@ -1,0 +1,612 @@
+{
+  "scan_date": "2026-09-18",
+  "scan_time": "17:40",
+  "scan_ts": "2026-09-18_1740",
+  "stats": {
+    "total_scanned": 223,
+    "passed_filter": 2,
+    "rejected": 221,
+    "channels": {
+      "etsy_trending": 2,
+      "tiktok_verified": 1,
+      "new_releases": 2,
+      "multi_source": 2,
+      "temu_trending": 2
+    },
+    "detail_reject": {
+      "尺寸超标": 2,
+      "重量超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "kitchen": 95,
+      "phone": 87,
+      "sports": 75,
+      "eco": 75
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 12
+  },
+  "products": [
+    {
+      "asin": "B0BWH4ZSLB",
+      "name": "Bride To Be Rose Gold Banner Diamond Wedding Bridal Shower Hens Party Decoration, 3m Rope, Paper Material, Perfect for H",
+      "price": 15.24,
+      "reviews": 3,
+      "rating": 4.3,
+      "rank": 5,
+      "category": "Party",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BWH4ZSLB",
+      "image_url": "https://m.media-amazon.com/images/I/41JzXuR8+8L._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.489,
+      "net_profit": 7.45,
+      "cost_breakdown": {
+        "commission": 2.29,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.79
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 105,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-18",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "tiktok_verified",
+        "new_releases",
+        "multi_source",
+        "temu_trending"
+      ],
+      "bsr_rank": 108916,
+      "bsr_category": "Home",
+      "bsr_sub_rank": 706,
+      "bsr_sub_category": "Party Banners",
+      "estimated_daily_sales": 1,
+      "monthly_revenue_est": 457.2
+    },
+    {
+      "asin": "B0H6WM31CM",
+      "name": "150×90CM Large Knights Templar Flag,temple Banner Decor Flags For Flagpole Garden With 2 Grommet",
+      "price": 12.8,
+      "reviews": 663,
+      "rating": 4.7,
+      "rank": 12,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H6WM31CM",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51BLuYeO4sL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.42,
+      "net_profit": 5.38,
+      "cost_breakdown": {
+        "commission": 1.92,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.42
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 93,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "🔥 多源热门(eco)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-09-17",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "new_releases",
+        "multi_source",
+        "temu_trending"
+      ],
+      "bsr_rank": 614,
+      "bsr_category": "Garden",
+      "bsr_sub_rank": 12,
+      "bsr_sub_category": "Outdoor Flags & Banners",
+      "estimated_daily_sales": 195,
+      "monthly_revenue_est": 74880.0
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "art",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 95,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "spice",
+        "mug",
+        "organiser",
+        "kitchen",
+        "cup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "spice rack",
+        "spice jar set",
+        "spice organizer",
+        "organiser",
+        "kitchen",
+        "gadget"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=spice+rack",
+      "url_google": "https://trends.google.com/trends/explore?q=spice+rack&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 75,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "water bottle",
+        "fitness",
+        "resistance",
+        "sport",
+        "yoga"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "water bottle",
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "resistance",
+        "sport",
+        "yoga mat",
+        "yoga block"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=water+bottle",
+      "url_google": "https://trends.google.com/trends/explore?q=water+bottle&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 75,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "sustainable",
+        "reusable",
+        "organic"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "sustainable products",
+        "eco friendly",
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "vehicle",
+        "car",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "vehicle",
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vehicle",
+      "url_google": "https://trends.google.com/trends/explore?q=vehicle&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "strip",
+        "light",
+        "led"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+strip",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+strip&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 63,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "container",
+        "shelf",
+        "box",
+        "basket"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "organiser",
+        "container",
+        "floating shelf",
+        "wall shelf",
+        "corner shelf",
+        "basket"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 59,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "skincare",
+        "nail",
+        "makeup",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "organiser",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "nail art kit",
+        "nail tools",
+        "nail stickers",
+        "makeup brush set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "neck pillow",
+        "packing",
+        "toiletry",
+        "luggage",
+        "travel"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "neck pillow",
+        "packing",
+        "toiletry",
+        "luggage",
+        "travel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=neck+pillow",
+      "url_google": "https://trends.google.com/trends/explore?q=neck+pillow&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "christmas",
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=christmas+decoration",
+      "url_google": "https://trends.google.com/trends/explore?q=christmas+decoration&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 87,
+      "score": 44,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 7089,
+      "evidence": [
+        "phone",
+        "cable",
+        "stand",
+        "holder",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "stand",
+        "holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+case",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+case&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 75,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 48590,
+      "evidence": [
+        "laptop",
+        "organiser",
+        "office",
+        "desk",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "organiser",
+        "office supplies",
+        "desk organizer",
+        "pen holder",
+        "desk lamp"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=laptop+stand",
+      "url_google": "https://trends.google.com/trends/explore?q=laptop+stand&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "kitchen",
+        95
+      ],
+      [
+        "phone",
+        87
+      ],
+      [
+        "sports",
+        75
+      ],
+      [
+        "eco",
+        75
+      ]
+    ],
+    "cross_validated": [
+      "bathroom",
+      "car",
+      "sports",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "seasonal",
+      "office",
+      "pets",
+      "storage",
+      "lighting",
+      "home decor",
+      "garden"
+    ],
+    "demand_keywords": [
+      "amazon first reads",
+      "amazon sales in",
+      "any website that shows sales",
+      "backpacks at",
+      "best new movies and",
+      "commerce and",
+      "cool gadgets sold on",
+      "cross-border",
+      "etsy witches gain popularity with",
+      "explore trending products"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}

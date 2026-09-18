@@ -1,15 +1,28 @@
 [
   {
+    "asin": "B0BWH4ZSLB",
+    "bsr_rank": 108916,
+    "bsr_category": "Home",
+    "bsr_sub_rank": 706,
+    "bsr_sub_category": "Party Banners",
+    "reviews": 3,
+    "rating": 4.3,
+    "image_url": "https://m.media-amazon.com/images/I/81fsGBN7-AL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Bride To Be Rose Gold Banner Diamond Wedding Bridal Shower Hens Party Decoration, 3m Rope, Paper Material, Perfect for Hen Parties and Celebrations",
+    "price": 2.0,
+    "scraped_at": "2026-09-18T17:49:02.895669"
+  },
+  {
     "asin": "B0H6WM31CM",
-    "bsr_rank": 451,
+    "bsr_rank": 614,
     "bsr_category": "Garden",
-    "bsr_sub_rank": 9,
+    "bsr_sub_rank": 12,
     "bsr_sub_category": "Outdoor Flags & Banners",
     "reviews": 663,
     "rating": 4.7,
     "image_url": "https://m.media-amazon.com/images/I/312jfCQ9QOL._AC_.jpg",
     "title": "150×90CM Large Knights Templar Flag,temple Banner Decor Flags For Flagpole Garden With 2 Grommet",
     "price": 2.0,
-    "scraped_at": "2026-09-17T17:50:00.829422"
+    "scraped_at": "2026-09-18T17:49:02.896656"
   }
 ]
