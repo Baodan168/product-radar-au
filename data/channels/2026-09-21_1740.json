@@ -1,0 +1,1167 @@
+{
+  "scan_date": "2026-09-21",
+  "scan_time": "17:40",
+  "scan_ts": "2026-09-21_1740",
+  "stats": {
+    "total_scanned": 274,
+    "passed_filter": 10,
+    "rejected": 258,
+    "channels": {
+      "tiktok_verified": 8,
+      "multi_source": 9,
+      "ozbargain": 10,
+      "bsr": 1,
+      "etsy_trending": 9,
+      "youtube_review": 1,
+      "temu_trending": 8,
+      "new_releases": 2,
+      "keyword_search": 7
+    },
+    "detail_reject": {
+      "尺寸超标": 3,
+      "重量超标": 1
+    },
+    "theme_trimmed": [
+      {
+        "asin": "B0DPG5TDPF",
+        "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Dark Green | 3 Rolls Grosgrain Silk Ribbon for Wedding Chr"
+      },
+      {
+        "asin": "B0DPG4X7R2",
+        "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Candy Pink | 3 Rolls Grosgrain Silk Ribbon for Wedding Chr"
+      },
+      {
+        "asin": "B0DPG395PM",
+        "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Blue Grey | 3 Rolls Grosgrain Silk Ribbon for Wedding Chri"
+      },
+      {
+        "asin": "B0DPG4FY9B",
+        "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Purple | 3 Rolls Grosgrain Silk Ribbon for Wedding Christm"
+      },
+      {
+        "asin": "B0DPG6FGF5",
+        "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Red | 3 Rolls Grosgrain Silk Ribbon for Wedding Christmas "
+      },
+      {
+        "asin": "B0FNN18WH3",
+        "name": "Sink Strainer with Push Button and Removable Silicone Drain Basket, Snap Function for Hands-Free Sink, Hanging/Washing, "
+      }
+    ],
+    "trend_categories": {
+      "pets": 100,
+      "crafts": 100,
+      "eco": 82,
+      "car": 73,
+      "office": 73,
+      "lighting": 73
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B07CTBV6M8",
+      "name": "SavourLife Dog Training Treats, Australian Kangaroo - High Protein, 165g",
+      "price": 8.99,
+      "reviews": 175,
+      "rating": 4.7,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "175 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07CTBV6M8",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/715wVqt42mL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.288,
+      "net_profit": 2.59,
+      "cost_breakdown": {
+        "commission": 0.9,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.4
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 146,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4,
+        "📊 持续上升": 8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-17",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "bsr",
+        "etsy_trending",
+        "youtube_review",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B091N3LWDP",
+      "name": "Sanrio Lanyard",
+      "price": 16.22,
+      "reviews": 87,
+      "rating": 4.2,
+      "rank": 2,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "87 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B091N3LWDP",
+      "image_url": "https://m.media-amazon.com/images/I/51j7sKiadmS._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.511,
+      "net_profit": 8.29,
+      "cost_breakdown": {
+        "commission": 2.43,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.93
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 98,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "📈 趋势(phone)": 8,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-09-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "ozbargain",
+        "multi_source",
+        "new_releases",
+        "etsy_trending"
+      ]
+    },
+    {
+      "asin": "B0DPG44SDT",
+      "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Green | 3 Rolls Grosgrain Silk Ribbon for Wedding Christma",
+      "price": 15.29,
+      "reviews": 33,
+      "rating": 4.8,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "33 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DPG44SDT",
+      "image_url": "https://m.media-amazon.com/images/I/81vXue-KjXL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "gift wrapping tape set",
+      "festival_event": "圣诞购物峰值启动(夏日圣诞)",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-09-29",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞购物峰值启动(夏日圣诞)",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.49,
+      "net_profit": 7.5,
+      "cost_breakdown": {
+        "commission": 2.29,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.79
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 118,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(seasonal)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0DPG5L47S",
+      "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Beige | 3 Rolls Grosgrain Silk Ribbon for Wedding Christma",
+      "price": 15.29,
+      "reviews": 33,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "33 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DPG5L47S",
+      "image_url": "https://m.media-amazon.com/images/I/71q2UIJHtHL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "gift wrapping tape set",
+      "festival_event": "圣诞购物峰值启动(夏日圣诞)",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-09-29",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞购物峰值启动(夏日圣诞)",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.49,
+      "net_profit": 7.5,
+      "cost_breakdown": {
+        "commission": 2.29,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.79
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 118,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(seasonal)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0DPG5JHQ5",
+      "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping Yellow | 3 Rolls Grosgrain Silk Ribbon for Wedding Christm",
+      "price": 14.99,
+      "reviews": 33,
+      "rating": 4.8,
+      "rank": 6,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "33 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DPG5JHQ5",
+      "image_url": "https://m.media-amazon.com/images/I/71jqGrd-BIL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "gift wrapping tape set",
+      "festival_event": "圣诞购物峰值启动(夏日圣诞)",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-09-29",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞购物峰值启动(夏日圣诞)",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 118,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(seasonal)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0DPG5K8F4",
+      "name": "MORSUNBELA Ribbon Chiffon Gift Wide Ribbons for Gift Wrapping White | 3 Rolls Grosgrain Silk Ribbon for Wedding Christma",
+      "price": 14.99,
+      "reviews": 33,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "33 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DPG5K8F4",
+      "image_url": "https://m.media-amazon.com/images/I/61e-cEZtQtL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "gift wrapping tape set",
+      "festival_event": "圣诞购物峰值启动(夏日圣诞)",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-09-29",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞购物峰值启动(夏日圣诞)",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 118,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(seasonal)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B07PG8Y5XN",
+      "name": "40m Nylon Rope Lines Cord Clothesline Hanging Rope Drying Clothes Garden Camping Outdoors Travel(40m-Orange)",
+      "price": 11.99,
+      "reviews": 35,
+      "rating": 3.6,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "35 reviews, 3.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07PG8Y5XN",
+      "image_url": "https://m.media-amazon.com/images/I/51nk12Wp75L._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "reflective tent guy lines ropes camping",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.391,
+      "net_profit": 4.69,
+      "cost_breakdown": {
+        "commission": 1.8,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.3
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 103,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B07PJKB8DM",
+      "name": "40m Nylon Rope Lines Cord Clothesline Hanging Rope Drying Clothes Garden Camping Outdoors Travel(40m-Blue)",
+      "price": 13.7,
+      "reviews": 43,
+      "rating": 4.1,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "43 reviews, 4.1★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07PJKB8DM",
+      "image_url": "https://m.media-amazon.com/images/I/61q1V2W3PoL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "reflective tent guy lines ropes camping",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.449,
+      "net_profit": 6.14,
+      "cost_breakdown": {
+        "commission": 2.05,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.55
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 95,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B07PKQ5GKF",
+      "name": "20m Nylon Rope Lines Cord Clothesline Hanging Rope Drying Clothes Garden Camping Outdoors Travel40m-White",
+      "price": 14.99,
+      "reviews": 69,
+      "rating": 4.0,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "69 reviews, 4.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07PKQ5GKF",
+      "image_url": "https://m.media-amazon.com/images/I/51VBavbqlyS._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "reflective tent guy lines ropes camping",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 90,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "⚠️ 品类过密": -10
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-09-21",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "keyword_search",
+        "etsy_trending",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0FC2NGWNX",
+      "name": "Pokemon Official Double Duvet Cover Set, Retro Design | Blue Reversible Pikachu Squirtle Charmander 2 Sided Bedding Cove",
+      "price": 11.48,
+      "reviews": 87,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Bedding",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "87 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FC2NGWNX",
+      "image_url": "https://m.media-amazon.com/images/I/9148G0SLHOL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.371,
+      "net_profit": 4.26,
+      "cost_breakdown": {
+        "commission": 1.72,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.22
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 102,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🔥 多源热门(pets)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-15",
+      "is_event": false,
+      "channel_tags": [
+        "ozbargain",
+        "new_releases"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "craft",
+        "art",
+        "brush",
+        "stickers"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "brush",
+        "stickers"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 82,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "organic"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "organic products",
+        "organic cotton"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car",
+        "motor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "motorcycle accessories",
+        "motorcycle cover"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "lamp",
+        "light",
+        "led"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+lamp",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+lamp&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 57,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "makeup",
+        "brush",
+        "hair",
+        "skincare"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "brush",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=makeup+brush+set",
+      "url_google": "https://trends.google.com/trends/explore?q=makeup+brush+set&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "box",
+        "basket",
+        "storage",
+        "shelf",
+        "container"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "basket",
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "floating shelf",
+        "wall shelf",
+        "corner shelf",
+        "container"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=basket",
+      "url_google": "https://trends.google.com/trends/explore?q=basket&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 40,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "fitness",
+        "sport"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "sport"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=resistance+band",
+      "url_google": "https://trends.google.com/trends/explore?q=resistance+band&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 73,
+      "score": 39,
+      "gap_level": "weak",
+      "amazon_count": 6,
+      "amazon_reviews": 27463,
+      "evidence": [
+        "notebook",
+        "desk",
+        "office",
+        "pen",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "notebook",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "office supplies",
+        "pen holder",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=notebook",
+      "url_google": "https://trends.google.com/trends/explore?q=notebook&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 57,
+      "score": 34,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 4776,
+      "evidence": [
+        "cable",
+        "charger",
+        "holder",
+        "phone",
+        "earbuds"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "holder",
+        "phone case"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=charging+cable",
+      "url_google": "https://trends.google.com/trends/explore?q=charging+cable&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "pets",
+        100
+      ],
+      [
+        "crafts",
+        100
+      ],
+      [
+        "eco",
+        82
+      ],
+      [
+        "car",
+        73
+      ],
+      [
+        "office",
+        73
+      ],
+      [
+        "lighting",
+        73
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "car",
+      "pets",
+      "crafts",
+      "beauty",
+      "eco",
+      "office",
+      "lighting",
+      "seasonal",
+      "phone",
+      "cleaning",
+      "storage",
+      "sports",
+      "bedding",
+      "travel",
+      "garden",
+      "home decor"
+    ],
+    "demand_keywords": [
+      "amazon sales in",
+      "any discounted",
+      "back to school",
+      "baggy trousers",
+      "best milky toners",
+      "best new movies and",
+      "buying goods from",
+      "cool gadgets sold on",
+      "cotton bedding set",
+      "crazy low prices"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
