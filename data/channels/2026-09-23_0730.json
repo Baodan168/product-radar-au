@@ -1,0 +1,581 @@
+{
+  "scan_date": "2026-09-23",
+  "scan_time": "07:30",
+  "scan_ts": "2026-09-23_0730",
+  "stats": {
+    "total_scanned": 87,
+    "passed_filter": 2,
+    "rejected": 85,
+    "channels": {
+      "etsy_trending": 2,
+      "youtube_review": 1,
+      "tiktok_verified": 1,
+      "new_releases": 2,
+      "ozbargain": 1,
+      "multi_source": 1,
+      "temu_trending": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 2
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 92,
+      "office": 80,
+      "lighting": 73,
+      "eco": 69,
+      "car": 65
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 12
+  },
+  "products": [
+    {
+      "asin": "B0H9WJWZRX",
+      "name": "Socomi Pink Cheesecloth Table Runner Boho Wedding Birthday Party Home Decor | Dusty Pink Rustic Gauze 300x90cm 120in Che",
+      "price": 11.99,
+      "reviews": 10,
+      "rating": 4.8,
+      "rank": 7,
+      "category": "Home",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "10 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H9WJWZRX",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61kacGSdf+L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势",
+        "Temu热销",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.411,
+      "net_profit": 4.93,
+      "cost_breakdown": {
+        "commission": 1.56,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.06
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 173,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "youtube_review",
+        "tiktok_verified",
+        "new_releases",
+        "ozbargain",
+        "multi_source",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0FC2NGWNX",
+      "name": "Pokemon Official Double Duvet Cover Set, Retro Design | Blue Reversible Pikachu Squirtle Charmander 2 Sided Bedding Cove",
+      "price": 11.48,
+      "reviews": 87,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Bedding",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "87 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FC2NGWNX",
+      "image_url": "https://m.media-amazon.com/images/I/9148G0SLHOL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.371,
+      "net_profit": 4.26,
+      "cost_breakdown": {
+        "commission": 1.72,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.22
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "weak",
+      "signal_label": "🟡 弱信号",
+      "external_sources": [
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 96,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎨 Etsy": 6,
+        "🔥 多源热门(pets)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-09-17",
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "new_releases"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 80,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "stationery",
+        "pen",
+        "desk",
+        "organiser",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "stationery set",
+        "notebook",
+        "pen set",
+        "pen holder",
+        "fountain pen",
+        "desk organizer",
+        "desk lamp",
+        "desk mat"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stationery+set",
+      "url_google": "https://trends.google.com/trends/explore?q=stationery+set&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "lamp",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 69,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "halloween",
+        "birthday",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "halloween decoration",
+        "halloween costume",
+        "birthday gift",
+        "birthday decoration",
+        "birthday card"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "mug",
+        "gadget",
+        "organiser",
+        "kitchen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "gadget",
+        "organiser",
+        "kitchen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gadget",
+      "url_google": "https://trends.google.com/trends/explore?q=gadget&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 57,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "makeup",
+        "brush",
+        "hair",
+        "skincare",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "brush",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=makeup+brush+set",
+      "url_google": "https://trends.google.com/trends/explore?q=makeup+brush+set&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 46,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "toiletry",
+        "travel",
+        "luggage"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "toiletry",
+        "travel",
+        "luggage"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=toiletry",
+      "url_google": "https://trends.google.com/trends/explore?q=toiletry&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 42,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "sport",
+        "fitness"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "sport",
+        "resistance band",
+        "fitness tracker",
+        "foam roller"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sport",
+      "url_google": "https://trends.google.com/trends/explore?q=sport&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 11500,
+      "evidence": [
+        "art",
+        "craft",
+        "stickers",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "stickers",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 53,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 4736,
+      "evidence": [
+        "charger",
+        "phone",
+        "cable",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "charging cable",
+        "USB cable"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+charger",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+charger&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 46,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 47534,
+      "evidence": [
+        "vacuum",
+        "mop",
+        "cleaning",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "vacuum",
+        "cleaning",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vacuum",
+      "url_google": "https://trends.google.com/trends/explore?q=vacuum&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        92
+      ],
+      [
+        "office",
+        80
+      ],
+      [
+        "lighting",
+        73
+      ],
+      [
+        "eco",
+        69
+      ],
+      [
+        "car",
+        65
+      ]
+    ],
+    "cross_validated": [
+      "bathroom",
+      "car",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "cleaning",
+      "seasonal",
+      "home decor",
+      "garden",
+      "office",
+      "lighting",
+      "pets",
+      "sports",
+      "storage",
+      "baby"
+    ],
+    "demand_keywords": [
+      "amazon first reads",
+      "amazon sales in",
+      "andrea jean co",
+      "baggy trousers",
+      "best deals from all around",
+      "cool gadgets sold on",
+      "cotton bedding set",
+      "crazy low prices",
+      "cross-border",
+      "did not believe the"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
