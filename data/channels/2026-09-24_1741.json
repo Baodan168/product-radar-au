@@ -1,0 +1,744 @@
+{
+  "scan_date": "2026-09-24",
+  "scan_time": "17:41",
+  "scan_ts": "2026-09-24_1741",
+  "stats": {
+    "total_scanned": 201,
+    "passed_filter": 4,
+    "rejected": 197,
+    "channels": {
+      "multi_source": 4,
+      "temu_trending": 3,
+      "ozbargain": 4,
+      "tiktok_verified": 4,
+      "etsy_trending": 3,
+      "new_releases": 2,
+      "youtube_review": 1,
+      "bsr": 1,
+      "keyword_search": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "lighting": 86,
+      "garden": 82,
+      "office": 82,
+      "phone": 77
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 11
+  },
+  "products": [
+    {
+      "asin": "B0H9WJWZRX",
+      "name": "Socomi Pink Cheesecloth Table Runner Boho Wedding Birthday Party Home Decor | Dusty Pink Rustic Gauze 300x90cm 120in Che",
+      "price": 11.99,
+      "reviews": 10,
+      "rating": 4.8,
+      "rank": 7,
+      "category": "Home",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "10 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H9WJWZRX",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61kacGSdf+L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.411,
+      "net_profit": 4.93,
+      "cost_breakdown": {
+        "commission": 1.56,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.06
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 171,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "📊 持续上升": 8,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "tiktok_verified",
+        "etsy_trending",
+        "new_releases"
+      ],
+      "bsr_rank": 1234,
+      "bsr_category": "Home",
+      "bsr_sub_rank": 3,
+      "bsr_sub_category": "Table Runners",
+      "estimated_daily_sales": 121,
+      "monthly_revenue_est": 43523.7
+    },
+    {
+      "asin": "B07CTBV6M8",
+      "name": "SavourLife Dog Training Treats, Australian Kangaroo - High Protein, 165g",
+      "price": 8.99,
+      "reviews": 176,
+      "rating": 4.7,
+      "rank": 17,
+      "category": "Pets",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "176 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07CTBV6M8",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/715wVqt42mL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.288,
+      "net_profit": 2.59,
+      "cost_breakdown": {
+        "commission": 0.9,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.4
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 138,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⭐ 高评分": 5,
+        "💰 较好利润": 4
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-18",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "youtube_review",
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "bsr",
+        "tiktok_verified",
+        "etsy_trending"
+      ],
+      "bsr_rank": 18,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 2,
+      "bsr_sub_category": "Dog Biscuits & Snacks",
+      "estimated_daily_sales": 3140,
+      "monthly_revenue_est": 846858.0
+    },
+    {
+      "asin": "B073RZQJ82",
+      "name": "Skoy Sink Holder",
+      "price": 13.0,
+      "reviews": 164,
+      "rating": 3.5,
+      "rank": 36,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "164 reviews, 3.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B073RZQJ82",
+      "image_url": "https://m.media-amazon.com/images/I/810XEY1vF1L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "sink sponge holder silicone self draining caddy",
+      "sources": [
+        "趋势发现",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.427,
+      "net_profit": 5.55,
+      "cost_breakdown": {
+        "commission": 1.95,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.45
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 136,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(phone)": 23,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-24",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "tiktok_verified",
+        "keyword_search",
+        "etsy_trending"
+      ]
+    },
+    {
+      "asin": "B0H95CX1MH",
+      "name": "Solar Bird Bath Fountain with Floating Water Pump for Pond Garden",
+      "price": 12.99,
+      "reviews": 211,
+      "rating": 4.4,
+      "rank": 13,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H95CX1MH",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61hH7wHkNSL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.427,
+      "net_profit": 5.54,
+      "cost_breakdown": {
+        "commission": 1.95,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.45
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 109,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🟠 中信号": 10,
+        "🔥 多源热门(garden)": 21,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-23",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "ozbargain",
+        "new_releases",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 643,
+      "bsr_category": "Garden",
+      "bsr_sub_rank": 7,
+      "bsr_sub_category": "Pond Fountains",
+      "estimated_daily_sales": 186,
+      "monthly_revenue_est": 72484.2
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 86,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "night light",
+        "light",
+        "lamp"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "night light",
+        "fairy lights",
+        "string lights",
+        "desk lamp",
+        "table lamp"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 77,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "reusable",
+        "eco",
+        "bamboo"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "bamboo cutlery",
+        "bamboo toothbrush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=reusable+food+wrap",
+      "url_google": "https://trends.google.com/trends/explore?q=reusable+food+wrap&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "organiser",
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "brush",
+        "hair",
+        "skincare",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "organiser",
+        "brush",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "face roller",
+        "gua sha"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "storage",
+        "drawer",
+        "box",
+        "basket"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "organiser",
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "drawer",
+        "basket"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "sport",
+        "water bottle",
+        "fitness"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "sport",
+        "water bottle",
+        "resistance band",
+        "fitness tracker",
+        "foam roller"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sport",
+      "url_google": "https://trends.google.com/trends/explore?q=sport&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 48,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "birthday"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "birthday gift",
+        "birthday decoration",
+        "birthday card"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "cushion",
+        "bedding",
+        "duvet",
+        "sheet",
+        "pillow"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "cushion",
+        "bedding",
+        "duvet",
+        "sheet",
+        "pillow",
+        "throw"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cushion",
+      "url_google": "https://trends.google.com/trends/explore?q=cushion&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 12856,
+      "evidence": [
+        "craft",
+        "stickers",
+        "brush",
+        "art",
+        "tape"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "stickers",
+        "brush",
+        "art supplies",
+        "paint set",
+        "drawing kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 82,
+      "score": 42,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 25439,
+      "evidence": [
+        "organiser",
+        "laptop",
+        "mouse",
+        "office",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "organiser",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "mouse",
+        "office supplies",
+        "desk organizer",
+        "pen holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 77,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3154,
+      "evidence": [
+        "holder",
+        "earbuds",
+        "phone",
+        "case",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "holder",
+        "earbuds case",
+        "wireless earbuds",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "case",
+        "stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=holder",
+      "url_google": "https://trends.google.com/trends/explore?q=holder&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "lighting",
+        86
+      ],
+      [
+        "garden",
+        82
+      ],
+      [
+        "office",
+        82
+      ],
+      [
+        "phone",
+        77
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "kitchen",
+      "lighting",
+      "pets",
+      "travel",
+      "seasonal",
+      "home decor",
+      "eco",
+      "garden",
+      "office",
+      "storage",
+      "sports",
+      "bedding",
+      "baby"
+    ],
+    "demand_keywords": [
+      "amazon blocks",
+      "amazon first reads",
+      "amazon sales in",
+      "as cooked on tiktok",
+      "baggy trousers",
+      "cool stuff gadgets",
+      "cotton bedding set",
+      "crazy low prices",
+      "cross-border",
+      "explore trending products"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
