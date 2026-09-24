@@ -1,0 +1,983 @@
+{
+  "scan_date": "2026-09-25",
+  "scan_time": "07:30",
+  "scan_ts": "2026-09-25_0730",
+  "stats": {
+    "total_scanned": 271,
+    "passed_filter": 6,
+    "rejected": 265,
+    "channels": {
+      "temu_trending": 6,
+      "wished": 1,
+      "youtube_review": 6,
+      "tiktok_verified": 6,
+      "ozbargain": 6,
+      "multi_source": 6,
+      "new_releases": 1,
+      "keyword_search": 4,
+      "etsy_trending": 4
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "pets": 100,
+      "crafts": 100,
+      "eco": 97,
+      "phone": 83,
+      "lighting": 79,
+      "garden": 74
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 14
+  },
+  "products": [
+    {
+      "asin": "B0GDPP2ZKR",
+      "name": "Garden Tool Set, 8 Pieces Garden Tools with Durable Storage Bag, Stainless Steel Garden Tools Kit, Ergonomic Garden Tool",
+      "price": 11.19,
+      "reviews": 20,
+      "rating": 4.8,
+      "rank": 4,
+      "category": "Garden",
+      "channel": "wished",
+      "channel_name": "Amazon心愿榜",
+      "review_info": "20 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GDPP2ZKR",
+      "image_url": "https://m.media-amazon.com/images/I/71Og0btMnIL._AC_UL320_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "YouTube种草",
+        "Temu热销",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.358,
+      "net_profit": 4.01,
+      "cost_breakdown": {
+        "commission": 1.68,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.18
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "心愿榜"
+      ],
+      "score": 167,
+      "score_breakdown": {
+        "💝 心愿榜": 15,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-25",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "wished",
+        "youtube_review",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0FXG1X8SD",
+      "name": "40 Slots Seed Storage Organizer Box, Sturdy Seed Organizer with Classic Vintage Design, Garden Seed Saver Kit with Label",
+      "price": 10.96,
+      "reviews": 83,
+      "rating": 4.6,
+      "rank": 4,
+      "category": "Storage",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "83 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FXG1X8SD",
+      "image_url": "https://m.media-amazon.com/images/I/91OhT62ElhL._AC_UL320_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "YouTube种草",
+        "Temu热销",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.348,
+      "net_profit": 3.82,
+      "cost_breakdown": {
+        "commission": 1.64,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.14
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 163,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-25",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "new_releases",
+        "youtube_review",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0C899GRSZ",
+      "name": "BOMEI PACK Green Painters Tape Decorative Writable Blue Masking Tape for Arts & Crafts,3 Rolls Pack, 24mm x 20m Per Roll",
+      "price": 13.99,
+      "reviews": 25,
+      "rating": 4.5,
+      "rank": 12,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "25 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0C899GRSZ",
+      "image_url": "https://m.media-amazon.com/images/I/81rxwf4rVoL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "gift wrapping tape set",
+      "festival_event": "圣诞购物峰值启动(夏日圣诞)",
+      "festival_icon": "🎄",
+      "festival_deadline": "2026-09-29",
+      "is_event": false,
+      "sources": [
+        "📅 圣诞购物峰值启动(夏日圣诞)",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势",
+        "YouTube种草",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.457,
+      "net_profit": 6.39,
+      "cost_breakdown": {
+        "commission": 2.1,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.6
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 151,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📊 持续上升": 8,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-19",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "temu_trending",
+        "youtube_review",
+        "etsy_trending",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0DXC4WL3P",
+      "name": "Yehnda White Balloons 100 Pcs 12 Inch Matte Latex Party Helium Wedding Birthday Anniversary Decorations",
+      "price": 15.99,
+      "reviews": 20,
+      "rating": 4.2,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "20 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DXC4WL3P",
+      "image_url": "https://m.media-amazon.com/images/I/51owxQyMz1L._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "reusable water balloons self sealing pack",
+      "sources": [
+        "趋势发现",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势",
+        "YouTube种草",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.506,
+      "net_profit": 8.09,
+      "cost_breakdown": {
+        "commission": 2.4,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.9
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 148,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-25",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "temu_trending",
+        "youtube_review",
+        "etsy_trending",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CQVGHPKG",
+      "name": "Lumjoy Rainbow Balloons 50pcs 30cm 12 Inch Mixed Assorted colors Decorative Latex Helium Party Balloons for Birthday Bab",
+      "price": 11.03,
+      "reviews": 39,
+      "rating": 4.4,
+      "rank": 22,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "39 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CQVGHPKG",
+      "image_url": "https://m.media-amazon.com/images/I/61enUZ63hnL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "reusable water balloons self sealing pack",
+      "sources": [
+        "趋势发现",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势",
+        "YouTube种草",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.351,
+      "net_profit": 3.88,
+      "cost_breakdown": {
+        "commission": 1.65,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.15
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 148,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-25",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "temu_trending",
+        "youtube_review",
+        "etsy_trending",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0CQVFF44N",
+      "name": "Lumjoy Rainbow Balloons 50pcs 25cm 10 Inch Mixed Assorted Colors Decorative Latex Helium Party Balloons for Birthday Bab",
+      "price": 10.18,
+      "reviews": 39,
+      "rating": 4.4,
+      "rank": 21,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "39 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CQVFF44N",
+      "image_url": "https://m.media-amazon.com/images/I/61ZXq0UmFgL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "reusable water balloons self sealing pack",
+      "sources": [
+        "趋势发现",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势",
+        "YouTube种草",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.31,
+      "net_profit": 3.15,
+      "cost_breakdown": {
+        "commission": 1.53,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.03
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 144,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟢 低竞争": 10,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-25",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "temu_trending",
+        "youtube_review",
+        "etsy_trending",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "stickers",
+        "craft",
+        "art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "stickers",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 97,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "reusable",
+        "organic",
+        "bamboo"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "organic products",
+        "organic cotton"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "lamp",
+        "led",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+lamp",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+lamp&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 70,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "christmas",
+        "gift",
+        "easter",
+        "birthday"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "easter egg",
+        "easter decoration"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=christmas+decoration",
+      "url_google": "https://trends.google.com/trends/explore?q=christmas+decoration&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "dashboard",
+        "organiser",
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "dashboard",
+        "organiser",
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=dashboard",
+      "url_google": "https://trends.google.com/trends/explore?q=dashboard&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 60,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "cooking",
+        "organiser",
+        "kitchen",
+        "cup",
+        "gadget"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "cooking",
+        "organiser",
+        "kitchen",
+        "gadget"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cooking",
+      "url_google": "https://trends.google.com/trends/explore?q=cooking&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 56,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "luggage",
+        "travel",
+        "passport",
+        "toiletry"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "luggage",
+        "travel",
+        "passport",
+        "toiletry"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=luggage",
+      "url_google": "https://trends.google.com/trends/explore?q=luggage&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "hair",
+        "makeup",
+        "skincare"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "organiser",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 47,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "sport",
+        "fitness"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "sport",
+        "resistance band",
+        "fitness tracker",
+        "foam roller"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sport",
+      "url_google": "https://trends.google.com/trends/explore?q=sport&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 83,
+      "score": 42,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 4436,
+      "evidence": [
+        "case",
+        "charger",
+        "holder",
+        "phone",
+        "cable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "case",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "holder",
+        "phone case",
+        "phone holder",
+        "phone stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=case",
+      "url_google": "https://trends.google.com/trends/explore?q=case&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 74,
+      "score": 39,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 209,
+      "evidence": [
+        "outdoor",
+        "patio",
+        "garden",
+        "plant"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "outdoor",
+        "patio",
+        "garden tool set",
+        "garden light",
+        "garden decor",
+        "plant pot",
+        "plant stand",
+        "plant hanger"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=outdoor",
+      "url_google": "https://trends.google.com/trends/explore?q=outdoor&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 65,
+      "score": 36,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 26294,
+      "evidence": [
+        "laptop",
+        "desk",
+        "pen",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "pen holder",
+        "pen set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=laptop+stand",
+      "url_google": "https://trends.google.com/trends/explore?q=laptop+stand&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 42,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 7211,
+      "evidence": [
+        "box",
+        "storage",
+        "basket",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "basket",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=food+storage",
+      "url_google": "https://trends.google.com/trends/explore?q=food+storage&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 42,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 1249,
+      "evidence": [
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "home decor",
+        "room decor",
+        "table decor"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=home+decor",
+      "url_google": "https://trends.google.com/trends/explore?q=home+decor&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "pets",
+        100
+      ],
+      [
+        "crafts",
+        100
+      ],
+      [
+        "eco",
+        97
+      ],
+      [
+        "phone",
+        83
+      ],
+      [
+        "lighting",
+        79
+      ],
+      [
+        "garden",
+        74
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "pets",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "seasonal",
+      "office",
+      "bedding",
+      "lighting",
+      "garden",
+      "storage",
+      "home decor",
+      "sports"
+    ],
+    "demand_keywords": [
+      "an under",
+      "as cooked on tiktok",
+      "aussies not taking out a",
+      "baggy trousers",
+      "berry and",
+      "cool stuff gadgets",
+      "cotton bedding set",
+      "crazy low prices",
+      "crisp flavors",
+      "dem wa extra please like"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
