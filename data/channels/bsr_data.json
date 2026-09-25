@@ -1,54 +1,41 @@
 [
   {
-    "asin": "B0H9WJWZRX",
-    "bsr_rank": 1234,
-    "bsr_category": "Home",
-    "bsr_sub_rank": 3,
-    "bsr_sub_category": "Table Runners",
-    "reviews": 42,
-    "rating": 4.8,
-    "image_url": "https://m.media-amazon.com/images/I/41cuNWGcd4L._AC_US40_.jpg",
-    "title": "Socomi Pink Cheesecloth Table Runner Boho Wedding Birthday Party Home Decor",
+    "asin": "B0H33XNQGR",
+    "bsr_rank": 265,
+    "bsr_category": "Kitchen & Dining",
+    "bsr_sub_rank": 7,
+    "bsr_sub_category": "Racks & Holders",
+    "reviews": 26,
+    "rating": 5.0,
+    "image_url": "https://m.media-amazon.com/images/I/81BRnXL7ptL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "Paper Towel Holder Under Cabinet, Adhesive Rack for Kitchen",
     "price": 2.0,
-    "scraped_at": "2026-09-24T17:49:10.320164"
+    "scraped_at": "2026-09-25T17:48:17.312144"
+  },
+  {
+    "asin": "B0C899GRSZ",
+    "bsr_rank": 5128,
+    "bsr_category": "Home",
+    "bsr_sub_rank": 40,
+    "bsr_sub_category": "Arts & Crafts Tape",
+    "reviews": 10,
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/71ailui4RqL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "BOMEI PACK Green Painters Tape Decorative Writable Blue Masking Tape for Arts & Crafts,3 Rolls Pack, 24mm x 20m Per Roll",
+    "price": 2.0,
+    "scraped_at": "2026-09-25T17:48:17.312909"
   },
   {
     "asin": "B07CTBV6M8",
-    "bsr_rank": 18,
+    "bsr_rank": 20,
     "bsr_category": "Pet Supplies",
-    "bsr_sub_rank": 2,
+    "bsr_sub_rank": 3,
     "bsr_sub_category": "Dog Biscuits & Snacks",
     "reviews": 146,
     "rating": 4.7,
-    "image_url": "https://m.media-amazon.com/images/I/715wVqt42mL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/715wVqt42mL._AC_SY879_.jpg",
     "title": "SavourLife Dog Training Treats, Australian Kangaroo - High Protein, 165g",
     "price": 2.0,
-    "scraped_at": "2026-09-24T17:49:10.321024"
-  },
-  {
-    "asin": "B073RZQJ82",
-    "bsr_rank": null,
-    "bsr_category": null,
-    "bsr_sub_rank": null,
-    "bsr_sub_category": null,
-    "reviews": 6872,
-    "rating": 3.5,
-    "image_url": "https://m.media-amazon.com/images/I/412lQ0-8mAL._AC_US40_.jpg",
-    "title": "Skoy Sink Holder",
-    "price": 2.0,
-    "scraped_at": "2026-09-24T17:49:10.321470"
-  },
-  {
-    "asin": "B0H95CX1MH",
-    "bsr_rank": 643,
-    "bsr_category": "Garden",
-    "bsr_sub_rank": 7,
-    "bsr_sub_category": "Pond Fountains",
-    "reviews": 211,
-    "rating": 4.4,
-    "image_url": "https://m.media-amazon.com/images/I/4146iV9hVLL._AC_US40_.jpg",
-    "title": "Solar Bird Bath Fountain with Floating Water Pump for Pond Garden",
-    "price": 2.0,
-    "scraped_at": "2026-09-24T17:49:17.888597"
+    "scraped_at": "2026-09-25T17:48:17.313323"
   }
 ]
