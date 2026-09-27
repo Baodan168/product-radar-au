@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-28",
+  "updated_at": "2026-09-28T07:25:00+10:00",
+  "scan_date": "2026-09-28",
+  "scan_time": "07:22",
+  "summary": "本轮4个机会全部为14天内未推品类（4新品/0复扫），覆盖4个不同主品类：厨房工具（三明治封口器）/户外驱蚊配件（驱蚊手环）/花园害虫防治（黄色粘虫板）/户外健康小工具（叮咬吸吮止痒器）。周一轮换方向厨房工具+户外露营已覆盖，第2-4条按蚊虫季数据信号扩展。核心逻辑：澳洲春夏（9-3月）蚊虫季全面启动+Term 4开学午餐盒场景，驱蚊手环AU Best Sellers整页在榜、粘虫板头部大容量款集中断货、三明治封口器挤进厨电畅销榜（非电款）。预算说明：本轮20次工具预算全部用于搜索验证（Amazon AU榜单×4/竞争价格×5/1688采购价×3），候选4条均有多源实测信号支撑。",
+  "insights": [
+    {
+      "main_category": "厨房工具（午餐盒配件）",
+      "keyword": "sandwich cutter and sealer decruster lunchbox",
+      "keyword_cn": "三明治封口切割器（不锈钢压边+切割一步成型，午餐盒封边神器）",
+      "amazon_keyword": "sandwich cutter and sealer decruster lunchbox",
+      "search_1688": "三明治封口切割器 不锈钢 压边 模具 跨境",
+      "demand_signals": [
+        "Amazon AU『Sandwich Toasters & Panini Presses』Best Sellers榜出现3款非电动三明治封口器/压边器（Tortilla Sealer、IONPSHG Crimper Kit、Fzkjbn Uncrustable Maker），该榜常态被电动压机霸占，非电款挤进前排=需求动量明确（amazon.com.au/gp/bestsellers/kitchen/5016770051 2026-09-28实测）",
+        "AU站搜『sandwich cutter sealer uncrustables』仅32个listing，头部款评价数普遍低（Amazon AU搜索2026-09-28实测），供给稀薄",
+        "本土零售锚点A$26-27：Onira Australia单色款A$26+、Darrah Opens红色款A$26（澳洲本土店2026-09-28实测），A$13-14价位空缺",
+        "1688源头价：304不锈钢封口切割模¥10.5-13.5/个（chinagoods广东新辉厨具，500-1999件档2026-09实测），塑料款更低"
+      ],
+      "trend_score": 82,
+      "trend_direction": "up",
+      "reason": "需求已被平台榜单验证（3款非电封口器同进厨电Best Sellers）而AU站供给仅32个listing、本土零售A$26+，中间A$13-14价位明显空缺。Term 4学期10月开学+家庭午餐盒场景全年有效，入秋后野餐场景延续需求。现在是空运测品窗口：11月中入仓赶上圣诞前家庭采购。权重：trend82/gap75。",
+      "action": "定价A$12.99（方形+圆形双模具组合，食品级PP底座+304不锈钢切割环可拆洗）。1688搜『三明治封口切割器 不锈钢』，采购约¥11-13（A$2.3-2.7）。差异点：双色组合装+附清洁刷+说明卡（如何压不漏馅）。整包控制在200g内，小批量空运2周入仓。",
+      "competition": "诚实评估：低-中。AU站32个listing、头部评价数为低两位数量级，无品牌集中度；电动压机是替代品但价格A$40+且为不同使用逻辑。风险：美国市场该品类已充分竞争，AU滞后1-2年=现在切入正是窗口，但需抢在模仿者前面占关键词位。",
+      "signal_scores": {
+        "trend": 82,
+        "gap": 75,
+        "profit": 78,
+        "final": 78,
+        "recommendation": "GO - 榜单验证+供给稀薄+价格带空缺三重信号，本周第一优先",
+        "profit_window": "A$12.99定价：佣金A$1.69(13%)+FBA A$4.2+采购A$2.5 → 净利A$4.6/单(约35%)。午餐盒场景全年有效，无过期风险"
+      }
+    },
+    {
+      "main_category": "户外驱蚊配件",
+      "keyword": "mosquito repellent bracelets 12 pack deet free",
+      "keyword_cn": "驱蚊手环12支装（独立包装PU混色，DEET-free植物精油，户外野营钓鱼随身）",
+      "amazon_keyword": "mosquito repellent bracelets 12 pack deet free",
+      "search_1688": "驱蚊手环 精油 独立包装 跨境 cross-border",
+      "demand_signals": [
+        "Amazon AU『Insect & Pest Repellent Wristbands』Best Sellers整页20+款12-pack在榜（amazon.com.au/gp/bestsellers/health/10325545051 2026-09-28实测），细分榜被12支装形态主导",
+        "头部款12支装A$22.99（516条评价4.3★），低价位A$12.99款仅14条评价=头部评价集中但低价位供给弱，A$13-15段是卡位窗口（2026-09-28实测）",
+        "本土品牌价高量少：Mozzigear 6-pack、PARAKITO 2-pack装（澳洲本土品牌偏小包装高单价）；eBay AU『Bug Stop』单只A$2.95已售327件标记trending（2026-09-28实测）",
+        "渠道价差巨大：Tanness 12-pack在澳洲Shopify独立店卖A$99（outfitocean.com实测），证明品类心理价位高、Amazon定价A$13-15有显著吸引力",
+        "1688源头：驱蚊扣¥3.51/个（义乌购2026-09实测）；精油手环批发预估¥1-2/只（12支装含独立OPP袋，下单前核价）"
+      ],
+      "trend_score": 80,
+      "trend_direction": "up",
+      "reason": "澳洲蚊虫季9月-次年3月（Ross River病毒预警例行发布驱动），驱蚊手环是全家庭消耗型需求：露营/BBQ/后院/钓鱼/学校excursion全场景。AU Best Sellers整页在榜证明当下动量，头部A$22.99与低价款A$12.99之间价格带清晰，多支装+独立包装是形态标配。空运单包约100g，10月上旬入仓接10-1月峰值。",
+      "action": "定价A$13.99（12支装混色PU皮革+独立OPP包装+附4张驱蚊贴加量不加价）。1688搜『驱蚊手环 精油 独立包装』，采购预估¥18-24/包（A$3.8-5，需核价：若超A$4.5则减配至10支装保利润）。差异点：附驱蚊贴+混色成人儿童通用+每个独立包装方便分发给全家。",
+      "competition": "诚实评估：中。头部516条评价但集中在A$22.99段；A$12.99段评价数仅两位数。Mozzigear等本土品牌占品牌位但包装小、单价高。风险：精油驱蚊效果有争议（差评常见原因），listing要诚实标注『辅助驱蚊』并主打独立包装+家庭装形态，避免功效投诉。",
+      "signal_scores": {
+        "trend": 80,
+        "gap": 68,
+        "profit": 82,
+        "final": 76,
+        "recommendation": "GO - 榜单整页在榜+价格带卡位清晰，蚊虫季长窗口消耗品",
+        "profit_window": "A$13.99定价：佣金A$2.10(15%)+FBA A$4.2+采购A$4.0 → 净利A$3.69/单(约26%)。9-3月蚊虫季常销，复购属性强（精油衰减需换新）"
+      }
+    },
+    {
+      "main_category": "花园害虫防治",
+      "keyword": "yellow sticky traps fungus gnat 60 pack",
+      "keyword_cn": "黄色双面粘虫板60片装（蕈蚊/果蝇/白粉虱，附扎带，室内盆栽+花园通用）",
+      "amazon_keyword": "yellow sticky traps fungus gnat 60 pack",
+      "search_1688": "黄色粘虫板 双面 蕈蚊 果蝇 跨境",
+      "demand_signals": [
+        "Super Ninja粘虫板10-pack居AU『Pest Control Traps』Best Sellers第1名（Garden大类#15，4.4★），但其60-pack（B0D7MDHWT9）Currently unavailable；KIMPAJIEN 60-pack（B0F3TPW48Q）同样断货——大容量装集中缺货（Amazon AU 2026-09-28实测）",
+        "在售大容量款是海外仓进口：lnkey 56-pack A$23.27（4332条评价，Amazon Global UK发货，2026-09-28实测），本土仓大容量供给稀薄=物流时效劣势",
+        "本土零售价格锚点：Cheeky Plant Co 12片A$12、eBay 60片A$16.94（NSW卖家）、Kidz Heaven 60片A$40.55（2026-09-28实测）——A$13/60片可同时切低于两个锚点",
+        "春夏浇水频繁=蕈蚊繁殖高峰，澳洲室内植物热潮延续；Bunnings常备货架品验证需求普遍性（粘虫板是澳洲园艺常规品）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "reason": "榜单第1名+两款60片装同时断货=需求正在且供给断档，是最典型的gap窗口。纸+胶结构整包约150-180g符合红线、极耐运、无过期。与09-23已推土壤湿度计同属室内植物养护但主品类不同（害虫防治vs测量工具），客群重叠可做关联销售。",
+      "action": "定价A$12.99（60片双面黄板7×10cm+20根扎带+4种卡通造型可选款）。1688搜『黄色粘虫板 双面 跨境』，采购按纸品+胶结构预估A$1.5/包（¥7，下单前核价——纸品1688量大价低，此处为保守估价）。差异点：加厚双面胶不流胶+卡通造型款（承接Cheeky Plant Co验证过的造型偏好）+附使用卡。",
+      "competition": "诚实评估：中。Super Ninja品牌位强（4.4★+Best Seller标签）但其60装断货；lnkey 4332条评价但为UK进口慢递。本土仓60片装几乎真空。风险：单价低属引流品，需靠60片大容量拉客单；纸品同质化快，先发占『fungus gnat Australia』关键词。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 82,
+        "profit": 85,
+        "final": 80,
+        "recommendation": "GO - 断货窗口明确+利润率最高的一档，本周第二优先",
+        "profit_window": "A$12.99定价：佣金A$1.95(15%)+FBA A$4.2+采购A$1.5 → 净利A$5.34/单(约41%)。春夏虫害季持续到次年2月，常消耗复购品"
+      }
+    },
+    {
+      "main_category": "户外健康小工具",
+      "keyword": "bug bite suction tool venom extractor",
+      "keyword_cn": "蚊虫叮咬吸吮止痒器（物理吸压拔毒，无药无化学，可复用，Shark Tank同款逻辑）",
+      "amazon_keyword": "bug bite suction tool venom extractor",
+      "search_1688": "蚊虫叮咬止痒器 吸吮式 拔毒器 跨境",
+      "demand_signals": [
+        "Bug Bite Thing品牌已完成澳洲市场教育：澳洲官网在售A$14.99并挂spring 5折促销（thebugbitething.com.au 2026-09-28实测），Consumer Reports与Wirecutter均发长评测——认知成本已由品牌方付掉",
+        "1688/义乌购实测源头：拔毒器US$0.47/个（100件起批，5000件US$0.38），单件17g，现货36048个，页面明确标注『跨境专供 Bug bite thing』（yiwubuy 2026-09-28实测）——供给成熟、单件成本极低",
+        "品类卡位价值：澳洲蚊虫季9-3月全民话题，主流止痒方案是无比滴/Calamine乳液等液体膏体（Lee红线品类全拒），物理吸吮工具是唯一能做的止痒形态=结构性竞争壁垒",
+        "AU Amazon站内供给稀薄：品牌款搜索页未完整核到（Server Busy），AU站内仿款评价分布下单前需人工复核——诚实标注：此条竞对数据弱于前三条"
+      ],
+      "trend_score": 74,
+      "trend_direction": "up",
+      "reason": "品牌方A$14.99定价已锚定品类价值，1688源头US$0.47成本差近40倍，中间全是利润+仿款空间。蚊虫季刚启动（9月），该品类10-2月为需求主峰，现在入仓正好赶上。与本周第2条驱蚊手环构成『防+治』组合，可做虚拟捆绑提升客单。",
+      "action": "定价A$9.99（单只装+彩色收纳盖，PP+硅胶材质）。1688搜『蚊虫叮咬止痒器 吸吮』，采购US$0.47/个（A$0.7）+头程摊销≈A$1.2。差异点：多色可选（儿童不爱白色）+附快速使用卡。注意listing避免医疗功效宣称（TGA合规），用『relieve itch』等表述不提『treat』。",
+      "competition": "诚实评估：中-低（数据置信度中）。Bug Bite Thing品牌在AU认知上升期且官网直营，但AU Amazon站内未见强势本土仓供给；仿款生态在美国已成熟、AU滞后。风险：功效因人而异（Wirecutter评测明确说『not 100%』），差评率需用低价+教育文案对冲；另TGA对功效宣称有约束，文案保守处理。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 75,
+        "profit": 80,
+        "final": 74,
+        "recommendation": "GO-WATCH - 成本优势极大+品类教育已完成，但竞对数据需下单前补一轮人工核验",
+        "profit_window": "A$9.99定价：佣金A$1.50(15%)+FBA A$4.2+采购A$1.2 → 净利A$3.09/单(约31%)。单件17g空运成本极低，蚊虫季10-2月主销"
+      }
+    }
+  ],
+  "trend_forecast": "① 9月末-10月上旬（当前窗口）：澳洲春夏双主线启动——蚊虫季（9月-次年3月）与夏季降温季（10月起爬坡）。本周验证的驱蚊手环/粘虫板/止痒工具均属蚊虫季线，10月上旬是最后一波空运入仓窗口，11月-1月为销量主峰。② 10月：Melbourne Cup（11月3日）派对用品10月第一周后不再追（装饰品备货已过最优窗口）；夏季品类（冷却毛巾09-26已推、UV防晒配件、野餐BBQ小件）10月下单11月入仓。③ 10月底-11月初：黑五（约11/27）选品清单必须锁定——81%澳人等大促才买，轻小件11月中前必须入仓，优先利润率30%+的品（让价后仍保20%线），本周三明治封口器/粘虫板两件利润率35%+，适合放进黑五清单。④ 11月中-12月中：圣诞=海滩/BBQ盛夏场景（沙滩玩具、野餐配件、BBQ小工具），12月10日物流截单前最后一波空运；Term 1 Back to School（1月底）文具类12月中旬启动小批量测试（考试透明笔袋09-22已推，若复购数据好则第二批）。⑤ 持续线：室内植物养护（蕈蚊/浇水工具）全年有效且10-2月浇水高峰放大需求，与花园害虫防治品类可长期组合运营；户外晾晒季（10-3月）晾晒配件延续。整体：未来4周是蚊虫季+夏季品类空运下单密集期，本周4条建议10月上旬完成首单下单。"
+}
