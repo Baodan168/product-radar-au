@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-29",
+  "updated_at": "2026-09-29T07:30:00+10:00",
+  "scan_date": "2026-09-29",
+  "scan_time": "07:30",
+  "summary": "本轮4个机会全部为14天内未推品类（4新品/0复扫），覆盖4个不同主品类：宠物降温服饰（狗降温bandana）/文具办公（可写索引贴）/汽车清洁（内饰细节刷5件套）/手工园艺（黄麻绳200m）。周二轮换方向宠物用品+文具办公已覆盖，第3-4条按榜单信号扩展。核心逻辑：①澳洲入夏升温，宠物降温bandana被news.com.au夏装导购收录、头部All for Paws 2400评A$24.99，A$12.99中价位带空缺；②Amazon AU Self-Stick Notes Hot New Releases整页被索引贴新品占据（2027 planner季+Term 4开学双驱动）；③汽车内饰刷在AU汽配畅销榜多款在榜、春夏洗车高峰启动；④黄麻绳200m在Movers & Shakers家居榜以18354%涨幅登顶，圣诞礼品包装季+春季园艺双场景。防水手机袋经查证放弃（JOTO头部86,368评垄断无进入空间）、防沙沙滩垫放弃（139款在售低价血拼）。预算说明：20次工具预算中14次用于搜索验证（Amazon AU三榜×3/方向信号×6/1688采购价×2/去重与结构×3），候选4条均有榜单级信号支撑。",
+  "insights": [
+    {
+      "main_category": "手工园艺",
+      "keyword": "natural jute twine 200m gift wrapping gardening crafts",
+      "keyword_cn": "黄麻绳/麻线200米卷（礼品包装+园艺+手工多用）",
+      "amazon_keyword": "natural jute twine 200m gift wrapping gardening crafts",
+      "search_1688": "黄麻绳 麻线卷 200米 礼品包装 手工 跨境",
+      "demand_signals": [
+        "Amazon AU Movers & Shakers家居改善榜#1：Natural Jute Twine 200m单日涨幅18354%（排名68,836→373），来源：amazon.com.au/gp/movers-and-shakers/home-improvement 2026-09-29实测",
+        "圣诞备货季启动：礼品包装是10-12月麻绳第一场景，澳洲81%消费者等大促才买、黑五备货从10月开始规划，来源：AU消费习惯校准+麻绳listing标题场景词（gift wrapping/packing）",
+        "春季园艺+手工多场景：listing标题覆盖gardening/crochet/macrame/plant tying，澳洲9-11月春季种植高峰，来源：Amazon AU榜单listing关键词",
+        "供给信号：AU站内该关键词竞品稀薄（榜单仅此1款爆发），美国站同款月销10K+验证品类可行性，来源：M&S榜单+asinsight品类数据"
+      ],
+      "trend_score": 85,
+      "trend_direction": "up",
+      "reason": "为什么是现在：①单日18354%的暴涨说明AU需求正在即时释放，此时进入正好承接搜索流量；②圣诞礼品包装季10月启动，麻绳是牛皮纸包装+圣诞装饰的核心耗材，复购属性强；③澳洲春季园艺季（9-11月）植物绑扎需求同步爬坡；④轻小件完美匹配：200m卷仅约200g、可压缩包装，空运友好。",
+      "action": "定价A$12.99（价格带内偏中位，突出200m大卷量贩感）。1688搜『黄麻绳 200米 3股 食品级』，采购价约¥6-12/卷（A$1.5-2.5），选天然黄麻色+附赠10m彩色棉线版做差异化。建议首单200-300卷空运测款。",
+      "competition": "AU站内竞品少（榜单爆发款为孤立链接，暂未形成品牌聚集），评论数预计<100；风险：美国站同款常年在售且价格低至A$5-8，若卖家跨站跟卖会快速压价——差异化靠『200m加长+多场景场景图』，利润窗口约6-8周（圣诞前）。",
+      "signal_scores": {
+        "trend": 85,
+        "gap": 75,
+        "profit": 88,
+        "final": 80,
+        "recommendation": "GO - 榜单暴涨+供给稀薄+圣诞前利润窗口三重信号，本周第一优先，48小时内确认1688样品",
+        "profit_window": "A$12.99定价：佣金A$1.69(13%)+FBA A$4.2+采购A$2.0 → 净利A$5.1/单(约39%)。圣诞礼品包装季(10-12月)+春季园艺(9-11月)双场景，利润窗口至12月中，黑五前需完成第二批发货"
+      }
+    },
+    {
+      "main_category": "宠物用品",
+      "keyword": "dog cooling bandana evaporative summer neck wrap",
+      "keyword_cn": "狗降温项圈/冰感围巾（浸水蒸发降温bandana）",
+      "amazon_keyword": "dog cooling bandana evaporative summer neck wrap",
+      "search_1688": "狗狗降温项圈 冰感围巾 宠物冷感 跨境",
+      "demand_signals": [
+        "news.com.au Checkout夏装导购收录：All for Paws Chill Out Ice Bandana A$24.99在Amazon AU售出2400+五星评，reviewer称『godsend』，来源：news.com.au宠物降温产品专题2026-09实测",
+        "本土品牌定价A$23-45（FuzzYard A$23.99/Coolaroo背心A$109）验证品类支付意愿，A$12.99中价位带空缺，来源：petcircle.com.au/fuzzyard.com.au价格实测",
+        "季节驱动：澳洲10月起入夏，30°C+高温天是使用场景，spring升温期=备货上架窗口，来源：南半球季节反转校准+导购发布时点",
+        "轻小件属性：bandana约80-120g，对比降温背心(A$45+/500g+)更适合空运测款，来源：产品规格对比"
+      ],
+      "trend_score": 82,
+      "trend_direction": "up",
+      "reason": "为什么是现在：①澳洲10月-2月是宠物热应激高发期，降温品类搜索量随气温陡增，当前正是上架承接期；②主流媒体导购已开始教育市场（news.com.au专题），需求无需自建认知；③头部价格A$24.99留出A$12.99平替空间，符合『品牌平替是机会』策略；④与09-26已推的人用冷却毛巾（sports cooling towel）不同主品类，宠物服饰赛道独立。",
+      "action": "定价A$12.99。1688搜『宠物冰感围巾 降温项圈 蒸发冷却』，采购价约¥8-15/条（A$1.8-3.3），选冷感面料+可调节魔术贴款，附赠冰袋夹层款可再+A$3溢价。建议S/M/L三码各30条空运测款。",
+      "competition": "头部All for Paws约2400评（A$24.99），FuzzYard/xfuzzYard等本土品牌占A$23-45高位；A$10-15带内竞品评论多<200，进入门槛低但需防品牌方降价——差异化靠尺码细分+西瓜/澳式印花。利润窗口约10-16周（整个夏天）。",
+      "signal_scores": {
+        "trend": 82,
+        "gap": 65,
+        "profit": 85,
+        "final": 77,
+        "recommendation": "GO - 媒体导购+头部溢价验证+季节启动三信号，本周第二优先",
+        "profit_window": "A$12.99定价：佣金A$1.69(13%)+FBA A$4.2+采购A$2.5 → 净利A$4.6/单(约35%)。夏季10-2月持续5个月需求，11月底黑五可冲量，无过期风险（次年可复购季节性返单）"
+      }
+    },
+    {
+      "main_category": "文具办公",
+      "keyword": "sticky index tabs writable page markers pastel",
+      "keyword_cn": "可写索引贴/标签贴（透明PET便签条，书本/笔记本标记）",
+      "amazon_keyword": "sticky index tabs writable page markers pastel",
+      "search_1688": "索引贴 标签贴 可写 PET 便利贴 跨境",
+      "demand_signals": [
+        "Amazon AU Self-Stick Notes Hot New Releases整页被索引贴新品占据：TuoYi 2800片/2400片30色/3600片装等多款新链接上榜，来源：amazon.com.au Hot New Releases office products实测2026-09-29",
+        "2027 planner季启动：澳洲planner/日记文化成熟（Steph Pase等本土品牌年销爆品A$25-80），索引贴是planner核心配件，来源：AU文具零售商在售结构（WashiGang/Paper State）",
+        "Term 4开学+考试季：10月开学季书本标记/笔记分类需求，学生+教师双人群，来源：AU校历Term 4时间线",
+        "半透明可写PET是新趋势款型（vs传统纸质荧光贴），澳新品listing以morandi/pastel莫兰迪色系为主打，来源：Hot New Releases listing标题分析"
+      ],
+      "trend_score": 75,
+      "trend_direction": "up",
+      "reason": "为什么是现在：①Hot New Releases整页同款说明需求正在放量且尚无评论垄断（新链接窗口期）；②2027planner上市潮（本土品牌7月起发售2027款）带动配件复购；③Term 4学习场景+圣诞手账（journaling）双节点接力；④重量约100-150g/套，空运友好，SKU可组合（多色装/含尺子款）提客单。",
+      "action": "定价A$12.99（2400片30色含收纳尺款）。1688搜『PET索引贴 可写 莫兰迪 跨境现货』，采购价约¥8-15/套（A$1.8-3.3），选含切割尺+双面可写款。建议2款（pastel+莫兰迪）各100套测款。",
+      "competition": "Hot New Releases均为新链接（评论<100），无品牌垄断；风险：同质化极快（1688现货满天飞），需在listing突出片数（2400片vs常见600片）+含尺子配件。窗口期约4-8周，快进快出。",
+      "signal_scores": {
+        "trend": 75,
+        "gap": 60,
+        "profit": 80,
+        "final": 70,
+        "recommendation": "GO（谨慎）- 新品窗口期信号真实但同质化风险高，小批量快周转，不做深库存",
+        "profit_window": "A$12.99定价：佣金A$1.69(13%)+FBA A$4.2+采购A$2.5 → 净利A$4.6/单(约35%)。窗口期4-8周（planner季+Term 4），黑五前清库存节奏，不适合长线囤货"
+      }
+    },
+    {
+      "main_category": "汽车配件",
+      "keyword": "car interior detailing brush set air vents",
+      "keyword_cn": "汽车内饰细节清洁刷套装（出风口/缝隙软毛刷）",
+      "amazon_keyword": "car interior detailing brush set air vents",
+      "search_1688": "汽车内饰清洁刷 出风口刷 细节刷套装 跨境",
+      "demand_signals": [
+        "Amazon AU Automotive Sponges/Cloths & Brushes畅销榜多款刷具在榜：5件套细节刷、TEUOPIOE内饰除尘刷、MR.SIGA洗车手套等，来源：amazon.com.au/gp/bestsellers/automotive实测2026-09-29",
+        "Hot New Releases同品类多款新上榜：5件刷套装+4件套洗车组合密集进入，说明供给端正响应需求放量，来源：amazon.com.au Hot New Releases automotive实测",
+        "春夏洗车高峰：澳洲10月起晴天增多+花粉/粉尘季，内饰除尘需求爬坡，09-29 Kitchen M&S同源数据可交叉验证清洁类需求上升，来源：季节校准+榜单结构",
+        "1688供应链成熟：13-15件套整箱装¥41.98（义乌吖咪娜现货，30天21人想买），单件/5件套成本更低，来源：chinagoods/1688报价实测2026-09"
+      ],
+      "trend_score": 70,
+      "trend_direction": "up",
+      "reason": "为什么是现在：①AU榜单5件套款式在售但头部套装多在A$20-50（10-26件大套装），A$12.99小型精装套有价格带空间；②春夏洗车+车内除尘季启动，与洗车手套/毛巾形成连带购买；③与09-23已推的车载遮阳板墨镜夹、09-16座椅缝隙塞均为不同主品类，汽车清洁工具赛道未覆盖。",
+      "action": "定价A$14.99（5件套：3软毛细节刷+2绒布刷）。1688搜『汽车detailing刷 5件套 软毛 跨境』，采购价约¥15-25/套（A$3.3-5.5），选原木手柄+双色刷毛款提质感。建议100套空运测款。",
+      "competition": "AU畅销榜套装款A$20-50（Sudz Budz 10件套387评A$49.99/COZY CORE 10件套A$26.99），5件小套评论普遍<300，竞争中等；风险：品类供给成熟、差异化空间有限——靠『小套装+低门槛价』切新手车主群。窗口期约8-12周。",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 70,
+        "profit": 72,
+        "final": 70,
+        "recommendation": "GO（标准测款）- 榜单在榜+价格带空缺，单件利润薄但周转稳，作为组合填充位",
+        "profit_window": "A$14.99定价：佣金A$1.95(13%)+FBA A$4.2+采购A$4.5 → 净利A$4.34/单(约29%)。春夏洗车季10-3月持续，全年复购属性（刷头损耗），无过期风险"
+      }
+    }
+  ],
+  "trend_forecast": "① 未来1周（9月29日-10月5日）：澳洲春季向初夏过渡，日均温突破25°C的城市（珀斯/阿德莱德/布里斯班）率先触发宠物降温品类搜索，狗降温bandana/冰垫/冷却背心的上架窗口就在本周——错过10月上半月等于错过整个夏季头部流量。同期黄麻绳承接的圣诞礼品包装需求开始抬头（Coles/Woolworths 10月中上 christmas aisle上货是需求风向标），麻绳类建议10月第一周完成1688打样确认。② 10月第2-3周（10月6日-19日）：Term 4开学后1-2周文具补购潮，索引贴/planner配件/考试透明笔袋需求小高峰；同时墨尔本杯（11月3日）前6周，赛马主题派对装饰（黑白格纹/马蹄元素/金色系）搜索开始爬坡——墨尔本杯是澳洲独有节点，竞争远低于万圣节/圣诞，建议10月中旬前完成选品评估，卡航截柜倒计时约47天节点正好覆盖。③ 10月第4周-11月初（10月20日-11月3日）：圣诞备货最后决策窗口。按卡航47天时效倒推，10月底下单的货12月中到仓，还能赶上圣诞前2周销售高峰；再晚就只能走快铁/空运压缩利润。品类优先级：圣诞装饰类（已推过3D姜饼模具/气球拱门/枫叶花环，可关注未覆盖的圣诞桌旗/门挂补充装）>夏日本土场景品（海滩玩具/野餐配件）>墨尔本杯周边。④ 贯穿10月：澳洲春夏蚊虫季持续（9月底驱蚊手环/粘虫板已验证），昆虫防护+叮咬处理类在整个Q4保持需求，可作为常青补位品；同时11月末黑五备货节奏要求11月初完成第二批补货决策——81%消费者等大促购买意味着黑五当周销量可达平日3-5倍，库存必须在11月20日前入仓。"
+}
