@@ -1,5 +1,31 @@
 [
   {
+    "asin": "B0H9WJWZRX",
+    "bsr_rank": 1188,
+    "bsr_category": "Home",
+    "bsr_sub_rank": 2,
+    "bsr_sub_category": "Table Runners",
+    "reviews": 42,
+    "rating": 4.8,
+    "image_url": "https://m.media-amazon.com/images/I/81cIB9wH+aL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "Socomi Pink Cheesecloth Table Runner Boho Wedding Birthday Party Home Decor",
+    "price": 2.0,
+    "scraped_at": "2026-09-29T17:49:53.729111"
+  },
+  {
+    "asin": "B091N3LWDP",
+    "bsr_rank": 45701,
+    "bsr_category": "Electronics",
+    "bsr_sub_rank": 34479,
+    "bsr_sub_category": "Mobile Phones & Communication",
+    "reviews": 329,
+    "rating": 4.2,
+    "image_url": "https://m.media-amazon.com/images/I/41lU8PunLwS._AC_SR38,50_.jpg",
+    "title": "Sanrio Lanyard",
+    "price": 2.0,
+    "scraped_at": "2026-09-29T17:49:53.730002"
+  },
+  {
     "asin": "B0DZ5Q8Z9R",
     "bsr_rank": null,
     "bsr_category": null,
@@ -10,71 +36,19 @@
     "image_url": "https://m.media-amazon.com/images/I/41mBs9mL+jL._AC_US40_.jpg",
     "title": "Office supplies set, including hole punch, stapler, ribbon dispenser and office stationery accessories, ideal for any office",
     "price": 2.0,
-    "scraped_at": "2026-09-29T07:39:35.750582"
+    "scraped_at": "2026-09-29T17:49:53.730447"
   },
   {
-    "asin": "B0DHVMT5ZK",
-    "bsr_rank": 16191,
-    "bsr_category": "Home",
-    "bsr_sub_rank": 92,
-    "bsr_sub_category": "Fabric Ribbons",
-    "reviews": 53,
-    "rating": 4.6,
-    "image_url": "https://m.media-amazon.com/images/I/31lFOqVOL7L._AC_US40_.jpg",
-    "title": "MORSUNBELA Ribbon Organza Gift Wide Ribbons for Gift Wrapping Nude",
-    "price": 2.0,
-    "scraped_at": "2026-09-29T07:39:35.752673"
-  },
-  {
-    "asin": "B0DHVN9XVT",
-    "bsr_rank": 16191,
-    "bsr_category": "Home",
-    "bsr_sub_rank": 92,
-    "bsr_sub_category": "Fabric Ribbons",
-    "reviews": 271,
-    "rating": 4.6,
-    "image_url": "https://m.media-amazon.com/images/I/31z3uSfDNsL._AC_US40_.jpg",
-    "title": "MORSUNBELA Ribbon Organza Gift Wide Ribbons for Gift Wrapping Red",
-    "price": 2.0,
-    "scraped_at": "2026-09-29T07:39:35.753131"
-  },
-  {
-    "asin": "B0H95CX1MH",
-    "bsr_rank": 682,
+    "asin": "B0CPPQ96LR",
+    "bsr_rank": 20,
     "bsr_category": "Garden",
-    "bsr_sub_rank": 9,
-    "bsr_sub_category": "Pond Fountains",
-    "reviews": 211,
-    "rating": 4.4,
-    "image_url": "https://m.media-amazon.com/images/I/4146iV9hVLL._AC_US40_.jpg",
-    "title": "Solar Bird Bath Fountain with Floating Water Pump for Pond Garden",
-    "price": 2.0,
-    "scraped_at": "2026-09-29T07:39:41.018113"
-  },
-  {
-    "asin": "B0HC3J1SRG",
-    "bsr_rank": 457,
-    "bsr_category": "Garden",
-    "bsr_sub_rank": 12,
-    "bsr_sub_category": "Insect & Pest Repellent Garments",
-    "reviews": 45,
+    "bsr_sub_rank": 4,
+    "bsr_sub_category": "Garden Raised Beds & Support Structures 29 in Lawn & Plant Care Products",
+    "reviews": 3,
     "rating": 4.2,
-    "image_url": "https://m.media-amazon.com/images/I/31GifZkpjGL._AC_US40_.jpg",
-    "title": "Slug & Snail Copper Tape for Plant Pots, Self Adhesive Copper Foil Garden Barrier Tape for Planters, Outdoor Garden Pest Deterrent, 25m x 10mm Roll",
+    "image_url": "https://m.media-amazon.com/images/I/412g0Yl8ezL._AC_US40_.jpg",
+    "title": "Garden Netting Plant Mesh, Pest Barrier, Floating Row Covers",
     "price": 2.0,
-    "scraped_at": "2026-09-29T07:39:41.018706"
-  },
-  {
-    "asin": "B0H8D8C5DG",
-    "bsr_rank": 432,
-    "bsr_category": "Garden",
-    "bsr_sub_rank": 1,
-    "bsr_sub_category": "Plant Box Liners",
-    "reviews": 7,
-    "rating": 4.2,
-    "image_url": "https://m.media-amazon.com/images/I/81G1TViRcZL._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Large Waterproof Foldable Plant Repotting Mat 100x100cm",
-    "price": 2.0,
-    "scraped_at": "2026-09-29T07:39:41.019170"
+    "scraped_at": "2026-09-29T17:49:58.665821"
   }
 ]
