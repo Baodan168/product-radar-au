@@ -1,0 +1,881 @@
+{
+  "scan_date": "2026-09-30",
+  "scan_time": "07:30",
+  "scan_ts": "2026-09-30_0730",
+  "stats": {
+    "total_scanned": 214,
+    "passed_filter": 5,
+    "rejected": 209,
+    "channels": {
+      "multi_source": 5,
+      "temu_trending": 5,
+      "ozbargain": 5,
+      "etsy_trending": 4,
+      "tiktok_verified": 4,
+      "youtube_review": 3,
+      "new_releases": 4,
+      "gifts": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "kitchen": 100,
+      "pets": 100,
+      "crafts": 100,
+      "garden": 84,
+      "phone": 77,
+      "eco": 77
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 13
+  },
+  "products": [
+    {
+      "asin": "B0HJH3FN3V",
+      "name": "Microwave Egg Poacher With Lid & Handle, 2 Cavity Silicone Poached Egg Cups | Nonstick Poached Egg Maker, Quick-Heat Mic",
+      "price": 16.99,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 6,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HJH3FN3V",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71PCCBEHVSL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.546,
+      "net_profit": 9.28,
+      "cost_breakdown": {
+        "commission": 2.21,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.71
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 155,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-30",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "etsy_trending",
+        "tiktok_verified",
+        "youtube_review",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0H75312R5",
+      "name": "Coffee Machine Cleaning Disc and Tablets Set Compatible with Breville 54 mm, 2 Pcs Silicone Backflush Discs and 8 Cleani",
+      "price": 12.99,
+      "reviews": 3,
+      "rating": 5.0,
+      "rank": 15,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "3 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H75312R5",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61+XVZr9nwL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "YouTube种草",
+        "Ozbargain折扣",
+        "Temu热销"
+      ],
+      "profit_margin": 0.447,
+      "net_profit": 5.8,
+      "cost_breakdown": {
+        "commission": 1.69,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.19
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 124,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类不符": -10,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-09-30",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "youtube_review",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0GGB7G66H",
+      "name": "Garden Tool Set, 7 Pieces, Ergonomic Garden Tools with Non-Slip Handle, Rustproof, Aluminium, with Bag for Garden Tools ",
+      "price": 11.75,
+      "reviews": 15,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Garden",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "15 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GGB7G66H",
+      "image_url": "https://m.media-amazon.com/images/I/71AVhb68WOL._AC_UL320_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Etsy趋势",
+        "Ozbargain折扣",
+        "Temu热销"
+      ],
+      "profit_margin": 0.382,
+      "net_profit": 4.49,
+      "cost_breakdown": {
+        "commission": 1.76,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.26
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 153,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-26",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "etsy_trending",
+        "tiktok_verified",
+        "gifts"
+      ]
+    },
+    {
+      "asin": "B0H33XNQGR",
+      "name": "Xunvant Paper Towel Holder Under Cabinet, Adhesive Rack for Kitchen | Black Stainless Steel Toilet Roll Holder with No D",
+      "price": 12.99,
+      "reviews": 4,
+      "rating": 5.0,
+      "rank": 7,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H33XNQGR",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71ydVaCCB-L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Etsy趋势",
+        "Ozbargain折扣",
+        "Temu热销",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.447,
+      "net_profit": 5.8,
+      "cost_breakdown": {
+        "commission": 1.69,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.19
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 150,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-24",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "etsy_trending",
+        "tiktok_verified",
+        "youtube_review",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0DZ5Q8Z9R",
+      "name": "Office supplies set, including hole punch, stapler, ribbon dispenser and office stationery accessories, ideal for any of",
+      "price": 10.57,
+      "reviews": 27,
+      "rating": 4.3,
+      "rank": 3,
+      "category": "Office",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "27 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DZ5Q8Z9R",
+      "image_url": "https://m.media-amazon.com/images/I/71hYldgxLqL._AC_UL320_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Etsy趋势",
+        "Ozbargain折扣",
+        "Temu热销"
+      ],
+      "profit_margin": 0.33,
+      "net_profit": 3.48,
+      "cost_breakdown": {
+        "commission": 1.59,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.09
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 134,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(office)": 8,
+        "🟢 低竞争": 10,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-28",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "etsy_trending",
+        "tiktok_verified",
+        "new_releases"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "brush",
+        "craft",
+        "art",
+        "paint",
+        "stickers"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "brush",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "acrylic paint set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=brush",
+      "url_google": "https://trends.google.com/trends/explore?q=brush&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 77,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "holder",
+        "stand",
+        "earbuds",
+        "cable",
+        "charger"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "holder",
+        "stand",
+        "earbuds case",
+        "wireless earbuds",
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "phone charger"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=holder",
+      "url_google": "https://trends.google.com/trends/explore?q=holder&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 77,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "bamboo",
+        "reusable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "bamboo cutlery",
+        "bamboo toothbrush",
+        "bamboo organizer",
+        "reusable food wrap",
+        "reusable straws"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gym",
+        "fitness",
+        "sport",
+        "yoga",
+        "resistance"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "gym bag",
+        "gym gloves",
+        "gym towel",
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "sport",
+        "yoga mat"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gym+bag",
+      "url_google": "https://trends.google.com/trends/explore?q=gym+bag&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 69,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "lamp",
+        "led",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=desk+lamp",
+      "url_google": "https://trends.google.com/trends/explore?q=desk+lamp&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 69,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "brush",
+        "hair",
+        "nail",
+        "organiser",
+        "skincare"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "brush",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "nail art kit",
+        "nail tools",
+        "nail stickers"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=brush",
+      "url_google": "https://trends.google.com/trends/explore?q=brush&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "motor",
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "organiser",
+        "motorcycle accessories",
+        "motorcycle cover",
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "baby",
+      "category": "baby",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "kids",
+        "toddler",
+        "nursery",
+        "child",
+        "baby"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "kids",
+        "toddler",
+        "nursery",
+        "child",
+        "baby"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=kids",
+      "url_google": "https://trends.google.com/trends/explore?q=kids&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 46,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "birthday",
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "birthday gift",
+        "birthday decoration",
+        "birthday card",
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=birthday+gift",
+      "url_google": "https://trends.google.com/trends/explore?q=birthday+gift&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 84,
+      "score": 43,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 213,
+      "evidence": [
+        "outdoor",
+        "grill",
+        "flower",
+        "plant",
+        "bird"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "outdoor",
+        "grill",
+        "flower",
+        "plant pot",
+        "plant stand",
+        "plant hanger",
+        "bird feeder",
+        "bird bath"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=outdoor",
+      "url_google": "https://trends.google.com/trends/explore?q=outdoor&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 65,
+      "score": 36,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 47750,
+      "evidence": [
+        "pen",
+        "desk",
+        "office",
+        "organiser",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "office supplies",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 53,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 4576,
+      "evidence": [
+        "brush",
+        "mop",
+        "vacuum",
+        "cleaning",
+        "cleaner"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "brush",
+        "vacuum",
+        "cleaning",
+        "cleaner"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=brush",
+      "url_google": "https://trends.google.com/trends/explore?q=brush&geo=AU"
+    },
+    {
+      "keyword": "bathroom",
+      "category": "bathroom",
+      "heat": 42,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 5429,
+      "evidence": [
+        "towel",
+        "bath",
+        "toilet",
+        "soap",
+        "shower"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "towel rail",
+        "towel rack",
+        "towel hook",
+        "bath mat",
+        "bath caddy",
+        "bath pillow",
+        "toilet",
+        "soap dispenser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=towel+rail",
+      "url_google": "https://trends.google.com/trends/explore?q=towel+rail&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "kitchen",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "crafts",
+        100
+      ],
+      [
+        "garden",
+        84
+      ],
+      [
+        "phone",
+        77
+      ],
+      [
+        "eco",
+        77
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "garden",
+      "bathroom",
+      "car",
+      "lighting",
+      "pets",
+      "sports",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "seasonal",
+      "office",
+      "baby",
+      "storage",
+      "cleaning",
+      "home decor"
+    ],
+    "demand_keywords": [
+      "#tiktokmademebuyit",
+      "add to",
+      "all the things",
+      "amazon is spending",
+      "amazon made me buy it",
+      "amazon sales in",
+      "and the",
+      "best selling products on",
+      "cool stuff gadgets",
+      "cross-border"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
