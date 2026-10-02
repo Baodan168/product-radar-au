@@ -1,0 +1,847 @@
+{
+  "scan_date": "2026-10-02",
+  "scan_time": "17:40",
+  "scan_ts": "2026-10-02_1740",
+  "stats": {
+    "total_scanned": 110,
+    "passed_filter": 4,
+    "rejected": 106,
+    "channels": {
+      "tiktok_verified": 3,
+      "multi_source": 4,
+      "ozbargain": 3,
+      "etsy_trending": 4,
+      "youtube_review": 4,
+      "new_releases": 2,
+      "temu_trending": 2,
+      "gifts": 2
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "lighting": 91,
+      "seasonal": 91,
+      "eco": 79,
+      "phone": 75
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 15
+  },
+  "products": [
+    {
+      "asin": "B0H8NPV1G5",
+      "name": "Portable Dog Water Bottle, Foldable Dog Water Bottle, PET Blue | Leak Proof Dispenser for Puppy Small Medium Large Dogs,",
+      "price": 12.99,
+      "reviews": 10,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "10 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H8NPV1G5",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71NBNQWER5L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "YouTube种草",
+        "Etsy趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.477,
+      "net_profit": 6.19,
+      "cost_breakdown": {
+        "commission": 1.3,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.8
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 160,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "📈 趋势(sports)": 8,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-30",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "multi_source",
+        "ozbargain",
+        "etsy_trending",
+        "youtube_review",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0H58SWKV7",
+      "name": "OUQUES Slow Feeder Dog Bowl for Small and Medium Dogs, Non-Slip Feet | Raised bone-shaped columns and non-slip feet supp",
+      "price": 11.99,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 23,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H58SWKV7",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/81k-yTb79jL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.441,
+      "net_profit": 5.29,
+      "cost_breakdown": {
+        "commission": 1.2,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.7
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 155,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-02",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "ozbargain",
+        "etsy_trending",
+        "youtube_review",
+        "new_releases"
+      ]
+    },
+    {
+      "asin": "B0GDPP2ZKR",
+      "name": "Garden Tool Set, 8 Pieces Garden Tools with Durable Storage Bag, Stainless Steel Garden Tools Kit, Ergonomic Garden Tool",
+      "price": 11.19,
+      "reviews": 20,
+      "rating": 4.8,
+      "rank": 5,
+      "category": "Garden",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "20 reviews, 4.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GDPP2ZKR",
+      "image_url": "https://m.media-amazon.com/images/I/71Og0btMnIL._AC_UL320_.jpg",
+      "sources": [
+        "YouTube种草",
+        "Etsy趋势",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.358,
+      "net_profit": 4.01,
+      "cost_breakdown": {
+        "commission": 1.68,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.18
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 143,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "📈 趋势(storage)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-26",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "temu_trending",
+        "multi_source",
+        "ozbargain",
+        "etsy_trending",
+        "youtube_review",
+        "gifts"
+      ]
+    },
+    {
+      "asin": "B0GGB7G66H",
+      "name": "Garden Tool Set, 7 Pieces, Ergonomic Garden Tools with Non-Slip Handle, Rustproof, Aluminium, with Bag for Garden Tools ",
+      "price": 11.75,
+      "reviews": 15,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Garden",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "15 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GGB7G66H",
+      "image_url": "https://m.media-amazon.com/images/I/71AVhb68WOL._AC_UL320_.jpg",
+      "sources": [
+        "YouTube种草",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.382,
+      "net_profit": 4.49,
+      "cost_breakdown": {
+        "commission": 1.76,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.26
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 113,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🟠 中信号": 10,
+        "🔥 多源热门(garden)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-26",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "gifts",
+        "etsy_trending",
+        "multi_source",
+        "youtube_review"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "craft",
+        "art",
+        "stickers",
+        "paint",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "stickers",
+        "acrylic paint set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 91,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "led",
+        "strip",
+        "lamp"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel",
+        "LED strip",
+        "LED strip light",
+        "RGB strip"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 91,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas",
+        "birthday"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "birthday gift",
+        "birthday decoration"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "reusable",
+        "eco",
+        "organic"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "organic products",
+        "organic cotton"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=reusable+food+wrap",
+      "url_google": "https://trends.google.com/trends/explore?q=reusable+food+wrap&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 75,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "skincare",
+        "hair",
+        "brush",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "organiser",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "organiser",
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "water bottle",
+        "yoga",
+        "sport",
+        "gym",
+        "fitness"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "water bottle",
+        "yoga mat",
+        "yoga block",
+        "yoga strap",
+        "sport",
+        "gym bag",
+        "gym gloves",
+        "gym towel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=water+bottle",
+      "url_google": "https://trends.google.com/trends/explore?q=water+bottle&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 63,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gadget",
+        "organiser",
+        "kitchen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gadget",
+        "organiser",
+        "kitchen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gadget",
+      "url_google": "https://trends.google.com/trends/explore?q=gadget&geo=AU"
+    },
+    {
+      "keyword": "baby",
+      "category": "baby",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "kids",
+        "baby",
+        "toddler",
+        "nursery",
+        "child"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "kids",
+        "baby",
+        "toddler",
+        "nursery",
+        "child"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=kids",
+      "url_google": "https://trends.google.com/trends/explore?q=kids&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 43,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "box",
+        "storage",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=food+storage",
+      "url_google": "https://trends.google.com/trends/explore?q=food+storage&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 75,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 98197,
+      "evidence": [
+        "phone",
+        "earbuds",
+        "case",
+        "charger",
+        "cable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "earbuds case",
+        "wireless earbuds",
+        "case",
+        "phone charger",
+        "wireless charger"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+case",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+case&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 63,
+      "score": 36,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 36180,
+      "evidence": [
+        "cleaning",
+        "mop",
+        "brush",
+        "vacuum",
+        "cleaner"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "cleaning",
+        "brush",
+        "vacuum",
+        "cleaner"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cleaning",
+      "url_google": "https://trends.google.com/trends/explore?q=cleaning&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 51,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 48923,
+      "evidence": [
+        "office",
+        "desk",
+        "organiser",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "office supplies",
+        "desk organizer",
+        "pen holder",
+        "desk lamp",
+        "desk mat",
+        "organiser",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=office+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=office+supplies&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 51,
+      "score": 32,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 995,
+      "evidence": [
+        "decor",
+        "clock",
+        "frame"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "home decor",
+        "room decor",
+        "table decor",
+        "wall clock",
+        "desk clock",
+        "digital clock",
+        "photo frame",
+        "picture frame"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=home+decor",
+      "url_google": "https://trends.google.com/trends/explore?q=home+decor&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 47,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 23908,
+      "evidence": [
+        "blanket",
+        "pillow",
+        "throw",
+        "bedding",
+        "cushion"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "blanket",
+        "pillow",
+        "throw",
+        "bedding",
+        "cushion"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=blanket",
+      "url_google": "https://trends.google.com/trends/explore?q=blanket&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "lighting",
+        91
+      ],
+      [
+        "seasonal",
+        91
+      ],
+      [
+        "eco",
+        79
+      ],
+      [
+        "phone",
+        75
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "lighting",
+      "sports",
+      "seasonal",
+      "cleaning",
+      "office",
+      "storage",
+      "pets",
+      "bedding",
+      "home decor",
+      "baby",
+      "garden"
+    ],
+    "demand_keywords": [
+      "amazon sales in",
+      "amazon unveils new marketplace",
+      "as cooked on tiktok",
+      "baggy trousers",
+      "berry and",
+      "bespoke wooden letter nursery decor",
+      "best selling products on",
+      "casual dresses",
+      "cider bell sleeve romper",
+      "cider low rise drawstring pant"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
