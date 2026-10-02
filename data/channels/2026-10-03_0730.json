@@ -1,0 +1,642 @@
+{
+  "scan_date": "2026-10-03",
+  "scan_time": "07:30",
+  "scan_ts": "2026-10-03_0730",
+  "stats": {
+    "total_scanned": 239,
+    "passed_filter": 3,
+    "rejected": 236,
+    "channels": {
+      "multi_source": 3,
+      "temu_trending": 3,
+      "ozbargain": 3,
+      "new_releases": 2,
+      "youtube_review": 2,
+      "tiktok_verified": 2,
+      "etsy_trending": 1,
+      "event_product": 1,
+      "keyword_search": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 2
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 100,
+      "lighting": 84,
+      "seasonal": 84,
+      "car": 80,
+      "kitchen": 73
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B0HC84RMKT",
+      "name": "Coffee Syrup Pump Dispenser Set of 2 for 750ml / 25.4 oz Bottles, Twist Lock Syrup Pumps with Trim-to-Fit Tubes, 0.3 oz ",
+      "price": 9.9,
+      "reviews": 1,
+      "rating": 4.0,
+      "rank": 14,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 reviews, 4.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HC84RMKT",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41g5XRIiJgL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.314,
+      "net_profit": 3.11,
+      "cost_breakdown": {
+        "commission": 1.29,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.79
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 133,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 评论偏少": -8,
+        "💰 高利润": 8,
+        "❓ 品类不符": -10
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-10-02",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "ozbargain",
+        "new_releases",
+        "youtube_review",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 1243,
+      "bsr_category": "Kitchen & Dining",
+      "bsr_sub_rank": 7,
+      "bsr_sub_category": "Food Dispensers",
+      "estimated_daily_sales": 144,
+      "monthly_revenue_est": 42768.0
+    },
+    {
+      "asin": "B0H8D8C5DG",
+      "name": "Luzcauwy Large Waterproof Foldable Plant Repotting Mat 100x100cm | Durable washable mat prevents dirt spillage while rep",
+      "price": 11.69,
+      "reviews": 1,
+      "rating": 4.0,
+      "rank": 15,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H8D8C5DG",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51hpYBWdgiL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Temu热销",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.38,
+      "net_profit": 4.44,
+      "cost_breakdown": {
+        "commission": 1.75,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.25
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 107,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🟠 中信号": 10,
+        "🔥 多源热门(garden)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-09-29",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "multi_source",
+        "ozbargain",
+        "new_releases",
+        "temu_trending"
+      ],
+      "bsr_rank": 729,
+      "bsr_category": "Garden",
+      "bsr_sub_rank": 1,
+      "bsr_sub_category": "Plant Box Liners",
+      "estimated_daily_sales": 164,
+      "monthly_revenue_est": 57514.8
+    },
+    {
+      "asin": "B0FGCLXCT7",
+      "name": "YEPVIE Fairy Lights Outdoor, 200 LED String Lights 72FT/22m,Solar Garden Lights with 8 Modes,Christmas LED Lights Outdoo",
+      "price": 16.99,
+      "reviews": 27,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "27 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FGCLXCT7",
+      "image_url": "https://m.media-amazon.com/images/I/61a1bWqwYZL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "balloon pump hand held dual action party",
+      "sources": [
+        "趋势发现",
+        "TikTok趋势",
+        "YouTube种草",
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.526,
+      "net_profit": 8.94,
+      "cost_breakdown": {
+        "commission": 2.55,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 8.05
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 153,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(lighting)": 23,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-03",
+      "is_multi": true,
+      "is_event": true,
+      "channel_tags": [
+        "multi_source",
+        "temu_trending",
+        "etsy_trending",
+        "event_product",
+        "ozbargain",
+        "keyword_search",
+        "youtube_review",
+        "tiktok_verified"
+      ],
+      "bsr_rank": 1087,
+      "bsr_category": "Lighting",
+      "bsr_sub_rank": 86,
+      "bsr_sub_category": "Indoor-Outdoor String Lights",
+      "estimated_daily_sales": 137,
+      "monthly_revenue_est": 69828.9
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 84,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "strip",
+        "lamp",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "desk lamp",
+        "night light"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 84,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas",
+        "halloween"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "halloween decoration",
+        "halloween costume"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 80,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "case",
+        "phone",
+        "earbuds",
+        "cable",
+        "charger"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "case",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "earbuds case",
+        "wireless earbuds",
+        "charging cable",
+        "USB cable"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=case",
+      "url_google": "https://trends.google.com/trends/explore?q=case&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "makeup",
+        "brush",
+        "organiser",
+        "skincare",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "brush",
+        "organiser",
+        "face roller",
+        "gua sha",
+        "face mask"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=makeup+brush+set",
+      "url_google": "https://trends.google.com/trends/explore?q=makeup+brush+set&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 57,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "pen",
+        "laptop",
+        "organiser",
+        "office"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "organiser",
+        "office supplies"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 50,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "fitness",
+        "water bottle",
+        "sport"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "water bottle",
+        "sport"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=resistance+band",
+      "url_google": "https://trends.google.com/trends/explore?q=resistance+band&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 46,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "organic"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "organic products",
+        "organic cotton"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 2359,
+      "evidence": [
+        "brush",
+        "stickers",
+        "art",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "brush",
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=brush",
+      "url_google": "https://trends.google.com/trends/explore?q=brush&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 46,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 5877,
+      "evidence": [
+        "basket",
+        "container",
+        "storage",
+        "box",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "basket",
+        "container",
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=basket",
+      "url_google": "https://trends.google.com/trends/explore?q=basket&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "lighting",
+        84
+      ],
+      [
+        "seasonal",
+        84
+      ],
+      [
+        "car",
+        80
+      ],
+      [
+        "kitchen",
+        73
+      ]
+    ],
+    "cross_validated": [
+      "bathroom",
+      "cleaning",
+      "car",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "lighting",
+      "sports",
+      "seasonal",
+      "office",
+      "pets",
+      "garden",
+      "storage",
+      "home decor",
+      "baby"
+    ],
+    "demand_keywords": [
+      "amazon haul outfits",
+      "amazon sales in",
+      "any discounted",
+      "any website that shows sales",
+      "as cooked on tiktok",
+      "baggy trousers",
+      "belgium vs",
+      "berry and",
+      "best new movies and",
+      "cider bell sleeve romper"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
