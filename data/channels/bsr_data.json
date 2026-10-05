@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "asin": "B0H8NPV1G5",
+    "bsr_rank": 798,
+    "bsr_category": "Pet Supplies",
+    "bsr_sub_rank": 4,
+    "bsr_sub_category": "Water Bottles for Dogs",
+    "reviews": 7,
+    "rating": 4.1,
+    "image_url": "https://m.media-amazon.com/images/I/71w1jQYq90L._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Portable Dog Water Bottle, Foldable Dog Water Bottle, PET Blue",
+    "price": 2.0,
+    "scraped_at": "2026-10-06T07:39:08.172208"
+  },
+  {
+    "asin": "B0HBQ9TC8G",
+    "bsr_rank": 1559,
+    "bsr_category": "Pet Supplies",
+    "bsr_sub_rank": 2,
+    "bsr_sub_category": "Bandanas for Dogs",
+    "reviews": 12,
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/71GqzOPnQhL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "2PCS Dog Birthday Outfit with Cake Hat and Bandana for Party Photos (Blue)",
+    "price": 2.0,
+    "scraped_at": "2026-10-06T07:39:08.173075"
+  }
+]
