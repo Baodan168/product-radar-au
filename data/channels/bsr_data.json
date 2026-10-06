@@ -1,28 +1,41 @@
 [
   {
-    "asin": "B0H8NPV1G5",
-    "bsr_rank": 798,
-    "bsr_category": "Pet Supplies",
-    "bsr_sub_rank": 4,
-    "bsr_sub_category": "Water Bottles for Dogs",
-    "reviews": 7,
-    "rating": 4.1,
-    "image_url": "https://m.media-amazon.com/images/I/71w1jQYq90L._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Portable Dog Water Bottle, Foldable Dog Water Bottle, PET Blue",
+    "asin": "B0H8D8C5DG",
+    "bsr_rank": 521,
+    "bsr_category": "Garden",
+    "bsr_sub_rank": 1,
+    "bsr_sub_category": "Plant Box Liners",
+    "reviews": 47,
+    "rating": 4.4,
+    "image_url": "https://m.media-amazon.com/images/I/51BYCYz-NCL._AC_PT0_BL0_SX245_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "Large Waterproof Foldable Plant Repotting Mat 100x100cm",
     "price": 2.0,
-    "scraped_at": "2026-10-06T07:39:08.172208"
+    "scraped_at": "2026-10-06T17:50:04.337612"
   },
   {
-    "asin": "B0HBQ9TC8G",
-    "bsr_rank": 1559,
-    "bsr_category": "Pet Supplies",
-    "bsr_sub_rank": 2,
-    "bsr_sub_category": "Bandanas for Dogs",
-    "reviews": 12,
-    "rating": 4.6,
-    "image_url": "https://m.media-amazon.com/images/I/71GqzOPnQhL._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "2PCS Dog Birthday Outfit with Cake Hat and Bandana for Party Photos (Blue)",
+    "asin": "B0FC2NGWNX",
+    "bsr_rank": 25059,
+    "bsr_category": "Home",
+    "bsr_sub_rank": 133,
+    "bsr_sub_category": "Bedding Duvet Cover Sets",
+    "reviews": 88,
+    "rating": 4.8,
+    "image_url": "https://m.media-amazon.com/images/I/513Z1js8icL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Pokemon Official Double Duvet Cover Set, Retro Design | Blue Reversible Pikachu Squirtle Charmander 2 Sided Bedding Cover Official Merchandise Including Matching Pillow Cases",
     "price": 2.0,
-    "scraped_at": "2026-10-06T07:39:08.173075"
+    "scraped_at": "2026-10-06T17:50:04.339529"
+  },
+  {
+    "asin": "B0H95CX1MH",
+    "bsr_rank": 304,
+    "bsr_category": "Garden",
+    "bsr_sub_rank": 2,
+    "bsr_sub_category": "Pond Fountains",
+    "reviews": 212,
+    "rating": 3.7,
+    "image_url": "https://m.media-amazon.com/images/I/71g8mSwLsyL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "Solar Bird Bath Fountain with Floating Water Pump for Pond Garden",
+    "price": 2.0,
+    "scraped_at": "2026-10-06T17:50:04.340051"
   }
 ]
