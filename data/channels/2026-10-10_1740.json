@@ -1,0 +1,654 @@
+{
+  "scan_date": "2026-10-10",
+  "scan_time": "17:40",
+  "scan_ts": "2026-10-10_1740",
+  "stats": {
+    "total_scanned": 191,
+    "passed_filter": 2,
+    "rejected": 189,
+    "channels": {
+      "tiktok_verified": 2,
+      "temu_trending": 2,
+      "ozbargain": 2,
+      "multi_source": 2,
+      "etsy_trending": 1,
+      "youtube_review": 2,
+      "new_releases": 2
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "eco": 100,
+      "kitchen": 100,
+      "lighting": 95,
+      "pets": 90,
+      "beauty": 80
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 13
+  },
+  "products": [
+    {
+      "asin": "B0HF85BM8G",
+      "name": "Unbleached Cheese Cloths, Grade 100 Hemmed Cheesecloth for Cooking, Reusable Cotton Strainer for Juicing, Baking, Cheese",
+      "price": 9.99,
+      "reviews": 1,
+      "rating": 5.0,
+      "rank": 8,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HF85BM8G",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71p11nrm81L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "YouTube种草",
+        "Ozbargain折扣",
+        "TikTok趋势",
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.319,
+      "net_profit": 3.19,
+      "cost_breakdown": {
+        "commission": 1.3,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.8
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 156,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(eco)": 23,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-10",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "temu_trending",
+        "ozbargain",
+        "multi_source",
+        "etsy_trending",
+        "youtube_review",
+        "new_releases"
+      ],
+      "bsr_rank": 820,
+      "bsr_category": "Kitchen & Dining",
+      "bsr_sub_rank": 308,
+      "bsr_sub_category": "Kitchen Tools & Gadgets",
+      "estimated_daily_sales": 219,
+      "monthly_revenue_est": 65634.3
+    },
+    {
+      "asin": "B0HC84RMKT",
+      "name": "Coffee Syrup Pump Dispenser Set of 2 for 750ml / 25.4 oz Bottles, Twist Lock Syrup Pumps with Trim-to-Fit Tubes, 0.3 oz ",
+      "price": 9.9,
+      "reviews": 1,
+      "rating": 4.0,
+      "rank": 7,
+      "category": "Kitchen",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 reviews, 4.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HC84RMKT",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41g5XRIiJgL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.314,
+      "net_profit": 3.11,
+      "cost_breakdown": {
+        "commission": 1.29,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.79
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 143,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "⏳ 评论偏少": -8,
+        "💰 高利润": 8,
+        "❓ 品类不符": -10,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-10",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "temu_trending",
+        "ozbargain",
+        "multi_source",
+        "youtube_review",
+        "new_releases"
+      ],
+      "bsr_rank": 747,
+      "bsr_category": "Kitchen & Dining",
+      "bsr_sub_rank": 3,
+      "bsr_sub_category": "Food Dispensers",
+      "estimated_daily_sales": 240,
+      "monthly_revenue_est": 71280.0
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 95,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "strip",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organic",
+        "sustainable",
+        "eco",
+        "reusable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "organic products",
+        "organic cotton",
+        "sustainable products",
+        "eco friendly",
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "reusable food wrap"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organic+products",
+      "url_google": "https://trends.google.com/trends/explore?q=organic+products&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 80,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "nail",
+        "makeup",
+        "skincare",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "nail art kit",
+        "nail tools",
+        "nail stickers",
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "face roller",
+        "gua sha"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=nail+art+kit",
+      "url_google": "https://trends.google.com/trends/explore?q=nail+art+kit&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 80,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "birthday",
+        "christmas",
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "birthday gift",
+        "birthday decoration",
+        "birthday card",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=birthday+gift",
+      "url_google": "https://trends.google.com/trends/explore?q=birthday+gift&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 75,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 60,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "luggage",
+        "travel",
+        "packing"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "luggage",
+        "travel",
+        "packing"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=luggage",
+      "url_google": "https://trends.google.com/trends/explore?q=luggage&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "vacuum",
+        "mop",
+        "cleaning"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "vacuum",
+        "cleaning"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vacuum",
+      "url_google": "https://trends.google.com/trends/explore?q=vacuum&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 50,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "duvet",
+        "pillow",
+        "throw",
+        "blanket",
+        "bedding"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "duvet",
+        "pillow",
+        "throw",
+        "blanket",
+        "bedding"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=duvet",
+      "url_google": "https://trends.google.com/trends/explore?q=duvet&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 2276,
+      "evidence": [
+        "craft",
+        "art",
+        "tape"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "washi tape",
+        "decorative tape"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 80,
+      "score": 41,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 99786,
+      "evidence": [
+        "charger",
+        "holder",
+        "stand",
+        "cable",
+        "phone"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "holder",
+        "stand",
+        "charging cable",
+        "USB cable",
+        "phone cable"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+charger",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+charger&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 75,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 1017,
+      "evidence": [
+        "office",
+        "laptop",
+        "pen",
+        "stationery",
+        "mouse"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "office supplies",
+        "desk organizer",
+        "pen holder",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=office+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=office+supplies&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 65,
+      "score": 36,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 2797,
+      "evidence": [
+        "outdoor",
+        "garden",
+        "plant",
+        "patio"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "outdoor",
+        "garden tool set",
+        "garden light",
+        "garden decor",
+        "plant pot",
+        "plant stand",
+        "plant hanger",
+        "patio"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=outdoor",
+      "url_google": "https://trends.google.com/trends/explore?q=outdoor&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 60,
+      "score": 35,
+      "gap_level": "weak",
+      "amazon_count": 7,
+      "amazon_reviews": 240739,
+      "evidence": [
+        "wall art",
+        "decor",
+        "candle",
+        "clock"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "wall art print",
+        "wall hanging",
+        "wall decal",
+        "home decor",
+        "room decor",
+        "table decor",
+        "candle holder",
+        "scented candle"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=wall+art+print",
+      "url_google": "https://trends.google.com/trends/explore?q=wall+art+print&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "eco",
+        100
+      ],
+      [
+        "kitchen",
+        100
+      ],
+      [
+        "lighting",
+        95
+      ],
+      [
+        "pets",
+        90
+      ],
+      [
+        "beauty",
+        80
+      ]
+    ],
+    "cross_validated": [
+      "cleaning",
+      "car",
+      "lighting",
+      "crafts",
+      "beauty",
+      "home decor",
+      "sports",
+      "phone",
+      "eco",
+      "kitchen",
+      "seasonal",
+      "office",
+      "pets",
+      "bathroom",
+      "bedding",
+      "travel",
+      "kitchen_gadgets",
+      "garden",
+      "storage"
+    ],
+    "demand_keywords": [
+      "alp822297",
+      "amazon and",
+      "amazon sales in",
+      "australian fashion brands selling",
+      "best new movies and",
+      "best selling products on",
+      "best tech and",
+      "butter yellow",
+      "checking out all the new",
+      "cool stuff gadgets"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
