@@ -1,28 +1,41 @@
 [
   {
-    "asin": "B0HF85BM8G",
-    "bsr_rank": 820,
-    "bsr_category": "Kitchen & Dining",
-    "bsr_sub_rank": 308,
-    "bsr_sub_category": "Kitchen Tools & Gadgets",
-    "reviews": 5111,
-    "rating": 5.0,
-    "image_url": "https://m.media-amazon.com/images/I/51wqwyJ838L._AC_US40_.jpg",
-    "title": "Unbleached Cheese Cloths, Grade 100 Hemmed Cheesecloth for Cooking, Reusable Cotton Strainer for Juicing, Baking, Cheese and Yogurt Making",
+    "asin": "B0H8NPV1G5",
+    "bsr_rank": 1007,
+    "bsr_category": "Pet Supplies",
+    "bsr_sub_rank": 3,
+    "bsr_sub_category": "Water Bottles for Dogs",
+    "reviews": 7,
+    "rating": 4.4,
+    "image_url": "https://m.media-amazon.com/images/I/71w1jQYq90L._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Portable Dog Water Bottle, Foldable Dog Water Bottle, PET Blue",
     "price": 2.0,
-    "scraped_at": "2026-10-10T17:48:46.780617"
+    "scraped_at": "2026-10-12T07:39:39.316285"
   },
   {
-    "asin": "B0HC84RMKT",
-    "bsr_rank": 747,
-    "bsr_category": "Kitchen & Dining",
+    "asin": "B0HFCWHRVZ",
+    "bsr_rank": 1527,
+    "bsr_category": "Pet Supplies",
     "bsr_sub_rank": 3,
-    "bsr_sub_category": "Food Dispensers",
-    "reviews": 1,
-    "rating": 4.0,
-    "image_url": "https://m.media-amazon.com/images/I/71GY-u9zt7L._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Coffee Syrup Pump Dispenser Set of 2 for 750ml / 25.4 oz Bottles, Twist Lock Syrup Pumps with Trim-to-Fit Tubes, 0.3 oz Per Pump, Gold, Compatible with Torani, Monin and Davinci Bottles",
+    "bsr_sub_category": "Hats for Dogs",
+    "reviews": 42,
+    "rating": 4.8,
+    "image_url": "https://m.media-amazon.com/images/I/71FiYfKsxXL._AC_SX679_.jpg",
+    "title": "10 PCS Mini Party Hats for Toys, Glitter Cone Mini Birthday Hats with Pom Poms, Colourful Pet Hats for Dogs, Cats, Small Animals and Stuffed Animals, Adjustable Elastic Bands for Birthday Photo Shoots",
     "price": 2.0,
-    "scraped_at": "2026-10-10T17:48:46.782716"
+    "scraped_at": "2026-10-12T07:39:39.317012"
+  },
+  {
+    "asin": "B0H9WJWZRX",
+    "bsr_rank": 920,
+    "bsr_category": "Home",
+    "bsr_sub_rank": 1,
+    "bsr_sub_category": "Table Runners",
+    "reviews": 42,
+    "rating": 4.8,
+    "image_url": "https://m.media-amazon.com/images/I/61c1Dsb05zL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "Socomi Pink Cheesecloth Table Runner Boho Wedding Birthday Party Home Decor",
+    "price": 2.0,
+    "scraped_at": "2026-10-12T07:39:39.317429"
   }
 ]
