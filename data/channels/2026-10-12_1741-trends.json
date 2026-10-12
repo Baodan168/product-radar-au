@@ -1,0 +1,349 @@
+{
+  "category_scores": {
+    "bathroom": 32,
+    "car": 70,
+    "lighting": 98,
+    "crafts": 100,
+    "travel": 43,
+    "phone": 81,
+    "beauty": 63,
+    "kitchen": 84,
+    "cleaning": 53,
+    "home decor": 77,
+    "seasonal": 63,
+    "office": 77,
+    "pets": 100,
+    "sports": 46,
+    "eco": 94,
+    "bedding": 46,
+    "storage": 46,
+    "garden": 67,
+    "kitchen_gadgets": 7,
+    "baby": 39
+  },
+  "category_evidence": {
+    "bathroom": [
+      "toilet",
+      "mirror",
+      "towel",
+      "shower"
+    ],
+    "car": [
+      "vehicle",
+      "organiser",
+      "car",
+      "motor"
+    ],
+    "lighting": [
+      "light",
+      "strip",
+      "lamp",
+      "led"
+    ],
+    "crafts": [
+      "craft",
+      "art",
+      "brush",
+      "tape",
+      "stickers",
+      "paint"
+    ],
+    "travel": [
+      "packing",
+      "travel",
+      "toiletry"
+    ],
+    "phone": [
+      "ring light",
+      "charger",
+      "stand",
+      "cable",
+      "holder",
+      "case",
+      "phone"
+    ],
+    "beauty": [
+      "skincare",
+      "brush",
+      "mirror",
+      "nail",
+      "organiser",
+      "makeup",
+      "hair"
+    ],
+    "kitchen": [
+      "cup",
+      "gadget",
+      "spice",
+      "mug",
+      "organiser",
+      "kitchen"
+    ],
+    "cleaning": [
+      "duster",
+      "brush",
+      "mop",
+      "vacuum",
+      "cleaner",
+      "cleaning"
+    ],
+    "home decor": [
+      "clock",
+      "mirror",
+      "candle",
+      "wall art",
+      "decor",
+      "vase"
+    ],
+    "seasonal": [
+      "birthday",
+      "valentine",
+      "halloween",
+      "gift",
+      "christmas"
+    ],
+    "office": [
+      "pen",
+      "stationery",
+      "office",
+      "mouse",
+      "organiser",
+      "desk",
+      "laptop"
+    ],
+    "pets": [
+      "bed",
+      "collar",
+      "pet",
+      "cat",
+      "dog",
+      "toy"
+    ],
+    "sports": [
+      "sport",
+      "fitness"
+    ],
+    "eco": [
+      "eco",
+      "organic",
+      "reusable",
+      "sustainable"
+    ],
+    "bedding": [
+      "blanket",
+      "sheet",
+      "pillow",
+      "throw"
+    ],
+    "storage": [
+      "basket",
+      "box",
+      "storage",
+      "organiser",
+      "container"
+    ],
+    "garden": [
+      "flower",
+      "outdoor",
+      "patio",
+      "plant",
+      "bird",
+      "garden",
+      "solar"
+    ],
+    "kitchen_gadgets": [
+      "measuring",
+      "kitchen gadget"
+    ],
+    "baby": [
+      "baby",
+      "toddler",
+      "kids",
+      "child"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "bathroom": 2,
+      "car": 2,
+      "lighting": 3,
+      "crafts": 2,
+      "travel": 2,
+      "phone": 4,
+      "beauty": 4,
+      "kitchen": 1,
+      "cleaning": 2,
+      "home decor": 1,
+      "seasonal": 2,
+      "office": 1,
+      "pets": 1,
+      "sports": 1
+    },
+    "ozbargain": {
+      "cleaning": 6,
+      "car": 1,
+      "office": 1,
+      "pets": 1,
+      "crafts": 3,
+      "phone": 4,
+      "eco": 3,
+      "kitchen": 3,
+      "lighting": 2,
+      "sports": 1,
+      "bedding": 1,
+      "bathroom": 1,
+      "storage": 1
+    },
+    "temu": {
+      "kitchen": 5,
+      "garden": 1,
+      "bathroom": 2,
+      "office": 3,
+      "storage": 1,
+      "lighting": 3,
+      "crafts": 5,
+      "travel": 1,
+      "beauty": 1,
+      "home decor": 2,
+      "eco": 3,
+      "seasonal": 1,
+      "pets": 4,
+      "kitchen_gadgets": 1,
+      "bedding": 1,
+      "baby": 1
+    },
+    "etsy": {
+      "pets": 7,
+      "crafts": 11,
+      "travel": 2,
+      "home decor": 5,
+      "eco": 4,
+      "seasonal": 7,
+      "kitchen": 3,
+      "garden": 2,
+      "cleaning": 1,
+      "car": 1,
+      "office": 2,
+      "storage": 3,
+      "lighting": 3,
+      "bedding": 4,
+      "phone": 2,
+      "beauty": 3,
+      "baby": 2
+    },
+    "youtube": {
+      "kitchen": 1,
+      "lighting": 2,
+      "pets": 3,
+      "crafts": 2,
+      "travel": 1,
+      "sports": 2,
+      "phone": 1,
+      "eco": 2,
+      "storage": 1
+    },
+    "google_trends": {
+      "kitchen": 2,
+      "garden": 7,
+      "car": 4,
+      "office": 6,
+      "storage": 2,
+      "lighting": 6,
+      "pets": 5,
+      "sports": 2,
+      "crafts": 2,
+      "bedding": 2,
+      "travel": 2,
+      "phone": 6,
+      "beauty": 4,
+      "home decor": 5,
+      "baby": 3,
+      "kitchen_gadgets": 1,
+      "eco": 5
+    },
+    "reddit": {
+      "car": 3,
+      "office": 2,
+      "lighting": 2,
+      "pets": 4,
+      "crafts": 1,
+      "bedding": 1,
+      "phone": 2,
+      "cleaning": 2,
+      "home decor": 1,
+      "baby": 1,
+      "eco": 2,
+      "kitchen": 1,
+      "seasonal": 1
+    },
+    "market_intel": {
+      "kitchen": 4,
+      "car": 5,
+      "office": 3,
+      "lighting": 3,
+      "pets": 4,
+      "crafts": 2,
+      "beauty": 2,
+      "eco": 4,
+      "garden": 2,
+      "sports": 1,
+      "storage": 1
+    }
+  },
+  "cross_validated": {
+    "bathroom": 3,
+    "car": 6,
+    "lighting": 8,
+    "crafts": 8,
+    "travel": 5,
+    "phone": 6,
+    "beauty": 5,
+    "kitchen": 8,
+    "cleaning": 4,
+    "home decor": 5,
+    "seasonal": 4,
+    "office": 7,
+    "pets": 8,
+    "sports": 5,
+    "eco": 7,
+    "bedding": 5,
+    "storage": 6,
+    "garden": 4,
+    "baby": 4
+  },
+  "demand_keywords": [
+    "'til death.",
+    "advice from a flamingo",
+    "anybody willing to share their",
+    "best new movies and",
+    "best selling products on",
+    "bouiee",
+    "cargo pants",
+    "cheap and",
+    "claw clips",
+    "comfort colors boxy tee",
+    "cool stuff gadgets",
+    "cool your",
+    "cross-border",
+    "custom mouse pads",
+    "cutest gift 🎁",
+    "denim pants",
+    "everything to know about",
+    "explore unique floral designs",
+    "factors driving this growth",
+    "fall is my favorite color.",
+    "four trends that will reshape",
+    "half dilly half dally",
+    "haul finds",
+    "heatless curlers",
+    "hello fall,",
+    "in fact",
+    "it was better in the 90's",
+    "last chance",
+    "last chance for",
+    "leading trends for"
+  ],
+  "season": "spring",
+  "total_queries": 24,
+  "total_results_chars": 135497
+}
