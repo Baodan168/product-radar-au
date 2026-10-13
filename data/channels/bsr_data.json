@@ -1,41 +1,15 @@
 [
   {
-    "asin": "B0H8NPV1G5",
-    "bsr_rank": 1007,
-    "bsr_category": "Pet Supplies",
-    "bsr_sub_rank": 3,
-    "bsr_sub_category": "Water Bottles for Dogs",
-    "reviews": 7,
-    "rating": 4.4,
-    "image_url": "https://m.media-amazon.com/images/I/71w1jQYq90L._AC_QL10_SX980_SY55_FMwebp_.jpg",
-    "title": "Portable Dog Water Bottle, Foldable Dog Water Bottle, PET Blue",
+    "asin": "B0CPPRZB2M",
+    "bsr_rank": 25,
+    "bsr_category": "Garden",
+    "bsr_sub_rank": 5,
+    "bsr_sub_category": "Plant Germination Equipment",
+    "reviews": 3,
+    "rating": 4.2,
+    "image_url": "https://m.media-amazon.com/images/I/81ticij3pQL._AC_PT0_BL0_SX245_SY275_FMwebp_QL25_.jpg\\&quot;",
+    "title": "Garden Netting Plant Mesh, Pest Barrier, Floating Row Covers",
     "price": 2.0,
-    "scraped_at": "2026-10-12T07:39:39.316285"
-  },
-  {
-    "asin": "B0HFCWHRVZ",
-    "bsr_rank": 1527,
-    "bsr_category": "Pet Supplies",
-    "bsr_sub_rank": 3,
-    "bsr_sub_category": "Hats for Dogs",
-    "reviews": 42,
-    "rating": 4.8,
-    "image_url": "https://m.media-amazon.com/images/I/71FiYfKsxXL._AC_SX679_.jpg",
-    "title": "10 PCS Mini Party Hats for Toys, Glitter Cone Mini Birthday Hats with Pom Poms, Colourful Pet Hats for Dogs, Cats, Small Animals and Stuffed Animals, Adjustable Elastic Bands for Birthday Photo Shoots",
-    "price": 2.0,
-    "scraped_at": "2026-10-12T07:39:39.317012"
-  },
-  {
-    "asin": "B0H9WJWZRX",
-    "bsr_rank": 920,
-    "bsr_category": "Home",
-    "bsr_sub_rank": 1,
-    "bsr_sub_category": "Table Runners",
-    "reviews": 42,
-    "rating": 4.8,
-    "image_url": "https://m.media-amazon.com/images/I/61c1Dsb05zL._AC_PT0_BL0_SX490_SY275_FMwebp_QL25_.jpg\\&quot;",
-    "title": "Socomi Pink Cheesecloth Table Runner Boho Wedding Birthday Party Home Decor",
-    "price": 2.0,
-    "scraped_at": "2026-10-12T07:39:39.317429"
+    "scraped_at": "2026-10-14T07:39:12.266837"
   }
 ]
