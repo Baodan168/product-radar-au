@@ -1,0 +1,1081 @@
+{
+  "scan_date": "2026-10-15",
+  "scan_time": "17:40",
+  "scan_ts": "2026-10-15_1740",
+  "stats": {
+    "total_scanned": 159,
+    "passed_filter": 7,
+    "rejected": 152,
+    "channels": {
+      "ozbargain": 7,
+      "youtube_review": 5,
+      "temu_trending": 7,
+      "new_releases": 5,
+      "tiktok_verified": 4,
+      "multi_source": 7,
+      "etsy_trending": 6,
+      "keyword_search": 2
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "eco": 100,
+      "pets": 100,
+      "office": 86,
+      "phone": 82,
+      "lighting": 67
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 14
+  },
+  "products": [
+    {
+      "asin": "B0D5Q4R7PT",
+      "name": "Quad Lock MAG Phone Ring/Stand and Bottle Opener - Cell Phone Grip, Stand, and Kickstand",
+      "price": 12.27,
+      "reviews": 174,
+      "rating": 4.3,
+      "rank": 3,
+      "category": "Phone",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "174 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0D5Q4R7PT",
+      "image_url": "https://m.media-amazon.com/images/I/41YDWtNIh4L._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "TikTok趋势",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.402,
+      "net_profit": 4.93,
+      "cost_breakdown": {
+        "commission": 1.84,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.34
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 160,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(phone)": 23,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-15",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "ozbargain",
+        "youtube_review",
+        "temu_trending",
+        "new_releases",
+        "tiktok_verified",
+        "multi_source"
+      ],
+      "bsr_rank": 33169,
+      "bsr_category": "Electronics",
+      "bsr_sub_rank": 25063,
+      "bsr_sub_category": "Mobile Phones & Communication",
+      "estimated_daily_sales": 4,
+      "monthly_revenue_est": 1472.4
+    },
+    {
+      "asin": "B0H8NPV1G5",
+      "name": "Portable Dog Water Bottle, Foldable Dog Water Bottle, PET Blue | Leak Proof Dispenser for Puppy Small Medium Large Dogs,",
+      "price": 15.99,
+      "reviews": 11,
+      "rating": 4.1,
+      "rank": 19,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "11 reviews, 4.1★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H8NPV1G5",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71NBNQWER5L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.556,
+      "net_profit": 8.89,
+      "cost_breakdown": {
+        "commission": 1.6,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.1
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 158,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(office)": 23,
+        "🌊 蓝海": 15,
+        "💰 超高利润": 12,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-10-09",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "youtube_review",
+        "temu_trending",
+        "new_releases",
+        "multi_source"
+      ],
+      "bsr_rank": 968,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 3,
+      "bsr_sub_category": "Water Bottles for Dogs",
+      "estimated_daily_sales": 154,
+      "monthly_revenue_est": 73873.8
+    },
+    {
+      "asin": "B0H9CX8SRL",
+      "name": "2 Pcs Lick Mat for Dogs & Cats with 77 x Suction Cups | with Scraper & Dual Cleaning Brush|Slow Feeder for Dog Anxiety R",
+      "price": 12.99,
+      "reviews": 3,
+      "rating": 4.3,
+      "rank": 27,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H9CX8SRL",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/810StgraIXL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Temu热销",
+        "YouTube种草",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.477,
+      "net_profit": 6.19,
+      "cost_breakdown": {
+        "commission": 1.3,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.8
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 155,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-15",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "youtube_review",
+        "temu_trending",
+        "new_releases",
+        "tiktok_verified",
+        "multi_source"
+      ],
+      "bsr_rank": 1183,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 11,
+      "bsr_sub_category": "Feeding Mats for Dogs",
+      "estimated_daily_sales": 126,
+      "monthly_revenue_est": 49102.2
+    },
+    {
+      "asin": "B0HFCWHRVZ",
+      "name": "10 PCS Mini Party Hats for Toys, Glitter Cone Mini Birthday Hats with Pom Poms, Colourful Pet Hats for Dogs, Cats, Small",
+      "price": 10.9,
+      "reviews": 42,
+      "rating": 4.8,
+      "rank": 18,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HFCWHRVZ",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71FiYfKsxXL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.395,
+      "net_profit": 4.31,
+      "cost_breakdown": {
+        "commission": 1.09,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.59
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 135,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "📈 排名上升": 10,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-10-12",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "youtube_review",
+        "temu_trending",
+        "new_releases",
+        "multi_source"
+      ],
+      "bsr_rank": 966,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 2,
+      "bsr_sub_category": "Hats for Dogs",
+      "estimated_daily_sales": 155,
+      "monthly_revenue_est": 50685.0
+    },
+    {
+      "asin": "B0HC4LL9C8",
+      "name": "Interactive Automatic Cat Toy Ball for Indoor Cats | Automatic Movement, Indoor Use, Stimulating Play, Self-Entertaining",
+      "price": 16.99,
+      "reviews": 4,
+      "rating": 4.4,
+      "rank": 5,
+      "category": "Pets",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "4 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HC4LL9C8",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51P8Ad-58TL._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.576,
+      "net_profit": 9.79,
+      "cost_breakdown": {
+        "commission": 1.7,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.2
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 133,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 评论偏少": -8,
+        "💰 超高利润": 12
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-10-14",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "youtube_review",
+        "temu_trending",
+        "new_releases",
+        "multi_source"
+      ],
+      "bsr_rank": 400,
+      "bsr_category": "Pet Supplies",
+      "bsr_sub_rank": 6,
+      "bsr_sub_category": "Interactive Toys for Cats",
+      "estimated_daily_sales": 375,
+      "monthly_revenue_est": 191137.5
+    },
+    {
+      "asin": "B0F1TP1P92",
+      "name": "Clothes Hanger Connector Hooks, Space Saving Hangers for Closet Organizers, Storage Hangers Hooks, Hanger Clips Plastic ",
+      "price": 14.99,
+      "reviews": 20,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "20 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F1TP1P92",
+      "image_url": "https://m.media-amazon.com/images/I/6180X0fxOhL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "hanger space saving hooks cascade closet",
+      "sources": [
+        "趋势发现",
+        "Ozbargain折扣",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 128,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(storage)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-15",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "keyword_search",
+        "temu_trending",
+        "tiktok_verified",
+        "multi_source"
+      ],
+      "bsr_rank": 5075,
+      "bsr_category": "Home Improvement",
+      "bsr_sub_rank": 137,
+      "bsr_sub_category": "Hooks",
+      "estimated_daily_sales": 29,
+      "monthly_revenue_est": 13041.3
+    },
+    {
+      "asin": "B0F1TS16G3",
+      "name": "Clothes Hanger Connector Hooks, Space Saving Hangers for Closet Organizers, Storage Hangers Hooks, Hanger Clips Plastic ",
+      "price": 14.99,
+      "reviews": 20,
+      "rating": 4.5,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "20 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F1TS16G3",
+      "image_url": "https://m.media-amazon.com/images/I/612nnk-WtBL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "hanger space saving hooks cascade closet",
+      "sources": [
+        "趋势发现",
+        "Ozbargain折扣",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.483,
+      "net_profit": 7.24,
+      "cost_breakdown": {
+        "commission": 2.25,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.75
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [],
+      "score": 128,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(storage)": 8,
+        "🟢 低竞争": 10,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-15",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "ozbargain",
+        "keyword_search",
+        "temu_trending",
+        "tiktok_verified",
+        "multi_source"
+      ],
+      "bsr_rank": 5075,
+      "bsr_category": "Home Improvement",
+      "bsr_sub_rank": 137,
+      "bsr_sub_category": "Hooks",
+      "estimated_daily_sales": 29,
+      "monthly_revenue_est": 13041.3
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "art",
+        "brush",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "brush",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "reusable",
+        "organic",
+        "sustainable",
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "organic products",
+        "organic cotton",
+        "sustainable products",
+        "eco friendly",
+        "eco products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=reusable+food+wrap",
+      "url_google": "https://trends.google.com/trends/explore?q=reusable+food+wrap&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "lamp",
+        "led"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "LED bulb",
+        "LED panel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 63,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "box",
+        "storage",
+        "container",
+        "shelf"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "container",
+        "floating shelf",
+        "wall shelf",
+        "corner shelf"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=food+storage",
+      "url_google": "https://trends.google.com/trends/explore?q=food+storage&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 63,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "duster",
+        "cleaner",
+        "brush",
+        "mop",
+        "cleaning"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "duster",
+        "cleaner",
+        "brush",
+        "cleaning",
+        "vacuum"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=duster",
+      "url_google": "https://trends.google.com/trends/explore?q=duster&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 48,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "luggage",
+        "toiletry",
+        "packing",
+        "travel"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "luggage",
+        "toiletry",
+        "packing",
+        "travel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=luggage",
+      "url_google": "https://trends.google.com/trends/explore?q=luggage&geo=AU"
+    },
+    {
+      "keyword": "baby",
+      "category": "baby",
+      "heat": 48,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "kids",
+        "baby",
+        "child"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "kids",
+        "baby",
+        "child"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=kids",
+      "url_google": "https://trends.google.com/trends/explore?q=kids&geo=AU"
+    },
+    {
+      "keyword": "bathroom",
+      "category": "bathroom",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "soap",
+        "bath",
+        "shower",
+        "toilet"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "soap dispenser",
+        "soap dish",
+        "soap holder",
+        "bath mat",
+        "bath caddy",
+        "bath pillow",
+        "shower caddy",
+        "shower head"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=soap+dispenser",
+      "url_google": "https://trends.google.com/trends/explore?q=soap+dispenser&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "brush",
+        "skincare",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "brush",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=brush",
+      "url_google": "https://trends.google.com/trends/explore?q=brush&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 86,
+      "score": 43,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 26079,
+      "evidence": [
+        "laptop",
+        "desk",
+        "office",
+        "pen",
+        "stationery"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "office supplies",
+        "pen holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=laptop+stand",
+      "url_google": "https://trends.google.com/trends/explore?q=laptop+stand&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 82,
+      "score": 42,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 106472,
+      "evidence": [
+        "cable",
+        "ring light",
+        "case",
+        "charger",
+        "phone"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "ring light",
+        "case",
+        "phone charger",
+        "wireless charger",
+        "car charger"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=charging+cable",
+      "url_google": "https://trends.google.com/trends/explore?q=charging+cable&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 58,
+      "score": 34,
+      "gap_level": "weak",
+      "amazon_count": 6,
+      "amazon_reviews": 240585,
+      "evidence": [
+        "frame",
+        "candle",
+        "clock",
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "photo frame",
+        "picture frame",
+        "wall frame",
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "wall clock",
+        "desk clock"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=photo+frame",
+      "url_google": "https://trends.google.com/trends/explore?q=photo+frame&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "eco",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "office",
+        86
+      ],
+      [
+        "phone",
+        82
+      ],
+      [
+        "lighting",
+        67
+      ]
+    ],
+    "cross_validated": [
+      "bathroom",
+      "car",
+      "storage",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "eco",
+      "kitchen",
+      "office",
+      "seasonal",
+      "cleaning",
+      "lighting",
+      "pets",
+      "home decor",
+      "baby",
+      "garden"
+    ],
+    "demand_keywords": [
+      "add to cart",
+      "amazon sales in",
+      "amazon trends report",
+      "an appliance slider to put",
+      "and the",
+      "australian fashion brands selling",
+      "baby apparel",
+      "berry and",
+      "best selling products on",
+      "buying a house"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
