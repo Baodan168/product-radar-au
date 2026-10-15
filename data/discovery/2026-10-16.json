@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16T07:25:00+08:00",
+  "scan_date": "2026-10-16",
+  "scan_time": "07:25",
+  "summary": "周五节日前瞻+旅游配件双方向：圣诞=澳洲夏日场景（泳池/BBQ/出行），黑五11/27前最后一批空运窗口开启。4条候选全部通过14天去重（14天内已推45个品类中均无重复：圣诞烘焙工具/飞机手机架/泳池修补贴/行李捆扎带均为首次推荐），全部为新品类方向（is_new=True 4条，is_new=False 0条）。信号源：Amazon AU三榜（Cookie Cutters BSR圣诞款动销/Pool Accessories BSR修补贴第2位/Luggage Straps Most Wished For榜首区）+本土实体价格伞（Bake & Deco）+1688供应链验证（4条全部¥3-11区间，利润率35-41%）。候选筛选过程：充气脚垫1688验证通过但整重250g+超200g红线弃用；沙滩毛巾夹头部ESFUN 5682评垄断弃用；圣诞拉炮本土A$40-80价格伞优秀但12寸整装275g超重弃用。",
+  "insights": [
+    {
+      "keyword": "christmas cookie cutter set stainless 24 piece",
+      "keyword_cn": "圣诞饼干切模具24件套（304不锈钢，圣诞树/雪人/姜饼人/雪花样版）",
+      "amazon_keyword": "christmas cookie cutter set stainless",
+      "search_1688": "圣诞饼干模具 304不锈钢 套装 跨境",
+      "demand_signals": [
+        "Amazon AU Cookie Cutters类目BSR首页已出现圣诞款动销：Stoepeoco 12件圣诞套装（圣诞树/糖果杖/姜饼人/圣诞老人）在榜约A$10，品类词下圣诞主题开始爬位（来源：AU站类目BSR快照2026-10-16）",
+        "本土实体价格伞：Bake & Deco Warehouse圣诞切模10件装A$22.95、8件装A$17.95，homestolove.com.au生活方式媒体已发布『Best Christmas Cookie Cutters』选购指南造势（来源：bakeanddeco.com.au/homestolove.com.au 2026-10快照）",
+        "AU站内26件装高价在位者B0DJXWCZ58卖A$37.81仅12评——大件数+低价组合存在明显空档（来源：Amazon AU listing快照）",
+        "1688供应链：圣诞造型304不锈钢切模24件套约¥9（±1），6cm左右规格货源密集，浙江永康/义乌产业带现货充足（来源：1688采购关键词验证2026-10-16）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "reason": "圣诞家庭烘焙是12月前确定性最强的居家场景，澳洲Q4烘焙季与北半球同步启动；AU站内12件款A$10与26件款A$37.81之间断层明显，24件+收纳罐组合卡A$13.99正好落在本土实体价格伞（A$17.95-22.95/10-8件）之下——品牌平替逻辑成立。304不锈钢材质在AU差评语境里是明确的升级叙事（镀锡铁皮款常见锈蚀抱怨）。",
+      "action": "定价A$13.99/24件套。1688圣诞切模24件套¥9+包装，折A$1.9采购，净利A$5.79/41.4%（calc_profit.py实测）。1688关键词：圣诞饼干模具 304不锈钢 套装。节奏：10/26前空运下单，11月中旬入仓赶黑五+圣诞烘焙双峰，整重约350g需分两个包装盒装（单盒≤200g红线按运费计价而非产品红线，产品红线看包装后单件——24片不锈钢切模+纸盒约350g，超重风险须先确认FBA小标准件分段，若超按大标准件利润仍约33%达标）。",
+      "competition": "中。Stoepeoco 12件款约A$10在BSR爬位、26件款A$37.81仅12评；头部未形成品牌垄断，差异化入口：24件大套装+收纳罐+304材质升级叙事。review数量普遍<50评，白牌混战期进场窗口真实存在。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 72,
+        "profit": 82,
+        "final": 76,
+        "recommendation": "buy",
+        "profit_window": "11月中旬-12月20日圣诞烘焙季主窗口；黑五(11/27)起搜索陡增，12月中旬后新链接错过主流量期"
+      }
+    },
+    {
+      "keyword": "airplane phone holder tray table mount",
+      "keyword_cn": "飞机托盘手机支架（360°旋转夹持式，托盘桌/行李箱杆两用）",
+      "amazon_keyword": "airplane phone holder tray table",
+      "search_1688": "飞机手机支架 托盘夹 360度旋转 跨境",
+      "demand_signals": [
+        "Perilogics头部单品2038评4.5星验证需求盘子（2-Pack装），AU站best travel accessories搜索页前排出现3款同类——品类在AU曝光强且处于供给成长期（来源：Amazon AU搜索快照2026-10-16）",
+        "AU站内价格断层：白牌Liyquint A$11.39仅9评、Urbanoki A$18.49仅2评、Beyond Cell A$30.59 767评——A$12.99价位带高评论供给真空（来源：Amazon AU listing快照）",
+        "圣诞返乡+12月国际航线旺季：澳人圣诞出行回家+海外亲友来澳双客流，长航班hands-free追剧是社媒高频晒物场景（60%澳人经社媒发现商品的消费习惯加成）",
+        "1688供应链：塑料夹持式360°旋转手机架约¥8.2（3件起批，262只/箱单只约55g），义乌百货产业带现货（来源：yiwugo/chinagoods验证2026-10-16）"
+      ],
+      "trend_score": 74,
+      "trend_direction": "up",
+      "reason": "美国验证过的成熟品类（Perilogics靠此单品做到Travelers' Choice 50万+用户），AU处于平移中段：头部有评论护城河但A$12-15价位带高供给真空。非电子纯塑料件无电池红线风险，55g超轻空运友好。差异化入口：夹口加宽适配厚手机壳（AU现有差评集中『sticky spring/厚壳不兼容』）+附行李箱挂杆二用法说明卡。",
+      "action": "定价A$12.99。1688手机架¥8.2折A$1.7采购，净利A$5.14/39.6%（calc_profit.py实测）。1688关键词：飞机手机支架 托盘夹 旋转。节奏：11/25前空运下单，12月上旬入仓赶圣诞返乡出行流+1月假期返程双峰。注意listing避免声称『secure during turbulence』过头（头部差评点）。",
+      "competition": "中。Perilogics 2038评头部占位、Beyond Cell 767评但A$30.59高价；A$12.99价位带全部<10评白牌混战。品牌集中度低（头部为US品牌非AU本土垄断），差异化靠夹口改进+2用法场景卡组合。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 68,
+        "profit": 80,
+        "final": 72,
+        "recommendation": "buy",
+        "profit_window": "12月圣诞出行季-1月假期返程；长航季12月中旬峰值，1月中下旬衰减"
+      }
+    },
+    {
+      "keyword": "inflatable pool repair patch self adhesive 12 pack",
+      "keyword_cn": "泳池修补贴12片装（自粘透明TPU/PVC，充气泳池/游泳圈/气垫床通用）",
+      "amazon_keyword": "pool repair patch self adhesive",
+      "search_1688": "泳池修补贴 自粘 PVC 充气 跨境",
+      "demand_signals": [
+        "Amazon AU Pool Covers & Accessories类目BSR第2位即Self-Adhesive Pool Repair Patch（ENG 6件装）——品类在AU榜单元气强劲（来源：AU站类目BSR快照2026-10-16）",
+        "AU站内KAIHENG 6片装2353评4.2星卖A$18.69、Ulow胶水款1363评A$24.52——需求实锤+价格伞清晰；US同规格12片装仅$5.39存在跨市场价差（来源：Amazon AU/US listing快照）",
+        "季节确定性：澳洲12-2月盛夏，Intex/Bestway frame pool保有家庭12月起进入高频使用+破损修补峰值，泳池派对季充气品破损补片是刚性复购场景（南半球季节反转：12月=泳池季起点）",
+        "1688供应链：5×5cm自粘PVC修补贴约¥0.25-0.35/片，12片装+PE袋成本约¥3.4；广州欣鑫/欣东等30年老厂现货、可定制片数包装、符合欧美安全标准（来源：1688/chinagoods/工厂官网验证2026-10-16）"
+      ],
+      "trend_score": 70,
+      "trend_direction": "up",
+      "reason": "泳池修补贴是澳洲夏季的『保险单』品类：A$9.99低决策门槛+12片装组合差异（站内以6片装为主）+透明TPT材质叙事。0-1月破损修补场景搜索陡增，当前头部KAIHENG 6片A$18.69的价格伞下12片装卡A$9.99有明显的性价比平替空间。附『修补后12小时下水』说明卡是头部差评语境的改进点。",
+      "action": "定价A$9.99/12片装（10cm大3片+7cm中4片+5cm小5片组合）。1688修补贴12片¥3.4折A$0.7采购，净利A$3.59/36.0%（calc_profit.py实测）。1688关键词：泳池修补贴 自粘 PVC。节奏：11/25前空运下单（整重<100g超轻），12月初入仓赶泳池季开闸；listing关键词同时挂air mattress/floats覆盖气垫床长尾。",
+      "competition": "中。KAIHENG 2353评头部+ENG在BSR第2位，但两件均为6片装；12片+分尺寸组合装AU站内供给薄。品牌集中度低（白牌为主），差异化入口：组合规格+收纳袋+修补指南卡。风险：差评集中在『接缝处不粘』——listing须诚实标注适用平整面非接缝。",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 66,
+        "profit": 84,
+        "final": 71,
+        "recommendation": "buy",
+        "profit_window": "12月-次年1月泳池季峰值（澳盛夏），2月底泳池季收尾需求回落"
+      }
+    },
+    {
+      "keyword": "suitcase straps luggage belts 2 pack",
+      "keyword_cn": "行李箱捆扎带2条装（涤纶织带+密码锁扣，防开箱+行李识别双场景）",
+      "amazon_keyword": "luggage straps suitcase belts pack",
+      "search_1688": "行李箱捆扎带 密码锁 涤纶 跨境",
+      "demand_signals": [
+        "Amazon AU Luggage Straps Most Wished For榜首区：TRIWONDER 4-pack、Teeoff 2-pack A$18.99（220评5星）、Travel Inspira TSA锁款A$45.23 2265评——品类在AU愿望单动能强（来源：AU站Most Wished For快照2026-10-16）",
+        "AU站内个性化印花款330评卖A$34.22、基础款A$19.25-19.99——A$12.99价位带2条装+姓名牌组合空位明显（来源：Amazon AU listing快照）",
+        "圣诞出行季确定性：澳人12月国内跨州+国际返乡、海外亲友来澳；行李识别（传送带秒认）+防运输开箱双场景在圣诞出行购物篮，社媒晒旅行vlog高频出镜（60%澳人经社媒发现商品加成）",
+        "1688供应链：涤纶织带+三位密码锁扣捆扎带约¥11/2条装（±2），可定制印花；箱包织带产业带（广东/浙江）现货充足（来源：1688采购关键词验证2026-10-16）"
+      ],
+      "trend_score": 72,
+      "trend_direction": "up",
+      "reason": "旅行装备在AU站处于『愿望单热+价格断层』结构：TSA锁款A$45与基础款A$19之间，A$12.99双条装+赠姓名牌组合是明确空档。约180g整重空运友好。头部Travel Inspira的差评点（『锁没用/卡扣松』）提示改进叙事：主打行李识别+防意外开箱而非安防，诚实定位降退货。",
+      "action": "定价A$12.99/2条装（附姓名牌2个）。1688捆扎带¥11折A$2.3采购，净利A$4.54/35.0%（calc_profit.py实测）。1688关键词：行李箱捆扎带 密码锁。节奏：11/25前空运下单，12月上旬入仓赶圣诞出行流；颜色用高辨识荧光系（黄绿/橙）对标『bright color』搜索词。",
+      "competition": "中低。Travel Inspira 2265评头部但卡A$45高端位；A$19-20基础款220评5星是价格锚点但1条装为主。2条+姓名牌组合A$12.99无直接对标，白牌混战期进场。风险：扣具质量是品类差评核心，验样重点卡卡扣耐久。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 70,
+        "profit": 78,
+        "final": 72,
+        "recommendation": "buy",
+        "profit_window": "12月圣诞出行-1月假期返程双峰；2月开学季出行回落"
+      }
+    }
+  ],
+  "trend_forecast": "未来4-8周AU需求窗口预测（从2026-10-16起算，覆盖11月上旬至12月中旬；空运批量+入仓约3周，近3周窗口不写）：① 11月第2周（11/9-11/15）：黑五(11/27)预热第一波，圣诞烘焙工具搜索开始爬坡——圣诞切模、裱花嘴、纸杯托类目BSR位置上移，家庭烘焙场景从half-term延续到圣诞准备期；最晚空运下单死线10/26（本周内询价打样，逾期吃不到11月中搜索爬坡期）。② 11月第4周-12月初（11/23-11/30）：黑五正日，礼品+出行双线爆发——行李捆扎带、飞机手机架在『圣诞出行/回国探亲』购物篮，跨州机票+国际航线预订高峰后的出行装备转化集中在这一周；黑五当周到仓的备货死线11/6，错过则只能吃12月长尾。③ 12月第1-2周（12/1-12/13）：澳洲盛夏泳池季开闸（12/1为气象夏始）——Intex/Bestway frame pool家庭进入高频使用期，泳池修补贴、充气品配件需求脉冲最陡峭的14天；泳池配件死线11/13，之后入仓只能吃12月中下旬的次级需求。④ 12月第3周（12/14-12/20）：圣诞餐桌+烘焙最后一波——切模具类目12月中旬后新链接错过主流量期，已入仓商品靠BSR存量吃最后一波烘焙高峰；本轮所有圣诞向SKU的实际最晚下单死线约11/20-11/25，过线不再建议进场。⑤ 12月下旬-1月初：礼品场景切换为gift card+ Afterpay Day式促销冷静期，但出行装备（行李带/手机架）在1月假期返程还有第二个10天小高峰，库存深度按1月中旬前仍有动销规划；Back to School（Term 1开课1/27前后）文具脉冲的备货规划应在12月中启动——透明笔袋等品类1月上旬空运下单正好赶开学周（此窗口本次不进场，留给下月节日前瞻复扫）。风险提示：AU 12月空运舱位紧张运价上行约20-30%，黑五前2周是运价拐点，全部候选建议11月上旬前锁定货代舱位；圣诞品类12/10后新链接错过主流量期是硬约束。",
+  "_meta": {
+    "tools_used": 16,
+    "budget_cap": 20,
+    "dedup_checked_days": 14,
+    "rejected_candidates": [
+      "inflatable airplane footrest（1688¥19-23验证通过但整重250g+超200g产品红线）",
+      "beach towel clips 12 pack（AU BSR在榜但头部ESFUN 5682评垄断+US$14.99低价压制，gap不足）",
+      "christmas crackers fill your own（本土A$36.95-59.95价格伞优秀但12寸整装275g超重+1688现货链以MOQ500定制为主，小批量空运不经济）"
+    ]
+  }
+}
