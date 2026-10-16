@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17T07:25:00+08:00",
+  "scan_date": "2026-10-17",
+  "scan_time": "07:10",
+  "summary": "今日5个新品类机会（14天去重通过，5新品/0复扫，覆盖厨房/花园/家装劳保/宠物/户外防虫5个主品类）。核心逻辑：周六自由方向，当日数据信号最强的5条——Amazon AU Movers & Shakers 今日三处硬信号（抹茶套件601%跳升、防割手套367%、花园榜猫头鹰驱鸟器在榜），加上澳区Pet品类结构空白（狗狗降温项圈全站仅46个在售结果、Roobuck新品仅5评）和驱蚊头网在M&S昆虫榜多变体霸榜。季节校准：澳洲进入春末夏初，12月=盛夏圣诞，所有推荐均按南半球夏季场景打分。海运窗口提示：黑五(11/27)前最晚空运死线10/30，本周下单还来得及。",
+  "trend_forecast": "① 黑五大促窗口（11/20-11/27，AU黑五11/27）：81%澳洲消费者等大促才买，黑五将集中释放礼品类小件需求——宠物降温/户外轻量装备适合作为'自己买'型低价自用礼品，$8.99-16.99是AU线上客单甜蜜区。驱动事件：黑五周流量为平日的3-5倍，FBA轻小件在此窗口冲量效率最高。最晚空运下单死线：11/06（窗口开始日11/20倒推3周），本周（10/17-10/24）下单仍有2周缓冲，过线则赶不上大促前入仓。② 圣诞派对季窗口（12/01-12/20）：澳洲圣诞=盛夏BBQ+后院派对，table decor/party小件/泳池配件进入全年需求顶点。驱动事件：12月AU零售额占全年14%+，且60%澳人经社媒发现商品后近半数看过即买，Kmart Anko本土爆款先在澳区TikTok点燃再外溢Amazon的路径每年圣诞重演。死线：11/10。③ 圣诞末班车+海滩季窗口（12/15-01/05）：12/15后进入最后补货冲刺，节后12/26 Boxing Day至1月底是海滩/露营/公路旅行装备长尾旺季，轻小件（毛巾夹/收纳/防虫）持续走量。死线：11/24（错过则放弃圣诞，直接做节后海滩季）。④ Back to School窗口（01/20-02/05，Term 1开学）：AU最大文具节点，1月底前2周家长集中采购，需求集中在name labels/笔袋/午餐配件/课桌小物。驱动事件：2027年Term 1多数州2月初开学，采购高峰1月中下旬。死线：12/30（1月下单就晚了，空运+入仓≈3周）。注意：以上窗口均按空运10-15天+入仓上架≈3周倒推，海运窗口已全部关闭，仅适合空运小批量。",
+  "insights": [
+    {
+      "keyword": "matcha whisk set bamboo scoop sifter kit",
+      "keyword_cn": "抹茶工具套装（竹筅+茶勺+滤网礼盒装）",
+      "amazon_keyword": "matcha whisk set bamboo scoop sifter kit",
+      "search_1688": "抹茶筅 竹茶则 茶滤 抹茶套装 礼盒",
+      "demand_signals": [
+        "Amazon AU Movers & Shakers Kitchen今日抹茶套件跳升601%（6pcs Matcha Kit Set进入Kitchen & Dining M&S榜单，来源：amazon.com.au M&S页 2026-10-17）",
+        "Amazon AU Kitchen畅销榜Top20出现3款抹茶相关器具（电动茶筅/matcha frother），抹茶从饮品渗透到器具，来源：amazon.com.au bestsellers/kitchen 2026-10-17",
+        "抹茶是2025-2026全球健康饮品趋势，澳洲cafe文化浓厚，家用抹茶场景从'尝鲜'转向'常备工具'，来源：WorldFirst 2026 AU电商品类报告"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "reason": "M&S单日601%跳升是硬信号，且跳升的是'6件套'而非单支——AU买家直接想要开盒即用的仪式感套装。AU市场主流是单支竹筅A$8-18或日系品牌高价套装，中价位4-6件套装形态缺位。12月圣诞礼物季临近，抹茶套装自带'健康+仪式感'礼品属性，现在备货正好赶上11月底黑五到12月送礼窗口。",
+      "action": "定价A$14.99礼盒装：佣金15% A$2.25+FBA A$4.2+1688采购约¥12/套（竹筅+茶勺+滤网+茶则，约A$2.5）=硬成本A$8.95，净利A$6.04，利润率40%。1688搜'抹茶筅套装 礼盒'或参考Alibaba成交价$2.84-3.40/套（含盒）。总重控制在180g内（竹筅轻，主要看礼盒材质，用纸盒不用木盒）。最晚空运下单死线：11/06（赶黑五周）。",
+      "competition": "AU在售以单支竹筅为主（$8-18，评论50-200条），套装形态抽查搜索结果页不足5个卖家，且多为$25+高价日系礼盒。中价位套装段评论量普遍<30条，无品牌垄断。风险：竹筅品质差评敏感（掉渣/散头），需1688实拍样品确认100刺以上密齿。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 75,
+        "profit": 82,
+        "final": 78,
+        "recommendation": "buy",
+        "profit_window": "A$14.99 - 佣金A$2.25 - FBA A$4.2 - 采购A$2.5 = 净利A$6.04/套，利润率40.3%，窗口2026-11-14至12-20圣诞礼物季，最晚下单死线11/06"
+      }
+    },
+    {
+      "keyword": "owl decoy scare birds garden protector",
+      "keyword_cn": "仿真猫头鹰驱鸟器（360°可转头，2只装）",
+      "amazon_keyword": "owl decoy scare birds garden protector",
+      "search_1688": "仿真猫头鹰驱鸟器 塑料 鹰雕像 花园",
+      "demand_signals": [
+        "Amazon AU Movers & Shakers Garden今日在榜：Fake Owl Decoy 360° swivel head款进入Garden类M&S，来源：amazon.com.au M&S 2026-10-17",
+        "澳洲春末果实成熟季，鹦鹉/果鸟啄食果园菜园是本土高频痛点（10-14已验证昆士兰果蝇诱捕器同属此需求池），来源：AU M&S Garden类目持续出现驱鸟/防虫品",
+        "M&S同期花园榜还有raised garden bed跳升1323%，花园品类整体进入南半球春季旺季峰值，来源：amazon.com.au M&S 2026-10-17"
+      ],
+      "trend_direction": "up",
+      "trend_score": 72,
+      "reason": "澳洲没有本土大型猛禽吓退说法可用的场景，塑料猫头鹰是欧美验证过的通用解，澳洲春末夏初正是番茄/浆果/核果成熟被鸟啄最狠的时候，12月芒果季前是需求上行段。今日M&S在榜说明AU买家正在主动搜索此类产品。轻小件（中空塑料单只约90g）符合空运模型，2只装可拉开与单只装竞品的价格带差异。",
+      "action": "定价A$12.99 2只装：佣金15% A$1.95+FBA A$4.2+1688采购约¥10/对（约A$2.08）=硬成本A$8.23，净利A$4.76，利润率37%。1688搜'仿真猫头鹰驱鸟 花园摆件'，参考批价¥5-8/只。单只90-120g，2只装≤200g需选薄壁款；包装尺寸约25×18×12cm可拆叠。最晚空运下单死线：11/10（赶12月果树季+圣诞花园装饰双场景）。",
+      "competition": "AU在售以单只A$15-25为主（ASPECTEK等品牌100+评论），2只装形态少。风险：驱鸟器'鸟会习惯'是品类通病差评点，listing需主打可移动位置/反光眼设计缓解。评论量：头部品牌100-300条，中腰部<50条，可切入。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 68,
+        "profit": 78,
+        "final": 73,
+        "recommendation": "buy",
+        "profit_window": "A$12.99 - 佣金A$1.95 - FBA A$4.2 - 采购A$2.08 = 净利A$4.76/套，利润率36.6%，窗口2026-11-14至12-14果树成熟季+圣诞花园场景，最晚下单死线11/10"
+      }
+    },
+    {
+      "keyword": "cut resistant gloves level 5 kitchen garden",
+      "keyword_cn": "5级防割手套（HPPE，厨房/园艺两用2双装）",
+      "amazon_keyword": "cut resistant gloves level 5 kitchen garden",
+      "search_1688": "HPPE防割手套 5级 厨房 园艺 PU涂层",
+      "demand_signals": [
+        "Amazon AU Movers & Shakers Home Improvement今日跳升367%：Shield Right Cut Resistant Gloves Level 5新品入榜，来源：amazon.com.au M&S 2026-10-17",
+        "澳洲夏季=牡蛎开壳/刨丝/修枝/ carving季前需求叠加，防割手套是厨房+园艺双场景品，Amazon AU厨房类OXO julienne peeler同时在榜说明切配工具热度，来源：amazon.com.au bestsellers/kitchen 2026-10-17",
+        "WorldFirst 2026报告确认home & kitchen是AU Amazon最高需求类目，功能性小件靠'解决具体痛点'上位，来源：worldfirst.com.au AU best selling products 2026"
+      ],
+      "trend_direction": "up",
+      "trend_score": 70,
+      "reason": "367%单日跳升+新品直接进M&S说明AU该细分正处于供给追不上需求的窗口期。南半球夏初正是处理海鲜（澳人圣诞海鲜宴传统）、削南瓜/芒果、修枝玫瑰的高峰前奏。2双装+男女通用尺码差异化，总重约80g，包装平板薄盒，完美适配空运轻小件模型。",
+      "action": "定价A$9.99 2双装：佣金15% A$1.5+FBA A$4.2+1688采购约¥6/2双（约A$1.25）=硬成本A$6.95，净利A$3.04，利润率30%。1688搜'HPPE 5级防割手套 PU'，批价¥2-3.5/双，选EN388认证款。尺码做M+L各1双覆盖家庭场景。最晚空运下单死线：11/06（赶黑五+12月海鲜季）。",
+      "competition": "M&S在售Shield Right为新品（评论<20条）；AU常青竞品NoCry/Dex Fit等300+评论但价位A$18-30，$8.99-16.99带内选择少。风险：5级认证虚标是品类差评重灾区，必须索要EN388测试报告。",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 72,
+        "profit": 68,
+        "final": 70,
+        "recommendation": "buy",
+        "profit_window": "A$9.99 - 佣金A$1.5 - FBA A$4.2 - 采购A$1.25 = 净利A$3.04/套，利润率30.4%，窗口2026-11-14至01-05（圣诞海鲜宴+夏季园艺），最晚下单死线11/06"
+      }
+    },
+    {
+      "keyword": "dog cooling bandana gel neck collar summer",
+      "keyword_cn": "狗狗降温凝胶冰领（冷凝项圈2条装）",
+      "amazon_keyword": "dog cooling bandana gel neck collar summer",
+      "search_1688": "宠物降温项圈 凝胶 冰领 狗防暑 围脖",
+      "demand_signals": [
+        "AU澳区蓝海结构信号：Amazon AU'Bandanas for Dogs'全站仅46个在售结果，Roobuck降温bandana 4-pack仅5条评论就上到A$10.99在售，来源：amazon.com.au搜索结果页 2026-10-17",
+        "澳洲夏季高温是宠物中暑高风险期，Petbarn等线下渠道已铺All For Paws冰领（A$4.19-18会员价区间），需求被线下验证但线上供给稀薄，来源：petbarn.com.au 2026-10-17",
+        "澳区宠物品类M&S/新品榜持续出现cooling类新品（2026年夏才有国产新品入场），先发窗口仍在，来源：amazon.com.au new-releases/pet-supplies 缓存+搜索验证"
+      ],
+      "trend_direction": "up",
+      "trend_score": 74,
+      "reason": "这是典型的'线下已验证、线上空白'结构：澳洲12-2月夏季高温常态化，宠物降温是刚需复购场景，但AU站该细分只有46个在售结果、头部新品仅5评——竞争密度极低。10-13推过狗舔垫验证了AU宠物垂直需求有效。2条装（M+L）总重约164g刚好卡进200g红线，定价锚在Roobuck之下做2条装性价比。",
+      "action": "定价A$9.99 2条装：佣金15% A$1.5+FBA A$4.2+1688采购约¥6/2条（约A$1.25）=硬成本A$6.95，净利A$3.04，利润率30%。1688搜'宠物降温项圈 凝胶'，义乌智爱批价¥2.92起（L码95g/M码69g），选冷冻凝胶原液款。安全注意：listing需标注防误食警告（凝胶内液）。最晚空运下单死线：11/10（赶12月夏季高温+圣诞宠物礼物场景）。",
+      "competition": "全站仅46个在售结果，Roobuck 4-pack A$10.99仅5评，AFP等国际品牌在Petbarn线下有铺但Amazon AU listing评论量普遍<50条。风险：凝胶类产品夏季运输怕高温暴晒，需确认1688厂家耐温包装；差评集中在'降温时长短'，选厚凝胶款。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 85,
+        "profit": 68,
+        "final": 74,
+        "recommendation": "buy",
+        "profit_window": "A$9.99 - 佣金A$1.5 - FBA A$4.2 - 采购A$1.25 = 净利A$3.04/套，利润率30.4%，窗口2026-11-14至01-15（AU夏季高温全周期），最晚下单死线11/10"
+      }
+    },
+    {
+      "keyword": "mosquito head net hat mesh camping fishing",
+      "keyword_cn": "驱蚊防虫头网帽（360°网纱，2只装）",
+      "amazon_keyword": "mosquito head net hat mesh camping fishing",
+      "search_1688": "防蚊头罩 网纱 渔夫帽 露营 采茶",
+      "demand_signals": [
+        "Amazon AU两个昆虫防护M&S/畅销榜被head net多变体霸榜：Wearable Insect Repellents榜出现4+个head net变体（Pmxary/SMNKJGS/PACIOCEAN等新品），Insect & Pest Repellents总榜同样多款在列，来源：amazon.com.au bestsellers/health 昆虫防护类 2026-10-17",
+        "在榜head net评论量普遍4-12条（新品密集上榜=需求跑在供给前面），价位A$9-15正好落在Lee价格带内，来源：同上榜单页评论数据",
+        "澳洲春夏户外露营/钓鱼/ bushwalking文化+12月圣诞假期全家露营季临近，飞虫/沙蝇是北领地/昆州/西澳沿海高频痛点，来源：AU榜单camping/fishing关键词在榜款式描述"
+      ],
+      "trend_direction": "up",
+      "trend_score": 68,
+      "reason": "AU防虫头网正处于'新品扎堆上榜但都没起量'的窗口——评论量4-12条意味着还没有卖家建立评论护城河，先入者可用轻量2只装+收纳袋差异化。夏季临近+圣诞假期露营出行潮（12月底-1月）是需求顶点，10月中下旬备货时间刚好。单只约50g、2只装约100g，可压缩包装，空运模型友好。",
+      "action": "定价A$9.99 2只装：佣金15% A$1.5+FBA A$4.2+1688采购约¥7/2只（约A$1.46）=硬成本A$7.16，净利A$2.83，利润率28%。1688搜'防蚊头网 渔夫帽罩'，批价¥3-5/只，选可配宽檐帽的加大网纱款+附收纳袋。最晚空运下单死线：11/10（赶12月圣诞假期露营季）。",
+      "competition": "在榜多为中国新品牌（4-12评论，无头部），Mozzigear等本土品牌做的是驱蚊手环（不同细分）已建立澳人信任但未做head net。风险：网纱密度差评敏感（沙蝇能钻网），选'ultra fine mesh'且克重高的款；差评点还有'网眼透视差'，主图需实拍透视线。",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 70,
+        "profit": 62,
+        "final": 67,
+        "recommendation": "buy",
+        "profit_window": "A$9.99 - 佣金A$1.5 - FBA A$4.2 - 采购A$1.46 = 净利A$2.83/套，利润率28.3%，窗口2026-11-14至01-31（春夏飞虫季+圣诞露营），最晚下单死线11/10"
+      }
+    }
+  ]
+}
