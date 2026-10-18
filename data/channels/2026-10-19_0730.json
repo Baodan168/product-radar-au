@@ -1,0 +1,669 @@
+{
+  "scan_date": "2026-10-19",
+  "scan_time": "07:30",
+  "scan_ts": "2026-10-19_0730",
+  "stats": {
+    "total_scanned": 229,
+    "passed_filter": 4,
+    "rejected": 225,
+    "channels": {
+      "temu_trending": 4,
+      "multi_source": 4,
+      "tiktok_verified": 1,
+      "etsy_trending": 4,
+      "bsr": 2,
+      "ozbargain": 1,
+      "youtube_review": 1,
+      "new_releases": 1,
+      "gifts": 1
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 98,
+      "phone": 77,
+      "kitchen": 65,
+      "lighting": 65,
+      "beauty": 61
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B0D3GRBY53",
+      "name": "Orana Food Grade Mineral Oil for Cutting Boards, Butcher Blocks & Wooden Utensils – Australian Made Chopping Board Oil, ",
+      "price": 11.99,
+      "reviews": 151,
+      "rating": 4.6,
+      "rank": 15,
+      "category": "Kitchen",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "151 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0D3GRBY53",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/61tK-zPFb4L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "YouTube种草",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.411,
+      "net_profit": 4.93,
+      "cost_breakdown": {
+        "commission": 1.56,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.06
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 133,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "📈 趋势(kitchen)": 8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "multi_source",
+        "tiktok_verified",
+        "etsy_trending",
+        "bsr",
+        "ozbargain",
+        "youtube_review"
+      ]
+    },
+    {
+      "asin": "B0HCYT83LL",
+      "name": "Plant Protection Netting 2.4x4m, Fine Mesh to Block Birds & Insects | Blocks Birds & Insects, Ultra Fine Mesh, 2.4 x 4m ",
+      "price": 16.99,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 11,
+      "category": "Garden",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HCYT83LL",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/71a416T9q1L._AC_UL300_SR300,200_.jpg",
+      "sources": [
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.526,
+      "net_profit": 8.94,
+      "cost_breakdown": {
+        "commission": 2.55,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 8.05
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 88,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "📈 趋势(garden)": 8,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 4,
+      "is_new": true,
+      "first_seen": "2026-10-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "multi_source",
+        "temu_trending",
+        "etsy_trending"
+      ]
+    },
+    {
+      "asin": "B0GGB7G66H",
+      "name": "Garden Tool Set, 7 Pieces, Ergonomic Garden Tools with Non-Slip Handle, Rustproof, Aluminium, with Bag for Garden Tools ",
+      "price": 11.73,
+      "reviews": 16,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Garden",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "16 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GGB7G66H",
+      "image_url": "https://m.media-amazon.com/images/I/71AVhb68WOL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.381,
+      "net_profit": 4.47,
+      "cost_breakdown": {
+        "commission": 1.76,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.26
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 106,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "📈 趋势(garden)": 8,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-10-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "multi_source",
+        "gifts",
+        "etsy_trending"
+      ]
+    },
+    {
+      "asin": "B0FC2NGWNX",
+      "name": "Pokemon Official Double Duvet Cover Set, Retro Design | Blue Reversible Pikachu Squirtle Charmander 2 Sided Bedding Cove",
+      "price": 11.46,
+      "reviews": 97,
+      "rating": 4.4,
+      "rank": 3,
+      "category": "Bedding",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "97 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FC2NGWNX",
+      "image_url": "https://m.media-amazon.com/images/I/9148G0SLHOL._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.37,
+      "net_profit": 4.24,
+      "cost_breakdown": {
+        "commission": 1.72,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.22
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "medium",
+      "signal_label": "🟠 中信号",
+      "external_sources": [
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 94,
+      "score_breakdown": {
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🟠 中信号": 10,
+        "🔥 多源热门(pets)": 23,
+        "🟡 中等竞争": 5,
+        "💰 超高利润": 12
+      },
+      "stars": 4,
+      "is_new": false,
+      "first_seen": "2026-10-13",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "temu_trending",
+        "multi_source",
+        "etsy_trending",
+        "bsr"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "tape",
+        "art",
+        "craft",
+        "stickers"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "washi tape",
+        "decorative tape",
+        "masking tape",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=washi+tape",
+      "url_google": "https://trends.google.com/trends/explore?q=washi+tape&geo=AU"
+    },
+    {
+      "keyword": "pets",
+      "category": "pets",
+      "heat": 98,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "bed",
+        "cat",
+        "toy",
+        "pet"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "cat bed",
+        "dog bed",
+        "pet cushion",
+        "cat toy",
+        "cat collar",
+        "cat scratcher",
+        "dog chew toy",
+        "cat interactive toy"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cat+bed",
+      "url_google": "https://trends.google.com/trends/explore?q=cat+bed&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "strip",
+        "light",
+        "led",
+        "lamp"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+strip",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+strip&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "nail",
+        "skincare",
+        "hair",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "nail art kit",
+        "nail tools",
+        "nail stickers",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "hair clip",
+        "hair accessories"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=nail+art+kit",
+      "url_google": "https://trends.google.com/trends/explore?q=nail+art+kit&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "birthday",
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "birthday gift",
+        "birthday decoration",
+        "birthday card",
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=birthday+gift",
+      "url_google": "https://trends.google.com/trends/explore?q=birthday+gift&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 40,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "fitness",
+        "water bottle",
+        "sport"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "water bottle",
+        "sport"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=resistance+band",
+      "url_google": "https://trends.google.com/trends/explore?q=resistance+band&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 77,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 112208,
+      "evidence": [
+        "case",
+        "stand",
+        "phone",
+        "ring light",
+        "charger"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "case",
+        "stand",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "ring light",
+        "phone charger",
+        "wireless charger"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=case",
+      "url_google": "https://trends.google.com/trends/explore?q=case&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 61,
+      "score": 35,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 26368,
+      "evidence": [
+        "laptop",
+        "pen",
+        "stationery",
+        "office",
+        "desk"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "stationery set",
+        "notebook"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=laptop+stand",
+      "url_google": "https://trends.google.com/trends/explore?q=laptop+stand&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        98
+      ],
+      [
+        "phone",
+        77
+      ],
+      [
+        "kitchen",
+        65
+      ],
+      [
+        "lighting",
+        65
+      ],
+      [
+        "beauty",
+        61
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "sports",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "kitchen",
+      "cleaning",
+      "office",
+      "lighting",
+      "seasonal",
+      "pets",
+      "eco",
+      "kitchen_gadgets",
+      "garden",
+      "bedding",
+      "home decor"
+    ],
+    "demand_keywords": [
+      "all the things",
+      "amazon has also published a",
+      "amazon sales in",
+      "apple i",
+      "baggy trousers",
+      "best selling products on",
+      "cider bell sleeve romper",
+      "clear shelf dividers",
+      "cool gadgets tech",
+      "cotton bedding set"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
