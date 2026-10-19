@@ -1,0 +1,336 @@
+{
+  "category_scores": {
+    "car": 47,
+    "lighting": 86,
+    "pets": 97,
+    "sports": 69,
+    "crafts": 100,
+    "phone": 83,
+    "beauty": 58,
+    "eco": 76,
+    "kitchen": 72,
+    "cleaning": 44,
+    "office": 61,
+    "seasonal": 83,
+    "garden": 94,
+    "bathroom": 18,
+    "storage": 54,
+    "bedding": 44,
+    "home decor": 61,
+    "baby": 44,
+    "kitchen_gadgets": 4,
+    "travel": 33
+  },
+  "category_evidence": {
+    "car": [
+      "car"
+    ],
+    "lighting": [
+      "led",
+      "lamp",
+      "light",
+      "strip"
+    ],
+    "pets": [
+      "toy",
+      "cat",
+      "pet",
+      "bed",
+      "dog"
+    ],
+    "sports": [
+      "water bottle",
+      "resistance",
+      "sport",
+      "fitness"
+    ],
+    "crafts": [
+      "brush",
+      "stickers",
+      "paint",
+      "tape",
+      "craft",
+      "art"
+    ],
+    "phone": [
+      "case",
+      "charger",
+      "cable",
+      "phone",
+      "stand",
+      "earbuds"
+    ],
+    "beauty": [
+      "mirror",
+      "brush",
+      "nail",
+      "hair",
+      "makeup",
+      "skincare"
+    ],
+    "eco": [
+      "eco",
+      "reusable",
+      "organic",
+      "sustainable"
+    ],
+    "kitchen": [
+      "gadget",
+      "cup",
+      "kitchen",
+      "mug"
+    ],
+    "cleaning": [
+      "cleaning",
+      "brush",
+      "sponge",
+      "vacuum",
+      "mop"
+    ],
+    "office": [
+      "pen",
+      "laptop",
+      "stationery",
+      "desk"
+    ],
+    "seasonal": [
+      "christmas",
+      "halloween",
+      "birthday",
+      "valentine",
+      "gift"
+    ],
+    "garden": [
+      "garden",
+      "outdoor",
+      "flower",
+      "plant",
+      "patio",
+      "bird"
+    ],
+    "bathroom": [
+      "mirror",
+      "towel",
+      "bathroom",
+      "toilet",
+      "bath"
+    ],
+    "storage": [
+      "container",
+      "basket",
+      "shelf",
+      "box",
+      "storage"
+    ],
+    "bedding": [
+      "bedding",
+      "blanket",
+      "pillow",
+      "throw",
+      "cushion",
+      "sheet"
+    ],
+    "home decor": [
+      "mirror",
+      "clock",
+      "candle",
+      "vase",
+      "decor"
+    ],
+    "baby": [
+      "kids",
+      "child",
+      "toddler",
+      "baby"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget"
+    ],
+    "travel": [
+      "travel",
+      "luggage"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "car": 2,
+      "lighting": 2,
+      "pets": 1,
+      "sports": 2,
+      "crafts": 3,
+      "phone": 5,
+      "beauty": 5,
+      "eco": 2,
+      "kitchen": 2,
+      "cleaning": 1,
+      "office": 1,
+      "seasonal": 2
+    },
+    "ozbargain": {
+      "car": 2,
+      "pets": 8,
+      "phone": 6,
+      "kitchen": 2,
+      "office": 2,
+      "lighting": 5,
+      "crafts": 3,
+      "garden": 4,
+      "bathroom": 4,
+      "storage": 3,
+      "sports": 2,
+      "bedding": 4,
+      "beauty": 3,
+      "home decor": 2,
+      "baby": 1,
+      "eco": 2,
+      "seasonal": 4
+    },
+    "temu": {
+      "kitchen": 5,
+      "garden": 1,
+      "cleaning": 2,
+      "lighting": 2,
+      "pets": 5,
+      "crafts": 4,
+      "bedding": 1,
+      "beauty": 2,
+      "home decor": 2,
+      "baby": 4,
+      "eco": 3,
+      "seasonal": 1,
+      "office": 1,
+      "sports": 1,
+      "kitchen_gadgets": 1,
+      "storage": 1
+    },
+    "etsy": {
+      "pets": 3,
+      "crafts": 7,
+      "travel": 2,
+      "kitchen": 1,
+      "garden": 3,
+      "office": 3,
+      "lighting": 1,
+      "bedding": 1,
+      "home decor": 4,
+      "eco": 2,
+      "seasonal": 4,
+      "car": 1,
+      "storage": 2,
+      "baby": 2
+    },
+    "youtube": {
+      "kitchen": 3,
+      "office": 3,
+      "crafts": 3,
+      "travel": 1,
+      "seasonal": 2,
+      "storage": 1,
+      "sports": 1,
+      "garden": 1,
+      "bathroom": 1,
+      "cleaning": 1,
+      "car": 1,
+      "lighting": 2,
+      "beauty": 1,
+      "eco": 1
+    },
+    "google_trends": {
+      "lighting": 2,
+      "pets": 5,
+      "sports": 3,
+      "crafts": 3,
+      "bedding": 1,
+      "phone": 3,
+      "kitchen": 2,
+      "baby": 1,
+      "garden": 5,
+      "home decor": 1,
+      "eco": 3
+    },
+    "reddit": {
+      "car": 2,
+      "office": 2,
+      "lighting": 3,
+      "crafts": 2,
+      "phone": 2,
+      "eco": 1,
+      "seasonal": 2,
+      "cleaning": 1,
+      "storage": 1,
+      "home decor": 1,
+      "bedding": 1
+    },
+    "market_intel": {
+      "kitchen": 1,
+      "cleaning": 3,
+      "car": 1,
+      "storage": 3,
+      "lighting": 3,
+      "pets": 1,
+      "sports": 3,
+      "crafts": 3,
+      "travel": 2,
+      "phone": 3,
+      "beauty": 1,
+      "eco": 3,
+      "garden": 3,
+      "office": 1
+    }
+  },
+  "cross_validated": {
+    "car": 6,
+    "lighting": 8,
+    "pets": 6,
+    "sports": 6,
+    "crafts": 8,
+    "phone": 5,
+    "beauty": 5,
+    "eco": 8,
+    "kitchen": 7,
+    "cleaning": 5,
+    "office": 7,
+    "seasonal": 6,
+    "garden": 6,
+    "storage": 6,
+    "bedding": 5,
+    "home decor": 5,
+    "baby": 4,
+    "travel": 3
+  },
+  "demand_keywords": [
+    "all the things",
+    "amazon is now",
+    "amazon sales in",
+    "and the",
+    "baggy trousers",
+    "berry and",
+    "best new movies and",
+    "best selling products on",
+    "can a washable wool rug",
+    "celebrate the gorgeousness of all",
+    "cleaning out my drafts",
+    "cotton bedding set",
+    "doctor who",
+    "explore trending products",
+    "four trends that will reshape",
+    "from clever tech to home",
+    "from innovative gadgets and beauty",
+    "giafire womens",
+    "global cross",
+    "home and",
+    "how many of the users",
+    "leading trends for",
+    "magnetic eyelashes",
+    "metal straws",
+    "most anticipated",
+    "non stick oven mat liners",
+    "obsessed with these pieces from",
+    "online marketplaces including",
+    "perfumes and",
+    "please visit our"
+  ],
+  "season": "spring",
+  "total_queries": 24,
+  "total_results_chars": 141342
+}
