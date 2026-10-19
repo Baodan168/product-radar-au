@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-20",
+  "updated_at": "2026-10-20 07:30:00 +0800",
+  "scan_date": "2026-10-20",
+  "scan_time": "07:30:00",
+  "summary": "周二轮换方向（宠物用品+文具办公）+花园替补。今日4条insight覆盖4个主品类：宠物美容×1（狗美容吊床，非电款避开HNR前排电子品红海）、桌面收纳×1（A5网格拉链袋，桌面Hot New Releases Top15占7席集群）、花园灌溉×1（自浇水浇花尖嘴，澳洲春夏+圣诞旅行浇水刚需，头部3.3星质量gap）、节日包装×1（礼品包装纸切割器二合一，圣诞包装季窗口）。4条均为新品推荐(is_new=True)，0条与近14天已推品类重复（已核对dog paw cleaner/cat self groomer/luggage items均不同主品类）。信息源：Amazon AU宠物HNR+美容Best Sellers+Most Gifted、桌面HNR、花园灌溉Best Sellers三榜今日实抓成功；1688价格经淘宝/1688交叉验证（美容吊床¥7.8-15.8供应链成熟）。备注：宠物HNR前排多为充电球/止吠器等电子款全部撞产品红线，已按红线筛选为无电款。",
+  "insights": [
+    {
+      "keyword": "dog grooming hammock",
+      "keyword_cn": "宠物美容吊床（剪指甲固定悬吊袋，含吊杆S钩）",
+      "amazon_keyword": "dog grooming hammock nail clipping restraint",
+      "search_1688": "宠物美容吊床 剪指甲固定 猫狗悬吊袋",
+      "category": "宠物用品",
+      "is_new": true,
+      "demand_signals": [
+        "Amazon AU Pet Supplies Hot New Releases今日实抓：#18 Dog Grooming Hammock（可拆钢架8孔网布款）定价A$22.99，新品榜在位=需求上升期（来源：amazon.com.au/gp/new-releases/pet-supplies 2026-10-20）",
+        "Most Gifted in Dog Grooming礼品榜三款吊床同时进榜：#1 Kkiimatt(132评,A$36.99)、#20 Walbest(546评,A$14.99)、#36 KIKNIN 10合1含指甲剪配件款——多品牌多价位同时上榜说明品类带整体起量且无垄断者（来源：amazon.com.au/gp/most-gifted/pet-supplies 2026-10-20）",
+        "供应链成熟且爆款验证：淘宝同款¥7.8-15.8价位有4000+人付款记录（来源：淘宝/1688搜索实抓 2026-10-20），跨境专供货源充足",
+        "圣诞前送礼场景：Most Gifted榜本身就是节日礼物流向指标，宠物主给猫狗剪指甲的痛点（抓咬挣扎）全年存在，11-12月叠加礼物需求"
+      ],
+      "trend_score": 79,
+      "trend_direction": "up",
+      "reason": "这是宠物带里少见的无电高潜形态：HNR在位+礼品榜三席双重信号。澳洲约一半家庭养宠物，剪指甲是猫狗主普遍痛点，吊床形态在US已跑通（Kkiimatt等品牌US爆量），AU刚进入新品榜+礼品榜=曲线早段。价格带宽：A$14.99-36.99都有人卖，中位A$16.99-19.99带配件套装是空白位。非电子、织物+金属件约180-260g需选轻款，空运友好。",
+      "action": "定价A$16.99起，主推「吊床+指甲剪+锉刀」10合1套装差异点；1688搜「宠物美容吊床 剪指甲固定」，采购价A$1.8-2.6（已交叉验证淘宝¥7.8-15.8，1688批量更低，采购前核对实价）。选透气网布+加厚边框款防开裂，附收纳袋控包装体积≤30×21×6cm，称重≤200g需选猫/小型犬规格。",
+      "competition": "AU在售SKU约10-20个，头部Kkiimatt 132评、Walbest 546评，无万评霸主；礼品榜多品牌并存=品牌集中度低。诚实标注：Best Sellers主榜未见吊床进入（只在细分榜），说明体量中等，属「上升中而非爆发」品类，适合小批量试单。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 72,
+        "profit": 85,
+        "final": 77,
+        "recommendation": "优先试单：双重榜单信号+供应链成熟+高毛利，先跑60-80件测品",
+        "profit_window": "6-10个月（品类上升期进入，圣诞前有第一波送礼需求）"
+      },
+      "profit_calc": {
+        "price_aud": 16.99,
+        "commission_15pct": 2.55,
+        "fba": 4.2,
+        "sourcing_est": 2.2,
+        "profit_aud": 8.04,
+        "margin_pct": 47
+      }
+    },
+    {
+      "keyword": "mesh zipper pouch set",
+      "keyword_cn": "A5网格拉链收纳袋6件套（透明文件/文具/化妆品分装）",
+      "amazon_keyword": "mesh zipper pouch a5 clear storage",
+      "search_1688": "A5网格拉链袋 透明文件袋 收纳套装",
+      "category": "文具办公",
+      "is_new": true,
+      "demand_signals": [
+        "Amazon AU Desk Accessories & Storage Hot New Releases今日实抓：Top15中网格拉链袋形态占7席（IMTKOOCO 6pcs A$12.57、10pcs A6 A$13.99、PVC大容量2pcs A$11.99等），单一形态集群上榜=平台流量正在推这个形态（来源：amazon.com.au/gp/new-releases/office-products/4915629051 2026-10-20）",
+        "上新SKU价格全部卡A$11.99-13.99，6-10件套形态是主流，说明消费者已被教育接受该价位（来源：同榜单价格实抓）",
+        "Term 4开学季+圣诞前收纳整理场景：澳洲1月底Back to School是最大节点，但10-11月学期末文件/文具整理+圣诞礼品分装是即时需求（来源：AU校历+消费习惯校准）",
+        "1688成本极低：网格收纳单件¥2.6-9（来源：1688实抓 2026-10-20），6件套采购可压到A$2.0-2.8，利润结构好"
+      ],
+      "trend_score": 76,
+      "trend_direction": "up",
+      "reason": "桌面文具带今天最集中的信号：Hot New Releases Top15占7席的形态集群，这在单个榜单上很少见。网格袋解决「看不清里面装什么」的透明收纳痛点，多场景（文具/文件/化妆品/旅行分装/圣诞小礼物分装）通用。A$12.99六件套对位现有A$12.57款，靠印刷色系/带标签位/不同尺寸梯度做差异。非电子、超轻（6件约150g）、包装扁平完全合规。",
+      "action": "定价A$12.99（6件套A5）；1688搜「A5网格拉链袋 文件收纳」，采购价A$2.0-2.8/套（估值，请核对实价）。差异点：3种尺寸梯度+A4/A5/A6、拉链头彩色、带姓名标签窗口。包装压扁平，空运最优形态。",
+      "competition": "榜单上新即竞争苗头：7席集群说明下个月会有更多跟进者，先发窗口约4-8周。现有SKU评价量都低（多为个位数到300评），无霸主。诚实标注：Best Sellers主榜被Blu Tack/复印纸等标品占据，说明该形态靠「新品流量+搜索词」获客，需配SEO Listing和主图场景化。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 68,
+        "profit": 82,
+        "final": 74,
+        "recommendation": "建议跟进：集群信号强但先发窗口有限，快速小批量50-80件，主打差异化色系+尺寸梯度",
+        "profit_window": "3-6个月（形态扩散快，跟进者多，赚早中期）"
+      },
+      "profit_calc": {
+        "price_aud": 12.99,
+        "commission_15pct": 1.95,
+        "fba": 4.2,
+        "sourcing_est": 2.5,
+        "profit_aud": 4.34,
+        "margin_pct": 33
+      }
+    },
+    {
+      "keyword": "self watering spikes",
+      "keyword_cn": "自浇水浇花尖嘴12件套（插瓶慢滴可调阀，度假免浇水）",
+      "amazon_keyword": "self watering spikes plants vacation drip",
+      "search_1688": "自动浇花器 滴灌尖嘴 可调 插瓶",
+      "category": "花园园艺",
+      "is_new": true,
+      "demand_signals": [
+        "Amazon AU Automatic Irrigation Drippers Best Sellers今日实抓：#3 LABOTA 24支装5,979评但仅3.3星——近6000评价证明需求大盘，低分证明头部质量差=替换需求gap（来源：amazon.com.au/gp/bestsellers/garden/5707723051 2026-10-20）",
+        "同榜#1 WEEMAGIC陶土款仅97评即登顶+定价A$25.98，头部护城河浅，新品可快速卡位（来源：同榜单）",
+        "澳洲10月入夏+12月圣诞长假旅行：度假时盆栽浇水是澳家庭硬痛点，「vacation plant watering」是该品类核心搜索场景，11-1月为需求顶点（来源：南半球季节事实+榜单产品标题关键词实抓）",
+        "滴灌头类目普遍3-4星：#2(3.5星)/#6(1.0星)/#14(1.0星)/#15(3.0星)——整类质量洼地，做好基础质量+清晰说明书就能拿评分优势（来源：同榜单评分实抓）"
+      ],
+      "trend_score": 75,
+      "trend_direction": "up",
+      "reason": "花园带现在到未来8周正好进入澳洲需求顶点：春夏浇水+圣诞度假双场景。品类证据链完整——LABOTA近6000评价说明盘子存在，3.3星说明产品质量差、换代空间大，头部97评说明榜单随时可被冲。可调阀+防漏密封圈是现有差评的两大痛点（漏水+流速失控），直接做进差异点。无电子、塑料件约120-180g/12支，完全合规。",
+      "action": "定价A$12.99（12支装+可调阀）；1688搜「自动浇花器 可调滴灌 插瓶式」，采购价A$2.0-2.8（估值，请核对实价）。差异点主打：硅胶密封圈防漏+旋钮式流速 visibly可调+适配口径列表印包装。附中英文图解说明书，直接打LABOTA的差评点。",
+      "competition": "头部LABOTA 5,979评但3.3星（口碑弱）、WEEMAGIC 97评（体量小）；中腰部大量1-3星低质款。诚实标注：该类目低价内卷明显（A$10.99有24支装），必须靠评分+套装规格差异站住，纯拼价格无优势。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 78,
+        "profit": 80,
+        "final": 75,
+        "recommendation": "建议试单：季节窗口即将见顶（圣诞旅行季），尽快下单80-100件赶11月中上架",
+        "profit_window": "季节性：11月-1月约10周高峰（圣诞旅行浇水场景），8周后进入衰退"
+      },
+      "profit_calc": {
+        "price_aud": 12.99,
+        "commission_15pct": 1.95,
+        "fba": 4.2,
+        "sourcing_est": 2.2,
+        "profit_aud": 4.64,
+        "margin_pct": 36
+      }
+    },
+    {
+      "keyword": "wrapping paper cutter tape dispenser",
+      "keyword_cn": "礼品包装纸切割器+胶带座二合一（滑动式安全切刀）",
+      "amazon_keyword": "wrapping paper cutter tape dispenser gift",
+      "search_1688": "包装纸切割器 滑动切纸 礼品包装 胶带座",
+      "category": "节日礼品",
+      "is_new": true,
+      "demand_signals": [
+        "Amazon AU Desk Accessories & Storage Hot New Releases今日实抓：#8 Wrapping Paper Cutter and Tape Dispenser二合一定价A$22.14，圣诞前2个月进新品榜=节日备货信号（来源：amazon.com.au/gp/new-releases/office-products/4915629051 2026-10-20）",
+        "该形态在US/UK圣诞季已验证爆量路径（滑动切割解决包装纸撕不齐痛点），AU处于早期（来源：品类扩散史+新品榜性质）",
+        "澳洲81%消费者等大促才买：Black Friday（11月末）→圣诞是11-12月两个连续购物峰，礼品包装工具是双峰叠加品类（来源：消费习惯校准）",
+        "60%澳人经社媒发现商品：切割器ASMR式滑动切纸视频在TikTok是成熟内容模板，AU区可直接复用素材（来源：消费习惯校准+品类内容史）"
+      ],
+      "trend_score": 73,
+      "trend_direction": "up",
+      "reason": "圣诞备货日历正在敲门：现在下单空运，10-15天+入仓上架≈3周后（11月上中旬）上架，正好赶Black Friday前流量爬坡，这是未来6周内上架时效最匹配的品类。二合一形态（切割+胶带座）比单切割器客单价高、差异清晰。非电子、轻量约140-190g、包装扁平，全线合规。A$22.14的头部定价留出A$12.99-16.99中间价gap。",
+      "action": "定价A$14.99（二合一+内置胶带卷）；1688搜「包装纸切割器 滑动 礼品包装胶带座」，采购价A$2.2-3.2（估值，请核对实价）。主图打圣诞包装场景+安全不伤手（儿童可参与包装），包装扁平。死线敏感：空运下单最晚本周内（见trend_forecast①）。",
+      "competition": "AU该形态SKU极少（今日榜单仅1款A$22.14），竞争窗口清晰；US市场有Cut和Little ELF等品牌验证形态但未大规模进AU。诚实标注：单日榜单观察，未抓全站搜索页review分布，上架前建议补一次「wrapping paper cutter」搜索结果页人工抽查。",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 82,
+        "profit": 78,
+        "final": 74,
+        "recommendation": "优先试单：时效窗口就是现在（本周下单），gap明确竞争少，先跑60-80件",
+        "profit_window": "季节性强：11月上旬-12月20日约6周，过季即滞销，宁早勿晚"
+      },
+      "profit_calc": {
+        "price_aud": 14.99,
+        "commission_15pct": 2.25,
+        "fba": 4.2,
+        "sourcing_est": 2.8,
+        "profit_aud": 5.74,
+        "margin_pct": 38
+      }
+    }
+  ],
+  "trend_forecast": "未来4-8周AU需求窗口预测（11月17日-12月15日，空运时效按10-15天+入仓上架≈3周倒推死线）：① 11/17-11/30【Black Friday后圣诞采购启动窗口】驱动事件：11月末Black Friday大促（81%澳人等大促才买）+圣诞礼物采购正式启动，圣诞桌饰/礼盒包装带/圣诞袜挂钩/包装纸切割器类需求在BF当周和后一周集中爆发；品类方向：节日包装工具、圣诞桌面装饰（无电蜡烛座/松果花环配件）、礼盒填充丝纸；最晚空运下单死线10/27——过线赶不上BF周上架，只能吃圣诞尾段流量。② 11/24-12/07【圣诞装饰高峰窗口】驱动事件：澳洲12月1日起圣诞装饰全城铺开+Advent日历季，家庭布置高峰；品类方向：圣诞袜/门挂配件、圣诞餐具装饰（餐巾环/桌旗夹）、LED外电池盒装饰件（注意红线：不可含电池的整灯，只做配件）、圣诞宠物装扮（宠物圣诞用品与今日美容吊床同客群可交叉上架）；最晚空运下单死线11/03。③ 12/01-12/15【海滩季+圣诞度假双场景窗口】驱动事件：南半球圣诞=海滩/BBQ场景，学校12月中放假、家庭海滨度假装备采购；品类方向：防水手机袋/防水收纳包、沙滩游戏套装、BBQ配件（玉米烙架/烤网刷非电款）、车内收纳（去海滩路途场景）；最晚空运下单死线11/10——12月中上架还能吃到学校假期首周，再晚错过。④ 12/08-12/15【圣诞礼物流尾+即时补货窗口】驱动事件：澳洲物流12月20日左右截单前的最后抢购潮，「last minute gift」搜索激增，小件礼品（A$8.99-16.99甜蜜区） advantage最大；品类方向： stocking stuffer价位小礼品——桌面解压玩具、迷你桌游卡盒、香薰石挂件（非液体）、宠物小礼物；最晚空运下单死线11/17，此窗口后空运已无法保证圣诞前入仓，勿再追单。共性提醒：四个窗口全部共用同一条物流死线逻辑——空运10-15天+入仓上架3周，任何窗口开始日前21天是下单死线；FBA入仓高峰期（11月下旬-12月）AU仓入仓排队会延长3-7天，实际备货再前置一周更稳。"
+}
