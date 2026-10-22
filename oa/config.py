@@ -53,6 +53,14 @@ MODULES = [
                 'desc': '产品发现、扫描、看板管理',
             },
             {
+                'key': 'radar',
+                'label': '跨境雷达',
+                'icon': '📡',
+                'url': 'https://Baodan168.github.io/kj-news-radar/?market=au',
+                'desc': '24h跨境电商情报聚合（澳洲站优先）',
+                'cross_origin': True,
+            },
+            {
                 'key': 'analysis',
                 'label': '补货跟进',
                 'icon': '📦',
