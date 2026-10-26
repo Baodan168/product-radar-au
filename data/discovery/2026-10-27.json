@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27 07:25 CST",
+  "scan_date": "2026-10-27",
+  "scan_time": "07:25",
+  "summary": {
+    "insights_count": 3,
+    "new_count": 3,
+    "repeat_count": 0,
+    "categories_covered": ["办公文具", "厨房工具", "宠物用品"],
+    "rotation_directions": "周二轮换=宠物用品+文具办公；宠物(狗训练零食腰包)+文具(显示器便签板)命中轮换表，第3条厨房(机械计时器)为当日数据最强自由替补。候选均通过14天去重与全历史主品类查重(蔬菜削皮器/橄榄油喷瓶/舔垫/狗爪杯等30+历史品类已排除)",
+    "data_sources": "Amazon AU Movers&Shakers+Best Sellers(kitchen/pet/office/automotive/sports)+Hot New Releases(dogs)；1688/义乌购价格验证2次；本日预算受限6次web_search完成，未跑Google Trends/TikTok(选做项放弃)",
+    "notes": "3条均为14天内首推(is_new=True)。排除项：防水手机袋(Lamicall 39.8k评红海)、车前挡遮阳(头部17-22k评+大尺寸超包装红线)、狗指甲锉板(35×25cm木制超重)、气球拱门套装(125只乳胶球≈375g超重)"
+  },
+  "insights": [
+    {
+      "keyword": "acrylic monitor memo board sticky note holder",
+      "keyword_cn": "显示器侧边亚克力留言板2片装（透明自粘屏幕备忘板，办公室/居家办公便签收纳）",
+      "amazon_keyword": "acrylic monitor memo board sticky note holder",
+      "search_1688": "亚克力显示器留言板",
+      "demand_signals": [
+        "Amazon AU『Self-Stick Notepad Holders』Best Sellers前7位中4席为亚克力显示器留言板，头部GVPIPYS仅94评(4.9星)，多款上架不久即进榜——需求上升且供给薄(来源: amazon.com.au/gp/bestsellers/office-products/10554350051, 2026-10-27扫描)",
+        "Gooduanduan 2片装28×7.7cm无评分即占榜位#2、TrrtDo A$11.50、双片装A$9.96(13评)——新listing零评论也能排名，典型供给跟不上需求的gap信号(来源: 同上best sellers页)",
+        "1688义乌购跨境专供货源¥3.4-9.6/件(30×8cm平款)，义乌仓现货1784+件，标注主销亚马逊/速卖通，2026-10-02仍在更新库存——供应链成熟、拿货价对应A$0.7-2(来源: yiwugo.com/product/detail/986891147.html)"
+      ],
+      "trend_score": 78,
+      "trend_score_basis": "Best Sellers类目内多款新listing密集上榜(增量信号)+供给端review数普遍<150(低竞争)，扣分项：未做Google Trends/TikTok验证，社媒热度未证实",
+      "trend_direction": "up",
+      "reason": "澳洲居家办公渗透率高，显示器边框便签板是欧美/澳洲办公桌网红品类的后段：UK/US已热，AU站头部竞品仅94评且A$9.96-16.99价格带正好压在Lee价格带内。027/007测品逻辑匹配——轻(约120-160g/2片)、平(包装约32×10×2cm)、非电子、无液体，FBA小标准件。圣诞前办公室礼品季+年初Back to School还会接力第二波",
+      "action": "定价A$12.99-13.99(2片装)；1688搜『亚克力显示器留言板』/『电脑屏幕侧边记事板』，拿货¥3.4-9.6，成本A$0.7-2；采购要点：亚克力厚度≥2mm防翘、背胶用3M级可移胶不留痕、附赠白板笔槽款溢价更高；A$12.99硬成本口径利润率约42.7%(净利A$5.54)",
+      "competition": "头部GVPIPYS 94评4.9星A$16.99、Post-it传统亚克力座4440评但形态不同(桌面座式)；屏幕侧边粘贴式无品牌垄断，前7名合计review<600，新进入者可凭2片装+赠笔打差异化。诚实标注：类目天花板低于厨房/宠物大类，属中等容量稳单品类",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 85,
+        "profit": 90,
+        "final": 80,
+        "recommendation": "buy",
+        "profit_window": "4-8周(11月底圣诞办公室礼品季启动)+全年复购属性"
+      }
+    },
+    {
+      "keyword": "mechanical kitchen timer 60 minute visual countdown",
+      "keyword_cn": "无电池机械视觉倒计时器（60分钟旋钮红面番茄钟，磁吸+桌面两用，厨房/学习时间管理）",
+      "amazon_keyword": "mechanical kitchen timer 60 minute visual countdown",
+      "search_1688": "机械厨房计时器 磁吸 旋钮",
+      "demand_signals": [
+        "Amazon AU『Kitchen Timers』Best Sellers类目头部：KADAMS番茄钟方块288评A$29.99、AVINIA LED款8300评A$23.99、TWENTY5 SEVEN无电池机械视觉款1781评A$25.99——计时器品类需求已被多重验证，且无电池机械款仅TWENTY5 SEVEN一家突出(来源: amazon.com.au/gp/bestsellers/kitchen/5016711051, 2026-10-27扫描)",
+        "Movers & Shakers厨房榜单今日#1/#2为Joseph Joseph沙拉prep套装(+555,000%)与打蛋器(+22,900%)，厨房工具大类整体处于流量高点，计时器作为厨房+学习双场景工具受益(来源: amazon.com.au Movers&Shakers Kitchen&Dining, 2026-10-27)",
+        "数字款清一色含电池(禁售红线内)，无电池机械旋钮款是合规空位；TWENTY5 SEVEN定价A$25.99高出Lee价格带上限59%，A$13.99-15.99 undercut空间明确(来源: 同上best sellers页价格对比)"
+      ],
+      "trend_score": 74,
+      "trend_score_basis": "类目多款大评量产品验证需求真实存在(8300/1781评)，M&S厨房榜佐证大类热度；扣分项：机械款无增量排名信号，属存量需求+价格空位逻辑而非爆发趋势",
+      "trend_direction": "stable_up",
+      "reason": "计时器是厨房+学习(番茄钟/ADHD时间管理)双场景常青品。关键机会在合规空位：AU站头部数字款全部含电池(禁售)，无电池机械款只有TWENTY5 SEVEN一家且卖A$25.99。同款1688机械机芯¥3-6(A$0.6-1.3)，A$14.99定价净利率45%+。11月底黑五+12月圣诞烘焙季是厨房工具天然流量峰",
+      "action": "定价A$13.99-15.99；1688搜『机械厨房计时器 磁吸』/『60分钟机械定时器 旋钮』，拿货¥3-6；采购要点：选红面大数字款(视觉款溢价)、机芯走时精度≤±5%、带磁吸背板+可立支架、无声铃声≥65分贝；A$14.99硬成本口径利润率约46%(净利A$6.9，按1688价A$1.3计)",
+      "competition": "TWENTY5 SEVEN 1781评A$25.99一家独大(机械视觉细分)，数字款AVINIA 8300评/KADAMS 288评；机械细分集中度高但价格带错位——头部在A$25+，A$9.97-12.97区间是数字小款，A$13-16机械视觉款为空位。诚实标注：若TWENTY5 SEVEN降价防御，利润空间收窄，需盯价格",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 68,
+        "profit": 85,
+        "final": 72,
+        "recommendation": "buy",
+        "profit_window": "4-8周(黑五+圣诞烘焙季)+全年常青"
+      }
+    },
+    {
+      "keyword": "dog training treat pouch silicone magnetic closure",
+      "keyword_cn": "狗狗训练零食腰包（硅胶磁扣单手开合，附可调腰带+ poop袋Dispenser位，遛狗/训犬户外）",
+      "amazon_keyword": "dog training treat pouch silicone magnetic closure",
+      "search_1688": "狗狗训练零食袋 腰包 硅胶",
+      "demand_signals": [
+        "Amazon AU『Training & Behaviour Aids for Dogs』Best Sellers #6为AWINNER硅胶磁扣零食袋454评A$12.99(5个offer)——训练辅助细分头部位置被硅胶磁扣款占据，验证形态匹配澳区需求(来源: amazon.com.au/gp/bestsellers/pet-supplies/5581911051, 2026-10-27扫描)",
+        "澳洲入夏(11-1月)遛狗高峰+幼犬训练场景，训练零食袋是夏季宠物配件的刚需复购带；AU站宠物类目Best Sellers前部仍被食品占据，配件端训练辅助类第6名即无更强本土品牌(来源: 同上best sellers页+Pet Supplies大类页)",
+        "1688硅胶训犬零食袋货源¥3-6/件(磁扣开口+腰带款)，重量约100-130g，远低于200g红线，供应链在深圳/义乌两地成熟(来源: 1688市场页综合报价, 2026-10-27检索)"
+      ],
+      "trend_score": 70,
+      "trend_score_basis": "BS类目#6实证+南半球夏季遛狗季节性加成；扣分项：头部竞品454评已有一定护城河，非全新空位，社媒验证未做",
+      "trend_direction": "up",
+      "reason": "周二轮换命中宠物方向。澳洲宠物渗透率高(全国约620万家庭养狗)，夏季晚间遛狗+户外训练是11-2月的场景峰值。硅胶磁扣款单手开合是当前主流形态，头部AWINNER A$12.99 5个offer说明多层价格竞争已开始，新进入者需靠2件装(主副包/双色)差异化。轻小平价，FBA小标准件，正装测试品逻辑",
+      "action": "定价A$12.99(2件装)；1688搜『狗狗训练零食袋 腰包』/『硅胶狗零食包 磁扣』，拿货¥3-6/件、2件装成本A$1.3-2.5；采购要点：食品级硅胶内衬可翻出清洗、磁吸扣吸力适中单手可开、腰带长度≥120cm、附拾便袋 dispensing孔位加分；A$12.99硬成本口径利润率约42.7%(净利A$5.54)",
+      "competition": "AWINNER 454评A$12.99为头部，类目内 bark collar/long lead等竞品在4000+评但形态不同；零食袋细分集中度中等，5个offer说明同款多卖家比价中，需2件装+配色避开正面同款。诚实标注：宠物配件AU容量有限(人口基数)，属于稳单型而非爆发型",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 72,
+        "profit": 88,
+        "final": 75,
+        "recommendation": "buy",
+        "profit_window": "4-8周(南半球夏季遛狗高峰11-1月)"
+      }
+    }
+  ],
+  "trend_forecast": "① 11/24-11/30 黑五+Cyber Monday（2026年黑五为11/27）：全澳折扣流量绝对峰值，81%澳洲消费者等大促才买，低客单轻小件是黑五冲动购买主力。品类方向：圣诞礼品小件（礼品袋/吊牌/包装工具）、BBQ配件（夏季+黑五双叠加）、宠物圣诞小礼。最晚空运下单死线11/03——从窗口开始日11/24倒推3周（采购备货+空运10-15天+入仓上架），实际建议11月初前完成下单，过线则黑五前无法上架，写了等于白写。② 12/01-12/14 圣诞派对季+办公室breakup party：澳洲12月初进入圣诞派对密集期（学校结课、公司年会），派对装饰、圣诞餐桌小件、可复用圣诞布艺类需求进入陡坡。品类方向：圣诞派对耗材、餐桌装饰配件、礼品交换小物。最晚空运下单死线11/10。③ 12/15-12/24 圣诞前最后一波+夏季海滩场景开启：12月中旬是圣诞礼物配送截止前的最后抢购潮（澳州境内快递截点约12/15-20），同时学校放假+天气入夏，海滩玩具、泳池配件、野餐小件开始走量。品类方向：沙滩/泳池轻小配件（注意泳池除外超重品）、野餐防蝇罩复购款、防晒物理配件（帽子夹/毛巾固定带类，禁液体防晒霜）。最晚空运下单死线11/17。④ 12/22-12/24+延至1月初 夏季野餐季长尾：Boxing Day（12/26）后澳洲进入全年最长假期段，野餐/露营/后院BBQ场景持续到1月底，野餐收纳、昆虫物理防护（驱蚊网/粘虫板类，禁化学品）、户外水具配件需求平稳走高。品类方向：野餐配件、露营收纳小件、物理防虫用品。最晚空运下单死线12/01。⚠️ 统一口径：空运时效按10-15天（Lee 2026-10-16确认），所有死线=窗口开始日倒推3周（含采购备货+空运+入仓上架）；过线窗口未列入，避免误导采购。北半球思维禁用：澳洲12-2月=盛夏，圣诞=海滩BBQ场景，勿推冬季暖品。"
+}
