@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30 07:35 CST",
+  "scan_date": "2026-10-30",
+  "scan_time": "07:20",
+  "summary": {
+    "insights_count": 3,
+    "new_count": 3,
+    "repeat_count": 0,
+    "categories_covered": ["旅行配件", "BBQ烧烤配件", "圣诞装饰"],
+    "rotation_directions": "周五轮换=节日前瞻+旅游配件：仿珍珠圣诞珠链命中节日前瞻方向（Kmart 2026圣诞range主打pearl-look本土趋势，AU ornaments榜内无同款）；旅行首饰盒命中旅游配件方向（AU头部velvet款断货+ProCase 4118评需求实证）；BBQ撕肉爪为自由替补（AU榜新品进榜信号+夏季BBQ场景）。候选均通过14天去重与历史主品类查重",
+    "data_sources": "Amazon AU Best Sellers(christmas-ornaments/travel-accessories/luggage/travel-packing-organisers/barbecue-forks/barbecue-utensils)+Hot New Releases 7次合并搜索；Kmart 2026圣诞range本土报道(nine.com.au/bhg.com.au)；1688/义乌购/CanCan1688/everful供应商价格验证2次；本日web_search共7次，Google Trends/TikTok选做项放弃",
+    "notes": "3条均为14天内首推(is_new=True)。排除项：圣诞球大套装(Alupssuc 82pcs A$59.99超价超重、SHareconn 106pcs同问题)、压缩收纳袋(Amazon Basics 159k评+自家品牌垄断)、packing cubes(BAGAIL 55k评红海)、旅行颈枕(Cabeau 10k评+trtl 37k评红海)、行李秤(travel inspira 22k评红海)、通用旅行适配器(LENCENT垄断榜位)、不锈钢木柄肉爪(义乌款381g超重红线)、密封罐/液体类(红线)"
+  },
+  "insights": [
+    {
+      "keyword": "travel jewellery box organiser mini",
+      "keyword_cn": "旅行迷你首饰盒（丝绒软壳拉链款，含镜子+戒指槽+耳钉板+项链挂钩位，13×10×5cm随身装）",
+      "amazon_keyword": "travel jewellery box organiser mini",
+      "search_1688": "旅行首饰盒 迷你 丝绒 首饰收纳盒",
+      "demand_signals": [
+        "AU站旅行首饰盒头部款Smileshe丝绒镜面盒2584评4.6星Currently Unavailable——头部断货，供给缺口实证(来源: amazon.com.au Smileshe listing, 2026-10-30扫描)",
+        "ProCase贝壳款4118评4.7星A$价带内稳销、Vlando方款244评4.7星A$18.77在售——品类需求有评量实证且尚无5000评+垄断者(来源: amazon.com.au ProCase/Vlando listings, 2026-10-30)",
+        "轻量化对标清晰：Smileshe 132g/Dajasan丝绒款190g(15×10.5×5cm)/ProCase 226g——丝绒软壳款可压进200g红线内，PU硬壳450g款(Douzi)直接排除(来源: 各listing参数页, 2026-10-30)",
+        "澳洲12月双场景叠加：圣诞礼物季(女性礼品高频选项)+学校假期/夏季探亲旅行季——首饰盒是礼品化+自用双属性小件(来源: 季节场景推算，AU暑假12月中起)",
+        "1688供给：义乌丝绒迷你首饰盒常规批发区间约¥5-10/个(历史1688扫描验证价，本日预算未单独验证；搜『旅行首饰盒 迷你 丝绒』+『首饰收纳盒 拉链』)"
+      ],
+      "trend_score": 76,
+      "trend_score_basis": "头部款断货(硬信号)+ProCase 4118评需求实证+圣诞礼品季时点；扣分项：ProCase已有4118评评量墙，必须做丝绒轻量+镜面差异款，不能同质硬碰；未跑Google Trends",
+      "trend_direction": "stable_up",
+      "reason": "周五轮换命中旅游配件方向。AU旅行配件榜头部(行李秤22k评/压缩袋159k评/颈枕万评级)全是红海，唯独首饰收纳细分是『头部断货+次头部仅百级评』的组合：Smileshe 2584评断货说明需求在而货不在，Vlando 244评、Douzi 118评说明新进玩家评分门槛低。丝绒软壳款132-190g正好卡进200g红线、13×10×5cm合规、非电子无液体。圣诞女性礼品+12月旅行季双窗口都在4-8周内",
+      "action": "定价A$12.99(单只丝绒款)；1688搜『旅行首饰盒 迷你』/『丝绒首饰收纳盒 拉链』/『首饰盒 带镜子』，拿货约¥5-10(A$1.04-2.08)，义乌现货；采购要点：外层选丝绒/短毛绒(差异化于PU硬壳红海)、内置镜子、戒指槽≥6位、耳钉板≥12孔、拉链顺滑度是差评重灾区必验；A$12.99硬成本口径(佣金15%+FBA A$4.2+采购A$2.0)利润率约37.3%(净利A$4.84)",
+      "competition": "诚实标注：ProCase 4118评4.7星是实际竞品墙，Smileshe断货只是窗口不是护城河——返场或第三方补位很快。进场逻辑=丝绒轻量差异款+礼品包装卡位，避开PU硬壳正面战场；Vlando/Douzi等长尾玩家评分均<250评，新品评分追赶成本低",
+      "signal_scores": {
+        "trend": 76,
+        "gap": 70,
+        "profit": 82,
+        "final": 75,
+        "recommendation": "buy",
+        "profit_window": "4-8周(圣诞女性礼品+12月旅行季)+全年常青"
+      }
+    },
+    {
+      "keyword": "bbq meat claws shredder 2 pack",
+      "keyword_cn": "BBQ撕肉爪2只装（食品级PP一体成型，手撕猪肉/鸡肉/火鸡肉撕碎+翻转排肉双用途，耐温230℃）",
+      "amazon_keyword": "bbq meat claws shredder 2 pack",
+      "search_1688": "撕肉爪 BBQ熊爪 分肉器 2个装",
+      "demand_signals": [
+        "AU『Barbecue Forks』Best Sellers榜#21肉爪589评4.5星A$12.99稳居——AU本土已有稳定月售基本盘(来源: amazon.com.au/gp/bestsellers/garden/5737337051, 2026-10-30扫描)",
+        "同品类Hot New Releases榜#19为4Pcs肉爪新品(1 offer A$12.99)——新品持续进榜，类目对新listing友好，供给端在跟着需求走(来源: amazon.com.au/gp/new-releases/garden/5265197051, 2026-10-30)",
+        "AU BBQ工具大盘实证：Barbecue Utensils榜红外测温枪9.5k评/smash压模906评/鱼排夹2170评——澳洲BBQ是国民场景，配件流量盘子大，肉爪处于流量外溢位(来源: amazon.com.au/gp/bestsellers/garden/5265197051, 2026-10-30)",
+        "12-2月南半球盛夏=BBQ旺季正峰，黑五凑单+圣诞家庭聚餐+元旦派对三连场景都在窗口内(来源: 南半球季节反转口径，AU夏季12-2月)",
+        "1688供给验证：CanCan1688 PP款黑色OPP袋装¥1.08/个起批、2个彩盒装¥2.84(库存99万+)；1688报价平台熊爪分肉器2个盒装贴牌¥10——PP轻款现货极深(来源: cancan1688.com/1688报价走势, 2026-10-30)"
+      ],
+      "trend_score": 73,
+      "trend_score_basis": "AU榜589评基本盘+Hot New Releases新品进榜(增量硬信号)+1688库存99万级供给验证；扣分项：肉爪是US老爆款滞后导入AU，无AU本土社媒爆发信号，属跟随型机会而非首发型",
+      "trend_direction": "stable_up",
+      "reason": "自由替补方向。BBQ是澳洲国民场景，12月盛夏旺季正峰就在4-8周窗口内。肉爪在AU的竞争结构健康：头部仅589评(US同类已万评级)，且Hot New Releases持续有新品进榜说明AU站对该品类的流量分配仍开放。选PP一体款(2只约120-150g、彩盒约18×12×4cm)规避不锈钢木柄款381g超重红线，非电子无液体。黑五凑单价A$12.99正卡在冲量价格带",
+      "action": "定价A$12.99(2只彩盒装)；1688搜『撕肉爪』/『BBQ熊爪分肉器』/『肉爪 2个装 彩盒』，拿货¥1.08-2.84/对(A$0.23-0.59)，PP款现货深；采购要点：食品级PP认准耐温标(230℃/446℉印在爪身提升感知)、爪齿抛光无毛边、彩盒印手撕猪肉食谱图提升礼品感；避开不锈钢款(381g超重+客单价战区)；A$12.99硬成本口径(佣金15%+FBA A$4.2+采购A$0.59)利润率约48.1%(净利A$6.25)",
+      "competition": "AU头部589评4.5星A$12.99，无5000评+垄断者，榜内新品1-58评层活跃——进场窗口真实。诚实标注：US肉爪是十年老品，品类无增长想象力，吃的是AU滞后红利+夏季旺季流量，天花板中等；红海化预计12-18个月内到来，快进快出",
+      "signal_scores": {
+        "trend": 73,
+        "gap": 75,
+        "profit": 90,
+        "final": 74,
+        "recommendation": "buy",
+        "profit_window": "4-8周(黑五凑单+圣诞聚餐+盛夏BBQ正峰)"
+      }
+    },
+    {
+      "keyword": "pearl bead christmas tree garland",
+      "keyword_cn": "仿珍珠圣诞树珠链花环2条装（1.6m/条，米白仿珍珠连线珠，缠绕树体/壁炉/楼梯扶手，Kmart同趋势款）",
+      "amazon_keyword": "pearl bead christmas tree garland",
+      "search_1688": "仿珍珠珠链 圣诞装饰 连线珠串",
+      "demand_signals": [
+        "Kmart 2026圣诞range主打pearl-look趋势：珍珠蝴蝶结3件装A$7、珍珠花环garland A$12首次进入圣诞产品线，本土媒体nine.com.au(10/19)/BHG Australia专文报道——澳区本土零售趋势头部硬信号(来源: nine.com.au『Bye bye, baubles: The $3 trend taking over this Christmas』2026-10-19 + bhg.com.au Kmart 2026 preview)",
+        "AU ornaments榜头部全是经典红绿金大套装(Alupssuc 82pcs 620评A$59.99/SHareconn 30ct 2261评A$27.99/Sea Team 80pk 2288评)——珍珠/珠链细分在AU Amazon榜内无小包装低价选项，与Kmart本土趋势形成供给错位(来源: amazon.com.au/gp/bestsellers/home/4975908051, 2026-10-30扫描)",
+        "趋势背书链完整：tassel/流苏是2026时尚大趋势外溢到家饰(Kmart tinsel tassel 3件装A$7同逻辑)，pearl-look是Kmart首次引入澳区圣诞——差异化红利期刚开启(来源: nine.com.au报道, 2026-10-19)",
+        "1688供给验证：everful批发珍珠珠链1.6m约US$1.15/条(≈¥8.3)、义乌仿珍珠连线珠链¥14起批、圣诞花环配件¥0.29-0.59/件现货深(来源: everfulwholesale/chinagoods/1688 market, 2026-10-30验证)"
+      ],
+      "trend_score": 78,
+      "trend_score_basis": "Kmart本土首发趋势+AU Amazon榜内同款空缺(双硬信号)+1688现货验证；扣分项：季节品12/25后需求归零，本季只剩尾季窗口，主要回报在低风险试水+明年9-11月提前布局的复用价值",
+      "trend_direction": "up",
+      "reason": "周五轮换命中节日前瞻方向。圣诞装饰是47天节庆窗内确定流量，但经典球类大套装已是超价红海(A$22-60)——Kmart刚刚把pearl-look做成澳区本土趋势(10月preview事件)，Amazon AU供给完全没跟上：榜内无珍珠珠链小包装。2条装卷装约20×20×4cm、塑料珠约150-180g合规、非电子无液体。诚实定位：黑五主峰空运死线(11/02)已过，本条吃的是Cyber Monday到12/20圣诞截单的尾季窗口+明年9月圣诞上架季复用，首单建议小批量试水",
+      "action": "定价A$14.99(2条装×1.6m)；1688搜『仿珍珠珠链』/『圣诞连线珠串』/『珍珠链 圣诞装饰』，拿货约¥8.3-14/条(A$1.73-2.92)，义乌现货充足；采购要点：珠径选8-10mm饱满款、连线选透明鱼线不露痕、每条末端留挂环、卷板包装防打结；色彩只做米白/纯白(对齐Kmart pearl-look主色，勿做彩色)；A$14.99硬成本口径(佣金15%+FBA A$4.2+采购A$3.46)利润率约33.9%(净利A$5.08)",
+      "competition": "AU ornaments榜头部为球类套装垄断(620-2288评)，珍珠珠链细分榜内无直接竞品——供给真空真实存在。诚实标注：季节品风险，12/25后库存变死货，本季仅4-8周窗口；Kmart线下A$12单条是价格锚，2条装A$14.99卡在其上方，若Kmart线上同步铺货会分流，速度是唯一壁垒",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 88,
+        "profit": 78,
+        "final": 78,
+        "recommendation": "buy",
+        "profit_window": "4-8周(Cyber Monday→12/20圣诞截单尾季窗口)；明年9-11月圣诞上架季可复用"
+      }
+    }
+  ],
+  "trend_forecast": "① 11/27-11/30 黑五尾量+Cyber Monday：黑五(11/27)主峰空运死线11/02已过，但Cyber Monday(11/30)延长的折扣流量还有最后一波凑单高峰——81%澳洲消费者等大促才买的习惯会延续到网一。品类方向：轻小凑单品（肉爪类BBQ小工具/首饰盒类礼品小件/圣诞装饰小包装），定价A$9.99-14.99的凑单价最吃流量。最晚空运下单死线11/09（按11/30窗口开始倒推3周），今天10/30起算还有10天，小批量现货空运仍可赶上。② 12/01-12/07 圣诞礼物流量第一峰：Kmart圣诞range已上线预热到12月初，Amazon AU圣诞类目流量进入爬坡主升段。品类方向：礼品化小件（女性礼品首饰盒/男士礼物BBQ工具/圣诞装饰挂件类）、圣诞桌面前置小物（不含灯串电子件）。最晚空运下单死线11/10。③ 12/08-12/14 圣诞截单前最后大批量窗口：澳洲境内快递圣诞截点(约12/15-20)驱动最后一波集中下单，FBA入仓截止临近，本周是全品类圣诞礼物流量通吃的最后窗口，轻小件优势最大（到仓即卖不留库存压力）。品类方向：全圣诞礼物流量+夏季场景预热（泳池/海滩小配件开始起量）。最晚空运下单死线11/17。④ 12/15-12/21 圣诞最后一波+盛夏场景全开：学校放假+入夏，圣诞当天前后是海滩/BBQ/野餐场景流量顶点，圣诞装饰类需求在12/25后一周内断崖归零——圣诞装饰品本周起必须转向清仓思维。品类方向：BBQ工具/野餐配件/泳池小件/清凉小物（南半球反转：勿碰任何冬令暖品）。最晚空运下单死线11/24。⚠️ 统一口径：空运时效按10-15天(Lee 2026-10-16确认)，所有死线=窗口开始日倒推3周；过线窗口不列入。黑五主峰死线11/02已过——未备货的品不追黑五主峰，改吃Cyber Monday(死线11/09)及12月圣诞长尾。北半球思维禁用：澳洲12-2月=盛夏，圣诞=海滩BBQ场景，12月是BBQ工具旺季正峰而非厨房室内小件淡季。"
+}
