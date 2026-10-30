@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31 07:50 CST",
+  "scan_date": "2026-10-31",
+  "scan_time": "07:40",
+  "summary": {
+    "insights_count": 3,
+    "new_count": 3,
+    "repeat_count": 0,
+    "categories_covered": ["圣诞桌饰(酒瓶套)", "泳池清洁", "厨房工具"],
+    "rotation_directions": "周六=自由方向（当天数据信号最强的3个不同品类）：针织圣诞酒瓶套命中AU Amazon供给真空（仅2款弱竞品，线下多零售商在售验证需求）；泳池滤网袜命中双头部断货+泳池季开闸（Kgihope 1020评/IMPRESA 6489评两大头部均Currently Unavailable）；三合一削皮器为Kitchen Movers 595%当日暴涨硬信号。候选均通过14天去重（防割手套/猫头鹰/抹茶套装/水槽提笼等已推品类全部排除）",
+    "data_sources": "Amazon AU Movers & Shakers(Kitchen/Garden/Home Improvement)+Best Sellers(kitchen/garden/advent calendars)+fillable advent calendar搜索6次合并扫描；1688/义乌购/1688.ru供应商价格验证2次；本日web_search共6次，Kmart Anko/Google Trends/TikTok选做项放弃（TikTok搜索返回无效结果为图书榜单，不作为信号）",
+    "notes": "3条均为14天内首推(is_new=True)。与昨日珠链花环同属圣诞场景但主品类不同(珠链vs酒瓶套，按头部名词规则不重复)。排除项：烤棉花糖签6支32寸(展开81cm、约270g超重红线)、Lifewit水杯收纳架(A$21.98超价格带上限)、POLOAZA泳池刷头(A$33.99超价格带)、鸡蛋椅坐垫(超重超大件)、 Raised Garden Bed(A$80.99超大件)、macrame棉绳(约250g超重)、Joseph Joseph沙拉套装(A$74.95超价格带)、电动磨豆机/盐磨(电子件红线)、香薰蜡烛融蜡灯(电器+灯红线)"
+  },
+  "insights": [
+    {
+      "keyword": "knitted christmas wine bottle cover santa table decor",
+      "keyword_cn": "针织圣诞酒瓶套2只装（圣诞老人+雪人混款，弹力针织适配750ml标准红酒瓶/香槟瓶，餐桌氛围摆件+hostess gift双用途）",
+      "amazon_keyword": "knitted christmas wine bottle cover santa table decor",
+      "search_1688": "针织圣诞酒瓶套 圣诞酒瓶套 雪人 麋鹿",
+      "demand_signals": [
+        "AU Amazon此细分仅2款弱竞品：FIL单只A$6.95仅1评(排名4332 Gift Bags无流量)；另一款2只装A$29.61仅6评且3.2星差评——有搜索需求无有评分护城河的供给(来源: amazon.com.au FIL B0DHV84RG9 + Christmas Wine Bottle Cover Pack of 2 listing, 2026-10-31扫描)",
+        "澳洲线下多零售商在售验证本土需求：Real Christmas Trees A$7.90(库存仅6件)、Online Party Supplies A$4.99-9.99(Scandinavian款仅剩4件)、Onira独立站A$34高定价在售、LaVida批发商起订16件——多渠道动销但Amazon AU没人做好(来源: realchristmastrees.com.au/onlinepartysupplies.com.au/onira.com/lavida.com.au, 2026-10-31)",
+        "12月餐桌场景峰值：圣诞餐桌氛围品12月上旬走陡，酒瓶套是圣诞晚宴+Kris Kringle交换礼物+hostess gift三场景小件，南半球圣诞=家庭聚餐BBQ配酒场景成立(来源: 季节场景推算，AU圣诞餐桌文化)",
+        "1688供给验证：义乌购源宏达『跨境圣诞针织红酒瓶套』¥4.90/只(5只起批)，老人款/雪人款/麋鹿款库存1.5-4.2万件现货，2026-10-03更新(来源: yiwugo.com product 987023639, 2026-10-31验证)"
+      ],
+      "trend_score": 72,
+      "trend_score_basis": "AU Amazon供给真空(仅弱竞品)+多渠道线下动销验证+1688现货深，三重证据；扣分项：无AU Amazon榜单排名直接证明(品类太细分未进榜)、季节品12/25后归零、进入门槛低Kmart若线上铺货会压价格锚",
+      "trend_direction": "up",
+      "reason": "自由方向命中当日最强结构机会。酒瓶套在澳洲是已被线下验证的圣诞桌饰品（四家零售商在售），但AU Amazon上只有1评新品和3.2星高价新款——典型的『线下热、线上真空』错位。A$29.61的2只装竞品定价过高评价差，A$12.99卡位直接接住搜索流量。针织款单只约90g、2只装临界200g需控制包装，平折28×15×3cm合规，非电子无液体。圣诞类11/06空运死线前小批量快进",
+      "action": "定价A$12.99(2只装圣诞老人+雪人混款)；1688搜『针织酒瓶套 圣诞』『圣诞酒瓶套 雪人 麋鹿』，义乌源宏达¥4.90/只(5只起批，A$1.02/只)；采购要点：弹力针织套口必须适配750ml标准瓶(下单前要样品实测)、胡子/鹿角/装饰扣车缝牢固度是差评重灾区、平折OPP袋+纸卡包装防超200g；A$12.99硬成本口径(佣金15%+FBA A$4.2+采购A$2.04)利润率37.0%(净利A$4.80)",
+      "competition": "诚实标注：AU Amazon无直接强竞品(最接近的2只装仅6评3.2星)，但该品类无专利门槛，线下零售商随时可上Amazon——FIL已占Gift Bags类目位。进场逻辑=价格卡位(A$12.99 vs 竞品A$29.61)+评分速度；Kmart线上若同步铺货(A$7档)会压缩空间，快进快出，12/25后清仓",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 85,
+        "profit": 82,
+        "final": 76,
+        "recommendation": "buy",
+        "profit_window": "4-8周(12月圣诞餐桌峰值)；12/25后归零需清仓思维"
+      }
+    },
+    {
+      "keyword": "pool skimmer socks filter basket fine mesh 20 pack",
+      "keyword_cn": "泳池滤网袜20只装（超细尼龙网+弹力收口，套 skating篮拦截树叶/虫/花粉/油脂，保护水泵过滤系统，通用 Hayward/Pentair/Waterco 篮）",
+      "amazon_keyword": "pool skimmer socks filter basket fine mesh",
+      "search_1688": "泳池过滤袜 泳池过滤网袜 20只装",
+      "demand_signals": [
+        "AU两大头部双双断货：Kgihope 30只装1020评4.6星Currently Unavailable + IMPRESA 10只装6489评4.4星Currently Unavailable——需求实rating在而头部货不在，供给缺口硬信号(来源: amazon.com.au B087TJSXSQ + B01GW1JXOY, 2026-10-31扫描)",
+        "泳池维护品类整体起量：本日Movers & Shakers Garden榜POOLAZA泳池刷头492%暴涨进榜(A$33.99)——夏季开池潮带动全品类流量(来源: amazon.com.au/gp/movers-and-shakers Garden, 2026-10-31)",
+        "在售玩家评分墙极低：FIOHIROS 20只装A$14.99仅19评(榜#6)、Coolrunner 20只装A$24.99仅60评、ZenBeya 20只装A$11.85仅2评——新品追赶成本低(来源: amazon.com.au/gp/bestsellers/garden/5707701051 Pool Cleaning Skimmers, 2026-10-31)",
+        "1688供给极深：义乌荣荣袜子厂5只装¥3.5(库存22.9万件)/10只装¥7/20只装¥14(库存12.3万件)，1688.ru同款30天售26274件、累计59.7万件——跨境爆款供给成熟(来源: yiwugo.com 972863097 + 1688.ru 674932533941, 2026-10-31验证)",
+        "南半球泳池季开闸：11月-2月是澳洲泳池使用+维护高峰(澳洲私人泳池保有量约350万个，行业常识口径)，11月开池清洁需求起量、12月-1月耗材复购走陡(来源: 南半球季节反转口径)"
+      ],
+      "trend_score": 75,
+      "trend_score_basis": "双头部断货(硬信号)+同榜品类492%暴涨佐证泳池季动量+1688库存23万级供给验证；扣分项：IMPRESA返场即窗口关闭、品类是耗材复购型无增长想象力、本条未跑Google Trends",
+      "trend_direction": "stable_up",
+      "reason": "泳池滤网袜是澳洲泳池主的耗材刚需(4-8周换一次)，竞争结构出现教科书级窗口：6489评和1020评两大头部同时断货，在售玩家最高仅60评。20只装147g合规(30只装216g超重红线，选20只装)、15×12×1.5cm合规、无电子无液体。A$12.99对标FIOHIROS A$14.99形成价格优势。泳池季流量从11月开池持续到1月底，4-8周窗口正覆盖峰值",
+      "action": "定价A$12.99(20只装)；1688搜『泳池过滤袜』『泳池过滤网袜 20只』，义乌荣荣¥14/20只(A$2.92，10袋起批)；采购要点：超细尼龙网目数对标IMPRESA(拦截花粉级)、弹力收口必须撑得住大号篮(Waterco Supa/Poolrite S2500澳洲主流规格，对标Aussie Gold Mega款)、边缘锁边防脱线；注意氯片直接接触会腐蚀网面(详情页须注明)；A$12.99硬成本口径(佣金15%+FBA A$4.2+采购A$2.92)利润率30.2%(净利A$3.92)",
+      "competition": "诚实标注：最大风险=IMPRESA/Kgihope返场补货即窗口关闭(6489评头部一旦返场，新品无胜算)；现役玩家ZenBeya 2评/FIOHIROS 19评/Coolrunner 60评评分墙低。进场逻辑=趁断货期以A$12.99价格位+20只装规格快速积累评分，11月入仓12月冲量",
+      "signal_scores": {
+        "trend": 75,
+        "gap": 80,
+        "profit": 78,
+        "final": 76,
+        "recommendation": "buy",
+        "profit_window": "4-8周(11月开池→12月-1月泳池季峰值，耗材复购型)"
+      }
+    },
+    {
+      "keyword": "3 in 1 vegetable peeler wooden handle multifunctional",
+      "keyword_cn": "三合一削皮器2只装（木柄款，削皮+葱器刨丝+开瓶器三合一，不锈钢刀体，夏季水果季+圣诞小礼品场景）",
+      "amazon_keyword": "vegetable peeler 3 in 1 multifunctional kitchen",
+      "search_1688": "三合一削皮器 木柄 多功能切葱器",
+      "demand_signals": [
+        "Kitchen Movers & Shakers当日595%暴涨、rank 213→60：『2026 New Multifunctional Vegetable Peeler 3 in 1 Wooden Handle』(削皮+切葱+开瓶器)——当日硬脉冲信号(来源: amazon.com.au/gp/movers-and-shakers Kitchen & Dining, 2026-10-31扫描)",
+        "该款已8个offer跟进(A$9.30起)——新款集群快速涌入说明卖家端在追同一个信号，先发窗口短但盘子在快速放大(来源: 同上Movers页面offer数, 2026-10-31)",
+        "削皮器大盘坚实：Kitchen Best Sellers #2 OXO Swivel Peeler 51417评A$8.99——削皮器是AU厨房高频刚需品，三合一变体在OXO没有对应产品(葱孔+开瓶器组合)留出差异空隙(来源: amazon.com.au/gp/bestsellers/kitchen, 2026-10-31)",
+        "1688供给极深价低：义乌清风百货三合一仿木纹款¥2.18/只(1个起批库存12.8万)、实木柄款¥2.30-2.80；华鑫国际贸易实木柄削皮葱丝刀¥2.30起(1000个起批)——阳江产地现货充足(来源: yiwugo.com 986228800 + 985564916, 2026-10-31验证)"
+      ],
+      "trend_score": 70,
+      "trend_score_basis": "Movers 595%当日暴涨(硬信号)+8 offers集群跟进+1688现货深；扣分项：同款多点开花竞争烈度高、OXO 5万评占据通用削皮器心智、工具类无增长想象力、脉冲信号可能是一日游——按快进快出定位",
+      "trend_direction": "up",
+      "reason": "当日Kitchen榜单最强价格带内信号。三合一木柄款正好卡在A$8.99-16.99价格带下沿，2只装成本不足A$1、空运成本可忽略。场景叠加成立：夏季水果季(12月正峰)削皮高频+圣诞前厨房小礼品+价格卡位A$9.99凑单价。木柄款对齐Movers爆款造型差异化于OXO纯功能款。2只装约90-120g、15.5×7.5cm单件合规，非电子无液体。诚实定位：吃脉冲+季节场景，不做长线",
+      "action": "定价A$9.99(2只装木柄款)；1688搜『三合一削皮器 木柄』『多功能切葱器 开瓶器』，清风百货¥2.18-2.80/只、华鑫实木柄¥2.30起(A$0.48-0.58/只)；采购要点：选木柄/仿木纹款(对齐Movers爆款造型)、420不锈钢刃口、葱孔冲压无毛刺(差评重灾区)、木柄含水率防霉；A$9.99硬成本口径(佣金15%+FBA A$4.2+采购A$1.04)利润率33.3%(净利A$3.33)",
+      "competition": "诚实标注：8 offers已在A$9.30同质混战，先发窗口预计2-4周；OXO 51417评是通用削皮器心智垄断者，不能正面竞争——只做三合一木柄差异变体。新品评分起步快(低客单高频)，用A$9.99+2只装规格抢『凑单+礼品』定位避开OXO主战场。红海化快，目标11-12月吃脉冲即收",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 55,
+        "profit": 75,
+        "final": 66,
+        "recommendation": "buy",
+        "profit_window": "4-8周(夏季水果季12月正峰+圣诞小礼品脉冲)；红海化快，快进快出"
+      }
+    }
+  ],
+  "trend_forecast": "① 11/28-12/04 黑五周末+Cyber Monday(11/30)收官：81%澳洲消费者等大促才买，黑五(11/27)主峰空运死线11/06已过——未备货的品不追主峰，但Cyber Monday延长流量+12月第一波礼品采购仍有确定量。品类方向：轻小凑单品（厨房小工具/圣诞桌饰小件/泳池清洁小包装），定价A$9.99-14.99的凑单价最吃流量。最晚空运下单死线11/07。② 12/05-12/11 圣诞餐桌与礼物采购第二峰：Kmart圣诞range全面铺开+澳洲公司Kris Kringle交换礼物文化带动低价礼品小件需求走陡。品类方向：圣诞餐桌氛围物（酒瓶套/桌布夹/餐巾环类）+hostess gift小件+神秘礼物小工具。最晚空运下单死线11/14。③ 12/12-12/18 圣诞截单前最后大批量窗口：澳洲境内快递圣诞截点(约12/15-20)驱动最后一波集中下单，FBA入仓截止临近，本周是圣诞礼物流量通吃的最后窗口，轻小件到仓即卖不留库存压力优势最大。品类方向：圣诞礼品收尾+夏季场景预热（泳池维护耗材/野餐小件开始起量）。最晚空运下单死线11/21。④ 12/19-12/25 圣诞周+盛夏全开：圣诞前最后冲刺，圣诞装饰类需求12/25后一周内断崖归零——装饰类本周起必须转清仓思维；泳池/BBQ/海滩品类进入全年流量顶点并持续到1月底。品类方向：泳池维护耗材(滤网袜类复购走陡)/BBQ配件/海滩小件（南半球反转：勿碰任何冬令暖品）。最晚空运下单死线11/28。⚠️ 统一口径：空运时效按10-15天(Lee 2026-10-16确认)，所有死线=窗口开始日倒推3周；过线窗口不列入，写了=误导采购。圣诞类11/06入场线后只吃12月长尾，一律小批量快反。Boxing Day(12/26)是澳洲全年最大清仓日，处于8周窗口之外，仅作清仓参考不作为入场窗口。北半球思维禁用：澳洲12-2月=盛夏，圣诞=海滩BBQ泳池场景。"
+}
