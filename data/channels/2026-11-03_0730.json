@@ -1,0 +1,939 @@
+{
+  "scan_date": "2026-11-03",
+  "scan_time": "07:30",
+  "scan_ts": "2026-11-03_0730",
+  "stats": {
+    "total_scanned": 274,
+    "passed_filter": 4,
+    "rejected": 270,
+    "channels": {
+      "etsy_trending": 3,
+      "multi_source": 3,
+      "temu_trending": 3,
+      "tiktok_verified": 3,
+      "new_releases": 2,
+      "youtube_review": 3,
+      "ozbargain": 3,
+      "keyword_search": 1,
+      "bsr": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "garden": 100,
+      "pets": 100,
+      "phone": 100,
+      "seasonal": 91,
+      "crafts": 89,
+      "home decor": 89
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 17
+  },
+  "products": [
+    {
+      "asin": "B00NWPV6Q2",
+      "name": "Utopia Bedding Duvet Cover Queen Size - 3 Piece with Zipper Closure - 1 Comforter Cover 90X90 Inches & 2 Pillow Shams 20",
+      "price": 12.03,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 3,
+      "category": "Bedding",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B00NWPV6Q2",
+      "image_url": "https://m.media-amazon.com/images/I/91PfpMxMSHL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势",
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.393,
+      "net_profit": 4.73,
+      "cost_breakdown": {
+        "commission": 1.8,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.3
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 155,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-03",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "multi_source",
+        "temu_trending",
+        "tiktok_verified",
+        "new_releases",
+        "youtube_review",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0BSZSG5RM",
+      "name": "Disposable net Round 9.4 inches (240 mm), 2 Pieces",
+      "price": 16.0,
+      "reviews": 36,
+      "rating": 4.1,
+      "rank": 44,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "36 reviews, 4.1★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BSZSG5RM",
+      "image_url": "https://m.media-amazon.com/images/I/81VrdfVTe4L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "pop up mesh food cover picnic bbq",
+      "sources": [
+        "趋势发现"
+      ],
+      "profit_margin": 0.506,
+      "net_profit": 8.1,
+      "cost_breakdown": {
+        "commission": 2.4,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.9
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 19,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-03",
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0H5XCFDVH",
+      "name": "Catherine Lansfield Tartan Check King Duvet Cover Set Red/Green",
+      "price": 12.31,
+      "reviews": 1,
+      "rating": 5,
+      "rank": 1,
+      "category": "Bedding",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "1 reviews, 5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H5XCFDVH",
+      "image_url": "https://m.media-amazon.com/images/I/91kFp6f3eOL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势",
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.403,
+      "net_profit": 4.96,
+      "cost_breakdown": {
+        "commission": 1.85,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.35
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 150,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 评论偏少": -8,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-11-02",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "multi_source",
+        "temu_trending",
+        "tiktok_verified",
+        "new_releases",
+        "youtube_review",
+        "ozbargain"
+      ]
+    },
+    {
+      "asin": "B0GTYK48Z6",
+      "name": "Gutter Cleaning Tools 14FT,Extendable Gutter Cleaning Brush with Shovel",
+      "price": 16.56,
+      "reviews": 12,
+      "rating": 4.2,
+      "rank": 5,
+      "category": "Cleaning",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "12 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GTYK48Z6",
+      "image_url": "https://m.media-amazon.com/images/I/71jPDlUYquL._AC_UL320_.jpg",
+      "sources": [
+        "Etsy趋势",
+        "Temu热销",
+        "YouTube种草",
+        "TikTok趋势",
+        "Ozbargain折扣"
+      ],
+      "profit_margin": 0.518,
+      "net_profit": 8.58,
+      "cost_breakdown": {
+        "commission": 2.48,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.98
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "畅销榜"
+      ],
+      "score": 148,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-10-28",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "etsy_trending",
+        "bsr",
+        "multi_source",
+        "temu_trending",
+        "tiktok_verified",
+        "youtube_review",
+        "ozbargain"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "pets",
+      "category": "pets",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "leash",
+        "grooming",
+        "cat",
+        "dog",
+        "collar"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "dog lead",
+        "retractable leash",
+        "training lead",
+        "pet grooming brush",
+        "dog grooming kit",
+        "deshedding tool",
+        "cat toy",
+        "cat bed"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=dog+lead",
+      "url_google": "https://trends.google.com/trends/explore?q=dog+lead&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 91,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "easter",
+        "halloween",
+        "christmas",
+        "gift",
+        "valentine"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "easter egg",
+        "easter decoration",
+        "halloween decoration",
+        "halloween costume",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=easter+egg",
+      "url_google": "https://trends.google.com/trends/explore?q=easter+egg&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 89,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "tape",
+        "paint",
+        "stickers",
+        "art",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "washi tape",
+        "decorative tape",
+        "masking tape",
+        "acrylic paint set",
+        "paint brush set",
+        "paint by numbers",
+        "stickers",
+        "art supplies"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=washi+tape",
+      "url_google": "https://trends.google.com/trends/explore?q=washi+tape&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 85,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "fitness",
+        "exercise",
+        "resistance",
+        "sport",
+        "water bottle"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "exercise",
+        "resistance",
+        "sport",
+        "water bottle",
+        "gym bag"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=resistance+band",
+      "url_google": "https://trends.google.com/trends/explore?q=resistance+band&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 83,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "pen",
+        "mouse",
+        "office",
+        "desk",
+        "notebook"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "mouse",
+        "office supplies",
+        "desk organizer",
+        "desk lamp",
+        "desk mat"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 83,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "fairy",
+        "led",
+        "solar light",
+        "night light",
+        "strip"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "fairy lights",
+        "fairy light curtain",
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "solar light",
+        "night light",
+        "LED strip"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=fairy+lights",
+      "url_google": "https://trends.google.com/trends/explore?q=fairy+lights&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 80,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "sustainable",
+        "organic",
+        "reusable",
+        "eco",
+        "bamboo"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "sustainable products",
+        "eco friendly",
+        "organic products",
+        "organic cotton",
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "eco products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sustainable+products",
+      "url_google": "https://trends.google.com/trends/explore?q=sustainable+products&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 72,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "nail",
+        "skincare",
+        "makeup",
+        "brush",
+        "hair"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "nail art kit",
+        "nail tools",
+        "nail stickers",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "makeup brush set",
+        "makeup bag"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=nail+art+kit",
+      "url_google": "https://trends.google.com/trends/explore?q=nail+art+kit&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 70,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "kitchen",
+        "gadget",
+        "mug",
+        "spice",
+        "baking"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "kitchen",
+        "gadget",
+        "spice rack",
+        "spice jar set",
+        "spice organizer",
+        "baking set",
+        "baking tray",
+        "cake mould"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=kitchen",
+      "url_google": "https://trends.google.com/trends/explore?q=kitchen&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 58,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "vehicle",
+        "motor",
+        "automotive",
+        "car",
+        "phone holder"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "vehicle",
+        "motorcycle accessories",
+        "motorcycle cover",
+        "automotive",
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vehicle",
+      "url_google": "https://trends.google.com/trends/explore?q=vehicle&geo=AU"
+    },
+    {
+      "keyword": "baby",
+      "category": "baby",
+      "heat": 55,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "toddler",
+        "child",
+        "kids",
+        "baby",
+        "nursery"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "toddler",
+        "child",
+        "kids",
+        "baby",
+        "nursery"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=toddler",
+      "url_google": "https://trends.google.com/trends/explore?q=toddler&geo=AU"
+    },
+    {
+      "keyword": "bathroom",
+      "category": "bathroom",
+      "heat": 54,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "mirror",
+        "soap",
+        "towel",
+        "bathroom",
+        "toilet"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "makeup mirror",
+        "vanity mirror",
+        "LED mirror",
+        "soap dispenser",
+        "soap dish",
+        "soap holder",
+        "towel rail",
+        "towel rack"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=makeup+mirror",
+      "url_google": "https://trends.google.com/trends/explore?q=makeup+mirror&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 545,
+      "evidence": [
+        "ring light",
+        "earbuds",
+        "charger",
+        "case",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "ring light",
+        "earbuds case",
+        "wireless earbuds",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "case",
+        "stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=ring+light",
+      "url_google": "https://trends.google.com/trends/explore?q=ring+light&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 89,
+      "score": 44,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 49850,
+      "evidence": [
+        "wall art",
+        "frame",
+        "decor",
+        "vase",
+        "clock"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "wall art print",
+        "wall hanging",
+        "wall decal",
+        "photo frame",
+        "picture frame",
+        "wall frame",
+        "home decor",
+        "room decor"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=wall+art+print",
+      "url_google": "https://trends.google.com/trends/explore?q=wall+art+print&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 66,
+      "score": 37,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3517,
+      "evidence": [
+        "container",
+        "box",
+        "drawer",
+        "shelf",
+        "storage"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "container",
+        "drawer",
+        "floating shelf",
+        "wall shelf",
+        "corner shelf",
+        "food storage",
+        "kitchen storage",
+        "container set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=container",
+      "url_google": "https://trends.google.com/trends/explore?q=container&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 63,
+      "score": 36,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 40617,
+      "evidence": [
+        "cleaning",
+        "sponge",
+        "vacuum",
+        "mop",
+        "cleaner"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "cleaning",
+        "sponge",
+        "vacuum",
+        "cleaner",
+        "duster",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cleaning",
+      "url_google": "https://trends.google.com/trends/explore?q=cleaning&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 58,
+      "score": 34,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3974,
+      "evidence": [
+        "bedding",
+        "cushion",
+        "sheet",
+        "duvet",
+        "throw"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "bedding",
+        "cushion",
+        "sheet",
+        "duvet",
+        "throw",
+        "pillow",
+        "blanket"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bedding",
+      "url_google": "https://trends.google.com/trends/explore?q=bedding&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "garden",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "phone",
+        100
+      ],
+      [
+        "seasonal",
+        91
+      ],
+      [
+        "crafts",
+        89
+      ],
+      [
+        "home decor",
+        89
+      ]
+    ],
+    "cross_validated": [
+      "garden",
+      "car",
+      "office",
+      "storage",
+      "lighting",
+      "pets",
+      "sports",
+      "crafts",
+      "travel",
+      "phone",
+      "beauty",
+      "home decor",
+      "baby",
+      "eco",
+      "seasonal",
+      "kitchen",
+      "bathroom",
+      "cleaning",
+      "bedding",
+      "kitchen_gadgets"
+    ],
+    "demand_keywords": [
+      "according to",
+      "actual performance varies by seller",
+      "aesthetic",
+      "aesthetic tech",
+      "aha! moment,",
+      "ai-powered",
+      "alignment kit",
+      "all-in-one",
+      "amazon home decor,",
+      "amazon prime video movies"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
