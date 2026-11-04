@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T07:20:00+08:00",
+  "scan_date": "2026-11-05",
+  "scan_time": "07:10",
+  "platform": "Amazon AU",
+  "summary": "周四轮换方向：家居收纳 + 运动健身，第三方向补夏季海滩/泳池配件（南半球12-2月盛夏，14天未推）。共4条候选，覆盖4个不同主品类：①橱柜水瓶立式收纳架（Kitchen Movers & Shakers 24h排名245→+730%，Lifewit单品1 offer垄断窗口）②龙门架脚踝拉力带2只装（Exercise Straps新品榜近1周涌入8+新listing，家用臀腿训练需求上翘）③沙滩防风毛巾夹6只装（TRIXES 8PK Amazon's Choice 3177条review，差评集中在易断+偏贵=差异化切口）④泳池充气用品TPU自粘修补片10片装（Pool Accessories细分KAIHENG 1059条review验证需求，泳池开工季）。过滤链通过4条新品，历史去重0条命中（14天内无同类主品类）。季节校准：澳洲入夏，海滩/泳池/户外场景进入4-8周需求爬坡。",
+  "insights": [
+    {
+      "keyword": "water bottle organiser for cabinet stackable",
+      "keyword_cn": "橱柜水瓶立式收纳架2件装",
+      "amazon_keyword": "water bottle organiser for cabinet stackable holder",
+      "search_1688": "水瓶收纳架 橱柜立式 塑料翻斗收纳架 跨境",
+      "demand_signals": [
+        "Amazon AU Kitchen Movers & Shakers 24h榜单Lifewit水瓶收纳架排名245→第2位，涨幅+730%（来源：amazon.com.au/gp/movers-and-shakers 2026-11-05抓取）",
+        "该细分AU站Lifewit 2件装A$21.98仅1个offer，无本土卖家跟进=窗口期（来源：Amazon AU M&S页面offer数）",
+        "WorldFirst 2026年10月AU选品报告：Home & Kitchen为AU站最高需求大类，收纳类为常青需求（来源：worldfirst.com/au选品报告2026-10-01）",
+        "AU客单价A$96+频次上升，收纳属于低客单高频复购逻辑，black五前家庭整理场景放大（来源：AU消费习惯校准数据）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "trend_score_basis": "Movers&Shakers +730%为24h级信号需趋势验证，但同类收纳架在Best Seller厨房收纳子榜稳定在榜（Simple Houseware罐头架31k review佐证收纳架子类大盘），综合78",
+      "reason": "Lifewit单品冲榜+730%且AU站仅1 offer，意味着需求已经起量但供给未跟上。澳洲11月起家家做圣诞前大扫除+新买的Owala等大肚水杯没地方立（AU运动榜Top2全是Owala水瓶，周边收纳是自然衍生需求）。现在空运11月底上架，正好接住黑五后+圣诞整理季。1688塑料收纳架单价¥6-10，2件装≈¥14（A$2.9），结构简单无电子件，空运友好。",
+      "action": "定价A$14.99（2件装）；1688搜「水瓶收纳架 橱柜 塑料 跨境」或「翻斗式水杯收纳架」，单件目标价¥6-8。⚠️硬约束核对：单件装称重须≤200g、包装≤30×21×6cm，若2件装超重则拆单件装定价A$9.99（利润A$3.19/32%仍达标）",
+      "competition": "AU站头部Lifewit 1 offer（review量未抓到详情页，估计<500，新品榜属性）；US站此品类已成熟（Lifewit美国站千条review级），AU落后美国6-12个月=典型跟随窗口。品牌集中度：Lifewit一家独大，尚无第二玩家",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 85,
+        "profit": 88,
+        "final": 82,
+        "recommendation": "buy",
+        "profit_window": "11月底上架→黑五后+圣诞整理季+1月New Year declutter，窗口约10周"
+      },
+      "profit_calc": "A$14.99 - 佣金13% A$1.95 - FBA A$4.20 - 采购A$2.90 = A$5.94 (40%)"
+    },
+    {
+      "keyword": "ankle straps for cable machine glute kickback",
+      "keyword_cn": "龙门架脚踝拉力带2只装（臀腿训练）",
+      "amazon_keyword": "ankle straps cable machine glute kickback pair",
+      "search_1688": "脚踝绑带 龙门架脚扣 双D环 潜水料臀腿训练带 跨境",
+      "demand_signals": [
+        "Amazon AU Exercise Straps Hot New Releases近1周涌入8+条踝带新listing（2PCS Ankle Straps A$8.99-15.99多款，来源：amazon.com.au/gp/new-releases/sporting-goods/5045019051 2026-11-05）",
+        "Exercise & Fitness Accessories Best Seller榜DMoose踝带A$24.99 18975条review稳居Top20（来源：AU健身配件BS榜）",
+        "AU健身大盘验证：WorldFirst报告Sport & Fitness为AU站2026年最强增长类目之一，家用hybrid训练驱动（来源：worldfirst.com/au 2026-10-01）",
+        "1688青岛方叶工贸「潜水料脚踝绑带脚扣」¥5.60成交1810笔、双D环¥6.50成交761笔=供应链出货量已在爬坡（来源：1688店铺成交记录）"
+      ],
+      "trend_score": 74,
+      "trend_direction": "up",
+      "trend_score_basis": "新品榜集中涌入+1688成交笔数放量双确认，扣分项是头部DMoose/Gymreapers已建立品牌心智，74",
+      "reason": "臀部/臀桥训练（glute training）是澳女健身房社媒第一话题，踝带是龙门架+阻力带通用配件。AU头部定价A$25-39.76留出A$13-15价值带空档：同样 neoprene双D环结构，1688单只¥5.6-6.5，正好切入学生/居家人群。新品榜1周8+条新listing说明发现者不止我们，要快——空运11月下旬上架，赶在1月New Year fitness resolution高峰前完成初期review积累。",
+      "action": "定价A$13.99（2只装，双D环+neoprene加厚）；1688搜「脚踝绑带 龙门架 双D环 潜水料」青岛方叶等源头厂，单只¥5.6-6.5。主打『配阻力带家用臀腿训练』绕开龙门架场景局限（阻力带AU Best Seller 108k review=家用配件大盘已验证）",
+      "competition": "诚实评估：头部DMoose 18.9k/Gymreapers 7.2k review品牌集中度高，价值带A$8.99-15.99已有新品进入但review数<15条（AU RDX 884条是中腰部），跟进窗口约6-10周，需差异化卖点（加宽魔术贴/加厚垫）+快速积累前20条review",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 55,
+        "profit": 80,
+        "final": 71,
+        "recommendation": "test",
+        "profit_window": "11月下旬上架→1月fitness resolution+2月开学季，窗口约10周；过了1月中需求回落"
+      },
+      "profit_calc": "A$13.99 - 佣金15% A$2.10 - FBA A$4.20 - 采购A$2.80 = A$4.89 (35%)"
+    },
+    {
+      "keyword": "beach towel clips windproof sand towel pegs",
+      "keyword_cn": "沙滩防风毛巾夹6只装",
+      "amazon_keyword": "beach towel clips windproof sunbed holders",
+      "search_1688": "沙滩防风浴巾夹 火烈鸟造型 塑料毛巾夹 跨境",
+      "demand_signals": [
+        "TRIXES 8PK沙滩巾夹为Amazon's Choice，A$20.58，3177条review，Home类937名（来源：amazon.com.au B01NAWVFPH详情页 2026-11-05）",
+        "该品差评集中两点：易断+被嫌贵（详情页Customers say原文：'break easily' 'overpriced'）=明确产品改良切口",
+        "澳洲12-2月盛夏海滩场景，AU Beach Towels BS榜Top20全部为夏日需求在榜（Dock&Bay 8834条review级别大盘，来源：AU Beach Towels BS榜）",
+        "1688跨境沙滩防风夹¥0.59-3.61/个，月销626-3000个，火烈鸟/西瓜创意款现货48小时发货（来源：1688义乌市信恒/宁波永坤成交记录）"
+      ],
+      "trend_score": 76,
+      "trend_direction": "up",
+      "trend_score_basis": "Amazon's Choice+3177条review=需求已被验证，季节性12-2月持续走强，创意款1688月销上千件佐证供给热度，76",
+      "reason": "澳洲人去海滩带浴巾+沙滩椅，海风大浴巾被吹走是高频痛点，TRIXES用3177条review验证了这个需求但产品还是2016年款（ASIN B01NAWVFPH）。切口清晰：加厚PP+加强弹簧解决『易断』，6只装A$9.99解决『偏贵』。12月起海滩场景全面启动且持续到2月底——现在下单空运12月初上架，赶上整个夏天，比圣诞装饰品的死线宽裕得多。加火烈鸟/西瓜创意造型（1688现货¥2.55-3.61）在澳区TikTok beach hashtag有天然传播面。",
+      "action": "定价A$9.99（6只装混色/动物造型）；1688搜「沙滩防风浴巾夹 跨境 火烈鸟」，义乌信恒¥0.59基础款/宁波永坤¥2.55创意款，6只组合采购≈¥10-14（A$2.2-3.0）。选厚壁PP+金属弹簧款规避差评点",
+      "competition": "头部TRIXES 3177条review但产品老、差评多；第二梯队review均<70条（BonGu 46条/Ouxiaobai 51条）=中腰部空档大。品牌集中度低，创意造型款几乎无AU本土卖家，竞争评估：中低",
+      "signal_scores": {
+        "trend": 76,
+        "gap": 80,
+        "profit": 85,
+        "final": 79,
+        "recommendation": "buy",
+        "profit_window": "12月上架→整个夏季12月-2月底+跨年露营场景，窗口约12周，夏天结束后转野餐布夹长尾"
+      },
+      "profit_calc": "定价A$12.99 - 佣金13% A$1.69 - FBA A$4.20 - 采购A$2.60 = A$4.50 (35%)；若定价A$9.99利润A$1.89(19%)不达标，勿用低价"
+    },
+    {
+      "keyword": "pool inflatable repair patch self adhesive tpu",
+      "keyword_cn": "泳池充气用品TPU自粘修补片10片装",
+      "amazon_keyword": "pool float repair patch self adhesive kit",
+      "search_1688": "充气泳池修补片 TPU自粘补片 PVC修补胶片 跨境",
+      "demand_signals": [
+        "AU Pool Covers & Accessories BS榜：KAIHENG充气修补片A$12.99 1059条review在榜、4x7FT修补套装配160条review（来源：amazon.com.au/gp/bestsellers/garden/5707585051 2026-11-05）",
+        "澳洲约300万家庭有私家泳池/地上池，11月起泳池开工季，Intex 28039池罩16833条review佐证地上池保有量巨大（来源：同BS榜Intex条目）",
+        "AU Hot New Releases户外榜泳池清洁设备集中上榜（Gosvor泳池机器人$499.99新品#6），泳池关联品类全面进入旺季（来源：AU Hot New Releases户外榜 2026-11-05）",
+        "1688修补片为低值高频耗材，充气池/充气沙发/气垫床通用，复购属性强（来源：1688品类常识+BS榜验证需求）"
+      ],
+      "trend_score": 72,
+      "trend_direction": "up",
+      "trend_score_basis": "KAIHENG 1059条review为需求硬验证，季节性向上，但品类偏耗材小众、社媒声量弱，72",
+      "reason": "澳洲夏天=充气泳池/浮床/充气玩具破损高峰，修补片是『破了就得买』的刚需耗材，无品牌忠诚度、比价敏感度低。KAIHENG 1059条review验证了AU需求，但该细分offers少、页面质量普遍粗糙（详情页信息量低），用多尺寸+透明款+收纳袋做套装差异化。自粘TPU无液体胶水（规避液体红线），单片约15g、10片装<200g，空运成本极低。12月初上架吃整个夏天，1月假期是充气玩具破损峰值。",
+      "action": "定价A$9.99（10片装，3尺寸混装+透明款）；1688搜「充气泳池修补片 TPU自粘 跨境」，单片¥0.8-1.5，10片装采购≈¥8-12（A$1.6-2.4）。注意选纯自粘款不含胶水管，规避液体红线",
+      "competition": "KAIHENG 1059条review一家略强，但同榜其余修补类listing review<170条且多为配件店附带卖；无AU本土品牌。竞争评估：中低，头部是工业配件店不是运营型卖家，可用listing+图片质量直接打",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 75,
+        "profit": 78,
+        "final": 73,
+        "recommendation": "buy",
+        "profit_window": "12月上架→12月-2月整个泳池季，窗口约12周；3月底泳池季后转气垫床/充气家具长尾"
+      },
+      "profit_calc": "定价A$11.99 - 佣金15% A$1.80 - FBA A$4.20 - 采购A$2.00 = A$3.99 (33%)；A$9.99利润23%偏薄，建议组合装抬价"
+    }
+  ],
+  "trend_forecast": "① 12/3-12/9（第4周）：圣诞购物peak正式开启，澳洲81%消费者等大促的消费习惯使黑五尾量+圣诞前2周成为全品类出货峰。泳池/海滩品类开始爬坡但未到峰，圣诞装饰品（已推的酒瓶套/珠链花环类）此时是最后出货窗。泳池修补片、沙滩毛巾夹在此周上架正好承接早期海滩客。【空运死线：泳池修补片12/3上架须最晚11/12下单；沙滩巾夹12/3上架须最晚11/12下单，本周内必须完成采购】② 12/10-12/16（第5周）：圣诞礼品小件高峰，A$10-20价格带是澳洲人填圣诞袜/同事礼物（Secret Santa/Kris Kringle，AU职场12月强制玩法，预算上限普遍A$20）的主力区间——毛巾夹创意款、踝带、收纳架全部落在这个送礼价格带，listing里补gift关键词是本周前必须完成的动作。【死线：错过11/12的品12/19前不要再追圣诞场景，改打夏季场景】③ 12/17-12/23（第6周）：圣诞最后一波+海滩初热，昆州/西澳已入夏高峰，海滩毛巾类目需求转急，此时空运已来不及入圣诞前仓——此周起所有补货决策转为「夏季长线」口径，不做圣诞时效赌注。④ 12/24-12/30（第7周）：Boxing Day（12/26）是澳洲全年第二大购物日，清货型需求爆发，前期测品SKU如有滞销在此周用折扣清掉换库存周转；同时Boxing Day后家庭转向海滩/露营，户外配件（毛巾夹/修补片/露营配件）进入日销最陡爬坡段。【死线：为Boxing Day准备的库存须11/26前完成空运下单，本周已过线，只能靠现有在途库存】⑤ 12/31-1/6（第8周）：元旦+暑假（澳洲学校假期12月中-1月底），海滩/泳池/水上场景需求达全年峰值，1月1日起New Year fitness resolution启动，健身配件（踝带/阻力带配件）需求二次跳升，持续到2月底。【死线：赶1月resolution需求的健身配件最晚12/10空运下单；赶整个1月海滩峰值的沙滩品最晚12/17下单】⑥ 贯穿判断：11/12是本轮所有圣诞时效品的最晚下单死线，11/26是Boxing Day库存死线，12/10-12/17是夏季长线品的舒适下单带。水上玩具类注意ACCC夏季抽检（充气类玩具安全标准），修补片/配件类不直接触玩具标准但listing避免kids关键词（config禁售词已含toy/kids/children）。"
+}
