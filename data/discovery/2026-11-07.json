@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07 07:30:00",
+  "scan_date": "2026-11-07",
+  "scan_time": "07:10",
+  "platform": "amazon.com.au",
+  "summary": {
+    "total": 4,
+    "new": 4,
+    "repeat": 0,
+    "note": "14天去重通过（近14天已推品类18个无一重合）；周六自由方向，当天数据信号最强的4个不同主品类：厨房冰品/BBQ配件/宠物降温/户外驱蚊。利润率32.7%-49.7%全部≥20%"
+  },
+  "insights": [
+    {
+      "keyword": "silicone popsicle molds with sticks and lids",
+      "keyword_cn": "硅胶自制冰棒模具（带盖6连+棍全套）",
+      "amazon_keyword": "silicone popsicle molds with lids and sticks",
+      "search_1688": "硅胶冰棒模具 带盖 雪糕模具 跨境 亚马逊",
+      "demand_signals": [
+        "Amazon AU Candy Molds BS榜第1名即Mini硅胶冰棒模具7连款：A$16.99、2154条review，品类需求头部已被验证（来源：amazon.com.au/gp/bestsellers/kitchen/10355947051 2026-11-07抓取）",
+        "Kmart硅胶Icy Pole Moulds在澳区TikTok被@littleclayjoys等博主带火，#kmartaus #kmartfinds #summer标签下自制冰棒玩法持续扩散，Kmart Assorted Icy Pole Maker线下热卖（来源：Kmart AU产品页/TikTok选品监测 2026-11）",
+        "价位断层：AU在售主力集中在A$19.99-53（Mirenlife 8色装A$19.99/1249条、Tovolo A$28.85/3764条、Avanti推杆款A$27.54/197条），A$13以下带盖带棍全套几乎空白，仅BIGTEDDY A$12.41无评价支撑（来源：amazon.com.au搜索popsicle moulds 2026-11-07）",
+        "南半球季节：12-1月冰品DIY峰值刚启动，家庭复购属性强（每季补模具/换造型）（来源：AU夏季消费规律+BS榜季节品占比）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "trend_score_basis": "BS榜#1 2154条review验证需求底座 + Kmart TikTok外溢信号 + A$13以下价位断层三重确认；扣分项是模具类季节峰值12月才到顶、11月为中段。78",
+      "reason": "澳洲刚入夏，Kmart TikTok icy pole hack已把自制冰棒需求点燃，但AU头部全是A$20-29的高价款，A$12.99带盖6连+棍套装是明显价格断层位。1688源头现货¥1.2-3.5/套（深圳随意实业6件套连盖¥2.8已售1w+），空运10-15天，本周下单12月初上架正好接住夏季前半段，且12-2月整个夏天都是销售期，不像圣诞品那样只有2周窗口。",
+      "action": "定价A$12.99（6连带盖+6棍食品级硅胶全套）；1688搜「硅胶冰棒模具 带盖 跨境」¥1.2-3.5/套，优先选带独立棍+盖款。利润A$6.45/件（49.7%）",
+      "competition": "诚实评估：头部Tovolo 3764条/A$28.85、Mirenlife 1249条/A$19.99集中中高价位；A$13以下竞品仅BIGTEDDY（review薄弱）。品牌集中度低，低价位细分可打，但模具类头部品牌若降价下探需盯价格",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 82,
+        "profit": 90,
+        "final": 83,
+        "recommendation": "强烈建议本周内下单",
+        "profit_window": "12月上旬上架→整个南半球夏季(12-2月)持续销售，窗口8-10周"
+      }
+    },
+    {
+      "keyword": "silicone bbq mat grill spatula rest heat resistant",
+      "keyword_cn": "硅胶BBQ工具放置垫2片装（锅铲架/耐高温）",
+      "amazon_keyword": "silicone bbq mat grill spatula rest heat resistant",
+      "search_1688": "硅胶烧烤垫 工具放置垫 锅铲架 耐高温 跨境",
+      "demand_signals": [
+        "TikTok硅胶BBQ垫病毒传播：#grillmat与#bbq相关视频累计310万+帖，US卖家单月2000+件@A$15.99验证爆量（来源：LinkedIn硅胶行业帖2026-06/社媒监测 2026-11）",
+        "Amazon AU BBQ Accessories BS榜垫类有稳定在售位：特氟龙烤网垫3片A$13.49（#41）、大型防火垫A$34.99（#40），但全部是烤网铺垫类，硅胶「工具放置/锅铲架垫」细分AU几乎无人做（来源：amazon.com.au/gp/bestsellers/garden/5707522051 2026-11-07）",
+        "澳洲BBQ=国民场景：12月圣诞假期backyard BBQ为全年峰值，Weber生态占据BS榜头部侧面验证BBQ配件大盘（来源：同BS榜头部构成）",
+        "1688源头：食品级硅胶工具垫¥3-5/片、纤维烤垫¥1.50/片(≥1000)，义乌昌凯外贸专供亚马逊款现货库存充足（来源：chinagoods/1688 2026-11-07）"
+      ],
+      "trend_score": 72,
+      "trend_direction": "up",
+      "trend_score_basis": "TikTok爆量信号(310万帖)+AU垫类BS位稳定需求确认，但硅胶rest mat在AU属未验证细分（风险项），美国市场已验证、澳洲滞后跟进是典型跟随窗口。72",
+      "reason": "欧美TikTok已验证硅胶BBQ垫爆量，澳洲社媒热度滞后约3-6个月跟进——现在正是AU跟窗口。AU榜上只有特氟龙烤网垫，带槽硅胶「锅铲放置垫」空白；12月backyard BBQ季前2周下单，空运10-15天+入仓正好11月底上架踩住夏季BBQ高峰。",
+      "action": "定价A$12.99双片装（30×20cm食品级硅胶带工具槽款）；1688搜「硅胶烧烤垫 工具放置垫 跨境」¥1.5-3/片。利润A$5.54/件（42.7%）",
+      "competition": "诚实评估：特氟龙烤网垫3片装A$13.49已有卖家在售（需用硅胶厚款+工具槽差异化，避免同质价格战）；硅胶rest mat细分AU搜索结果近乎空白、预计review<50，先发窗口真实存在",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 78,
+        "profit": 85,
+        "final": 78,
+        "recommendation": "建议尽快测款，赶12月BBQ季",
+        "profit_window": "11月底上架→12-1月BBQ峰值，窗口6-8周"
+      }
+    },
+    {
+      "keyword": "dog cooling collar bandana ice neck wrap summer",
+      "keyword_cn": "宠物冰感围脖/降温项圈（凝胶冷冻款S/M/L）",
+      "amazon_keyword": "dog cooling collar bandana ice neck wrap",
+      "search_1688": "宠物冰围脖 凝胶项圈 狗降温 跨境 亚马逊",
+      "demand_signals": [
+        "AU宠物降温垫BS榜需求已被验证：Rywell 90×70cm A$52.99/2938条review居首、NWK冰丝垫A$23.99/1516条，但头部全是A$24-53大尺寸垫类，佩戴式细分空白（来源：amazon.com.au/gp/bestsellers/pet-supplies/5848116051 2026-11-07）",
+        "Kmart自有品牌Pet Cooling Mat清仓价A$5(from A$19)——说明降温品类动销旺但低价垫已被Kmart吃掉，佩戴式围脖是错位竞争路线（来源：kmart.com.au 2026-11-07）",
+        "澳洲夏季热浪+宠物渗透率高：12-2月遛狗/车旅/户外场景降温刚需，围脖冷冻后佩戴比垫子便携，且90g轻小件完美符合空运模型（来源：AU夏季消费规律/2026 AU winning products分析）",
+        "1688现货充足：跨境热卖冰感项圈¥3/件起批、宠物防暑项圈¥2.92起（L款60cm/95g），S/M/L三码齐全可定制卡通印花（来源：chinagoods/义乌购 2026-11-07）"
+      ],
+      "trend_score": 68,
+      "trend_direction": "up",
+      "trend_score_basis": "垫类大品类2938条review验证夏季宠物降温需求底座，佩戴式细分是空白推断而非已验证数据（风险项），Kmart低价垫清仓侧面说明竞争下沉。68",
+      "reason": "南半球热浪季刚启动，宠物降温垫头部A$24-53又大又重（大垫超2.6kg不符合轻小件模型），凝胶围脖S/M/L三码90-95g正好卡A$10.99错位低价，覆盖遛狗/车载/露营场景。1688现货48小时发货，本周下单12月初上架，热浪一波就能起量。",
+      "action": "定价A$10.99（凝胶冷冻款S/M/L三码）；1688搜「宠物冰围脖 凝胶项圈 跨境」¥2.5-3/条，义乌顺逸/智爱均有现货。利润A$5.06/件（46.1%）",
+      "competition": "诚实评估：垫类头部Rywell 2938条/NWK 1516条品牌集中度较高，但那是垫类；佩戴式cooling collar/bandana AU独立listing极少、预计review<50。风险：Kmart若上同款围脖会压制价格，需盯Kmart宠物区",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 75,
+        "profit": 88,
+        "final": 76,
+        "recommendation": "建议测款，小批量20-30件空运",
+        "profit_window": "12月上旬上架→热浪季12-2月，窗口8-10周"
+      }
+    },
+    {
+      "keyword": "mosquito repellent bracelets deet free kids adults",
+      "keyword_cn": "驱蚊手环12只装（香茅油/DEET-FREE儿童+成人）",
+      "amazon_keyword": "mosquito repellent bracelets deet free kids adults",
+      "search_1688": "香茅驱蚊手环 跨境 独立包装 出口",
+      "demand_signals": [
+        "Amazon AU Wearable Insect Repellents BS榜#2即12只PU皮混色驱蚊手环：A$12.99仅21条review——榜单动销已验证但本地卖家review极浅，典型浅竞争位（来源：amazon.com.au/gp/bestsellers/health/10325543051 2026-11-07抓取）",
+        "头部Cliganic 10只装A$29.12/35135条review为美国品牌高价款，AU本地品牌Waxworks 4只装A$9.32/62条、Mozzigear A$9.95-18.99/12-36条且只装4-6只——A$12-13中价位12只家庭装是空位（来源：同BS榜）",
+        "澳洲蚊季12-3月+夏季露营/钓鱼/后院场景：AU每年夏季Ross River病毒预警使驱蚊品类具健康刚需属性，家庭出游按『人手一只+备品』消耗（来源：AU蚊季规律+同榜季节品构成）",
+        "1688香茅油驱蚊手环¥1.0/只已售4.3万+，跨境专供货源、独立包装规格齐全（来源：1688夏季驱蚊防暑专场 2026-11-07）"
+      ],
+      "trend_score": 70,
+      "trend_direction": "up",
+      "trend_score_basis": "BS榜#2位动销验证+头部35135条review大品类底座+本地竞争仅21-62条review浅竞争三重确认；扣分项是该品类全年都有卖家、夏季只是爬坡不是独占窗口。70",
+      "reason": "AU驱蚊手环榜#2仅21条review=需求已验证但竞争极浅的空位；头部Cliganic A$29留出中位断层，A$12.99/12只正好覆盖全家一整个夏天的用量。1688 ¥1.0/只现货，空运10-15天，11月下旬上架赶蚊季开头，12-3月持续销售。",
+      "action": "定价A$12.99（12只混色独立包装，儿童+成人通用）；1688搜「香茅驱蚊手环 跨境 独立包装」¥1.0-1.5/只。利润A$4.24/件（32.7%）",
+      "competition": "诚实评估：Cliganic 35135条(美牌/A$29高价)、Waxworks 62条、Mozzigear 12-36条(澳牌4-6只装)、榜#2仅21条——品牌集中度中低，A$12.99中位12只装空位真实。注意AU对驱蚊类宣称有APVMA监管，listing文案避免疗效宣称",
+      "signal_scores": {
+        "trend": 70,
+        "gap": 80,
+        "profit": 65,
+        "final": 73,
+        "recommendation": "建议测款，12只装卡中价位",
+        "profit_window": "11月下旬上架→蚊季12-3月，窗口10-12周"
+      }
+    }
+  ],
+  "trend_forecast": "① 12/5-12/18（第4-5周）：圣诞采购高峰+学校假期开始双引擎。圣诞周边（装饰/烘焙/礼品小件）的空运死线11/10前后，本周之后再下单就来不及，不再推圣诞品。还来得及的是夏季常青品：沙滩/泳池/BBQ/宠物降温，澳洲家庭12月中旬学校放假后进入海滩模式，沙滩配件+泳池用品+冰品工具在12/5-1/10达到全年峰值，今天推荐的冰棒模具/BBQ硅胶垫正是踩这个窗口。【空运死线：夏季沙滩/泳池品12/15前上架需11/21前下单，BBQ配件12/20前上架需11/26前下单】② 12/19-12/31（第5-7周）：圣诞周+Boxing Day（12/26）促销周。Boxing Day是AU全年最大折扣日，礼金卡消费+自我奖励型购物爆发，新年立志类（收纳整理/健身配件）从12/26开始爬坡；新年派对用品（户外游戏/装饰）在12/29-1/2有短脉冲。【空运死线：收纳整理品赶Boxing Day尾段+1月上架需12/5前下单，新年派对品需12/8前下单】③ 1/1-1/15（第7-8周初）：新年假期延续+露营自驾高峰。AU家庭1月公路旅行/露营地预订满仓，车旅收纳+露营小件+户外驱蚊（蚊子1月仍活跃）持续走强；1/1起零售进入淡季清仓期，第三方卖家竞品可能降价，需盯价格防守。【空运死线：露营/车旅品赶1月中旬上架需12/22前下单】④ 1/15-1/31（第8周+）：Back to School预热启动（AU多数州1月底开学），文具套装/书包挂件/午餐配件/姓名贴需求快速爬坡，2月初到顶——这是下一个确定性季节窗口，比圣诞品提前量更充裕。【空运死线：BTS品赶1/25开学周上架需1/2前下单，1月初下单仍来得及，是12月中旬最佳的下单规划点】⑤ 贯穿提醒：整个12月-1月澳洲夏季热浪频发，宠物降温/个人降温类每次热浪新闻都会带一波脉冲，库存深度建议按3波热浪准备；81%澳洲消费者等大促习惯下，1月New Year Sale（各家1月初）也会分流 Boxing Day，新品定价留出A$1-2促销空间。"
+}
