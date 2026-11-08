@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T07:10:00+10:00",
+  "scan_date": "2026-11-09",
+  "scan_time": "07:10",
+  "summary": "周一轮换方向：厨房工具+户外露营+1个自由方向（夏季家居防虫）。本轮从Amazon AU三榜(Kitchen Best Sellers/New Releases/Movers&Shakers、Camping Accessories、Tarp & Tie-Downs)交叉验证出4条机会，覆盖4个不同主品类，14天内已推品类（冰棒模具/削皮器/BBQ垫/驱蚊手环/圣诞装饰类等）均已避开。通过筛选4条中新品4条/已重复0条。全部满足：非电子、≤200g、包装≤30×21×6cm、空运轻小件、利润率33-45%（只算佣金+FBA+采购硬成本）。",
+  "insights": [
+    {
+      "keyword": "self adhesive fly screen mesh window velcro",
+      "keyword_cn": "自粘魔术贴防蝇纱窗网（60×110cm可裁剪）",
+      "amazon_keyword": "fly screen mesh for window self adhesive velcro",
+      "search_1688": "自粘魔术贴纱窗网 跨境 免打孔",
+      "demand_signals": [
+        "Amazon AU竞品Risareyi磁吸纱窗帘4,550条评论、A$57.81、4.5星——夏季防蝇防蚊需求已被大规模验证（来源：amazon.com.au竞品页）",
+        "Maguesh磁吸纱窗获Amazon's Choice标签、Home Improvement大类排名286/Screen Doors类第3、月购50+（来源：amazon.com.au）",
+        "澳洲租房占比高（约1/3家庭租房），免打孔自粘方案是刚需； Fantas等本土DTC品牌同款卖A$44.99（原价71.99）——A$45+价格带以下存在明显空档（来源：fantas.com.au）",
+        "11月-2月为澳洲苍蝇/蚊子季峰值，评论中反复出现'keeps mosquitoes out in summer'（来源：竞品Top Reviews Australia）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "上升",
+      "reason": "南半球入夏即入蝇季，11-12月是纱窗类搜索和成交爬坡期。竞品集中在A$45-77磁吸/DTC高价带，A$13-15自粘魔术贴基础款几乎空白；纱窗是典型'7天见效'功能品，差评主因（胶带不够长/尺寸不齐）可通过加长胶带+5cm梯度尺寸直接规避。",
+      "action": "定价A$14.99（60×110cm含加长魔术贴），1688采购¥9.8/套（义乌包边款），利润A$6.80/件、利润率45%。采购关键词：自粘魔术贴纱窗网 跨境免打孔。认证要求低，建议加赠清洁刷做差异化。",
+      "competition": "竞品头部为Risareyi 4,550评和Maguesh 350评，但均在A$45+磁吸款；A$15以下自粘款评价数普遍<100，品牌集中度低，价格带错位竞争。风险：需控制纱网折叠包装体积（压扁后≤30×21×6cm达标）。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 82,
+        "profit": 88,
+        "final": 82,
+        "recommendation": "strong_buy",
+        "profit_window": "6-10周（12月蝇季峰值持续至2月，空运死线前仍可入）"
+      }
+    },
+    {
+      "keyword": "stainless steel powder sugar shaker cinnamon",
+      "keyword_cn": "不锈钢撒粉罐2件装（糖粉/肉桂/可可粉，带盖防潮）",
+      "amazon_keyword": "powdered sugar shaker with lid stainless steel 2 pack",
+      "search_1688": "不锈钢撒粉罐 烘焙 糖粉筛",
+      "demand_signals": [
+        "Amazon AU Dressing & Spice Dispensers类Best Seller第5名：2件装不锈钢撒粉罐A$12.99、142条评论、4.5星（来源：amazon.com.au/gp/bestsellers/kitchen/5016675051）",
+        "12月圣诞烘焙季（姜饼/pavlova/蛋酒撒粉）是澳洲全年烘焙峰值，厨房小工具类Hot New Releases本周多款烘焙周边上榜（来源：amazon.com.au new releases kitchen）",
+        "homebeautiful.com.au 2026年Amazon厨房爆品榜单确认'可堆叠烘焙工具+粉类分装'是本年澳洲TikTok #amazonkitchenfinds 常驻主题（来源：homebeautiful.com.au）",
+        "竞品价格A$12.99但单件装居多，带盖防潮+2件装组合在同价位下有明确升级空间"
+      ],
+      "trend_score": 72,
+      "trend_direction": "上升",
+      "reason": "圣诞烘焙是南半球12月的确定性事件（正好落在4-8周预测窗口内），撒粉罐是烘焙场景里复购展示率最高的低客单工具之一。Best Seller第5位+142评说明AU站已有成熟需求但头部竞争尚未固化，2件装+带盖差异化可切入。",
+      "action": "定价A$12.99（2件装，单件约70g总重约160g），1688采购约¥10/2件，利润A$5.02/件、利润率39%。采购关键词：不锈钢撒粉罐 烘焙。建议3孔可旋转盖+防潮盖双盖设计。",
+      "competition": "类目Best Seller榜单头部多为电动研磨器（CIRCLE JOY等品牌占前4），手动撒粉罐细分第5位仅142评，品牌集中度低。诚实标注：手工烘焙人群偏中老年，需主图强调'不插电更耐用'。",
+      "signal_scores": {
+        "trend": 72,
+        "gap": 70,
+        "profit": 78,
+        "final": 74,
+        "recommendation": "buy",
+        "profit_window": "4-7周（圣诞烘焙季12月峰值，空运最晚死线11/22，过线建议弃或等母亲节5月）"
+      }
+    },
+    {
+      "keyword": "egg slicer multipurpose banana strawberry cutter",
+      "keyword_cn": "多功能切蛋切果器2件装（鸡蛋/香蕉/草莓/蘑菇）",
+      "amazon_keyword": "multipurpose egg slicer banana fruit cutter 2 pack",
+      "search_1688": "多功能切蛋器 切果器 不锈钢丝",
+      "demand_signals": [
+        "Amazon AU新卖家批量上架同类2件装（A$9.99、5.0星）显示供给侧正涌入，属TikTok式小工具起量前的典型窗口（来源：amazon.com.au kitchen gadgets搜索页）",
+        "澳洲夏季（12-2月）是草莓/香蕉/杏上市季+圣诞冷盘拼盘场景，切片工具使用频次全年最高（来源：澳洲水果季历+冷盘圣诞餐传统）",
+        "同类竞品普遍评论<100，'50+ bought in past month'标签已出现在部分listing（来源：amazon.com.au搜索页）",
+        "英国站同类目多功能切蛋器已跑出爆款模型（钢丝+底座一体），AU滞后UK约2-3个月，属可复制窗口"
+      ],
+      "trend_score": 68,
+      "trend_direction": "上升",
+      "reason": "夏季水果季+圣诞冷盘双场景叠加，产品单价低、复购礼赠属性强（2件装自留+送人）。当前AU站该品处于'新链接密集上架、评论均少'的窗口期，先入者吃自然流量。",
+      "action": "定价A$11.99（2件装，总重约180g），1688采购约¥8/2件，利润A$4.56/件、利润率38%。采购关键词：多功能切蛋器 不锈钢丝。必须确认钢丝可换/底座防滑，这是同类差评两大来源。",
+      "competition": "现有listing评论数1-98条，无品牌垄断，4.2星以下老款存在品质差评可打。诚实标注：属低门槛品，若延迟1个月进场将同质化，需快。",
+      "signal_scores": {
+        "trend": 68,
+        "gap": 75,
+        "profit": 74,
+        "final": 71,
+        "recommendation": "buy",
+        "profit_window": "4-6周（12月水果季+圣诞冷盘，空运最晚死线11/29）"
+      }
+    },
+    {
+      "keyword": "camping tent peg mallet with puller hook",
+      "keyword_cn": "露营帐篷钉锤+拔钉钩一体（塑料轻量款）",
+      "amazon_keyword": "camping mallet tent stake puller plastic heavy duty",
+      "search_1688": "帐篷钉锤 拔钉钩 露营配件",
+      "demand_signals": [
+        "Amazon AU Camping Tent Accessories类Best Seller第22位：塑料钉锤带拔钉钩A$9.99但仅4条评论——需求位置在榜、竞争尚未填满（来源：amazon.com.au/gp/bestsellers/sporting-goods/5044141051）",
+        "同类钉子/地钉类目全线热销（10支装A$7.85登Tent Stakes第1），但'锤+拔钩一体'的组合款在AU列表稀缺，多为分开单卖（来源：amazon.com.au Tent Stakes榜）",
+        "12月澳洲学校假期+圣诞露营是全年露营峰值的开始，Camping Accessories类目New Releases本周多款配件上新（来源：amazon.com.au）",
+        "澳洲露营地多为硬质草地/砂石，塑料锤+hi-vis配色是本土偏好（OZtrail同逻辑款A$20带socket套装卖127评）"
+      ],
+      "trend_score": 66,
+      "trend_direction": "上升",
+      "reason": "露营配件是AU夏季确定性品类，钉锤是每次扎营的必用件。当前在榜款仅4评，属于'榜单位置已验证+竞争真空'组合；做成锤+拔钩+挂绳三合一、配荧光色，可在A$12.99价位形成清晰差异化。",
+      "action": "定价A$12.99（锤+拔钩一体，总重约190g），1688采购约¥12，利润A$4.34/件、利润率33%。采购关键词：帐篷钉锤 拔钉钩。1688价格未经多供应商比对，下单前询价3家确认≤¥13。",
+      "competition": "在榜直接竞品仅4-11评，OZtrail品牌款A$20走套装路线不冲突。诚实标注：塑料锤体需质检防开裂（AU硬土地面开裂差评是常见风险），建议PP+玻纤增强料。",
+      "signal_scores": {
+        "trend": 66,
+        "gap": 78,
+        "profit": 62,
+        "final": 68,
+        "recommendation": "buy",
+        "profit_window": "4-10周（12月学校假期+1月露营季持续，空运最晚死线11/29前入仓最佳）"
+      }
+    }
+  ],
+  "trend_forecast": "① 圣诞烘焙+厨房小工具窗口（12月上旬-12月25日，即第4-6周）：12月是澳洲全年烘焙峰值（姜饼、pavlova、圣诞冷盘备餐），撒粉罐/切蛋切果器/饼干周边等低客单烘焙工具在12月第1-2周达到成交顶点。空运时效按10-15天+入仓上架3周倒推，最晚空运下单死线11/20——过线即错过圣诞前铺货窗口，未下单建议直接等明年母亲节（5月）场景，勿抱侥幸。② 夏季蝇虫季+家居防虫窗口（12月中旬-次年2月，第5-8周）：12月中旬气温全面破30℃后苍蝇/蚊子进入全年峰值，纱窗网、门帘磁吸、户外防虫配件需求持续到2月，窗口长、容错高；本次纱窗网款死线11/22前下单即可吃到整个夏季。③ 露营学校假期双峰（12月14日-1月底，第5-8周）：澳洲学校summer holidays从12月中旬开始，圣诞-元旦+1月是全年露营第二大高峰（仅次于复活节），帐篷配件（钉锤/地钉/弹力绳）在12月第2周起量；死线11/29前空运下单可赶上假期第一波，1月第二波可由FBA补货衔接。④ Back to School前瞻（1月下旬，第8周）：1月底返校季是文具/收纳标签/水壶袋类目的年度峰值，空运死线约12/20-12/25——从现在算还有约6周决策期，但需注意圣诞物流拥堵可能压缩时效，建议12月第1周内完成采购下单，品类方向：姓名标签贴、文具收纳袋、书套（非电子、轻小件优先）。⑤ Boxing Day（12月26日）折扣潮：属于销售端而非备货端事件，提醒12月中提前把FBA库存补足，Boxing Day当周AU站流量约为平日2-3倍，缺货即浪费全年最高单日流量。"
+}
