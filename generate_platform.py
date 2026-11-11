@@ -8,6 +8,7 @@ Both sections support date filtering.
 """
 
 import json
+import re
 import urllib.parse, sys, html as htmlmod, glob
 from datetime import datetime
 from pathlib import Path
@@ -165,8 +166,11 @@ def generate_platform_html(radar_all=None, discovery_all=None, output_path=None)
     discovery_all = discovery_all or {}
 
     # Separate dates for radar and discovery
-    radar_dates = sorted(radar_all.keys(), reverse=True)
-    discovery_dates = sorted(discovery_all.keys(), reverse=True)
+    # 2026-11-11 同步UK修复:月桶键(YYYY-MM)在断供场景会成为排序最大键,
+    # 劫持 curDate 默认视图为整月汇总(uk站11-11事故)。只保留标准日键。
+    _day_re = re.compile(r'^\d{4}-\d{2}-\d{2}$')
+    radar_dates = sorted((k for k in radar_all.keys() if _day_re.match(k)), reverse=True)
+    discovery_dates = sorted((k for k in discovery_all.keys() if _day_re.match(k)), reverse=True)
     # Keep all_dates for backward compatibility
     all_dates = sorted(set(radar_dates + discovery_dates), reverse=True)
 
