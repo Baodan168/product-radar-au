@@ -1,0 +1,831 @@
+{
+  "scan_date": "2026-11-12",
+  "scan_time": "17:40",
+  "scan_ts": "2026-11-12_1740",
+  "stats": {
+    "total_scanned": 43,
+    "passed": 0,
+    "sources": [
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0HDS2CVFL",
+      "name": "FitDA Pilates Ball Small Exercise Ball, 23-25 cm Mini Yoga Ball | Burst Proof Exercise Ball with Inflation Straw Exercis",
+      "price": 27.01,
+      "reviews": 0,
+      "rating": 3.4,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HDS2CVFL",
+      "image_url": "https://m.media-amazon.com/images/I/61NupsahBCL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0HDT2ZYV8",
+      "name": "Pack of 2 Small Exercise Balls, 25 cm, Small Pilates Ball, Mini Yoga Ball | Pink Soft Non-Slip Yoga Ball, with Inflation",
+      "price": 32.5,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HDT2ZYV8",
+      "image_url": "https://m.media-amazon.com/images/I/61Vjv4VTb-L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GWGJYYF8",
+      "name": "Pack of 2 Pilates Ball 23-25 cm, Exercise Ball Small, Yoga Ball Including Inflation Tube, Non-Slip Burst Resistant Pilat",
+      "price": 34.25,
+      "reviews": 0,
+      "rating": 4.2,
+      "rank": 3,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GWGJYYF8",
+      "image_url": "https://m.media-amazon.com/images/I/71dCNJ-QPdL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GJSN2Q5W",
+      "name": "Slim Panda 6 inch Pilates Ball for Core Training - Physical Therapy15-17CM Exercise Ball for Yoga, Barre & Pelvic Floor ",
+      "price": 35.11,
+      "reviews": 30,
+      "rating": 4.5,
+      "rank": 4,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "30 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GJSN2Q5W",
+      "image_url": "https://m.media-amazon.com/images/I/51ZCXge3Y3L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GJTDLMYG",
+      "name": "Slim Panda 15-17 cm Pilates Ball, Mini Exercise Ball with Pump, Small Yoga Ball for Deep Muscles, Pelvic Floor and Neck ",
+      "price": 34.14,
+      "reviews": 40,
+      "rating": 4.5,
+      "rank": 5,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "40 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GJTDLMYG",
+      "image_url": "https://m.media-amazon.com/images/I/71mid2+nNML._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CJRHBBDY",
+      "name": "ELANI Pilates Ball - 25 cm Non-Slip & Super Light Pelvic Floor Ball with Exercise Instructions - Dirt-Repellent and Clim",
+      "price": 38.69,
+      "reviews": 162,
+      "rating": 4.5,
+      "rank": 6,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "162 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CJRHBBDY",
+      "image_url": "https://m.media-amazon.com/images/I/71byYsLA-ZL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0FY332ZMJ",
+      "name": "1pcs Small Pilates Ball 9 Inch Small Exercise Ball Mini Workout Yoga Balls for Gym Yoga, Core Training, Fitness, Workout",
+      "price": 2.85,
+      "reviews": 18,
+      "rating": 3.7,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "18 reviews, 3.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FY332ZMJ",
+      "image_url": "https://m.media-amazon.com/images/I/71XQkYtj+xL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GQ53CSXV",
+      "name": "BLOMBLAUM Small Pilates Ball 20–25 cm PVC | Soft Fitness Ball for Yoga, Gymnastics and Physiotherapy | Mini Gym Trainer ",
+      "price": 30.39,
+      "reviews": 22,
+      "rating": 4.3,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "22 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GQ53CSXV",
+      "image_url": "https://m.media-amazon.com/images/I/51CDoGqTOwL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H4ZVBK3S",
+      "name": "YiGym Resistance Bands Set, Anti-Slip Exercise Bands for Yoga Fitness | 3 strength levels fitness bands, anti-slip, for ",
+      "price": 12.74,
+      "reviews": 0,
+      "rating": 4.5,
+      "rank": 10,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H4ZVBK3S",
+      "image_url": "https://m.media-amazon.com/images/I/61RkHc52I6L._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GH7CQGNC",
+      "name": "YiGym Extra Large Yoga Mat 130x200cm, Thick Gym Mat for Home Workout | NBR Foam, Joint Protection, Tear Resistant, Wear ",
+      "price": 98.99,
+      "reviews": 11,
+      "rating": 4.3,
+      "rank": 11,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "11 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GH7CQGNC",
+      "image_url": "https://m.media-amazon.com/images/I/51wGjqdOahL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GH77X9VP",
+      "name": "YiGym Extra Large Yoga Mat 130x200cm, Thick Gym Mat for Home Workout | NBR Foam, Joint Protection, Tear Resistant, Wear ",
+      "price": 119.99,
+      "reviews": 11,
+      "rating": 4.3,
+      "rank": 12,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "11 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GH77X9VP",
+      "image_url": "https://m.media-amazon.com/images/I/51+YOqaWcuL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H5PMBHPL",
+      "name": "YiGym Yoga Mat 195 x 61cm, Extra Thick 20mm Exercise Mat with Carrying Bag | NBR Foam, Soft and Comfortable, Non slip, R",
+      "price": 54.14,
+      "reviews": 0,
+      "rating": 4.5,
+      "rank": 13,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H5PMBHPL",
+      "image_url": "https://m.media-amazon.com/images/I/51EaeQgNq2L._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GR9J7MKD",
+      "name": "YiGym Exercise Ball Large Yoga Ball 55/65/75CM for Workout Training White | PVC, anti-burst, slip resistant, 2.5mm thick",
+      "price": 35.14,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 14,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GR9J7MKD",
+      "image_url": "https://m.media-amazon.com/images/I/61C8Z2zMriL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0G2WBBRXK",
+      "name": "2 Pack Pilates Ball, Yoga Ball, Barre Ball, Mini Exercise Ball, 9 inch Small Bender Ball, Pilates, Yoga, Core Training a",
+      "price": 35.55,
+      "reviews": 43,
+      "rating": 4.2,
+      "rank": 15,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "43 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0G2WBBRXK",
+      "image_url": "https://m.media-amazon.com/images/I/51fX75jekuL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H4R1N6QV",
+      "name": "Pilates Small Exercise Ball - 9 Inch Workout Ball for Stability, Barre, Yoga, Core & Physical Therapy",
+      "price": 2.77,
+      "reviews": 0,
+      "rating": 3.0,
+      "rank": 16,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H4R1N6QV",
+      "image_url": "https://m.media-amazon.com/images/I/51d4zzvJCOL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0HBQJ435Z",
+      "name": "Aylstrornoziqua Pilates Ball 25 cm Mini Exercise Ball Fitness Ball with Pump",
+      "price": 35.31,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 17,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HBQJ435Z",
+      "image_url": "https://m.media-amazon.com/images/I/61DayezXvtL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GJSR9FR6",
+      "name": "Slim Panda Gymnastics Ball, Small, 23-25 cm, Pilates Ball with Inflatable Straw, Soft Yoga Ball for Home, Fitness, Balan",
+      "price": 32.34,
+      "reviews": 10,
+      "rating": 4.4,
+      "rank": 18,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "10 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GJSR9FR6",
+      "image_url": "https://m.media-amazon.com/images/I/61tNS2K2rjL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H3KPKMQL",
+      "name": "Yerozhui Pilates Ball 25 cm - Yoga Ball Non-Slip and Robust - Exercise Ball Small for Fitness, Physio Therapy, Sitting B",
+      "price": 29.27,
+      "reviews": 0,
+      "rating": 4.2,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H3KPKMQL",
+      "image_url": "https://m.media-amazon.com/images/I/61a4i7K1M2L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B09NKJL597",
+      "name": "2 Pack Pilates Balls Yoga Balls Barre Balls Mini Exercise Balls, 9 Inch Small Bender Balls for Pilates, Yoga, Core Train",
+      "price": 34.23,
+      "reviews": 56,
+      "rating": 3.9,
+      "rank": 21,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "56 reviews, 3.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B09NKJL597",
+      "image_url": "https://m.media-amazon.com/images/I/61OPgkhzTLL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CPDR4MLG",
+      "name": "Slim Panda 8 Inch 2mm Thick Matte Pilates Ball, Small Exercise Ball & Yoga Ball with Pump, Needle Valve for Core Trainin",
+      "price": 33.46,
+      "reviews": 85,
+      "rating": 4.3,
+      "rank": 23,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "85 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CPDR4MLG",
+      "image_url": "https://m.media-amazon.com/images/I/71IUGRTpInL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0DLGKFX38",
+      "name": "KYSUN Gymnastics Ball, Small 25 cm, Pilates Ball, Soft Yoga Ball, Non-Slip Gymnastics Ball, Fitness Ball, Small with Inf",
+      "price": 27.7,
+      "reviews": 0,
+      "rating": 3.5,
+      "rank": 25,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DLGKFX38",
+      "image_url": "https://m.media-amazon.com/images/I/51B6FTgh-VL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B09B9PYMJV",
+      "name": "TFL-02 Tone Exercise Ball Mini 22cm Pilates Ball Fitness",
+      "price": 22.82,
+      "reviews": 0,
+      "rating": 3.8,
+      "rank": 26,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.8★",
+      "amazon_url": "https://www.amazon.com.au/dp/B09B9PYMJV",
+      "image_url": "https://m.media-amazon.com/images/I/61V+qx8L0VL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GJSYGC1S",
+      "name": "Slim Panda Gymnastics Ball, Small, 23-25 cm, Pilates Ball with Inflatable Straw, Soft Yoga Ball for Home, Fitness, Balan",
+      "price": 33.11,
+      "reviews": 0,
+      "rating": 3.5,
+      "rank": 28,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GJSYGC1S",
+      "image_url": "https://m.media-amazon.com/images/I/61AZppzYcPL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H7BVK8R7",
+      "name": "ShapeClub High Quality Pilates Ball Mini 15-22 cm Inflatable Exercise Videos",
+      "price": 41.52,
+      "reviews": 0,
+      "rating": 3.3,
+      "rank": 30,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H7BVK8R7",
+      "image_url": "https://m.media-amazon.com/images/I/81Zz0vxuEmL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B07D2998MV",
+      "name": "2 Pack Pilates Ball, Yoga Ball, Barre Ball, Mini Exercise Ball, 9 inch Small Bender Ball, Pilates, Yoga, Core Training a",
+      "price": 34.06,
+      "reviews": 43,
+      "rating": 4.2,
+      "rank": 31,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "43 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B07D2998MV",
+      "image_url": "https://m.media-amazon.com/images/I/61CDp9Ak7vL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GYNGT6X9",
+      "name": "8 Inch Soft Mini Pilates and Yoga Ball (25 cm) - Exercise Ball for Strengthening the Abdominal Muscles and Core, Include",
+      "price": 31.79,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 32,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GYNGT6X9",
+      "image_url": "https://m.media-amazon.com/images/I/6117CBwZQVL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0DZPH3CGP",
+      "name": "CampTeck Unisex Exercise Swiss Ball 65cm with Hand Pump for Fitness, Gym, Yoga, Pilates",
+      "price": 35.97,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 33,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DZPH3CGP",
+      "image_url": "https://m.media-amazon.com/images/I/71fV0ifpk7L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B099J1Q47W",
+      "name": "La-Vie Training Ball, 9.8 inches (25 cm), Mini Soft Balance Ball, Small Gym Ball, Genuine Manufacturer",
+      "price": 21.78,
+      "reviews": 90,
+      "rating": 3.9,
+      "rank": 34,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "90 reviews, 3.9★",
+      "amazon_url": "https://www.amazon.com.au/dp/B099J1Q47W",
+      "image_url": "https://m.media-amazon.com/images/I/61Xiei9mdyL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0G3GYGVYV",
+      "name": "Vortix Pilates Ball 25 cm - Explosion-Proof & Non-Slip Gymnastics Ball Small with Inflatable Hose, Pilates Ball for Pelv",
+      "price": 28.35,
+      "reviews": 0,
+      "rating": 3.2,
+      "rank": 35,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0G3GYGVYV",
+      "image_url": "https://m.media-amazon.com/images/I/71Qj2h56RCL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F672VB8C",
+      "name": "Vortix 3 Pieces/6 Pieces Pilates Ball, 25 cm Non-Slip Fitness Ball, Gymnastics Ball, Small, Soft Yoga Ball for Abdomen a",
+      "price": 38.53,
+      "reviews": 110,
+      "rating": 4.3,
+      "rank": 36,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "110 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F672VB8C",
+      "image_url": "https://m.media-amazon.com/images/I/61bzk1Jm3fL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F672HB7F",
+      "name": "Vortix 3/6 Pieces Pilates Ball 25 cm - Explosion-Proof & Non-Slip Exercise Ball Small with Inflatable Hose, Pilates Ball",
+      "price": 55.63,
+      "reviews": 22,
+      "rating": 4.0,
+      "rank": 37,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "22 reviews, 4.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F672HB7F",
+      "image_url": "https://m.media-amazon.com/images/I/61vaSf18dHL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H9ZCRZ6N",
+      "name": "U can Pilates Ball and Barre 20cm Matt Finish | Non Slip Yoga Bar Core Stretching Rehabilitation",
+      "price": 47.88,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 38,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H9ZCRZ6N",
+      "image_url": "https://m.media-amazon.com/images/I/61lhuAYtd5L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CKSSMYVS",
+      "name": "ALINCO Balance Ball, Chair, 11.8 inches (30 cm), 21.7 inches (55 cm), 25.6 inches (65 cm), 29.5 inches (75 cm), Stool, L",
+      "price": 31.59,
+      "reviews": 57,
+      "rating": 4.2,
+      "rank": 39,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "57 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CKSSMYVS",
+      "image_url": "https://m.media-amazon.com/images/I/61y3eqXJOwL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0FNX7LVG8",
+      "name": "CampTeck U7312 Yoga Pilates Ball Plastic Anti Burst 23cm Pilates Ball for Exercise, Gym, Fitness, Core Training etc with",
+      "price": 28.37,
+      "reviews": 12,
+      "rating": 4.2,
+      "rank": 40,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "12 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FNX7LVG8",
+      "image_url": "https://m.media-amazon.com/images/I/61JWEk0jvLL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H9ZYMVRJ",
+      "name": "U can U Mat Pilates Ball 20cm Matte Black Finish Mini Ball Non-Slip Yoga Barre Core Stretching and Rehab Available in Gr",
+      "price": 49.68,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 41,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H9ZYMVRJ",
+      "image_url": "https://m.media-amazon.com/images/I/61IvqyVWv0L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0DZXHH86T",
+      "name": "Slim Panda Gymnastics Ball, Small, 23-25 cm, Pilates Ball with Pump, Soft Yoga Ball for Home, Fitness, Balance Training ",
+      "price": 43.6,
+      "reviews": 25,
+      "rating": 4.7,
+      "rank": 42,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "25 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DZXHH86T",
+      "image_url": "https://m.media-amazon.com/images/I/71UD-kHAIJL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0FFGPJQY9",
+      "name": "Changyeah 25 cm Pilates Ball Exercise Ball, Pack of 3 Exercise Balls, Extra Thick & Durable, Non-Slip & Super Light Soft",
+      "price": 34.67,
+      "reviews": 13,
+      "rating": 3.2,
+      "rank": 44,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "13 reviews, 3.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FFGPJQY9",
+      "image_url": "https://m.media-amazon.com/images/I/41hYofnI75L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B06XSRSPQL",
+      "name": "HARMONY BALL Pilatesball & Gymnastikball in 18 cm, 23 cm Oder 28 cm ohne Phthalate/aufblasbar und berstsicher | untersch",
+      "price": 43.56,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 45,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B06XSRSPQL",
+      "image_url": "https://m.media-amazon.com/images/I/41gD91+VHvL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0DZXH4N8J",
+      "name": "Slim Panda 9 Inch Pilates Ball With Pump,23-25CM Exercise Ball for Pilates, Balance, Stability, Workout, Core Training (",
+      "price": 36.21,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 46,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DZXH4N8J",
+      "image_url": "https://m.media-amazon.com/images/I/71rbS5tSdGL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H3C1QQ77",
+      "name": "Mini Pilates Ball 20 cm Yoga Ball for Core Training & Balance, Soft Exercise Ball for Abdominal & Shoulder Exercises, Po",
+      "price": 34.62,
+      "reviews": 0,
+      "rating": 3.7,
+      "rank": 47,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H3C1QQ77",
+      "image_url": "https://m.media-amazon.com/images/I/613c0iHGdQL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GVDXXBNP",
+      "name": "Slim Panda Gymnastics Ball, Small, 23-25 cm, Pilates Ball with Inflatable Straw, Soft Yoga Ball for Home, Fitness, Balan",
+      "price": 40.79,
+      "reviews": 0,
+      "rating": 3.0,
+      "rank": 48,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 3.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GVDXXBNP",
+      "image_url": "https://m.media-amazon.com/images/I/71PUeoJ+90L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H48YJZ66",
+      "name": "RYTMAT Small Pilates Ball 25 cm Gymnastics Ball Yoga Ball for Balance | Anti-burst material, for stomach and shoulder tr",
+      "price": 38.73,
+      "reviews": 0,
+      "rating": 4.6,
+      "rank": 49,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H48YJZ66",
+      "image_url": "https://m.media-amazon.com/images/I/71Ig6LOufxL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B09MKRWN6N",
+      "name": "EDIFIT, Yoga Accessories, Pilates Ball, Exercise Ball, Pilates Ball, 65 cm, 55 cm, 75 cm, Black, Pink, Blue, Purple",
+      "price": 52.2,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 50,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B09MKRWN6N",
+      "image_url": "https://m.media-amazon.com/images/I/51L9fjrCtqL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "mini pilates ball 25cm small exercise ball",
+      "sources": [
+        "趋势发现"
+      ]
+    }
+  ]
+}
