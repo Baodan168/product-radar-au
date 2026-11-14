@@ -1,0 +1,385 @@
+{
+  "scan_date": "2026-11-14",
+  "scan_time": "17:40",
+  "scan_ts": "2026-11-14_1740",
+  "stats": {
+    "total_scanned": 35,
+    "passed_filter": 0,
+    "rejected": 35,
+    "channels": {},
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "seasonal": 100,
+      "pets": 83,
+      "office": 79,
+      "garden": 79,
+      "lighting": 69
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 10
+  },
+  "products": [],
+  "gaps": [
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "craft",
+        "brush",
+        "stickers",
+        "art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "brush",
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "valentine",
+        "birthday",
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "valentine gift",
+        "valentine card",
+        "birthday gift",
+        "birthday decoration",
+        "birthday card",
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=valentine+gift",
+      "url_google": "https://trends.google.com/trends/explore?q=valentine+gift&geo=AU"
+    },
+    {
+      "keyword": "pets",
+      "category": "pets",
+      "heat": 83,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "dog",
+        "cat",
+        "toy",
+        "bed",
+        "pet"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "cat toy",
+        "cat bed",
+        "cat collar",
+        "cat scratcher",
+        "dog chew toy",
+        "cat interactive toy",
+        "pet ball",
+        "dog bed"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cat+toy",
+      "url_google": "https://trends.google.com/trends/explore?q=cat+toy&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "mouse",
+        "laptop",
+        "desk",
+        "pen",
+        "stationery"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "mouse",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "pen holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=mouse",
+      "url_google": "https://trends.google.com/trends/explore?q=mouse&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 69,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "led",
+        "lamp"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 58,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gadget",
+        "cooking",
+        "mug",
+        "kitchen",
+        "cup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "gadget",
+        "cooking",
+        "kitchen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gadget",
+      "url_google": "https://trends.google.com/trends/explore?q=gadget&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 58,
+      "score": 64,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 40,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "water bottle",
+        "fitness",
+        "sport"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "water bottle",
+        "resistance band",
+        "fitness tracker",
+        "foam roller",
+        "sport"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=water+bottle",
+      "url_google": "https://trends.google.com/trends/explore?q=water+bottle&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 47,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 6,
+      "amazon_reviews": 33,
+      "evidence": [
+        "decor",
+        "frame",
+        "wall art",
+        "candle"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "home decor",
+        "room decor",
+        "table decor",
+        "photo frame",
+        "picture frame",
+        "wall frame",
+        "wall art print",
+        "wall hanging"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=home+decor",
+      "url_google": "https://trends.google.com/trends/explore?q=home+decor&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "seasonal",
+        100
+      ],
+      [
+        "pets",
+        83
+      ],
+      [
+        "office",
+        79
+      ],
+      [
+        "garden",
+        79
+      ],
+      [
+        "lighting",
+        69
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "lighting",
+      "sports",
+      "crafts",
+      "office",
+      "seasonal",
+      "cleaning",
+      "pets",
+      "beauty",
+      "car",
+      "storage",
+      "bathroom",
+      "baby",
+      "garden",
+      "eco",
+      "home decor",
+      "travel",
+      "bedding"
+    ],
+    "demand_keywords": [
+      "account details",
+      "amazon is now",
+      "apple gift cards x",
+      "are you shopping",
+      "baggy trousers",
+      "berry and",
+      "best new movies and",
+      "big brands, small prices",
+      "cider bell sleeve romper",
+      "cider low rise"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
