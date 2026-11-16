@@ -1,0 +1,766 @@
+{
+  "scan_date": "2026-11-16",
+  "scan_time": "17:40",
+  "scan_ts": "2026-11-16_1740",
+  "stats": {
+    "total_scanned": 272,
+    "passed_filter": 5,
+    "rejected": 267,
+    "channels": {
+      "new_releases": 3,
+      "tiktok_verified": 4,
+      "etsy_trending": 4,
+      "temu_trending": 3,
+      "ozbargain": 4,
+      "youtube_review": 3,
+      "multi_source": 4,
+      "gifts": 1,
+      "keyword_search": 1,
+      "event_product": 1
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "pets": 83,
+      "phone": 62,
+      "seasonal": 62,
+      "garden": 59,
+      "eco": 56
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 10
+  },
+  "products": [
+    {
+      "asin": "B004P166Z8",
+      "name": "Rayher 6110000 Pricking Tool for Papercraft, Paper Piercer for Craft and Sewing",
+      "price": 14.75,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 4,
+      "category": "Crafts",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B004P166Z8",
+      "image_url": "https://m.media-amazon.com/images/I/41UcTYUTQ9L._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "Ozbargain折扣",
+        "YouTube种草",
+        "Etsy趋势",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.477,
+      "net_profit": 7.04,
+      "cost_breakdown": {
+        "commission": 2.21,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.71
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 155,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "⏳ 待验证": -8,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-16",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "tiktok_verified",
+        "etsy_trending",
+        "temu_trending",
+        "ozbargain",
+        "youtube_review",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0BTNWMQ8F",
+      "name": "Sizzix™ Making Tool - Sizzix™ Intricate Craft Tool Set",
+      "price": 10.47,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 5,
+      "category": "Crafts",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0BTNWMQ8F",
+      "image_url": "https://m.media-amazon.com/images/I/41BmHXQFfDL._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "Ozbargain折扣",
+        "YouTube种草",
+        "Etsy趋势",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.325,
+      "net_profit": 3.4,
+      "cost_breakdown": {
+        "commission": 1.57,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.07
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 151,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "⏳ 待验证": -8,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-16",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "tiktok_verified",
+        "etsy_trending",
+        "temu_trending",
+        "ozbargain",
+        "youtube_review",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B0GGB7G66H",
+      "name": "Garden Tool Set, 7 Pieces, Ergonomic Garden Tools with Non-Slip Handle, Rustproof, Aluminium, with Bag for Garden Tools ",
+      "price": 11.72,
+      "reviews": 17,
+      "rating": 4.7,
+      "rank": 1,
+      "category": "Garden",
+      "channel": "gifts",
+      "channel_name": "Amazon送礼榜",
+      "review_info": "17 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GGB7G66H",
+      "image_url": "https://m.media-amazon.com/images/I/71AVhb68WOL._AC_UL320_.jpg",
+      "sources": [
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.381,
+      "net_profit": 4.46,
+      "cost_breakdown": {
+        "commission": 1.76,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.26
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "送礼榜"
+      ],
+      "score": 140,
+      "score_breakdown": {
+        "🎁 送礼榜": 10,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "📈 趋势(garden)": 8,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-16",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "tiktok_verified",
+        "etsy_trending",
+        "ozbargain",
+        "multi_source",
+        "gifts"
+      ]
+    },
+    {
+      "asin": "B08XMMXHBN",
+      "name": "Chef Aid 2 Flexible Skewers - Extra-Long And Flexible Stainless Steel Skewers, 72cm Long, flex to fit space on the BBQ. ",
+      "price": 9.85,
+      "reviews": 52,
+      "rating": 4.4,
+      "rank": 23,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "52 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B08XMMXHBN",
+      "image_url": "https://m.media-amazon.com/images/I/61wpx5QoQcS._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "marshmallow roasting sticks telescoping campfire",
+      "sources": [
+        "趋势发现"
+      ],
+      "profit_margin": 0.292,
+      "net_profit": 2.87,
+      "cost_breakdown": {
+        "commission": 1.48,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 6.98
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 4,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "💰 较好利润": 4,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15
+      },
+      "stars": 1,
+      "is_new": false,
+      "first_seen": "2026-11-16",
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0FL2PXPK8",
+      "name": "Catherine Lansfield Christmas Stripe Reversible King Duvet Cover Set with Pillowcases Red",
+      "price": 10.93,
+      "reviews": 61,
+      "rating": 4.2,
+      "rank": 3,
+      "category": "Bedding",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "61 reviews, 4.2★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FL2PXPK8",
+      "image_url": "https://m.media-amazon.com/images/I/910-Je65SqL._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "Ozbargain折扣",
+        "YouTube种草",
+        "Etsy趋势",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.347,
+      "net_profit": 3.79,
+      "cost_breakdown": {
+        "commission": 1.64,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.14
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 164,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(pets)": 23,
+        "🟡 中等竞争": 5,
+        "💰 高利润": 8,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-16",
+      "is_multi": true,
+      "is_event": true,
+      "channel_tags": [
+        "new_releases",
+        "tiktok_verified",
+        "etsy_trending",
+        "temu_trending",
+        "ozbargain",
+        "youtube_review",
+        "event_product",
+        "multi_source"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 62,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "christmas",
+        "gift",
+        "birthday"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "birthday gift",
+        "birthday decoration"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=christmas+decoration",
+      "url_google": "https://trends.google.com/trends/explore?q=christmas+decoration&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 56,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "organic"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "organic products",
+        "organic cotton"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 53,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "lamp",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp",
+        "fairy lights",
+        "string lights"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "mug",
+        "kitchen",
+        "gadget"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "kitchen",
+        "gadget"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=kitchen",
+      "url_google": "https://trends.google.com/trends/explore?q=kitchen&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "vacuum",
+        "cleaner",
+        "mop",
+        "cleaning",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "vacuum",
+        "cleaner",
+        "cleaning",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=vacuum",
+      "url_google": "https://trends.google.com/trends/explore?q=vacuum&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3023,
+      "evidence": [
+        "sewing",
+        "tape",
+        "craft",
+        "art",
+        "stickers"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "sewing",
+        "washi tape",
+        "decorative tape",
+        "masking tape",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sewing",
+      "url_google": "https://trends.google.com/trends/explore?q=sewing&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 62,
+      "score": 35,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 618,
+      "evidence": [
+        "phone",
+        "stand",
+        "charger",
+        "case",
+        "holder"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "stand",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "case"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+case",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+case&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 59,
+      "score": 34,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 33,
+      "evidence": [
+        "garden",
+        "patio",
+        "grill",
+        "bird",
+        "plant"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "garden tool set",
+        "garden light",
+        "garden decor",
+        "patio",
+        "grill",
+        "bird feeder",
+        "bird bath",
+        "bird house"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=garden+tool+set",
+      "url_google": "https://trends.google.com/trends/explore?q=garden+tool+set&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 50,
+      "score": 31,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3929,
+      "evidence": [
+        "office",
+        "laptop",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "office supplies",
+        "desk organizer",
+        "pen holder",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=office+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=office+supplies&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 47,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 7,
+      "amazon_reviews": 246602,
+      "evidence": [
+        "frame",
+        "candle",
+        "mirror",
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "photo frame",
+        "picture frame",
+        "wall frame",
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "makeup mirror",
+        "vanity mirror"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=photo+frame",
+      "url_google": "https://trends.google.com/trends/explore?q=photo+frame&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "pets",
+        83
+      ],
+      [
+        "phone",
+        62
+      ],
+      [
+        "seasonal",
+        62
+      ],
+      [
+        "garden",
+        59
+      ],
+      [
+        "eco",
+        56
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "lighting",
+      "pets",
+      "crafts",
+      "phone",
+      "bathroom",
+      "cleaning",
+      "baby",
+      "sports",
+      "beauty",
+      "seasonal",
+      "car",
+      "office",
+      "travel",
+      "garden",
+      "storage",
+      "bedding",
+      "home decor",
+      "eco"
+    ],
+    "demand_keywords": [
+      "amazon data request page",
+      "amazon is now",
+      "amazon is shipping the new",
+      "amazon still delivering new",
+      "and the comedic take on",
+      "are you shopping",
+      "baggy trousers",
+      "best selling products on",
+      "bubble hems",
+      "cotton bedding set"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}

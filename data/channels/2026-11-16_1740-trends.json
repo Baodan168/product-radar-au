@@ -1,0 +1,306 @@
+{
+  "category_scores": {
+    "kitchen": 44,
+    "lighting": 53,
+    "pets": 83,
+    "crafts": 100,
+    "phone": 62,
+    "bathroom": 24,
+    "cleaning": 44,
+    "baby": 33,
+    "sports": 33,
+    "beauty": 30,
+    "seasonal": 62,
+    "car": 36,
+    "office": 50,
+    "travel": 24,
+    "garden": 59,
+    "storage": 30,
+    "kitchen_gadgets": 6,
+    "bedding": 27,
+    "home decor": 47,
+    "eco": 56
+  },
+  "category_evidence": {
+    "kitchen": [
+      "mug",
+      "kitchen",
+      "gadget"
+    ],
+    "lighting": [
+      "led",
+      "lamp",
+      "light"
+    ],
+    "pets": [
+      "pet",
+      "cat",
+      "toy",
+      "bed",
+      "dog"
+    ],
+    "crafts": [
+      "sewing",
+      "tape",
+      "craft",
+      "art",
+      "stickers",
+      "brush"
+    ],
+    "phone": [
+      "phone",
+      "stand",
+      "charger",
+      "case",
+      "holder"
+    ],
+    "bathroom": [
+      "mirror",
+      "toilet",
+      "shower"
+    ],
+    "cleaning": [
+      "vacuum",
+      "cleaner",
+      "mop",
+      "cleaning",
+      "brush"
+    ],
+    "baby": [
+      "child",
+      "baby",
+      "kids"
+    ],
+    "sports": [
+      "gym",
+      "sport",
+      "water bottle"
+    ],
+    "beauty": [
+      "mirror",
+      "brush",
+      "hair"
+    ],
+    "seasonal": [
+      "christmas",
+      "gift",
+      "birthday"
+    ],
+    "car": [
+      "automotive",
+      "vehicle",
+      "car"
+    ],
+    "office": [
+      "office",
+      "laptop",
+      "pen"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "garden": [
+      "garden",
+      "patio",
+      "grill",
+      "bird",
+      "plant",
+      "outdoor",
+      "flower"
+    ],
+    "storage": [
+      "storage",
+      "container",
+      "box"
+    ],
+    "kitchen_gadgets": [
+      "kitchen gadget"
+    ],
+    "bedding": [
+      "throw",
+      "bedding",
+      "blanket",
+      "cushion"
+    ],
+    "home decor": [
+      "frame",
+      "candle",
+      "mirror",
+      "decor"
+    ],
+    "eco": [
+      "eco",
+      "organic"
+    ]
+  },
+  "source_signals": {
+    "tiktok": {
+      "kitchen": 2,
+      "lighting": 1,
+      "pets": 3,
+      "crafts": 5,
+      "phone": 2,
+      "bathroom": 1,
+      "cleaning": 2,
+      "baby": 1,
+      "sports": 1,
+      "beauty": 1,
+      "seasonal": 1
+    },
+    "ozbargain": {
+      "car": 1,
+      "office": 4,
+      "crafts": 4,
+      "seasonal": 2,
+      "kitchen": 3,
+      "pets": 2,
+      "travel": 1,
+      "phone": 1,
+      "garden": 1,
+      "cleaning": 1,
+      "storage": 1,
+      "beauty": 1,
+      "kitchen_gadgets": 1
+    },
+    "temu": {
+      "cleaning": 4,
+      "office": 2,
+      "pets": 5,
+      "crafts": 6,
+      "bedding": 1,
+      "phone": 2,
+      "beauty": 1,
+      "home decor": 2,
+      "eco": 3,
+      "kitchen": 2,
+      "lighting": 1,
+      "kitchen_gadgets": 1,
+      "baby": 2,
+      "seasonal": 1
+    },
+    "etsy": {
+      "pets": 2,
+      "crafts": 7,
+      "home decor": 4,
+      "eco": 3,
+      "garden": 2,
+      "phone": 3,
+      "baby": 1,
+      "seasonal": 3,
+      "car": 1,
+      "lighting": 1,
+      "bedding": 1
+    },
+    "youtube": {
+      "kitchen": 2,
+      "lighting": 1,
+      "pets": 2,
+      "crafts": 4,
+      "travel": 1,
+      "seasonal": 1,
+      "car": 1,
+      "office": 1,
+      "storage": 1,
+      "sports": 1
+    },
+    "google_trends": {
+      "lighting": 5,
+      "pets": 5,
+      "sports": 3,
+      "crafts": 3,
+      "bedding": 2,
+      "phone": 6,
+      "kitchen": 1,
+      "garden": 6,
+      "bathroom": 1,
+      "cleaning": 1,
+      "car": 2,
+      "office": 2,
+      "storage": 3,
+      "travel": 1,
+      "beauty": 1,
+      "home decor": 3,
+      "eco": 2,
+      "seasonal": 2
+    },
+    "reddit": {
+      "bathroom": 1,
+      "car": 2,
+      "office": 3,
+      "crafts": 2,
+      "seasonal": 2,
+      "cleaning": 2,
+      "pets": 2,
+      "phone": 1,
+      "eco": 3,
+      "lighting": 1,
+      "beauty": 1
+    },
+    "market_intel": {
+      "lighting": 3,
+      "pets": 2,
+      "crafts": 3,
+      "phone": 1,
+      "baby": 2,
+      "eco": 3,
+      "seasonal": 1,
+      "garden": 3
+    }
+  },
+  "cross_validated": {
+    "kitchen": 5,
+    "lighting": 7,
+    "pets": 8,
+    "crafts": 8,
+    "phone": 7,
+    "bathroom": 3,
+    "cleaning": 5,
+    "baby": 4,
+    "sports": 3,
+    "beauty": 5,
+    "seasonal": 8,
+    "car": 5,
+    "office": 5,
+    "travel": 3,
+    "garden": 4,
+    "storage": 3,
+    "bedding": 3,
+    "home decor": 3,
+    "eco": 5
+  },
+  "demand_keywords": [
+    "amazon data request page",
+    "amazon is now",
+    "amazon is shipping the new",
+    "amazon still delivering new",
+    "and the comedic take on",
+    "are you shopping",
+    "baggy trousers",
+    "best selling products on",
+    "bubble hems",
+    "cotton bedding set",
+    "directed by",
+    "ditching prime and",
+    "does anyone do any household",
+    "edible gardens",
+    "ends today at",
+    "everything under",
+    "for a nostalgic throwback to",
+    "gadgets and stuff",
+    "gardening for",
+    "global cross",
+    "if you want to look",
+    "just moved to",
+    "looking for a little",
+    "made me buy it",
+    "metal straws",
+    "native planting",
+    "netflix is removing",
+    "one account opened a position",
+    "online marketplaces including",
+    "recommend some cool stuff from"
+  ],
+  "season": "spring",
+  "total_queries": 24,
+  "total_results_chars": 97222
+}
