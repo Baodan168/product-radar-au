@@ -1,0 +1,650 @@
+{
+  "scan_date": "2026-11-17",
+  "scan_time": "17:40",
+  "scan_ts": "2026-11-17_1740",
+  "stats": {
+    "total_scanned": 34,
+    "passed": 0,
+    "sources": [
+      "tiktok"
+    ]
+  },
+  "products": [
+    {
+      "asin": "B0D1C11NQZ",
+      "name": "Frameo WiFi Digital Picture Frame - 10.1 Inch 1280x800 HD IPS Touch Screen Digital Photo Frame, 32 GB Storage, Auto Rota",
+      "price": 6995.0,
+      "reviews": 2208,
+      "rating": 4.6,
+      "rank": 1,
+      "category": "Home",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "2208 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0D1C11NQZ",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/817kBC2PkLL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "asin": "B00FXNABPI",
+      "name": "Amazon Basics Slim, Velvet, Non-Slip Suit Clothes Hangers, Black/Silver - Pack of 30",
+      "price": 1858.0,
+      "reviews": 241431,
+      "rating": 4.6,
+      "rank": 2,
+      "category": "Home",
+      "channel": "bsr",
+      "channel_name": "Amazon畅销榜",
+      "review_info": "241431 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B00FXNABPI",
+      "image_url": "https://images-fe.ssl-images-amazon.com/images/I/617+Wg+p7WL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "asin": "B0HHF8TLMR",
+      "name": "Qufiiry 360 Pcs Sticky Tabs, Multi-Colored Page Markers Tabs, Index Tabs, Annotation Tabs, Book Tabs, Sticky Index Tabs,",
+      "price": 29.69,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HHF8TLMR",
+      "image_url": "https://m.media-amazon.com/images/I/61ngoFNfqbL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GSDNSY7D",
+      "name": "1200pcs Sticky Tabs Page Markers, Writable Clear Sticky Notes Book Tabs for Annotating Books, Repositionable Index TabsB",
+      "price": 3.41,
+      "reviews": 15,
+      "rating": 4.0,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "15 reviews, 4.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GSDNSY7D",
+      "image_url": "https://m.media-amazon.com/images/I/81Wq839szsL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0D1C5JNMM",
+      "name": "1600 Sheets Sticky Notes, Bible Tabs, Pastel Sticky Tabs, Book Tabs, Page Markers Tabs, Index Tabs, Annotation Tabs, Sti",
+      "price": 32.08,
+      "reviews": 57,
+      "rating": 4.3,
+      "rank": 7,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "57 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0D1C5JNMM",
+      "image_url": "https://m.media-amazon.com/images/I/61LttvtVIJL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0C4P7SY4G",
+      "name": "Newplenty 2400Pcs Sticky Tabs Book Tabs, Translucent Sticky Notes, Repositionable Book Markers, Morandi Book Flags Strip",
+      "price": 36.69,
+      "reviews": 142,
+      "rating": 4.5,
+      "rank": 8,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "142 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0C4P7SY4G",
+      "image_url": "https://m.media-amazon.com/images/I/61WdJLnAdEL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CDH1QZ17",
+      "name": "Newplenty 1600Pcs Sticky Tabs Book Tabs for Annotating Books,Transparent Sticky Notes, Multi-Colored Book Marks for Read",
+      "price": 29.19,
+      "reviews": 130,
+      "rating": 4.6,
+      "rank": 9,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "130 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CDH1QZ17",
+      "image_url": "https://m.media-amazon.com/images/I/71dd8b4lzbL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F38FYH86",
+      "name": "3600 Pcs Index Tabs, Writable Page Markers and Book Flags for Annotation, Morandi and Pastel Multicoloured Sticky Tabs S",
+      "price": 38.38,
+      "reviews": 47,
+      "rating": 4.7,
+      "rank": 10,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "47 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F38FYH86",
+      "image_url": "https://m.media-amazon.com/images/I/617AcfDANsL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CHJQ3891",
+      "name": "Qufiiry 1600 Pcs Multi-colored Sticky Notes, Writable Index Tabs, Annotation Tabs for Reading Notes, Books, Classify Fil",
+      "price": 32.01,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 12,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CHJQ3891",
+      "image_url": "https://m.media-amazon.com/images/I/61kTNwemvZL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0HMNXLZSY",
+      "name": "Pack of 600 Adhesive Strips, Small Self-Adhesive Sticky Notes, Transparent Sticky Notes, Sticky Notes as Tabs for Books ",
+      "price": 30.94,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 13,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HMNXLZSY",
+      "image_url": "https://m.media-amazon.com/images/I/61CCcxrfhnL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F7XZ1YKW",
+      "name": "480 Pcs Index Tabs, Colored Sticky Index Tabs Transparent Waterproof Tabs for Books, Writable Repositionable Sticky Tabs",
+      "price": 32.57,
+      "reviews": 20,
+      "rating": 4.4,
+      "rank": 14,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "20 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F7XZ1YKW",
+      "image_url": "https://m.media-amazon.com/images/I/61rQPrfPZbL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CHJQWRCX",
+      "name": "Qufiiry 2400 Piece Sticky Notes, Writable Index Tabs, Annotating & Highlighting Book Notes & Page Markers",
+      "price": 34.1,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 15,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CHJQWRCX",
+      "image_url": "https://m.media-amazon.com/images/I/61YcjX85VpL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0HHHNKH3R",
+      "name": "Pack of 2400 Self-Adhesive Sticky Notes Pastel | 12 Pads, Index Tabs, Waterproof Writeable, Page Marker for Books, Plann",
+      "price": 33.27,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 16,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HHHNKH3R",
+      "image_url": "https://m.media-amazon.com/images/I/615yUQcGH4L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0DRNYRHKK",
+      "name": "1400 Pieces Sticky Book Tabs, File Index Tabs, Page Markers for Commenting, Index Stickers, Transparent Book Markers, St",
+      "price": 32.54,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 17,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DRNYRHKK",
+      "image_url": "https://m.media-amazon.com/images/I/61zWdVhhR7L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B09NLSZYMV",
+      "name": "640 Pcs Writable Sticky Notes (4 Pack), Index Tabs with Ruler, Translucent Book Annotation Page Markers for School Offic",
+      "price": 28.81,
+      "reviews": 40,
+      "rating": 4.7,
+      "rank": 19,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "40 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B09NLSZYMV",
+      "image_url": "https://m.media-amazon.com/images/I/71vNxyRM1QL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0H7WHZW6J",
+      "name": "Pack of 2400 Adhesive Strips, 12 Colours, Transparent Sticky Notes, Self-Adhesive, Index Tabs, Sticky Notes for Books, N",
+      "price": 34.98,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 20,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0H7WHZW6J",
+      "image_url": "https://m.media-amazon.com/images/I/61HQT7uHtBL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0D7C9CK8B",
+      "name": "Hanyousheng 2000 Pcs Multi-colored Sticky Notes, Page Markers, Sticky Tabs for Reading Notes, Notebook, Books, Classify ",
+      "price": 30.72,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 21,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0D7C9CK8B",
+      "image_url": "https://m.media-amazon.com/images/I/61b2h+v5MkL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0CYSRC3M4",
+      "name": "Page Markers Tabs, Pack of 600 Transparent Sticky Notes Page, Page Markers, Sticky Notes, Self Adhesive Divider Tabs, An",
+      "price": 30.17,
+      "reviews": 20,
+      "rating": 4.5,
+      "rank": 22,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "20 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0CYSRC3M4",
+      "image_url": "https://m.media-amazon.com/images/I/61dJfnl1N7L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0G4V922CW",
+      "name": "1200Pcs Sticky Note Tabs 60 Colors Writable Page Sticky Notes Waterproof PET Page Markers with Ruler Transparent Self-Ad",
+      "price": 2.79,
+      "reviews": 0,
+      "rating": 4.7,
+      "rank": 23,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0G4V922CW",
+      "image_url": "https://m.media-amazon.com/images/I/61Q9+txVjUL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B09ZNV8TBM",
+      "name": "Qufiiry 1120 Pcs Sticky Note Flags, Index Tabs, Book Tabs with 7 Color, Writable and Repositionable Page Markers Labels,",
+      "price": 31.29,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 24,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B09ZNV8TBM",
+      "image_url": "https://m.media-amazon.com/images/I/71PYVSSJiML._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0G11TK2WL",
+      "name": "Pack of 4000 Self-Adhesive Page Markers, 20 Set Sticky Notes Tabs, Small Page Markers, Sticky Tabs, for Office, School, ",
+      "price": 35.42,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 26,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0G11TK2WL",
+      "image_url": "https://m.media-amazon.com/images/I/61miFkJSamL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F2FJK3ZQ",
+      "name": "Hanyousheng 560 Pcs Sticky Tabs, 16 Colors Book Tabs, Page Markers Tabs, Index Tabs, Sticky Tabs Page Markers, Sticky No",
+      "price": 31.6,
+      "reviews": 39,
+      "rating": 4.4,
+      "rank": 27,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "39 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F2FJK3ZQ",
+      "image_url": "https://m.media-amazon.com/images/I/61fE-EpItfL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0C1F9JHK1",
+      "name": "3600 Pieces Sticky Notes Tabs Transparent, Writeable Sticky Notes, Self-Adhesive Pastel Adhesive Strips Sticky Notes Ind",
+      "price": 39.12,
+      "reviews": 179,
+      "rating": 4.4,
+      "rank": 28,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "179 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0C1F9JHK1",
+      "image_url": "https://m.media-amazon.com/images/I/81QEPHaPx4L._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GCZK5PRF",
+      "name": "4 Packs Rectangle Index Tabs, Sticky Tabs, Sticky Notes, Colorful Book Tab, Annotation Tabs for Reading Notes, Books, Cl",
+      "price": 34.34,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 30,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GCZK5PRF",
+      "image_url": "https://m.media-amazon.com/images/I/712TR28nWnL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GCY67RWJ",
+      "name": "4 Packs Rectangle Index Tabs, Sticky Tabs, Sticky Notes, Colorful Book Tab, Annotation Tabs for Reading Notes, Books, Cl",
+      "price": 38.34,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 31,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GCY67RWJ",
+      "image_url": "https://m.media-amazon.com/images/I/715vcoxmavL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GCZXPSTP",
+      "name": "4 Packs Rectangle Index Tabs, Sticky Tabs, Sticky Notes, Colorful Book Tab, Annotation Tabs for Reading Notes, Books, Cl",
+      "price": 38.25,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 32,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GCZXPSTP",
+      "image_url": "https://m.media-amazon.com/images/I/71ha55VAYZL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F2JC614V",
+      "name": "400 Piece Self Adhesive Tabs Sticky Notes 20 Sets 10 Colors Writable and Repositionable File Tabs Flags, for Page Marker",
+      "price": 32.98,
+      "reviews": 15,
+      "rating": 4.6,
+      "rank": 34,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "15 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F2JC614V",
+      "image_url": "https://m.media-amazon.com/images/I/61a5QhQDxQL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0FP1CCVDY",
+      "name": "200 Pcs Sticky Index Tabs,Writable and Repositionable Book Flags Tabs Strip,Page Markers Notes Tabs Index Tabs for Page ",
+      "price": 29.4,
+      "reviews": 0,
+      "rating": 4.5,
+      "rank": 35,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FP1CCVDY",
+      "image_url": "https://m.media-amazon.com/images/I/31X8cRcJ+gL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0GWZNSSKC",
+      "name": "JEFURE Pack of 1000 Sticky Notes Tabs, Pastel Self-Adhesive Notes | Writeable Sticky Notes, Page Markers Repositionable ",
+      "price": 30.08,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 36,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GWZNSSKC",
+      "image_url": "https://m.media-amazon.com/images/I/610M64lTeqL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0G46M5YLX",
+      "name": "600 Pcs Sticky Index Tabs,Writable and Repositionable Book Flags Tabs Strip,Page Markers Notes Tabs Index Tabs for Page ",
+      "price": 29.55,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 37,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0G46M5YLX",
+      "image_url": "https://m.media-amazon.com/images/I/61XJItV38sL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0FVX2545J",
+      "name": "Sticky Index Tabs, Page Markers, Writeable and Transparent Sticky Notes, Bookmarks, Label Stickers, Index Tabs for Page ",
+      "price": 27.67,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 38,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FVX2545J",
+      "image_url": "https://m.media-amazon.com/images/I/31X8cRcJ+gL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0HHMCCGW7",
+      "name": "400 Sheets Clear Sticky Notes with Removable Adhesive | Clear Sticky Notes Pad Self Adhesive Translucent Notes for Schoo",
+      "price": 31.34,
+      "reviews": 0,
+      "rating": 5.0,
+      "rank": 39,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 5.0★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0HHMCCGW7",
+      "image_url": "https://m.media-amazon.com/images/I/5175Oj3H6FL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B09KRB71HK",
+      "name": "moinkerin 1200 Pcs Sticky Notes Flags, 10 Color Index Tabs Index Flag Bright Colors Page Index Stickers Translucent Page",
+      "price": 31.58,
+      "reviews": 0,
+      "rating": 0,
+      "rank": 40,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews",
+      "amazon_url": "https://www.amazon.com.au/dp/B09KRB71HK",
+      "image_url": "https://m.media-amazon.com/images/I/71PsV+iQPIL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    },
+    {
+      "asin": "B0F5WWQS7V",
+      "name": "200 Pcs Sticky Index Tabs, Page Markers Notes Tabs Writable and Repositionable Book Flags Tabs Strip Index Tabs for Page",
+      "price": 29.03,
+      "reviews": 0,
+      "rating": 2.6,
+      "rank": 41,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "0 reviews, 2.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0F5WWQS7V",
+      "image_url": "https://m.media-amazon.com/images/I/31vodO6BnTL._AC_UL320_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "transparent sticky notes index tabs book annotation set",
+      "sources": [
+        "趋势发现"
+      ]
+    }
+  ]
+}
