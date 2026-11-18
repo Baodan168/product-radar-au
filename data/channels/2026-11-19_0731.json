@@ -1,0 +1,634 @@
+{
+  "scan_date": "2026-11-19",
+  "scan_time": "07:31",
+  "scan_ts": "2026-11-19_0731",
+  "stats": {
+    "total_scanned": 322,
+    "passed_filter": 2,
+    "rejected": 320,
+    "channels": {
+      "keyword_search": 1,
+      "multi_source": 2,
+      "tiktok_verified": 2,
+      "youtube_review": 1,
+      "ozbargain": 2,
+      "temu_trending": 2,
+      "etsy_trending": 2,
+      "new_releases": 1
+    },
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "office": 100,
+      "garden": 100,
+      "pets": 100,
+      "kitchen": 92,
+      "crafts": 92,
+      "phone": 88
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 12
+  },
+  "products": [
+    {
+      "asin": "B000GPI646",
+      "name": "HERMA 5714 Book Labels for Writing on Neutral Blue Border, 12 Pieces, 82 x 55 mm, Self-Adhesive Lined Book Stickers for ",
+      "price": 15.56,
+      "reviews": 138,
+      "rating": 4.6,
+      "rank": 26,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "138 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B000GPI646",
+      "image_url": "https://m.media-amazon.com/images/I/81NiyXL8CEL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "kids name stickers",
+      "festival_event": "返校季Term1(⭐最大文具节点)",
+      "festival_icon": "📚",
+      "festival_deadline": "2026-12-11",
+      "is_event": false,
+      "sources": [
+        "📅 返校季Term1(⭐最大文具节点)",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "YouTube种草",
+        "Etsy趋势",
+        "Temu热销"
+      ],
+      "profit_margin": 0.497,
+      "net_profit": 7.73,
+      "cost_breakdown": {
+        "commission": 2.33,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.83
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 156,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-19",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "multi_source",
+        "tiktok_verified",
+        "youtube_review",
+        "ozbargain",
+        "temu_trending",
+        "etsy_trending"
+      ],
+      "bsr_rank": 245079,
+      "bsr_category": "Stationery & Office Products",
+      "bsr_sub_rank": 9374,
+      "bsr_sub_category": "All-Purpose Labels",
+      "estimated_daily_sales": 1,
+      "monthly_revenue_est": 466.8
+    },
+    {
+      "asin": "B0FG2L48YW",
+      "name": "70 Psc Frozen Birthday Party Supplies Set, Pink Theme, with Banner, Plates, Cups, Utensils, Napkins, Tablecloth",
+      "price": 10.9,
+      "reviews": 78,
+      "rating": 4.4,
+      "rank": 2,
+      "category": "Party",
+      "channel": "new_releases",
+      "channel_name": "Amazon新品榜",
+      "review_info": "78 reviews, 4.4★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FG2L48YW",
+      "image_url": "https://m.media-amazon.com/images/I/710BefyfolL._AC_UL320_.jpg",
+      "sources": [
+        "Temu热销",
+        "TikTok趋势",
+        "Ozbargain折扣",
+        "Etsy趋势"
+      ],
+      "profit_margin": 0.345,
+      "net_profit": 3.77,
+      "cost_breakdown": {
+        "commission": 1.64,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.13
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "新品榜"
+      ],
+      "score": 149,
+      "score_breakdown": {
+        "🆕 新品榜": 20,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(kitchen)": 23,
+        "🟡 中等竞争": 5,
+        "💰 高利润": 8,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-19",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "new_releases",
+        "multi_source",
+        "tiktok_verified",
+        "ozbargain",
+        "temu_trending",
+        "etsy_trending"
+      ],
+      "bsr_rank": 46227,
+      "bsr_category": "Home",
+      "bsr_sub_rank": 315,
+      "bsr_sub_category": "Party Packs",
+      "estimated_daily_sales": 3,
+      "monthly_revenue_est": 981.0
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 88,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "holder",
+        "case",
+        "charger",
+        "phone",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "holder",
+        "case",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "phone case",
+        "phone holder",
+        "phone stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=holder",
+      "url_google": "https://trends.google.com/trends/explore?q=holder&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 88,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "fairy",
+        "led",
+        "lamp",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "fairy lights",
+        "fairy light curtain",
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=fairy+lights",
+      "url_google": "https://trends.google.com/trends/explore?q=fairy+lights&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 83,
+      "score": 72,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "eco",
+        "sustainable",
+        "bamboo"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "sustainable products",
+        "eco friendly",
+        "bamboo cutlery",
+        "bamboo toothbrush",
+        "bamboo organizer"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=eco+products",
+      "url_google": "https://trends.google.com/trends/explore?q=eco+products&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "birthday",
+        "christmas",
+        "gift",
+        "halloween"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "birthday gift",
+        "birthday decoration",
+        "birthday card",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=birthday+gift",
+      "url_google": "https://trends.google.com/trends/explore?q=birthday+gift&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 70,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "automotive",
+        "car",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "automotive",
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=automotive",
+      "url_google": "https://trends.google.com/trends/explore?q=automotive&geo=AU"
+    },
+    {
+      "keyword": "bathroom",
+      "category": "bathroom",
+      "heat": 56,
+      "score": 63,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "bathroom",
+        "toilet",
+        "bath"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "bathroom",
+        "toilet",
+        "bath mat",
+        "bath caddy",
+        "bath pillow"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bathroom",
+      "url_google": "https://trends.google.com/trends/explore?q=bathroom&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 42,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "hair",
+        "skincare",
+        "organiser",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=hair+clip",
+      "url_google": "https://trends.google.com/trends/explore?q=hair+clip&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 92,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 1042,
+      "evidence": [
+        "art",
+        "stickers",
+        "craft"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "stickers",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3167,
+      "evidence": [
+        "pen",
+        "organiser",
+        "office",
+        "desk",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "organiser",
+        "office supplies",
+        "desk organizer",
+        "desk lamp",
+        "desk mat"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=AU"
+    },
+    {
+      "keyword": "garden",
+      "category": "garden",
+      "heat": 100,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 33,
+      "evidence": [
+        "bird",
+        "flower",
+        "patio",
+        "outdoor",
+        "garden"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "bird feeder",
+        "bird bath",
+        "bird house",
+        "flower",
+        "patio",
+        "outdoor",
+        "garden tool set",
+        "garden light"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bird+feeder",
+      "url_google": "https://trends.google.com/trends/explore?q=bird+feeder&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 47,
+      "score": 30,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 385,
+      "evidence": [
+        "luggage",
+        "travel",
+        "toiletry"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "luggage",
+        "travel",
+        "toiletry"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=luggage",
+      "url_google": "https://trends.google.com/trends/explore?q=luggage&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 42,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 1752,
+      "evidence": [
+        "box",
+        "storage",
+        "basket",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "food storage",
+        "kitchen storage",
+        "container set",
+        "basket",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=food+storage",
+      "url_google": "https://trends.google.com/trends/explore?q=food+storage&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "office",
+        100
+      ],
+      [
+        "garden",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "kitchen",
+        92
+      ],
+      [
+        "crafts",
+        92
+      ],
+      [
+        "phone",
+        88
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "bathroom",
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "bedding",
+      "seasonal",
+      "office",
+      "eco",
+      "cleaning",
+      "storage",
+      "garden",
+      "lighting",
+      "pets",
+      "travel",
+      "kitchen_gadgets",
+      "home decor"
+    ],
+    "demand_keywords": [
+      "amazon haul",
+      "amazon sales in",
+      "amazon unveils new marketplace to",
+      "baggy trousers",
+      "berry and",
+      "best new movies and",
+      "cbs mornings",
+      "chinese personal shoppers have created",
+      "clothing",
+      "common savings from"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
