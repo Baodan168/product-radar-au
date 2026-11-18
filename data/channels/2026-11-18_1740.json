@@ -1,0 +1,489 @@
+{
+  "scan_date": "2026-11-18",
+  "scan_time": "17:40",
+  "scan_ts": "2026-11-18_1740",
+  "stats": {
+    "total_scanned": 82,
+    "passed_filter": 0,
+    "rejected": 82,
+    "channels": {},
+    "detail_reject": {
+      "重量超标": 1,
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "pets": 100,
+      "garden": 100,
+      "kitchen": 98,
+      "crafts": 86,
+      "phone": 77,
+      "office": 77
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 13
+  },
+  "products": [],
+  "gaps": [
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 98,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "cooking",
+        "organiser",
+        "kitchen",
+        "gadget",
+        "spice"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "cooking",
+        "organiser",
+        "kitchen",
+        "gadget",
+        "spice rack",
+        "spice jar set",
+        "spice organizer"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cooking",
+      "url_google": "https://trends.google.com/trends/explore?q=cooking&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 86,
+      "score": 73,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "craft",
+        "art",
+        "sewing",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "sewing",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=craft+knife",
+      "url_google": "https://trends.google.com/trends/explore?q=craft+knife&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "birthday",
+        "halloween",
+        "christmas",
+        "gift"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "birthday gift",
+        "birthday decoration",
+        "birthday card",
+        "halloween decoration",
+        "halloween costume",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=birthday+gift",
+      "url_google": "https://trends.google.com/trends/explore?q=birthday+gift&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 69,
+      "score": 68,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "light",
+        "led",
+        "lamp",
+        "fairy"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "LED bulb",
+        "LED panel",
+        "desk lamp",
+        "night light",
+        "table lamp"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+light",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+light&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "automotive",
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "organiser",
+        "automotive",
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 65,
+      "score": 66,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "reusable",
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=reusable+food+wrap",
+      "url_google": "https://trends.google.com/trends/explore?q=reusable+food+wrap&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 44,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organiser",
+        "makeup",
+        "skincare",
+        "hair",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "organiser",
+        "makeup brush set",
+        "makeup bag",
+        "makeup organizer",
+        "face roller",
+        "gua sha",
+        "face mask",
+        "hair clip"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 40,
+      "score": 58,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "sport",
+        "water bottle",
+        "fitness"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "sport",
+        "water bottle",
+        "resistance band",
+        "fitness tracker",
+        "foam roller"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=sport",
+      "url_google": "https://trends.google.com/trends/explore?q=sport&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 77,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 812,
+      "evidence": [
+        "case",
+        "charger",
+        "stand",
+        "phone",
+        "cable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "case",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "stand",
+        "phone case",
+        "phone holder",
+        "phone stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=case",
+      "url_google": "https://trends.google.com/trends/explore?q=case&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 77,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 4118,
+      "evidence": [
+        "organiser",
+        "laptop",
+        "desk",
+        "pen",
+        "office"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "organiser",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "pen holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organiser",
+      "url_google": "https://trends.google.com/trends/explore?q=organiser&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 73,
+      "score": 39,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 2990,
+      "evidence": [
+        "frame",
+        "clock",
+        "decor",
+        "wall art",
+        "candle"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "photo frame",
+        "picture frame",
+        "wall frame",
+        "wall clock",
+        "desk clock",
+        "digital clock",
+        "home decor",
+        "room decor"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=photo+frame",
+      "url_google": "https://trends.google.com/trends/explore?q=photo+frame&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 44,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 8234,
+      "evidence": [
+        "cleaning",
+        "brush",
+        "vacuum",
+        "cleaner"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "cleaning",
+        "brush",
+        "vacuum",
+        "cleaner"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cleaning",
+      "url_google": "https://trends.google.com/trends/explore?q=cleaning&geo=AU"
+    },
+    {
+      "keyword": "bathroom",
+      "category": "bathroom",
+      "heat": 40,
+      "score": 28,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 6519,
+      "evidence": [
+        "bath",
+        "toilet",
+        "bathroom"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "bath mat",
+        "bath caddy",
+        "bath pillow",
+        "toilet",
+        "bathroom"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bath+mat",
+      "url_google": "https://trends.google.com/trends/explore?q=bath+mat&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "pets",
+        100
+      ],
+      [
+        "garden",
+        100
+      ],
+      [
+        "kitchen",
+        98
+      ],
+      [
+        "crafts",
+        86
+      ],
+      [
+        "phone",
+        77
+      ],
+      [
+        "office",
+        77
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "car",
+      "lighting",
+      "pets",
+      "sports",
+      "crafts",
+      "travel",
+      "phone",
+      "home decor",
+      "eco",
+      "bathroom",
+      "cleaning",
+      "beauty",
+      "seasonal",
+      "baby",
+      "garden",
+      "office",
+      "storage",
+      "kitchen_gadgets"
+    ],
+    "demand_keywords": [
+      "amazon haul",
+      "amazon sales in",
+      "amazon spring must",
+      "baggy trousers",
+      "berry and",
+      "best new movies and",
+      "chinese personal shoppers have created",
+      "cider bell sleeve romper",
+      "cider low rise drawstring",
+      "clothing"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
