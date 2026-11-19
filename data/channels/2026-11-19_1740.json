@@ -1,0 +1,466 @@
+{
+  "scan_date": "2026-11-19",
+  "scan_time": "17:40",
+  "scan_ts": "2026-11-19_1740",
+  "stats": {
+    "total_scanned": 74,
+    "passed_filter": 0,
+    "rejected": 74,
+    "channels": {},
+    "detail_reject": {
+      "尺寸超标": 1,
+      "重量超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "pets": 100,
+      "garden": 100,
+      "office": 91,
+      "kitchen": 87,
+      "crafts": 87,
+      "seasonal": 79
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 12
+  },
+  "products": [],
+  "gaps": [
+    {
+      "keyword": "pets",
+      "category": "pets",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "toy",
+        "cat",
+        "grooming",
+        "dog",
+        "bed"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "dog chew toy",
+        "cat interactive toy",
+        "pet ball",
+        "cat toy",
+        "cat bed",
+        "cat collar",
+        "cat scratcher",
+        "pet grooming brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=dog+chew+toy",
+      "url_google": "https://trends.google.com/trends/explore?q=dog+chew+toy&geo=AU"
+    },
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 87,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "spice",
+        "gadget",
+        "cup",
+        "baking",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "spice rack",
+        "spice jar set",
+        "spice organizer",
+        "gadget",
+        "baking set",
+        "baking tray",
+        "cake mould",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=spice+rack",
+      "url_google": "https://trends.google.com/trends/explore?q=spice+rack&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 87,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "stickers",
+        "art",
+        "craft",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "halloween",
+        "christmas",
+        "gift",
+        "birthday"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "halloween decoration",
+        "halloween costume",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking",
+        "gift ideas",
+        "gift set",
+        "gift box"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=halloween+decoration",
+      "url_google": "https://trends.google.com/trends/explore?q=halloween+decoration&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 75,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "fairy",
+        "lamp",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "fairy lights",
+        "fairy light curtain",
+        "desk lamp",
+        "night light",
+        "table lamp"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "automotive",
+        "car",
+        "organiser"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "automotive",
+        "car accessories",
+        "car organizer",
+        "car phone holder",
+        "organiser"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=automotive",
+      "url_google": "https://trends.google.com/trends/explore?q=automotive&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 67,
+      "score": 67,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "reusable",
+        "eco"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "eco products",
+        "reusable bag",
+        "bamboo products"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=reusable+food+wrap",
+      "url_google": "https://trends.google.com/trends/explore?q=reusable+food+wrap&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "luggage",
+        "travel",
+        "toiletry"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "luggage",
+        "travel",
+        "toiletry"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=luggage",
+      "url_google": "https://trends.google.com/trends/explore?q=luggage&geo=AU"
+    },
+    {
+      "keyword": "beauty",
+      "category": "beauty",
+      "heat": 43,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "skincare",
+        "hair",
+        "brush",
+        "organiser",
+        "makeup"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "face roller",
+        "gua sha",
+        "face mask",
+        "hair clip",
+        "hair accessories",
+        "hair band",
+        "hair tie",
+        "brush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=face+roller",
+      "url_google": "https://trends.google.com/trends/explore?q=face+roller&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 91,
+      "score": 45,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3268,
+      "evidence": [
+        "office",
+        "desk",
+        "organiser",
+        "pen",
+        "laptop"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "office supplies",
+        "desk organizer",
+        "pen holder",
+        "desk lamp",
+        "desk mat",
+        "organiser",
+        "pen set",
+        "fountain pen"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=office+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=office+supplies&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 75,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 742,
+      "evidence": [
+        "cable",
+        "charger",
+        "case",
+        "phone",
+        "stand"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "case",
+        "phone case"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=charging+cable",
+      "url_google": "https://trends.google.com/trends/explore?q=charging+cable&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 55,
+      "score": 33,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3033,
+      "evidence": [
+        "candle",
+        "decor",
+        "clock",
+        "wall art"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "home decor",
+        "room decor",
+        "table decor",
+        "wall clock",
+        "desk clock"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=candle+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=candle+holder&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "pets",
+        100
+      ],
+      [
+        "garden",
+        100
+      ],
+      [
+        "office",
+        91
+      ],
+      [
+        "kitchen",
+        87
+      ],
+      [
+        "crafts",
+        87
+      ],
+      [
+        "seasonal",
+        79
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "car",
+      "lighting",
+      "pets",
+      "crafts",
+      "travel",
+      "phone",
+      "home decor",
+      "eco",
+      "cleaning",
+      "bedding",
+      "beauty",
+      "seasonal",
+      "bathroom",
+      "sports",
+      "kitchen_gadgets",
+      "office",
+      "storage",
+      "garden",
+      "baby"
+    ],
+    "demand_keywords": [
+      "amazon sales in",
+      "an under",
+      "baggy trousers",
+      "berry and",
+      "best new movies and",
+      "chinese personal shoppers have created",
+      "clothing",
+      "cotton bedding set",
+      "crazy low prices",
+      "dinosaur nacho holder"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
