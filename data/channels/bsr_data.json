@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "asin": "B0FG2L48YW",
+    "bsr_rank": 36915,
+    "bsr_category": "Home",
+    "bsr_sub_rank": 194,
+    "bsr_sub_category": "Party Packs",
+    "reviews": 33,
+    "rating": 4.4,
+    "image_url": "https://m.media-amazon.com/images/I/51iAhZeyEqL._AC_US40_.jpg",
+    "title": "70 Psc Frozen Birthday Party Supplies Set, Pink Theme, with Banner, Plates, Cups, Utensils, Napkins, Tablecloth",
+    "price": 2.0,
+    "scraped_at": "2026-11-20T10:54:38.398860"
+  },
+  {
+    "asin": "B000GPI646",
+    "bsr_rank": 247104,
+    "bsr_category": "Stationery & Office Products",
+    "bsr_sub_rank": 9400,
+    "bsr_sub_category": "All-Purpose Labels",
+    "reviews": 138,
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/81yCl8BtJGL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "HERMA 5714 Book Labels for Writing on Neutral Blue Border, 12 Pieces, 82 x 55 mm, Self-Adhesive Lined Book Stickers for School, Kids, Girls, Boys, Blank Book Labels Stickers, White",
+    "price": 2.0,
+    "scraped_at": "2026-11-20T10:54:38.402036"
+  }
+]
