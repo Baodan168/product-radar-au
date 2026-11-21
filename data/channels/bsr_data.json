@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "asin": "B0BYH5ZZYM",
+    "bsr_rank": 3576,
+    "bsr_category": "Home Improvement",
+    "bsr_sub_rank": 166,
+    "bsr_sub_category": "Bathroom Fixtures 429 in Bathroom Accessories",
+    "reviews": 552,
+    "rating": 4.4,
+    "image_url": "https://m.media-amazon.com/images/I/61jjXSW53HL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Sink Strainer Plug, 2Pack Kitchen Sink Waste Plug Drain Stopper Basket Filter - 304 Strainer Stainless Steel in Kitchens and Bathrooms Plug |Strainer| Basket Sink Waste Plug (82mm)",
+    "price": 2.0,
+    "scraped_at": "2026-11-21T17:50:02.770829"
+  },
+  {
+    "asin": "B0BYH6C9NV",
+    "bsr_rank": 3576,
+    "bsr_category": "Home Improvement",
+    "bsr_sub_rank": 166,
+    "bsr_sub_category": "Bathroom Fixtures 429 in Bathroom Accessories",
+    "reviews": 552,
+    "rating": 4.4,
+    "image_url": "https://m.media-amazon.com/images/I/61jjXSW53HL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Sink Strainer Plug, 2Pack Kitchen Sink Waste Plug Drain Stopper Basket Filter - 304 Strainer Stainless Steel Kitchen Sink Strainer (79mm)",
+    "price": 2.0,
+    "scraped_at": "2026-11-21T17:50:02.772048"
+  },
+  {
+    "asin": "B0FHV9D58H",
+    "bsr_rank": 288,
+    "bsr_category": "Home Improvement",
+    "bsr_sub_rank": 4,
+    "bsr_sub_category": "Kitchen Fixtures",
+    "reviews": 552,
+    "rating": 4.4,
+    "image_url": "https://m.media-amazon.com/images/I/61jjXSW53HL._AC_QL10_SX980_SY55_FMwebp_.jpg",
+    "title": "Decaura 2 Pack Sink Strainer Plug, 79mm Drain Stopper with Silicone Seal, 304 Stainless Steel Filter Basket, Universal Fit (79mm)",
+    "price": 2.0,
+    "scraped_at": "2026-11-21T17:50:02.776910"
+  },
+  {
+    "asin": "B000GPI646",
+    "bsr_rank": 247811,
+    "bsr_category": "Stationery & Office Products",
+    "bsr_sub_rank": 9431,
+    "bsr_sub_category": "All-Purpose Labels",
+    "reviews": 138,
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/51VR9IwMCDL._AC_US40_.jpg",
+    "title": "HERMA 5714 Book Labels for Writing on Neutral Blue Border, 12 Pieces, 82 x 55 mm, Self-Adhesive Lined Book Stickers for School, Kids, Girls, Boys, Blank Book Labels Stickers, White",
+    "price": 2.0,
+    "scraped_at": "2026-11-21T17:50:10.512027"
+  }
+]
