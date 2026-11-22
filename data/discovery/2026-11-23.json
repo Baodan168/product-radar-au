@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T07:15:00+08:00",
+  "scan_date": "2026-11-23",
+  "scan_time": "07:15",
+  "summary": "周一方向（厨房工具+户外露营）扫描Amazon AU三榜（Best Sellers/Movers & Shakers/Hot New Releases）+1688供应链验证。厨房方向避开近14天已推的切蛋器/调料架/烤箱垫/裱花嘴/咖啡滤杯，选了「手动牛奶打泡器」（Milk Frothers榜#5，Peach Street $12.99/4.3★/5565评，手动款不触电池红线）；户外露营方向避开已推的烤签/烧烤工具/野营餐具，选了「防水干袋」（Dry Bags榜#1，Sea to Summit 3L $14.25/4.7★/1431评，夏季窗口正当时）；按兜底规则补第三个未探索主品类「宠物粘毛手套」（Dog Hair Removal新晋榜多款0-33评起量，1688供应链¥0.53-3.79极度成熟）。三条均通过标准过滤链（无液体/膏体/body care/电子/超重/超尺寸/超价）、14天去重无重复主品类。本次3条均为新方向发现（is_new=true），无复扫项。",
+  "insights": [
+    {
+      "keyword": "waterproof dry bag camping",
+      "keyword_cn": "防水干袋（户外露营/水上运动3-5L轻量款）",
+      "amazon_keyword": "waterproof dry bag 5L outdoor camping",
+      "search_1688": "防水干袋 超轻 防水袋 户外 跨境 批发",
+      "demand_signals": [
+        "Amazon AU Dry Bags Best Sellers #1：Sea to Summit Lightweight Dry Bag 3L $14.25，4.7★/1411评，BSR#1 in Dry Bags/#33 in Clothing——专业户外品牌领榜且评论基数大，说明该细分在AU有持续稳定销量（Amazon.com.au，2026-11-23抓取）",
+        "Amazon AU Dry Bags榜多款低评新品在榜：LTMGL 5L $14.99（21评）、MOPHOEXII 20L $15.99（51评）、Waterproof Dry Bag With Phone Window 2L $16.99（1评）——新品持续涌入该细分，竞争格局未固化，存在切入窗口（Amazon.com.au，2026-11-23抓取）",
+        "季节驱动：澳洲12-2月夏季=露营/海滩/皮划艇/漂流旺季，干袋是水上活动标配；11月底黑五大促（81%澳人等大促才买）将放量首批采购需求（南半球季节规律+消费习惯校准）",
+        "1688供应链成熟：义乌/金华产业带现货充足，5L单肩款¥13-15、2L款¥8.13起，工厂48-72小时发货，多家标注跨境专供货源（支持亚马逊/速卖通/ebay），超轻尼龙款¥4-5.39（1688/义乌购/chinagoods，2026-11-23验证）"
+      ],
+      "trend_score": 82,
+      "trend_direction": "up",
+      "reason": "AU干袋榜#1为专业品牌但价格带集中A$12-16、新品低评持续涌入=需求稳中有升且竞争未固化；12月夏季旺季在即，按空运10-15天+入仓倒推，现在下单正好赶上12月下旬-2月的销售峰值，时机窗口明确。",
+      "action": "定价A$13.99（3L超轻款，对标Sea to Summit $14.25略低形成价格差，避开5L 260g超重款选3L约110-150g款）；1688采购「防水干袋 超轻 防水袋 户外 跨境 批发」，3L款采购价控制在¥10以内；首批空运试单20件，死线12/01。",
+      "competition": "Sea to Summit以$14.25/1411评/4.7★领榜，品牌集中度中等偏高，但榜内多款新品（21评/51评/1评）证明细分未垄断；切入口=超轻3L款+多色+价格差，需注意与Sea to Summit的口碑差距，用材质标注（500D PVC/IPX6）和组合装打差异。",
+      "signal_scores": {
+        "trend": 82,
+        "gap": 76,
+        "profit": 86,
+        "final": 81,
+        "recommendation": "proceed",
+        "profit_window": "2026-12下旬至2027-02（澳洲夏季露营/水上旺季，窗口最正）"
+      }
+    },
+    {
+      "keyword": "pet hair remover gloves",
+      "keyword_cn": "宠物粘毛手套（双面静电除毛2只装）",
+      "amazon_keyword": "pet hair remover glove double sided reusable",
+      "search_1688": "宠物粘毛手套 静电除毛手套 跨境 批发 2只装",
+      "demand_signals": [
+        "Amazon AU Dog Hair Removal Products Hot New Releases多款起量：Yiihaoaoyuu撸猫手套$8.49、TBXNB双面静电手套$10.99、Pet Hair Removal Glove双双面款$10.99——新品集中上架且价位全在A$8.99-16.99甜蜜区，是明确的新品集合信号（Amazon.com.au，2026-11-23抓取）",
+        "Amazon AU Cat Hair Removal Best Sellers #3：BYETOO 261齿除毛手套$12.99/8589评——低客单宠物清洁工具已有大基数验证，需求为常青痛点型而非脉冲型（Amazon.com.au，2026-11-23抓取）",
+        "Amazon AU Dog Hair Removal Best Sellers #1：LINTPLUS Deep Cleaner Pro $12.99/9218评——同价位带已有数千评爆款，证明该价格带购买力充足（Amazon.com.au，2026-11-23抓取）",
+        "1688供应链极度成熟：双向刷毛除毛手套¥0.53-3.79/只，义乌/东莞产业带多家跨境专供（主销ebay/亚马逊/速卖通），单品月销10万+的供应商存在，2只装采购成本可压到¥6以内（1688/wiki.1688，2026-11-23验证）"
+      ],
+      "trend_score": 78,
+      "trend_direction": "up",
+      "reason": "新晋榜多款0-33评新品集中上架=该细分正在起量、竞争窗口未关闭；1688成本极低（¥级），A$12.99定价下硬成本利润率约47%，是三条候选中利润最肥的一条；澳洲宠物家庭渗透率高+夏季换毛高峰，需求常青且有季节加成。",
+      "action": "定价A$12.99（2只装，对标BYETOO $12.99和Fiohiros $12.99；单只装A$9.99做引流）；1688采购「宠物粘毛手套 静电除毛手套 跨境 批发 2只装」，2只装采购价控制在¥6以内；首批空运试单20件，死线12/08。",
+      "competition": "竞争分散：ChomChom（19.5万评）主打滚筒款不在手套细分，手套细分内BYETOO 8589评领先但无垄断品牌，多款新品0-33评处于窗口期；切入靠双面纹理+加厚+2只装性价比，需注意品控（掉毛/开线差评风险）先小批量验货。",
+      "signal_scores": {
+        "trend": 78,
+        "gap": 80,
+        "profit": 92,
+        "final": 80,
+        "recommendation": "proceed",
+        "profit_window": "2026-12中下旬至2027-02（常青+夏季换毛季加成）"
+      }
+    },
+    {
+      "keyword": "manual milk frother handheld",
+      "keyword_cn": "手动牛奶打泡器（304不锈钢手动手冲奶泡器）",
+      "amazon_keyword": "manual milk frother handheld stainless steel",
+      "search_1688": "手动牛奶打泡器 不锈钢 打泡器 批发 跨境",
+      "demand_signals": [
+        "Amazon AU Milk Frothers & Accessories Best Sellers #5：Peach Street Handheld Milk Frother $12.99，4.3★/5565评——手动款在电动款包围中稳居前五，说明非电动/免充电需求真实存在且体量大（Amazon.com.au，2026-11-23抓取）",
+        "Amazon AU Kitchen & Dining Best Sellers #5：Powerful Milk Frother Handheld $15.98/5403评、#9 New England Stories $16.99/2377评——牛奶打泡器整体是Kitchen大类的高销量细分，需求基数大（Amazon.com.au，2026-11-23抓取）",
+        "Amazon AU Kitchen & Dining Movers & Shakers：Bnonya Milk Frother +434%涨幅（电动款），证明打泡器品类整体在AU处于上升期，手动款作为差异化互补可借品类热度（Amazon.com.au，2026-11-23抓取）",
+        "场景驱动：澳洲夏季冰咖啡/冷萃/冰拿铁消费旺季+圣诞礼物季，手动款适合露营/办公室/无电源场景，与户外方向形成使用场景互补（消费场景分析）"
+      ],
+      "trend_score": 74,
+      "trend_direction": "up",
+      "reason": "手动款避开电池/充电红线，在电动款主导的榜单中仍居#5证明细分需求扎实；品类整体有Movers涨幅背书，叠加夏季冰饮+圣诞礼物双场景，窗口在12月-1月；供应链为成熟通用品类，风险可控。",
+      "action": "定价A$12.99（对标Peach Street $12.99平价入场，附清洁刷或挂架做微差异）；1688采购「手动牛奶打泡器 不锈钢 打泡器 批发 跨境」，采购价控制在¥10以内；选304不锈钢款约150g，避开230g玻璃款；首批空运试单20件，死线12/15。",
+      "competition": "Peach Street $12.99/5565评/4.3★是当前主导款，另有New England Stories等多款在售；品牌集中度中等，手动细分内无绝对垄断，切入靠不锈钢材质标注+赠品组合+评分运营，需注意与电动款在搜索结果中的分流竞争。",
+      "signal_scores": {
+        "trend": 74,
+        "gap": 68,
+        "profit": 84,
+        "final": 74,
+        "recommendation": "proceed",
+        "profit_window": "2026-12下旬至2027-01（圣诞礼物+夏季冰饮场景）"
+      }
+    }
+  ],
+  "trend_forecast": "① 12月下旬（第4周，12/21起）：驱动事件=圣诞假期正式开启+澳洲夏季露营/海滩/皮划艇/漂流进入全年峰值（12-2月）。品类方向：户外防水干袋、水上运动轻量收纳配件。这是本周期最强的窗口——澳洲圣诞=海滩/露营场景，干袋类需求在12月中下旬爆发。最晚空运下单死线12/01（按窗口开始12/21倒推3周：采购备货+空运10-15天+入仓上架≈3周，倒推后12/01前必须下单，过线则赶不上圣诞-元旦销售段）。② 1月上中旬（第5-6周，1/4-1/17）：驱动事件=新年后夏季消费延续+宠物夏季换毛高峰（澳洲夏季是犬猫掉毛最猛时段）+12月底黑五/圣诞大促后的家庭清洁补货。品类方向：宠物粘毛手套、家居清洁小件。需求为常青痛点型，夏季换毛加成明确。最晚空运下单死线12/08（窗口开始1/4倒推3周，12/08前下单可保证1月上旬入仓开卖，赶上换毛高峰前段）。③ 1月中下旬（第7-8周，1/18-1/31）：驱动事件=Back to School开学季（澳洲1月底开学）+夏季冰咖啡/冷萃消费持续+圣诞礼物长尾补单。品类方向：厨房饮品工具（手动打泡器，覆盖冰拿铁/冷萃/热咖啡全场景）、文具收纳小件。开学季带动厨房/办公小件复购。最晚空运下单死线12/15（窗口开始1/18倒推3周，12/15前下单可保证1月中旬入仓，吃开学季前段流量）。以上三个窗口按空运10-15天时效统一口径推算，采购侧请以死线为硬约束安排下单，过线窗口不补单。"
+}
