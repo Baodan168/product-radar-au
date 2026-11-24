@@ -1,0 +1,330 @@
+{
+  "scan_date": "2026-11-24",
+  "scan_time": "17:41",
+  "scan_ts": "2026-11-24_1741",
+  "stats": {
+    "total_scanned": 97,
+    "passed_filter": 0,
+    "rejected": 97,
+    "channels": {},
+    "detail_reject": {
+      "尺寸超标": 1
+    },
+    "theme_trimmed": [],
+    "trend_categories": {
+      "garden": 100,
+      "pets": 100,
+      "lighting": 92,
+      "kitchen": 84,
+      "crafts": 77,
+      "office": 77
+    },
+    "supply_demand": {},
+    "divergences": {},
+    "gap_opportunities": 8
+  },
+  "products": [],
+  "gaps": [
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 92,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "strip",
+        "light",
+        "lamp",
+        "led",
+        "fairy"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "LED light",
+        "fairy lights",
+        "string lights",
+        "desk lamp",
+        "night light"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+strip",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+strip&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 77,
+      "score": 70,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "art",
+        "craft",
+        "stickers"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "stickers"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=art+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=art+supplies&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 73,
+      "score": 69,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 61,
+      "score": 65,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "reusable",
+        "eco",
+        "bamboo"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "reusable food wrap",
+        "reusable straws",
+        "reusable bags",
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "bamboo cutlery",
+        "bamboo toothbrush"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=reusable+food+wrap",
+      "url_google": "https://trends.google.com/trends/explore?q=reusable+food+wrap&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 50,
+      "score": 61,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 42,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "cleaner",
+        "sponge",
+        "cleaning",
+        "mop",
+        "vacuum"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "cleaner",
+        "sponge",
+        "cleaning",
+        "vacuum"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cleaner",
+      "url_google": "https://trends.google.com/trends/explore?q=cleaner&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 77,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3080,
+      "evidence": [
+        "office",
+        "desk",
+        "laptop",
+        "pen"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "office supplies",
+        "desk organizer",
+        "pen holder",
+        "desk lamp",
+        "desk mat",
+        "laptop stand",
+        "laptop sleeve",
+        "laptop cooler"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=office+supplies",
+      "url_google": "https://trends.google.com/trends/explore?q=office+supplies&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 69,
+      "score": 38,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 480,
+      "evidence": [
+        "holder",
+        "cable",
+        "phone",
+        "stand",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "holder",
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "phone case",
+        "phone holder",
+        "phone stand",
+        "stand"
+      ],
+      "sd_info": {},
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=holder",
+      "url_google": "https://trends.google.com/trends/explore?q=holder&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "garden",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "lighting",
+        92
+      ],
+      [
+        "kitchen",
+        84
+      ],
+      [
+        "crafts",
+        77
+      ],
+      [
+        "office",
+        77
+      ]
+    ],
+    "cross_validated": [
+      "kitchen",
+      "car",
+      "crafts",
+      "phone",
+      "beauty",
+      "cleaning",
+      "lighting",
+      "seasonal",
+      "garden",
+      "bathroom",
+      "storage",
+      "pets",
+      "travel",
+      "kitchen_gadgets",
+      "eco",
+      "office"
+    ],
+    "demand_keywords": [
+      "amazon sales in",
+      "an under",
+      "berry and",
+      "best purchases that made your",
+      "chinese personal shoppers have created",
+      "crazy low prices",
+      "dinosaur nacho holder",
+      "edible gardens",
+      "entourage effect.",
+      "exceeded the total allowable"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
