@@ -1,0 +1,1363 @@
+{
+  "scan_date": "2026-11-27",
+  "scan_time": "07:31",
+  "scan_ts": "2026-11-27_0731",
+  "stats": {
+    "total_scanned": 314,
+    "passed_filter": 6,
+    "rejected": 308,
+    "channels": {
+      "wished": 2,
+      "etsy_trending": 4,
+      "tiktok_verified": 4,
+      "ozbargain": 4,
+      "multi_source": 4,
+      "temu_trending": 3,
+      "youtube_review": 3,
+      "keyword_search": 4
+    },
+    "detail_reject": {},
+    "theme_trimmed": [],
+    "trend_categories": {
+      "crafts": 100,
+      "garden": 100,
+      "pets": 100,
+      "kitchen": 92,
+      "eco": 88,
+      "lighting": 79
+    },
+    "supply_demand": {
+      "crafts": {
+        "ratio": 12.0,
+        "demand": 100,
+        "supply": 4047,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "phone": {
+        "ratio": 11.0,
+        "demand": 74,
+        "supply": 815,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "office": {
+        "ratio": 9.3,
+        "demand": 70,
+        "supply": 1798,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "home decor": {
+        "ratio": 9.2,
+        "demand": 74,
+        "supply": 3055,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "garden": {
+        "ratio": 8.9,
+        "demand": 100,
+        "supply": 73027,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "cleaning": {
+        "ratio": 6.2,
+        "demand": 65,
+        "supply": 33618,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "bathroom": {
+        "ratio": 5.2,
+        "demand": 47,
+        "supply": 7944,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "storage": {
+        "ratio": 4.7,
+        "demand": 42,
+        "supply": 7036,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      }
+    },
+    "divergences": {
+      "kitchen": {
+        "current_heat": 100,
+        "previous_heat": 83,
+        "heat_change_pct": 20.5,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "bathroom": {
+        "current_heat": 45,
+        "previous_heat": 54,
+        "heat_change_pct": -16.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "car": {
+        "current_heat": 54,
+        "previous_heat": 44,
+        "heat_change_pct": 22.7,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "pets": {
+        "current_heat": 100,
+        "previous_heat": 100,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "crafts": {
+        "current_heat": 89,
+        "previous_heat": 100,
+        "heat_change_pct": -11.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "bedding": {
+        "current_heat": 22,
+        "previous_heat": 40,
+        "heat_change_pct": -45.0,
+        "direction": "falling",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "beauty": {
+        "current_heat": 45,
+        "previous_heat": 44,
+        "heat_change_pct": 2.3,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "eco": {
+        "current_heat": 67,
+        "previous_heat": 69,
+        "heat_change_pct": -2.9,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "garden": {
+        "current_heat": 80,
+        "previous_heat": 83,
+        "heat_change_pct": -3.6,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "cleaning": {
+        "current_heat": 41,
+        "previous_heat": 51,
+        "heat_change_pct": -19.6,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "phone": {
+        "current_heat": 58,
+        "previous_heat": 58,
+        "heat_change_pct": 0.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "seasonal": {
+        "current_heat": 93,
+        "previous_heat": 83,
+        "heat_change_pct": 12.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "lighting": {
+        "current_heat": 67,
+        "previous_heat": 65,
+        "heat_change_pct": 3.1,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "baby": {
+        "current_heat": 32,
+        "previous_heat": 33,
+        "heat_change_pct": -3.0,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "kitchen_gadgets": {
+        "current_heat": 32,
+        "previous_heat": 4,
+        "heat_change_pct": 700.0,
+        "direction": "rising",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "office": {
+        "current_heat": 89,
+        "previous_heat": 61,
+        "heat_change_pct": 45.9,
+        "direction": "rising",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "sports": {
+        "current_heat": 13,
+        "previous_heat": 36,
+        "heat_change_pct": -63.9,
+        "direction": "falling",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "home decor": {
+        "current_heat": 63,
+        "previous_heat": 83,
+        "heat_change_pct": -24.1,
+        "direction": "falling",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "travel": {
+        "current_heat": 37,
+        "previous_heat": 40,
+        "heat_change_pct": -7.5,
+        "direction": "stable",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "storage": {
+        "current_heat": 13,
+        "previous_heat": 26,
+        "heat_change_pct": -50.0,
+        "direction": "falling",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      }
+    },
+    "gap_opportunities": 16
+  },
+  "products": [
+    {
+      "asin": "B0GGB7G66H",
+      "name": "Garden Tool Set, 7 Pieces, Ergonomic Garden Tools with Non-Slip Handle, Rustproof, Aluminium, with Bag for Garden Tools ",
+      "price": 12.01,
+      "reviews": 17,
+      "rating": 4.7,
+      "rank": 1,
+      "category": "Garden",
+      "channel": "wished",
+      "channel_name": "Amazon心愿榜",
+      "review_info": "17 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GGB7G66H",
+      "image_url": "https://m.media-amazon.com/images/I/71AVhb68WOL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "Temu热销",
+        "Etsy趋势",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.392,
+      "net_profit": 4.71,
+      "cost_breakdown": {
+        "commission": 1.8,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.3
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 8.9,
+        "demand": 100,
+        "supply": 73027,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy"
+      ],
+      "internal_sources": [
+        "心愿榜"
+      ],
+      "score": 186,
+      "score_breakdown": {
+        "💝 心愿榜": 15,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "🔴 强信号": 20,
+        "🔥 多源热门(garden)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "📊 持续上升": 8,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-11-21",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "wished",
+        "etsy_trending",
+        "tiktok_verified",
+        "ozbargain",
+        "multi_source",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0DZ5Q8Z9R",
+      "name": "Office supplies set, including hole punch, stapler, ribbon dispenser and office stationery accessories, ideal for any of",
+      "price": 11.02,
+      "reviews": 30,
+      "rating": 4.3,
+      "rank": 5,
+      "category": "Office",
+      "channel": "wished",
+      "channel_name": "Amazon心愿榜",
+      "review_info": "30 reviews, 4.3★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DZ5Q8Z9R",
+      "image_url": "https://m.media-amazon.com/images/I/71hYldgxLqL._AC_UL320_.jpg",
+      "sources": [
+        "Ozbargain折扣",
+        "YouTube种草",
+        "Etsy趋势",
+        "TikTok趋势"
+      ],
+      "profit_margin": 0.351,
+      "net_profit": 3.87,
+      "cost_breakdown": {
+        "commission": 1.65,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.15
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 20,
+      "sd_label": "🌊 深蓝海",
+      "sd_info": {
+        "ratio": 9.3,
+        "demand": 70,
+        "supply": 1798,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "div_score": 15,
+      "div_label": "📈 品类升温(+46%)",
+      "div_info": {
+        "current_heat": 89,
+        "previous_heat": 61,
+        "heat_change_pct": 45.9,
+        "direction": "rising",
+        "dates": [
+          "2026-11-26_0730",
+          "2026-11-26_1740"
+        ]
+      },
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [
+        "心愿榜"
+      ],
+      "score": 185,
+      "score_breakdown": {
+        "💝 心愿榜": 15,
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(office)": 23,
+        "🟢 低竞争": 10,
+        "💰 超高利润": 12,
+        "🌊 深蓝海": 20,
+        "📈 品类升温(+46%)": 15,
+        "⚠️ 未验证": -8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-11-26",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "wished",
+        "etsy_trending",
+        "tiktok_verified",
+        "youtube_review",
+        "ozbargain",
+        "multi_source"
+      ]
+    },
+    {
+      "asin": "B000GPI646",
+      "name": "HERMA 5714 Book Labels for Writing on Neutral Blue Border, 12 Pieces, 82 x 55 mm, Self-Adhesive Lined Book Stickers for ",
+      "price": 15.56,
+      "reviews": 140,
+      "rating": 4.6,
+      "rank": 24,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(festival)",
+      "review_info": "140 reviews, 4.6★",
+      "amazon_url": "https://www.amazon.com.au/dp/B000GPI646",
+      "image_url": "https://m.media-amazon.com/images/I/81NiyXL8CEL._AC_UL320_.jpg",
+      "keyword_source": "festival",
+      "matched_keyword": "kids name stickers",
+      "festival_event": "返校季Term1(⭐最大文具节点)",
+      "festival_icon": "📚",
+      "festival_deadline": "2026-12-11",
+      "is_event": false,
+      "sources": [
+        "📅 返校季Term1(⭐最大文具节点)",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势",
+        "Ozbargain折扣",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.497,
+      "net_profit": 7.73,
+      "cost_breakdown": {
+        "commission": 2.33,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.83
+      },
+      "off_season": false,
+      "verify_status": "verified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 154,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📊 持续上升": 8
+      },
+      "stars": 5,
+      "is_new": false,
+      "first_seen": "2026-11-21",
+      "is_multi": true,
+      "channel_tags": [
+        "keyword_search",
+        "etsy_trending",
+        "tiktok_verified",
+        "youtube_review",
+        "ozbargain",
+        "multi_source",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0FJ1WS284",
+      "name": "ZOLOTI Kitchen Tongs Stainless Steel, 2 PCS 12'' & 9'' | Easy-Brush, Lockable, Heat Resistant, non-BPA Silicone Grips, f",
+      "price": 16.99,
+      "reviews": 19,
+      "rating": 4.7,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "19 reviews, 4.7★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FJ1WS284",
+      "image_url": "https://m.media-amazon.com/images/I/71ecN2-pAwL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "silicone basting brush bbq 3 pack",
+      "sources": [
+        "趋势发现",
+        "Temu热销",
+        "TikTok趋势",
+        "Etsy趋势",
+        "Ozbargain折扣",
+        "YouTube种草"
+      ],
+      "profit_margin": 0.526,
+      "net_profit": 8.94,
+      "cost_breakdown": {
+        "commission": 2.55,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 8.05
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "strong",
+      "signal_label": "🔴 强信号",
+      "external_sources": [
+        "TikTok",
+        "Ozbargain",
+        "Temu",
+        "Etsy",
+        "YouTube"
+      ],
+      "internal_sources": [],
+      "score": 158,
+      "score_breakdown": {
+        "🎵 TikTok": 20,
+        "🔥 Ozbargain": 12,
+        "🛒 Temu": 8,
+        "🎨 Etsy": 6,
+        "▶️ YouTube": 10,
+        "🔴 强信号": 20,
+        "🔥 多源热门(crafts)": 23,
+        "🌊 蓝海": 15,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 5,
+      "is_new": true,
+      "first_seen": "2026-11-27",
+      "is_multi": true,
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search",
+        "etsy_trending",
+        "tiktok_verified",
+        "youtube_review",
+        "ozbargain",
+        "multi_source",
+        "temu_trending"
+      ]
+    },
+    {
+      "asin": "B0DQNY67PQ",
+      "name": "Plunge Lab Large Silicone Ice Cube Tray with Lid, 2 Inch, Grey, 1 Pack | Large ice cube mould for whisky, bourbon and co",
+      "price": 11.0,
+      "reviews": 55,
+      "rating": 4.5,
+      "rank": 1,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "55 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DQNY67PQ",
+      "image_url": "https://m.media-amazon.com/images/I/611sBSLrVvL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "christmas silicone ice cube tray",
+      "sources": [
+        "趋势发现"
+      ],
+      "profit_margin": 0.35,
+      "net_profit": 3.85,
+      "cost_breakdown": {
+        "commission": 1.65,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.15
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 19,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-27",
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search"
+      ]
+    },
+    {
+      "asin": "B0DRRHH7Y9",
+      "name": "Plunge Lab Silicone Ice Ball and Cube Tray with Lid, 3+3 Cavities, 1 Pack | Round ice cube mould for whisky and cocktail",
+      "price": 15.2,
+      "reviews": 55,
+      "rating": 4.5,
+      "rank": 2,
+      "category": "Search",
+      "channel": "keyword_search",
+      "channel_name": "关键词搜索(discovery)",
+      "review_info": "55 reviews, 4.5★",
+      "amazon_url": "https://www.amazon.com.au/dp/B0DRRHH7Y9",
+      "image_url": "https://m.media-amazon.com/images/I/61iwNKEjJRL._AC_SR160,134_CB1169409_QL70_.jpg",
+      "keyword_source": "discovery",
+      "matched_keyword": "christmas silicone ice cube tray",
+      "sources": [
+        "趋势发现"
+      ],
+      "profit_margin": 0.488,
+      "net_profit": 7.42,
+      "cost_breakdown": {
+        "commission": 2.28,
+        "fba": 4.2,
+        "sourcing": 1.3,
+        "total_cost": 7.78
+      },
+      "off_season": false,
+      "verify_status": "unverified",
+      "sd_score": 0,
+      "sd_label": "",
+      "sd_info": {},
+      "div_score": 0,
+      "div_label": "",
+      "div_info": {},
+      "signal_level": "none",
+      "signal_label": "⚪ 无信号",
+      "external_sources": [],
+      "internal_sources": [],
+      "score": 19,
+      "score_breakdown": {
+        "⚪ 无信号": -15,
+        "🟡 中等竞争": 5,
+        "⭐ 高评分": 5,
+        "💰 超高利润": 12,
+        "❓ 品类存疑": -5,
+        "📉 无需求信号": -15,
+        "⚠️ 未验证": -8,
+        "✨ 新发现": 10
+      },
+      "stars": 1,
+      "is_new": true,
+      "first_seen": "2026-11-27",
+      "is_event": false,
+      "channel_tags": [
+        "keyword_search"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "keyword": "kitchen",
+      "category": "kitchen",
+      "heat": 92,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "spice",
+        "kitchen",
+        "gadget"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "spice rack",
+        "spice jar set",
+        "spice organizer",
+        "kitchen",
+        "gadget"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 92,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=spice+rack",
+      "url_google": "https://trends.google.com/trends/explore?q=spice+rack&geo=AU"
+    },
+    {
+      "keyword": "pets",
+      "category": "pets",
+      "heat": 100,
+      "score": 75,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "grooming",
+        "cat",
+        "pet",
+        "dog",
+        "bed"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "pet grooming brush",
+        "dog grooming kit",
+        "deshedding tool",
+        "cat toy",
+        "cat bed",
+        "cat collar",
+        "cat scratcher",
+        "pet grooming"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 100,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pet+grooming+brush",
+      "url_google": "https://trends.google.com/trends/explore?q=pet+grooming+brush&geo=AU"
+    },
+    {
+      "keyword": "eco",
+      "category": "eco",
+      "heat": 88,
+      "score": 74,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "organic",
+        "eco",
+        "sustainable"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "organic products",
+        "organic cotton",
+        "eco products",
+        "reusable bag",
+        "bamboo products",
+        "sustainable products",
+        "eco friendly"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 88,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=organic+products",
+      "url_google": "https://trends.google.com/trends/explore?q=organic+products&geo=AU"
+    },
+    {
+      "keyword": "lighting",
+      "category": "lighting",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "led",
+        "strip",
+        "lamp",
+        "light"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 7,
+      "suggestions": [
+        "LED bulb",
+        "LED light",
+        "LED panel",
+        "LED strip",
+        "LED strip light",
+        "RGB strip",
+        "desk lamp",
+        "night light"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 79,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=LED+bulb",
+      "url_google": "https://trends.google.com/trends/explore?q=LED+bulb&geo=AU"
+    },
+    {
+      "keyword": "seasonal",
+      "category": "seasonal",
+      "heat": 79,
+      "score": 71,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "gift",
+        "christmas"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "gift ideas",
+        "gift set",
+        "gift box",
+        "christmas decoration",
+        "christmas gift",
+        "christmas stocking"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 79,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=gift+ideas",
+      "url_google": "https://trends.google.com/trends/explore?q=gift+ideas&geo=AU"
+    },
+    {
+      "keyword": "travel",
+      "category": "travel",
+      "heat": 51,
+      "score": 62,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "travel",
+        "packing"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "travel",
+        "packing"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 51,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=travel",
+      "url_google": "https://trends.google.com/trends/explore?q=travel&geo=AU"
+    },
+    {
+      "keyword": "car",
+      "category": "car",
+      "heat": 47,
+      "score": 60,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "car"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "car accessories",
+        "car organizer",
+        "car phone holder"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 47,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=car+accessories",
+      "url_google": "https://trends.google.com/trends/explore?q=car+accessories&geo=AU"
+    },
+    {
+      "keyword": "bedding",
+      "category": "bedding",
+      "heat": 42,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "pillow",
+        "bedding",
+        "blanket"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "pillow",
+        "bedding",
+        "blanket"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 42,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pillow",
+      "url_google": "https://trends.google.com/trends/explore?q=pillow&geo=AU"
+    },
+    {
+      "keyword": "sports",
+      "category": "sports",
+      "heat": 42,
+      "score": 59,
+      "gap_level": "strong",
+      "amazon_count": 0,
+      "amazon_reviews": 0,
+      "evidence": [
+        "resistance",
+        "water bottle",
+        "sport"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 3,
+      "suggestions": [
+        "resistance",
+        "water bottle",
+        "sport"
+      ],
+      "sd_info": {
+        "ratio": 0,
+        "demand": 42,
+        "supply": 0,
+        "label": "⚪ 数据不足",
+        "level": "no_data"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=resistance",
+      "url_google": "https://trends.google.com/trends/explore?q=resistance&geo=AU"
+    },
+    {
+      "keyword": "crafts",
+      "category": "crafts",
+      "heat": 100,
+      "score": 55,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 4047,
+      "evidence": [
+        "stickers",
+        "art",
+        "craft",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 8,
+      "suggestions": [
+        "stickers",
+        "art supplies",
+        "paint set",
+        "drawing kit",
+        "craft knife",
+        "craft supplies",
+        "DIY craft kit",
+        "brush"
+      ],
+      "sd_info": {
+        "ratio": 12.0,
+        "demand": 100,
+        "supply": 4047,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=stickers",
+      "url_google": "https://trends.google.com/trends/explore?q=stickers&geo=AU"
+    },
+    {
+      "keyword": "phone",
+      "category": "phone",
+      "heat": 74,
+      "score": 49,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 815,
+      "evidence": [
+        "charger",
+        "cable",
+        "holder",
+        "stand",
+        "case"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "phone charger",
+        "wireless charger",
+        "car charger",
+        "charging cable",
+        "USB cable",
+        "phone cable",
+        "holder",
+        "stand"
+      ],
+      "sd_info": {
+        "ratio": 11.0,
+        "demand": 74,
+        "supply": 815,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=phone+charger",
+      "url_google": "https://trends.google.com/trends/explore?q=phone+charger&geo=AU"
+    },
+    {
+      "keyword": "home decor",
+      "category": "home decor",
+      "heat": 74,
+      "score": 49,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 3055,
+      "evidence": [
+        "candle",
+        "decor"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "candle holder",
+        "scented candle",
+        "candle set",
+        "home decor",
+        "room decor",
+        "table decor"
+      ],
+      "sd_info": {
+        "ratio": 9.2,
+        "demand": 74,
+        "supply": 3055,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=candle+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=candle+holder&geo=AU"
+    },
+    {
+      "keyword": "office",
+      "category": "office",
+      "heat": 70,
+      "score": 48,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 1798,
+      "evidence": [
+        "pen",
+        "desk",
+        "office"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 6,
+      "suggestions": [
+        "pen holder",
+        "pen set",
+        "fountain pen",
+        "desk organizer",
+        "desk lamp",
+        "desk mat",
+        "office supplies"
+      ],
+      "sd_info": {
+        "ratio": 9.3,
+        "demand": 70,
+        "supply": 1798,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=pen+holder",
+      "url_google": "https://trends.google.com/trends/explore?q=pen+holder&geo=AU"
+    },
+    {
+      "keyword": "cleaning",
+      "category": "cleaning",
+      "heat": 65,
+      "score": 46,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 33618,
+      "evidence": [
+        "cleaner",
+        "cleaning",
+        "vacuum",
+        "sponge",
+        "brush"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 5,
+      "suggestions": [
+        "cleaner",
+        "cleaning",
+        "vacuum",
+        "sponge",
+        "brush"
+      ],
+      "sd_info": {
+        "ratio": 6.2,
+        "demand": 65,
+        "supply": 33618,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=cleaner",
+      "url_google": "https://trends.google.com/trends/explore?q=cleaner&geo=AU"
+    },
+    {
+      "keyword": "bathroom",
+      "category": "bathroom",
+      "heat": 47,
+      "score": 40,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 7944,
+      "evidence": [
+        "bath",
+        "toilet",
+        "shower",
+        "towel",
+        "bathroom"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "bath mat",
+        "bath caddy",
+        "bath pillow",
+        "toilet",
+        "shower caddy",
+        "shower head",
+        "shower curtain",
+        "towel rail"
+      ],
+      "sd_info": {
+        "ratio": 5.2,
+        "demand": 47,
+        "supply": 7944,
+        "label": "🌊 深蓝海",
+        "level": "deep_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=bath+mat",
+      "url_google": "https://trends.google.com/trends/explore?q=bath+mat&geo=AU"
+    },
+    {
+      "keyword": "storage",
+      "category": "storage",
+      "heat": 42,
+      "score": 29,
+      "gap_level": "weak",
+      "amazon_count": 5,
+      "amazon_reviews": 7036,
+      "evidence": [
+        "basket",
+        "shelf",
+        "drawer",
+        "storage",
+        "container"
+      ],
+      "is_cross_validated": true,
+      "cross_sources": 4,
+      "suggestions": [
+        "basket",
+        "floating shelf",
+        "wall shelf",
+        "corner shelf",
+        "drawer",
+        "food storage",
+        "kitchen storage",
+        "container set"
+      ],
+      "sd_info": {
+        "ratio": 4.7,
+        "demand": 42,
+        "supply": 7036,
+        "label": "💧 浅蓝海",
+        "level": "light_blue"
+      },
+      "source": "category_analysis",
+      "url_amazon": "https://www.amazon.com.au/s?k=basket",
+      "url_google": "https://trends.google.com/trends/explore?q=basket&geo=AU"
+    }
+  ],
+  "trend_summary": {
+    "top_categories": [
+      [
+        "crafts",
+        100
+      ],
+      [
+        "garden",
+        100
+      ],
+      [
+        "pets",
+        100
+      ],
+      [
+        "kitchen",
+        92
+      ],
+      [
+        "eco",
+        88
+      ],
+      [
+        "lighting",
+        79
+      ]
+    ],
+    "cross_validated": [
+      "car",
+      "crafts",
+      "phone",
+      "kitchen",
+      "office",
+      "storage",
+      "lighting",
+      "bedding",
+      "home decor",
+      "seasonal",
+      "garden",
+      "bathroom",
+      "cleaning",
+      "pets",
+      "eco",
+      "sports",
+      "travel"
+    ],
+    "demand_keywords": [
+      "amazon unveils new marketplace to",
+      "amazon users grow to",
+      "baggy trousers",
+      "best bargains to look for",
+      "best books of",
+      "best selling products on",
+      "big brands",
+      "big brands, small prices",
+      "cherry blossom",
+      "clothes for spring"
+    ],
+    "season": "spring",
+    "sources_scanned": [
+      "tiktok",
+      "ozbargain",
+      "temu",
+      "etsy",
+      "youtube",
+      "google_trends",
+      "reddit",
+      "market_intel"
+    ]
+  }
+}
